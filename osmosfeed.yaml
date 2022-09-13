@@ -3,9 +3,38 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://frollo.github.io/gazzetta/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://d20d12.blogspot.com/feeds/posts/default
+  - href: https://dismastersden.blogspot.com/feeds/posts/default
+  - href: https://thecircularuins.blogspot.com/feeds/posts/default
+  - href: https://oicn.icu/tag/italiano/rss.xml
+  - href: https://pensieri-di-gdr.blogspot.com/feeds/posts/default
+  - href: https://archangelruling.blogfree.net/rss.php?f=1158479
+  - href: http://qilong.altervista.org/feed/
+  - href: https://autarkikagdr.blogspot.com/feeds/posts/default
+  - href: https://write.as/jonnie/feed/
+  - href: https://surelynotamaster.blogspot.com/feeds/posts/default
+  - href: https://arcipelagoceleste.blogspot.com/feeds/posts/default
+  - href: https://hellwinter.blogspot.com/feeds/posts/default
+  - href: https://sayfriendsandplay.blogspot.com/feeds/posts/default
+  - href: https://bizarretalesrpg.blogspot.com/feeds/posts/default
+  - href: https://zeruhur.space/syrinx/feed.xml
+  - href: https://dmfabik.wixsite.com/acnd/blog-feed.xml
+  - href: https://terremeridionali.substack.com/feed
+  - href: https://searcherofthesystem.blogspot.com/feeds/posts/default
+  - href: https://highdoseinthedeeproom.blogspot.com/feeds/posts/default
+  - href: https://scrtgm.blogspot.com/feeds/posts/default
+  - href: https://castellochimerico.blogspot.com/feeds/posts/default
+  - href: https://soronarchives.blogspot.com/feeds/posts/default
+  - href: https://italiantranslationalliance.org/feed.xml
+  - href: https://sephilrosso.wordpress.com/feed/
+  - href: https://anticherovine.blogspot.com/feeds/posts/default
+  - href: https://italiantranslationalliance.org/podcast/feed.xml
+  - href: https://thebardfrog.blogspot.com/feeds/posts/default
+  - href: https://aravenontheshoulder.blogspot.com//feeds/posts/default
+  - href: https://icemaze.it/it/feed.xml
+  - href: https://cronachedaldungeon.blogspot.com/feeds/posts/default
+  - href: https://perticadatremetri.blogspot.com/feeds/posts/default
+  - href: https://eclecticagdr.wordpress.com/feed/
+  - href: https://gnollmassacrofamiglia.blogspot.com/feeds/posts/default
