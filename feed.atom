@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-13T18:13:33.996Z</updated>
+    <updated>2022-09-13T20:11:55.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vaults of Vaarn altre interessanti varianti per Knave!]]></title>
+        <id>https://autarkikagdr.blogspot.com/2022/09/vaults-of-vaarn-altre-interessanti.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2022/09/vaults-of-vaarn-altre-interessanti.html"/>
+        <updated>2022-09-13T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Ciao a tutti.
+
+Negli scorsi mesi abbiamo parlato di varianti fantasy per Knave, oggi vi presento un'espansione fantascientifica-weird per questo regolamento.
+Stiamo parlando di "Vaults of Vaarn" una fanzine che attualmente ha raggiunto i tre numeri.
+il primo numero è dedicato alle regole vere e proprie, quali razze, classi, oggetti e mutazioni.
+il secondo numero ci introduce nella vita della città dei mercati "Gnomon", troveremo tantissime tabelle utilizzabili per generare qualsiasi evento o fazione della cittadina.
+il terzo numero è completamente dedicato alla creazione delle regione desertica "the Interior"; tutto tramite tabelle utili per determinare il contenuto degli esagoni della mappa (hexcrawl). 
+Trovo "Vault of Vaarn" un ottima Zine capace di fornire tantissimi spunti interessanti anche se non giocherete con il regolamento di Knave.
+da non perdere.
+@threeballs]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recensione 002 - La rosa purpurea di Vaarn]]></title>
         <id>https://gnollmassacrofamiglia.blogspot.com/2022/09/recensione-002-la-rosa-purpurea-di-vaarn.html</id>
