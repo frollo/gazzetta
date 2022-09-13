@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-13T08:25:43.070Z</updated>
+    <updated>2022-09-13T10:12:02.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -449,26 +449,6 @@ Sei stato costruito per servire i tuoi padroni organici, poi qualcosa deve esser
         <summary type="html"><![CDATA[Qui trovate il mio contributo per il Vecchio Carnevale Blogghereccio di questo mese: un hack per Into the Odd per giocare Mecha e sim...]]></summary>
         <author>
             <name>jonnie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Indigo Galleon]]></title>
-        <id>https://icemaze.it/it/rpg/the-indigo-galleon/</id>
-        <link href="https://icemaze.it/it/rpg/the-indigo-galleon/"/>
-        <updated>2022-08-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My Italian translation of this awesome one-page adventure for Dungeon World]]></summary>
-        <author>
-            <name>icemaze</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il Galeone Indaco]]></title>
-        <id>https://icemaze.it/it/rpg/il-galeone-indaco/</id>
-        <link href="https://icemaze.it/it/rpg/il-galeone-indaco/"/>
-        <updated>2022-08-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[La traduzione in italiano di questa splendida avventura per Dungeon World]]></summary>
-        <author>
-            <name>icemaze</name>
         </author>
     </entry>
 </feed>

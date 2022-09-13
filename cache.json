@@ -353,28 +353,7 @@
       "title": "icemaze",
       "feedUrl": "https://icemaze.it/it/feed.xml",
       "siteUrl": "https://icemaze.it/it/",
-      "articles": [
-        {
-          "id": "https://icemaze.it/it/rpg/the-indigo-galleon/",
-          "author": null,
-          "description": "My Italian translation of this awesome one-page adventure for Dungeon World",
-          "link": "https://icemaze.it/it/rpg/the-indigo-galleon/",
-          "publishedOn": "2022-08-14T22:00:00.000Z",
-          "wordCount": null,
-          "title": "The Indigo Galleon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://icemaze.it/it/rpg/il-galeone-indaco/",
-          "author": null,
-          "description": "La traduzione in italiano di questa splendida avventura per Dungeon World",
-          "link": "https://icemaze.it/it/rpg/il-galeone-indaco/",
-          "publishedOn": "2022-08-14T22:00:00.000Z",
-          "wordCount": 238,
-          "title": "Il Galeone Indaco",
-          "imageUrl": "https://icemaze.it/assets/images/the-indigo-galleon-flower-market-style-edit-downsz.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CronachedalDungeon",
