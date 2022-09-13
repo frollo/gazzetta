@@ -1,490 +1,474 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T07:45:28.782Z</id>
+    <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-13T07:45:28.782Z</updated>
+    <updated>2022-09-13T07:57:10.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
+    <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How to Change Text Color in HTML – Font Style Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-change-text-color-in-html/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-text-color-in-html/"/>
-        <updated>2022-09-12T20:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Text plays a significant role on our web pages. This is because it helps users learn what the web page is all about and what they can do there. When you add text to your web pages, this text defaults to a black color. But sometimes you will want to]]></summary>
+        <title type="html"><![CDATA[Recensione 001 - The pyres of Andello]]></title>
+        <id>https://gnollmassacrofamiglia.blogspot.com/2022/09/recensione-001-pyres-of-andello.html</id>
+        <link href="https://gnollmassacrofamiglia.blogspot.com/2022/09/recensione-001-pyres-of-andello.html"/>
+        <updated>2022-09-12T21:33:00.012Z</updated>
+        <summary type="html"><![CDATA[Ciao, questa è la prima recensione del blog. Elencherò di seguito le caratteristiche tecniche, riassumerò il modulo e darò un giudizio soggettivo. Alla fine metteró un voto in millesimi all'avventura. La scrittura sarà analitica e priva di umorismo. Farò sempre così. Andiamo al sodo.
+TITOLO: The pyres of Andello
+AUTORE: Gianpiero Minchia
+SISTEMA: OSR generico
+LIVELLO: 1
+Inauguriamo il blog con un suggerimento dall'amico e collega game designer Emanuele Galletto. The pyres of Andello è un'avventura introduttiva OSR system agnostic. Buona, molto buona, forse la mia preferita tra le avventure introduttive allo stile. Iniziamo.
+Andello è un mago, ha accatastato del legno in delle pire. Entrano i giocatori.
+Niente hook narrativi. Male. L'unico possibile appiglio per il master è debole:
+I goblin…]]></summary>
         <author>
-            <name>Joel Olawanle</name>
+            <name>Gli gnoll hanno massacrato la mia famiglia</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the JavaScript DOM Works – A Practical Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/the-javascript-dom-a-practical-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/the-javascript-dom-a-practical-tutorial/"/>
-        <updated>2022-09-12T20:19:15.000Z</updated>
-        <summary type="html"><![CDATA[If you were listening to music on an app and you wanted to pause or skip a song, you'd have to do that through the app. This process is similar to how the Document Object Model or DOM works. Here, the music app represents the DOM because it serves as]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://syrinx.zeruhur.space/2022/09/12/2021-04-16-omicidio-festival-clovenwich/</id>
+        <link href="https://syrinx.zeruhur.space/2022/09/12/2021-04-16-omicidio-festival-clovenwich/"/>
+        <updated>2022-09-12T15:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Ed eccoci al terzo mese del Vecchio Carnevale Blogghereccio, il tema di questo mese è festività, ospitato da Barakielthearchangel.
+
+Ammetto che ho usato il tema più come aggancio e scusa per testare qualcosa che volevo fare da un po’: un point crawl. E rispolverando un mio vecchio amore: i gialli. Spero che l’esperimento di un’avventura investigativa in ottica OSR vi piaccia e vi stimoli.
+Omicidio al festival di Clovenwich
+CC BY-SA-4.0 2021 di Roberto Bisceglie
+Questa avventura investigativa è un point crawl ad ambientazione urbana che si basa sui concetti di “mistero a 5 nodi” e “regola dei tre indizi” di Justin Alexander.
+È pensata come interludio di una campagna di lungo corso o per una sessione one-shot.
+L’indagine porterà i personaggi a castello Warsle, ma mandante e movente possono e…]]></summary>
         <author>
-            <name>Ophy Boamah</name>
+            <name>Syrinx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Read and Write Data using Azure Databricks]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-read-and-write-data-using-azure-databricks/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-read-and-write-data-using-azure-databricks/"/>
-        <updated>2022-09-12T18:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Azure Databricks is a Microsoft Azure cloud service that provides a scalable platform for data analytics using Apache Spark. It is a fully managed, cloud-based data analytics platform that allows developers to create enterprise-grade data apps more quickly, which accelerates AI and innovation.  In this tutorial, you will cover]]></summary>
+        <title type="html"><![CDATA[Tre blocchi statistiche per tutti i PNG]]></title>
+        <id>https://syrinx.zeruhur.space/strumenti/2022/09/12/tre-statistiche-png/</id>
+        <link href="https://syrinx.zeruhur.space/strumenti/2022/09/12/tre-statistiche-png/"/>
+        <updated>2022-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Traduco qui Three Statlines for All NPCs di Jim Parkin (con il suo permesso, ovviamente) a uso e consumo di tutti i giocatori di Cairn e Into the Odd.]]></summary>
         <author>
-            <name>Salim Oyinlola</name>
+            <name>Syrinx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Add the Chart.js Zoom Plugin to an Angular App]]></title>
-        <id>https://www.freecodecamp.org/news/chart-js-zooom-plugin/</id>
-        <link href="https://www.freecodecamp.org/news/chart-js-zooom-plugin/"/>
-        <updated>2022-09-12T18:38:17.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial you will learn how to the Add Chart.js Zoom plugin to an Angular application. When you have a lot of data in a chart, you may want to zoom in and see the details. Line charts are a good way to visualise large amounts of data. You]]></summary>
+        <title type="html"><![CDATA[Parlando di… Cairn]]></title>
+        <id>http://eclecticagdr.wordpress.com/?p=753</id>
+        <link href="https://eclecticagdr.wordpress.com/2022/09/11/parlando-di-cairn/"/>
+        <updated>2022-09-11T14:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Cairn è un gioco di matrice old school minimale e orientato alla narrazione. Può un manuale così conciso essere efficace?]]></summary>
         <author>
-            <name>Swatej Patil</name>
+            <name>zeruhur</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 30 React Interview Questions and Concepts]]></title>
-        <id>https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/</id>
-        <link href="https://www.freecodecamp.org/news/top-30-react-interview-questions-and-concepts/"/>
-        <updated>2022-09-12T17:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Do you have a React interview coming up? Or do you just want to test your React skills? We just published a course on the freeCodeCamp.org YouTube channel that will help you to prepare for a React interview by teaching you about 30 common React interview questions and concepts. Nishant]]></summary>
+        <title type="html"><![CDATA[SCI-FANTASY DREAMING - Risorse per giocare OSR oltre il fantasy classico]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2022/09/sci-fantasy-dreaming-risorse-per.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2022/09/sci-fantasy-dreaming-risorse-per.html"/>
+        <updated>2022-09-11T10:50:00.013Z</updated>
+        <summary type="html"><![CDATA[Midjourney sogna una navicella mutante in stile Bauhaus
+
+
+
+Questo post serve a raccogliere risorse per giocare di ruolo OSR Science-Fantasy, in uno spettro molto ampio che parte da MAD MAX - Oltre la sfera del tuono (il terzo, per capirci) e arriva fino a STALKER di Tarkovskij, passando da MOEBIUS, lo STUDIO GHIBLI e quel capolavoro assoluto di HEAVY METAL. 
+
+
+È un post aperto e verrà aggiornato ad ogni nuova scoperta che faremo, mentre andiamo a caccia di antichi artefatti tra le sabbie iridescenti di un pianeta ostile.
+
+
+Se volete suggerire delle risorse da aggiungere alla lista, vi invito a segnalarle nei commenti.
+
+
+
+
+
+GIOCHI COMPLETI
+
+
+
+Vaults of Vaarn // Le Volte di Vaarn 
+QZ
+Gamma World
+
+The Doomlands
+
+GROK?!
+
+The Electrum Archive
+Mutant Crawl Classics
+
+Yellowcake 
+Mutant Future
+Moonhop
+Maximum Recursion Depth
+Death is the New Pink
+Anna-X66
+Offworlders
+
+
+
+
+
+
+SUPPLEMENTI / RISORSE
+
+
+
+Acid Death Fantasy
+The Codex of the Black Sun
+Sprawlscape Cyber City Kit
+Stars Without Number
+Oddpocalypse
+Any planet is Earth
+Into the Ninth World
+Those who came before
+Augmented Reality
+
+
+
+
+AVVENTURE / AMBIENTAZIONI
+
+
+
+Gathox Vertical Slum
+ASE1: Anomalous Subsurface Environment
+
+Ultraviolet Grasslands and the Black City
+
+
+S3: Expedition to the Barrier Peaks
+
+Carcosa
+
+DA2: The Temple of the Frog
+
+DA3: City of the Gods
+
+Dungeon of Signs (blog)
+
+Desert Moon of Karth
+
+Mothership: A pound of flesh
+
+Abilities Considered Unnatural
+
+The Purple Rose of Vaarn
+
+Warpland
+
+
+
+
+
+
+
+
+Midjourney sogna un astronauta alla deriva su di un pianeta autunnale]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>ARCIPELAGO CELESTE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Background Color – Change BG Color Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/html-background-color-change-bg-color-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/html-background-color-change-bg-color-tutorial/"/>
-        <updated>2022-09-12T17:30:49.000Z</updated>
-        <summary type="html"><![CDATA[When you're building web pages, you always want to create unique layouts. You want your web page to be appealing to your users and not jarring to the eye. And to help do that, you can choose background and text colors that blend well and complement each other. By default,]]></summary>
+        <title type="html"><![CDATA[Ti Basta Usare gli Orsi]]></title>
+        <id>https://dismastersden.blogspot.com/2022/09/ti-basta-usare-gli-orsi.html</id>
+        <link href="https://dismastersden.blogspot.com/2022/09/ti-basta-usare-gli-orsi.html"/>
+        <updated>2022-09-10T00:06:00.003Z</updated>
+        <summary type="html"><![CDATA[Ecco, nella tua sessione di D&D old-school i personaggi hanno deciso di andare da qualche parte per la quale non ti sei ancora preparato e tu gli hai appena descritto un qualche mostro davvero figo, bizzarro e fuori di testa per il quale non hai nessuna statistica:
+
+
+"Dalla dolina in fondo al Pozzo d'Ossa dell'Orbe Succulenta s'innalza una grossa figura; il suo corpo rettiloide scintilla di melma antidiluviana mentre le sue fauci pteroidi si spalancano rivelando file di denti seghettati in quello che appare un benvenuto a dir poco orrendo".
+
+
+In situazioni come queste, quello che faccio è semplicemente usare le statistiche degli orsi, anche perché chi se ne può accorgere? Modifica l'aspetto, i metodi di attacco, e se proprio devi aggiungi abilità speciali al volo… ma quando sei in dubbio, ti basta usare gli orsi.
+
+
+◈ ◈ ◈
+
+
+Bene, questa è la traduzione di un altro venerabile post della blogosfera OSR, ovvero Just Use Bears del blog Tales of the Grotesque and Dungeonesque. Sì è tutto qui, ma questo poco è anche molto.
+
+
+Seguite il suo consiglio. Non temete. Usate gli orsi.]]></summary>
         <author>
-            <name>Joel Olawanle</name>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Tailwind CSS? A Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/"/>
-        <updated>2022-09-12T15:38:34.000Z</updated>
-        <summary type="html"><![CDATA[Writing CSS can be really difficult. Period. And I get it – it can be frustrating to nail down your own ideas or the designs you get from your design team. I'm sure many of you have gone through the same pain at least a few times in your development]]></summary>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: SCARAMUCCIA]]></title>
+        <id>http://sephilrosso.wordpress.com/?p=918</id>
+        <link href="https://sephilrosso.wordpress.com/2022/09/08/vecchio-carnevale-blogghereccio-scaramuccia/"/>
+        <updated>2022-09-08T19:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Il mio contributo per il mese di settembre del VCB dedicato alla guerra]]></summary>
         <author>
-            <name>Soham De Roy</name>
+            <name>SephilRosso</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Container Orchestration? How to Manage your Containers with MicroK8s]]></title>
-        <id>https://www.freecodecamp.org/news/container-orchestration-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/container-orchestration-for-beginners/"/>
-        <updated>2022-09-12T14:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Container orchestration has been called the next big thing in the world of technology. And it’s easy to see why. Container orchestration helps IT professionals and programmers maximize their applications’ performance. It helps them ensure that multiple containers can work together to handle more tasks at the same time than]]></summary>
+        <title type="html"><![CDATA[d12 Monthly Zine , una fanzine sta spulciare e stampare.]]></title>
+        <id>https://autarkikagdr.blogspot.com/2022/09/d12-monthly-zine-una-fanzine-sta.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2022/09/d12-monthly-zine-una-fanzine-sta.html"/>
+        <updated>2022-09-06T20:24:00.002Z</updated>
+        <summary type="html"><![CDATA[Ciao a tutti,
+
+nel mentre sto preparando un post riguardante una futura collaborazione, sono incappato in una fanzine molto interessante e piena di contenuti AGGRATISSE!
+Sto parlando di d12 Monthly.
+Ho scaricato tutti i numeri (16!) e mi sono trovato tra le mani alcune vere perle da riutilizzare in partita o da leggere con interesse. 
+Gli argomenti trattati sono vari e ogni numero ne tratta uno differente; vi consiglio di cercare quello che più vi aggrada.
+Con pazienza mi sono creato una raccolta contenente i numeri dall'1 al 15 (oltre 300 pagine) e grazie a  Lulu la stamperò al costo di circa 13 Euri.
+Per la copertina ho utilizzato l'immagine della mappa del modulo Undermontain da questo sito.
+Appena mi verrà consegnata vi aggiornerò.
+@threeballs]]></summary>
         <author>
-            <name>Valentine Gatwiri</name>
+            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ModuleNotFoundError: no module named Python Error [Fixed]]]></title>
-        <id>https://www.freecodecamp.org/news/module-not-found-error-in-python-solved/</id>
-        <link href="https://www.freecodecamp.org/news/module-not-found-error-in-python-solved/"/>
-        <updated>2022-09-12T14:17:11.000Z</updated>
-        <summary type="html"><![CDATA[When you try to import a module in a Python file, Python tries to resolve this module in several ways. Sometimes, Python throws the ModuleNotFoundError  afterward. What does this error mean in Python? As the name implies, this error occurs when you're trying to access or use a module]]></summary>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: La Guerra]]></title>
+        <id>https://castellochimerico.blogspot.com/2022/09/vecchio-carnevale-blogghereccio-la.html</id>
+        <link href="https://castellochimerico.blogspot.com/2022/09/vecchio-carnevale-blogghereccio-la.html"/>
+        <updated>2022-09-01T17:06:00.001Z</updated>
+        <summary type="html"><![CDATA[Renitente alla leva: carriera fallita per Electric Bastionland
+
+Il tema del Vecchio Carnevale Blogghereccio di settembre è la guerra,  un argomento piuttosto comune nei GdR, anche perché, pur nel suo orrore, offre molte possibilità di gioco e azione. In più, siccome il GdR è finzione e fantasia, non si corrono rischi e si è liberi di affrontare con l'immaginazione i pericoli bellici. Dal punto di vista del gioco però, più che gli scontri scontri e le battaglie,  mi hanno sempre interessato i retroscena, come le situazioni che si creano per i civili, che la guerra non la devono o non la vogliono fare, ma che in qualche modo la subiscono ugualmente. Per cui ecco a voi una nuova Carriera fallita per Electric Bastionland: Renitente alla leva.
+
+
+Renitente alla Leva
+Hai rifiutato di combattere p…]]></summary>
         <author>
-            <name>Dillion Megida</name>
+            <name>Il Castello Chimerico</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Interactive Figma Widgets]]></title>
-        <id>https://css-tricks.com/?p=372991</id>
-        <link href="https://css-tricks.com/building-interactive-figma-widgets/"/>
-        <updated>2022-09-12T13:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Figma has always encouraged collaboration between developers and designers. It strives on an endless treasury of community-made plugins. Need 3D elements? There’s a plugin for that. Need abstract SVGs? There’s a plugin for that, too.
-That said, the design part of Figma has …
-Building Interactive Figma Widgets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[chi cosa come perché]]></title>
+        <id>https://perticadatremetri.blogspot.com/2022/08/chi-cosa-come-perche.html</id>
+        <link href="https://perticadatremetri.blogspot.com/2022/08/chi-cosa-come-perche.html"/>
+        <updated>2022-08-31T08:34:00.002Z</updated>
+        <summary type="html"><![CDATA[Questo è un blog dedicato alle recensioni di avventure e giochi di ruolo OSR nostrani
+Ormai c'è molto materiale nostrano originale e sentiamo che sia giunto il momento che qualcuno inizi a fare recensioni in maniera imparziale e utile, che esponga sia il buono che il cattivo di queste avventure e giochi di ruolo in modo che si crei una cultura non solo del creare (che in parte già c'è), ma del creare bene.
+
+Chi siamo
+Siamo persone come voi, che amano il gioco di ruolo, specialmente quello OSR, che leggono (tanto) e giocano (meno di quello che vorrebbero) come voi. I nostri nomi non sono importanti quanto quello che scriveremo in questo blog, e vogliamo che sia questo che parli per noi.
+Cosa verrà recensito
+Recensiremo materiale OSR scritto in italiano di produzione soprattutto italiana.
+Il…]]></summary>
         <author>
-            <name>Eluda</name>
+            <name>perticadatremetri</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet “Smart Interface Design Patterns Checklists” (Deck With 166 Cards)]]></title>
-        <id>https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/"/>
-        <updated>2022-09-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Smart Interface Design Patterns Checklists”, a deck of 166 checklist cards to help you design and build better interfaces, faster. With accordions, mega-drop-downs, data tables, carousels, and everything in-between.]]></summary>
+        <title type="html"><![CDATA[Vech delle Praterie Ultraviolette]]></title>
+        <id>https://dismastersden.blogspot.com/2022/08/vech-delle-prateria-ultraviolette.html</id>
+        <link href="https://dismastersden.blogspot.com/2022/08/vech-delle-prateria-ultraviolette.html"/>
+        <updated>2022-08-30T22:54:00.019Z</updated>
+        <summary type="html"><![CDATA[Altro mese altro post del Vecchio Carnevale Blogghereccio, stavolta a tema I Mecha!
+E visto che i mecha (o vech, come vengono lì chiamati) stanno anche nelle Praterie Ultraviolette dell'ambientazione/campagna Ultraviolet Grasslands, come non dedicare un post per espandere un po' su di essi?
+Partiamo dalla definizione di vech (tradotta dal glossario di UVG):
+ Meccanismi veicolari per il trasporto multiplo di persone e merci, di solito biomeccanici anche se occasionalmente puramente golem. Esempi sono i camminatori prismatici dei Satrapi dello Spettro, i camminatori diesel nanici della Costa Est e gli aggraziati camminatori di porcellana dei Principi di Porcellana. La maggior parte dei vech sono capaci di un semplice movimento autonomo, specialmente quando seguono un'unità guida, ma in tutta…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[200 Universities Just Launched 850+ Free Online Courses. Here’s the Full List.]]></title>
-        <id>https://www.freecodecamp.org/news/new-online-courses/</id>
-        <link href="https://www.freecodecamp.org/news/new-online-courses/"/>
-        <updated>2022-09-10T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[If you haven’t heard, universities around the world are offering their courses online for free (or at least, partially free). These courses are collectively called MOOCs or Massive Open Online Courses. [https://www.classcentral.com/help/moocs] In the past ten years, ~1000 universities have created around tens of thousands of MOOCs. I’ve been keeping]]></summary>
+        <title type="html"><![CDATA[Recap del Vecchio Carnevale Blogghereccio : Il Tempo]]></title>
+        <id>https://archangelruling.blogfree.net/?t=6377458#lastpost</id>
+        <link href="https://archangelruling.blogfree.net/?t=6377458#lastpost"/>
+        <updated>2022-08-30T08:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Riassunto degli Articoli della Blogosfera
+di: Barakiel]]></summary>
         <author>
-            <name>Dhawal Shah</name>
+            <name>Barakiel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made a Pure CSS Puzzle Game]]></title>
-        <id>https://css-tricks.com/?p=372952</id>
-        <link href="https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/"/>
-        <updated>2022-09-09T13:21:29.000Z</updated>
-        <summary type="html"><![CDATA[I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it! Such games usually rely on the ol’ …
-How I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Guerra!]]></title>
+        <id>https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Guerra/</id>
+        <link href="https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Guerra/"/>
+        <updated>2022-08-28T15:34:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>E così siamo quasi a settembre, sta per iniziare un nuovo mese e, di conseguenza, un nuovo <a href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio">carnevale</a>. Il tema di questo mese è piuttosto semplice da presentare e anche parecchio diffuso nei giochi di ruolo: la guerra.</p>
+<p>Come sempre, per partecipare, basta avere un blog, scrivere un post a tema e poi convididere il messaggio nella chat telegram del carnvale: <a href="https://t.me/vecchio_carnevale_blogghereccio">Vecchio Carnevale Blogghereccio</a>.</p>
+<p>Ora, potete partecipare un po’ con quello che volete, ma vi lascio qualche spunto e qualcosa da leggere:</p>
+<ul>
+<li><a href="https://acoup.blog/2021/10/29/collections-fortification-part-i-the-besiegers-playbook/">Una serie di articoli su fortificazioni e assedi nel mondo antico</a></li>
+<li>Che ne dite di creare un’avventura che si muove tra le trincee di una guerra?</li>
+<li>O una classe apposta per i pacifisti?</li>
+<li>Oppure un sistema minimale per tracciare gli eserciti mentre i PG fanno gli avventurieri?</li>
+</ul>
+<p>Ricordate, avete dal primo al trenta di settembre per partecipare!</p>]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Formula To Rule Them All: The ROI Of A Design System]]></title>
-        <id>https://smashingmagazine.com/2022/09/formula-roi-design-system/</id>
-        <link href="https://smashingmagazine.com/2022/09/formula-roi-design-system/"/>
-        <updated>2022-09-09T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.]]></summary>
+        <title type="html"><![CDATA[Mecha senza cuore]]></title>
+        <id>https://surelynotamaster.blogspot.com/2022/08/mecha-senza-cuore.html</id>
+        <link href="https://surelynotamaster.blogspot.com/2022/08/mecha-senza-cuore.html"/>
+        <updated>2022-08-24T20:24:00.002Z</updated>
+        <summary type="html"><![CDATA[Ecco il mio piccolo contributo al Vecchio Carnevale Blogghereccio a tema Mecha! (Qui Jonnie che lo ospita questo mese)
+In realtà non sono un grande esperto di mecha, oltre all'amore per l'ignoranza dei film 'Pacific Rim' e qualche pezzo di anime qua e la non ho visto molto. Ah sì, ho visto pure la saga cinematografica dei 'Transformers'... conta?
+Leggendo il tema del mese mi é venuto in mente come potesse essere un robottone senza il suo pilota, così ne ho realizzato un background per Troika! o Kasta! che sia.
+
+
+
+Mecha senza cuore
+
+
+Non sai come e perché sia successo ma sei senza cuore, il tuo pilota è scomparso. Forse ti ha abbandonato, forse è successo qualcosa di brutto, forse è passato ad un modello più recente… Questo non lo sai. Senza di lui ti senti perso, per questo cercarlo è diventato il tuo unico scopo di vita. Senza di lui non hai uno scopo, non hai un cuore. Purtroppo, non hai molta energia, dovrai sostentarti con quello che trovi
+ Averi
+
+
+Alabarda Spaziale (conta come Ascia)
+Nucleo Prismatico
+Oggetti dimenticati dal tuo pilota
+Occhi Laser (conta come Fusil)
+Rottami
+
+
+
+ Abilità Avanzate
+
+
+3 Combattere con l'Alabarda Spaziale
+2 Pitagorica
+2 Combattere con gli Occhi Laser
+1 Volare
+1 Forza
+1 Urlo Poderoso
+
+ 
+Speciali
+ Non recuperi Resistenza riposando in modo normale: devi invece passare un intero periodo di riposo ricaricandoti con un Nucleo plasmatico o con una fonte di energia abbastanza potente. Per ogni ora in ricarica recuperi 3 Punti Resistenza.
+ E come se indossassi sempre un’Armatura Modesta.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Maximilian Speicher &amp; Guido Baena Wehrmann)</name>
+            <name>Surely not a Master</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s New With Forms in 2022?]]></title>
-        <id>https://css-tricks.com/?p=372979</id>
-        <link href="https://css-tricks.com/whats-new-with-forms-in-2022/"/>
-        <updated>2022-09-08T13:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…
-requestSubmit()
-Safari 16 will be the final browser to add support for requestSubmit.
-Before we …
-What’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[My virtual GM binder]]></title>
+        <id>https://scrtgm.blogspot.com/2022/08/my-virtual-gm-binder.html</id>
+        <link href="https://scrtgm.blogspot.com/2022/08/my-virtual-gm-binder.html"/>
+        <updated>2022-08-24T13:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Some time ago, a reddit user asked: "what would you put in your GM binder?". Here's my list:
+
+
+Ask the Stars, an oracle: https://www.bastionland.com/2020/12/ask-stars-minimal-solo-rpg.html?m=0
+
+My own tables for hexcrawl building, and the articles and tables linked within: https://drive.google.com/drive/folders/1sdwPOWSrtMndwp4vf_bqtnP1X674hk5w
+Points of interest d6: 1. Lair; 2. Dungeon; 3. Landmark; 4. Settlement; 5. Secret; 6. Loot
+Landmarks: https://www.dragonsfoot.org/forums/viewtopic.php?f=1&t=59911
+More landmarks/encounter vignettes: https://docs.google.com/file/d/1odvwxifgGvbeaInMChL5zzAPmtp_QsQo/view
+Why is your replacement PC in the dungeon?: https://coinsandscrolls.blogspot.com/2017/03/osr-table-of-replacement-pcs.html
+Running out of light in a dungeon/time to end the open table session: https://riseupcomus.blogspot.com/2019/04/you-are-likely-to-be-eaten-by-grue.html
+The "catching up with the party" table in Macchiato Monsters, for players joining an ongoing adventure
+Weather tables
+
+https://preview.redd.it/q9om7rf3vzb71.jpg?width=2480&format=pjpg&auto=webp&s=d62de17b624f1487bfe24ee512980b1250d13229
+
+http://pitsperilous.blogspot.com/2017/09/weather-tables-from-real-meteorologist.html
+
+
+
+Resources to build dungeons: https://docs.google.com/document/d/1Dk0U_u7SeibgDrf-nw3VhWxVgxU2_GaRB8i6yovJ8h8/edit?usp=sharing]]></summary>
         <author>
-            <name>Ollie Williams</name>
+            <name>The Secret Game - Il Gioco Segreto</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UX Checklists For Interface Designers]]></title>
-        <id>https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/</id>
-        <link href="https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/"/>
-        <updated>2022-09-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.]]></summary>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Il Robot delle Sabbie]]></title>
+        <id>http://sephilrosso.wordpress.com/?p=904</id>
+        <link href="https://sephilrosso.wordpress.com/2022/08/22/vecchio-carnevale-blogghereccio-il-robot-delle-sabbie/"/>
+        <updated>2022-08-22T19:56:15.000Z</updated>
+        <summary type="html"><![CDATA[Il mio contributo per il mese di agosto del VCB dedicato ai mecha]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>SephilRosso</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Overlapping Bar Charts]]></title>
-        <id>https://css-tricks.com/?p=372968</id>
-        <link href="https://css-tricks.com/overlapping-bar-charts/"/>
-        <updated>2022-09-07T13:46:58.000Z</updated>
-        <summary type="html"><![CDATA[As the name suggests, overlapping charts visualize two different sets of data in a single diagram. The idea is that the overlapping bars allow us to compare data, say, year-over-year. They are also useful for things like tracking progress for …
-Overlapping Bar Charts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Black Hack, un'altra pietra angolare degli OSR minimali]]></title>
+        <id>https://autarkikagdr.blogspot.com/2022/08/black-hack-unaltra-pietra-angolare.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2022/08/black-hack-unaltra-pietra-angolare.html"/>
+        <updated>2022-08-20T14:02:00.004Z</updated>
+        <summary type="html"><![CDATA[Salve a tutti,
+continuiamo la carrellata dei giochi di ruolo minimali con "Black Hack".
+Ho voluto prendermi un pò di tempo per parlarvi di questo gioco, siccome ha avuto negli scorsi anni una grande diffusione sia come regolamento e sia come prodotti derivati.
+Allo stato attuale è appena stata rilasciata una seconda edizione contenente molto materiale extra, non ho visualizzato questa edizione siccome già possiedo alcuni regolamenti derivati.
+Il core del regolamento potete visualizzarlo in questi link: "Regolamento gratuito", "System reference sheet".
+Attualmente il gioco è edito da MS edizioni che si occuperà di una nuova edizione con molte illustrazioni create appositamente.
+Tale scelta editoriale è stata già fatta con un altro gioco derivato da Black Hack e cioè "The Cthulhu Hack"; dove…]]></summary>
         <author>
-            <name>Saleh Mubashar</name>
+            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Realities And Myths Of Contrast And Color]]></title>
-        <id>https://smashingmagazine.com/2022/09/realities-myths-contrast-color/</id>
-        <link href="https://smashingmagazine.com/2022/09/realities-myths-contrast-color/"/>
-        <updated>2022-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.]]></summary>
+        <title type="html"><![CDATA[ANTIMECHA - Una classe per Cairn e Into the Odd]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2022/08/antimecha-una-classe-del-glog-per-into.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2022/08/antimecha-una-classe-del-glog-per-into.html"/>
+        <updated>2022-08-17T08:45:00.008Z</updated>
+        <summary type="html"><![CDATA[Approfitto del tema del Vecchio Carnevale di agosto, dedicato ai Mecha, per creare una nuova classe da aggiungere alla mia collezione di classi in stile Glog da usare con Cairn ed altre hack di Into the Odd. 
+
+Mentre ero nella doccia dopo il mare riflettevo sul fatto che un Mecha, semplificato nella sua forma essenziale, è un costrutto che può essere indossato da un essere vivente, e che il suo inverso sarebbe un sintetico con una strana pulsione ad indossare esseri organici.
+
+
+Quindi eccolo qui, l'inverso di un Mecha: l'ANTIMECHA.
+
+
+
+
+
+
+
+
+
+ANTIMECHA
+
+
+“Volevamo costruire delle macchine da indossare, 
+ma hanno finito per indossare noi”
+
+
+Sei stato costruito per servire i tuoi padroni organici, poi qualcosa deve essere andato storto. Ora sei libero di vivere la tua non-vita, combattendo ogn…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Andrew Somers)</name>
+            <name>ARCIPELAGO CELESTE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hacking CSS Animation State and Playback Time]]></title>
-        <id>https://css-tricks.com/?p=372850</id>
-        <link href="https://css-tricks.com/hacking-css-animation-state-and-playback-time/"/>
-        <updated>2022-09-06T18:00:28.000Z</updated>
-        <summary type="html"><![CDATA[CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.
-Inspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …
-Hacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Signore, signori, bestie varie]]></title>
+        <id>https://write.as/jonnie/signore-signori-bestie-varie-w5x4</id>
+        <link href="https://write.as/jonnie/signore-signori-bestie-varie-w5x4?pk_campaign=rss-feed"/>
+        <updated>2022-08-16T19:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Qui trovate il mio contributo per il Vecchio Carnevale Blogghereccio di questo mese: un hack per Into the Odd per giocare Mecha e simili. Se IO ce l'ho fatta, voi no...]]></summary>
         <author>
-            <name>Lu Wang</name>
+            <name>jonnie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?]]></title>
-        <id>https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/</id>
-        <link href="https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/"/>
-        <updated>2022-09-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.]]></summary>
+        <title type="html"><![CDATA[Signore, signori, bestie varie]]></title>
+        <id>https://write.as/jonnie/signore-signori-bestie-varie</id>
+        <link href="https://write.as/jonnie/signore-signori-bestie-varie?pk_campaign=rss-feed"/>
+        <updated>2022-08-16T19:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Qui trovate il mio contributo per il Vecchio Carnevale Blogghereccio di questo mese: un hack per Into the Odd per giocare Mecha e sim...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>jonnie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flutter For Front-End Web Developers]]></title>
-        <id>https://css-tricks.com/?p=372853</id>
-        <link href="https://css-tricks.com/flutter-for-front-end-web-developers/"/>
-        <updated>2022-09-05T20:10:24.000Z</updated>
-        <summary type="html"><![CDATA[I started as a front-end web developer and then became a Flutter developer. I think there were some concepts that helped me adopt Flutter easier. There were also some new concepts that were different.
-In this article, I want to …
-Flutter For Front-End Web Developers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[The Indigo Galleon]]></title>
+        <id>https://icemaze.it/it/rpg/the-indigo-galleon/</id>
+        <link href="https://icemaze.it/it/rpg/the-indigo-galleon/"/>
+        <updated>2022-08-14T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My Italian translation of this awesome one-page adventure for Dungeon World]]></summary>
         <author>
-            <name>Obumuneme Nwabude</name>
+            <name>icemaze</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet Understanding Privacy, A New Smashing Book By Heather Burns]]></title>
-        <id>https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/"/>
-        <updated>2022-09-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.]]></summary>
+        <title type="html"><![CDATA[Il Galeone Indaco]]></title>
+        <id>https://icemaze.it/it/rpg/il-galeone-indaco/</id>
+        <link href="https://icemaze.it/it/rpg/il-galeone-indaco/"/>
+        <updated>2022-08-14T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[La traduzione in italiano di questa splendida avventura per Dungeon World]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Accessibility And Usability Journey Of Drupal’s Primary Navigation]]></title>
-        <id>https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/</id>
-        <link href="https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/"/>
-        <updated>2022-09-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mike Herchel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, September 2022]]></title>
-        <id>https://css-tricks.com/?p=373126</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-sept2022/"/>
-        <updated>2022-09-01T20:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Those of you who have been reading CSS-Tricks for a while may remember that we used to publish a little thing we called CSS-Tricks Chronicles. Our friend Chris Coyier would write up a reflection from the past couple of …
-Behind the CSScenes, September 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Haley Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief Introduction to JAWS, NVDA, and VoiceOver]]></title>
-        <id>https://css-tricks.com/?p=372855</id>
-        <link href="https://css-tricks.com/comparing-jaws-nvda-and-voiceover/"/>
-        <updated>2022-09-01T17:47:16.000Z</updated>
-        <summary type="html"><![CDATA[A screen reader is an important accessibility tool for people with no or limited vision. People who are blind or those with low vision can use a screen reader to navigate the computer. Screen readers will read contents on the …
-A Brief Introduction to JAWS, NVDA, and VoiceOver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iShadeed’s Container Queries Lab]]></title>
-        <id>https://css-tricks.com/?p=373087</id>
-        <link href="https://css-tricks.com/ishadeeds-container-queries-lab/"/>
-        <updated>2022-09-01T14:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed got an early jump on container queries and has a growing collection of examples based on everyday patterns.
-And, if you missed it, his latest post on container queries does a wonderful job covering how they work since …
-iShadeed’s Container Queries Lab originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Databases For Front-End Developers: The Concepts Under The Hood (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/</id>
-        <link href="https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/"/>
-        <updated>2022-09-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful JavaScript Data Grid Libraries]]></title>
-        <id>https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/</id>
-        <link href="https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/"/>
-        <updated>2022-09-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Zara Cooper provides a rundown of some popular data grid libraries that would be a great addition to any data-heavy application and shares recommendations on what factors to consider when choosing a suitable data grid library.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding The Balance (September 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/</id>
-        <link href="https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/"/>
-        <updated>2022-08-31T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpolating Numeric CSS Variables]]></title>
-        <id>https://css-tricks.com/?p=372839</id>
-        <link href="https://css-tricks.com/interpolating-numeric-css-variables/"/>
-        <updated>2022-08-30T13:17:25.000Z</updated>
-        <summary type="html"><![CDATA[We can make variables in CSS pretty easily:
-:root {
-  --scale: 1;
-}
-And we can declare them on any element:
-.thing {
-  transform: scale(var(--scale));
-}
-Even better for an example like this is applying the variable on a user …
-Interpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Improve And Measure Your Progress Learning Web Design]]></title>
-        <id>https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/"/>
-        <updated>2022-08-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shane Hudson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes A Great Toggle Button? (Case Study, Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/</id>
-        <link href="https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/"/>
-        <updated>2022-08-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Grid Named Areas to Visualize (and Reference) Your Layout]]></title>
-        <id>https://css-tricks.com/?p=372634</id>
-        <link href="https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/"/>
-        <updated>2022-08-26T13:44:49.000Z</updated>
-        <summary type="html"><![CDATA[Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …
-Using Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi Selvam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Better Error Messages UX]]></title>
-        <id>https://smashingmagazine.com/2022/08/error-messages-ux-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/error-messages-ux-design/"/>
-        <updated>2022-08-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not Sure How to WordPress Anymore?]]></title>
-        <id>https://css-tricks.com/?p=372616</id>
-        <link href="https://css-tricks.com/not-sure-how-to-wordpress-anymore/"/>
-        <updated>2022-08-25T14:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …
-Not Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Video Streaming With imgix]]></title>
-        <id>https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/</id>
-        <link href="https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/"/>
-        <updated>2022-08-25T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you need to deliver a large number of images and videos, a solution like [imgix](https://imgix.com/?utm_medium=banner&utm_source=smashingmag&utm_campaign=video-api-smashingmag-article-2022-08) can optimize and process both types of assets without you having to build it from the ground up or cobble together different solutions. Let’s take a closer look at how.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Doug Sillars)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project]]></title>
-        <id>https://css-tricks.com/?p=372576</id>
-        <link href="https://css-tricks.com/using-css-cascade-layers-to-manage-custom-styles-in-a-tailwind-project/"/>
-        <updated>2022-08-24T13:11:47.000Z</updated>
-        <summary type="html"><![CDATA[If a utility class only does one thing, chances are you don’t want it to be overridden by any styles coming from elsewhere. One approach is to use !important to be 100% certain the style will be applied, regardless of …
-Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Removing jQuery from GOV.UK]]></title>
-        <id>https://css-tricks.com/?p=372485</id>
-        <link href="https://css-tricks.com/removing-jquery-from-gov-uk/"/>
-        <updated>2022-08-23T13:04:31.000Z</updated>
-        <summary type="html"><![CDATA[The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …
-Removing jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Bradley Kouchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?]]></title>
-        <id>https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/</id>
-        <link href="https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/"/>
-        <updated>2022-08-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Grid and Custom Shapes, Part 2]]></title>
-        <id>https://css-tricks.com/?p=372396</id>
-        <link href="https://css-tricks.com/css-grid-and-custom-shapes-part-2/"/>
-        <updated>2022-08-22T14:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.
-Here’s just one of the fantastic grids we made together:
-CodePen…
-CSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes A Great Toggle Button? (Case Study, Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/</id>
-        <link href="https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/"/>
-        <updated>2022-08-22T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing A Reset Password Feature With Next.js Dynamic Routes]]></title>
-        <id>https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/</id>
-        <link href="https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/"/>
-        <updated>2022-08-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Caleb Olojo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To Context Propagation In JavaScript]]></title>
-        <id>https://smashingmagazine.com/2022/08/react-context-propagation-javascript/</id>
-        <link href="https://smashingmagazine.com/2022/08/react-context-propagation-javascript/"/>
-        <updated>2022-08-18T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Evyatar Alush)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing A Better Back Button UX]]></title>
-        <id>https://smashingmagazine.com/2022/08/back-button-ux-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/back-button-ux-design/"/>
-        <updated>2022-08-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything Developers Must Know About Figma]]></title>
-        <id>https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/</id>
-        <link href="https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/"/>
-        <updated>2022-08-15T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Christine Vallaure)</name>
+            <name>icemaze</name>
         </author>
     </entry>
 </feed>
