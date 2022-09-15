@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-15T06:36:13.994Z</updated>
+    <updated>2022-09-15T08:14:34.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -465,26 +465,6 @@ ma hanno finito per indossare noi”
 Sei stato costruito per servire i tuoi padroni organici, poi qualcosa deve essere andato storto. Ora sei libero di vivere la tua non-vita, combattendo ogn…]]></summary>
         <author>
             <name>ARCIPELAGO CELESTE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signore, signori, bestie varie]]></title>
-        <id>https://write.as/jonnie/signore-signori-bestie-varie-w5x4</id>
-        <link href="https://write.as/jonnie/signore-signori-bestie-varie-w5x4?pk_campaign=rss-feed"/>
-        <updated>2022-08-16T19:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Qui trovate il mio contributo per il Vecchio Carnevale Blogghereccio di questo mese: un hack per Into the Odd per giocare Mecha e simili. Se IO ce l'ho fatta, voi no...]]></summary>
-        <author>
-            <name>jonnie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signore, signori, bestie varie]]></title>
-        <id>https://write.as/jonnie/signore-signori-bestie-varie</id>
-        <link href="https://write.as/jonnie/signore-signori-bestie-varie?pk_campaign=rss-feed"/>
-        <updated>2022-08-16T19:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Qui trovate il mio contributo per il Vecchio Carnevale Blogghereccio di questo mese: un hack per Into the Odd per giocare Mecha e sim...]]></summary>
-        <author>
-            <name>jonnie</name>
         </author>
     </entry>
 </feed>
