@@ -4,6 +4,8 @@
 #########################
 
 cacheUrl: https://frollo.github.io/gazzetta/cache.json
+siteTitle: "La Gazzetta dell'OSR"
+timezone: Europe/Rome
 sources:
   - href: https://d20d12.blogspot.com/feeds/posts/default
   - href: https://dismastersden.blogspot.com/feeds/posts/default
@@ -38,3 +40,4 @@ sources:
   - href: https://perticadatremetri.blogspot.com/feeds/posts/default
   - href: https://eclecticagdr.wordpress.com/feed/
   - href: https://gnollmassacrofamiglia.blogspot.com/feeds/posts/default
+  - href: https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog.rss
