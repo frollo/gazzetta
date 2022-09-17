@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-17T08:13:19.135Z</updated>
+    <updated>2022-09-17T10:11:12.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IL RAMPOLLO ANNOIATO - Una classe per Cairn]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2022/09/il-rampollo-annoiato-una-classe-per.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2022/09/il-rampollo-annoiato-una-classe-per.html"/>
+        <updated>2022-09-17T10:07:00.006Z</updated>
+        <summary type="html"><![CDATA[Non vi preoccupate, mio padre non ci lascerà marcire in una cella.
+
+Ho solo bisogno di fare due chiacchiere col signore di questo posto. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sei il giovane rampollo di un’antica casata nobiliare di un regno lontano. Hai un sacco di denaro a disposizione ed un patologico bisogno di adrenalina. Hai deciso di finanziare questo gruppo di scapestrati, a patto che ti lasciassero unire alla spedizione. La tua famiglia non l’ha presa benissimo.
+
+MANSIONI DEI FUNZIONARI: ogni volta che guadagni un Funzionario, tira 1d12.
+1. Traduttore, 2. Chef, 3. Medico, 4. Avvocato, 5. Guardia, 6. Guida, 
+7. Occultista, 8. Prete, 9. Parente, 10. Precettore, 11. Spia, 12. Damerino.
+
+A: Rendita di famiglia, Mani delicate, + 1 Funzionario
+B: Scudi umani, Radice di tutti i mali, + 1 Funzionario, +1d6 PF
+C: …]]></summary>
+        <author>
+            <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LA TATA - Una classe per Cairn e Into the Odd]]></title>
         <id>https://arcipelagoceleste.blogspot.com/2022/09/la-tata-una-classe-per-cairn-e-into-odd.html</id>
