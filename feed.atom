@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-19T01:00:37.764Z</updated>
+    <updated>2022-09-19T04:22:42.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -526,22 +526,6 @@ Resources to build dungeons: https://docs.google.com/document/d/1Dk0U_u7SeibgDr
         <summary type="html"><![CDATA[Il mio contributo per il mese di agosto del VCB dedicato ai mecha]]></summary>
         <author>
             <name>SephilRosso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Hack, un'altra pietra angolare degli OSR minimali]]></title>
-        <id>https://autarkikagdr.blogspot.com/2022/08/black-hack-unaltra-pietra-angolare.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2022/08/black-hack-unaltra-pietra-angolare.html"/>
-        <updated>2022-08-20T14:02:00.004Z</updated>
-        <summary type="html"><![CDATA[Salve a tutti,
-continuiamo la carrellata dei giochi di ruolo minimali con "Black Hack".
-Ho voluto prendermi un pò di tempo per parlarvi di questo gioco, siccome ha avuto negli scorsi anni una grande diffusione sia come regolamento e sia come prodotti derivati.
-Allo stato attuale è appena stata rilasciata una seconda edizione contenente molto materiale extra, non ho visualizzato questa edizione siccome già possiedo alcuni regolamenti derivati.
-Il core del regolamento potete visualizzarlo in questi link: "Regolamento gratuito", "System reference sheet".
-Attualmente il gioco è edito da MS edizioni che si occuperà di una nuova edizione con molte illustrazioni create appositamente.
-Tale scelta editoriale è stata già fatta con un altro gioco derivato da Black Hack e cioè "The Cthulhu Hack"; dove…]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
