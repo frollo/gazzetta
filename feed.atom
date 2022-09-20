@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-20T08:15:41.281Z</updated>
+    <updated>2022-09-20T10:11:58.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LO STRANIERO - Una classe per Cairn]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2022/09/lo-straniero-una-classe-per-cairn.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2022/09/lo-straniero-una-classe-per-cairn.html"/>
+        <updated>2022-09-20T08:58:00.007Z</updated>
+        <summary type="html"><![CDATA[Cosa significa che è “vietato”?
+
+
+
+
+
+
+
+
+
+Lo Straniero viene da lontano, appartiene ad un altro mondo rispetto a quello in cui si svolge la campagna. La sua essenza si fonda sull’essere in svantaggio e sull'imparare a superare questo svantaggio iniziale. Se non ti piace l’idea, probabilmente non è la classe che fa per te.
+
+
+
+
+A: Tecnica, Contesto Culturale
+
+B: Estraneo, Liquore fatto in Casa, +1d6 PF
+
+C: Simboli di Casa / oppure / Perdi 1 Svantaggio, +1d6 PF
+
+D: Il Meglio da Loro / oppure / Perdi 1 Svantaggio, +1d6 PF
+
+
+
+
+
+A
+
+
+
+TECNICA: quando usi un'arma a te familiare, infliggi 1d4 danni aggiuntivi. Quando usi un'armatura a te familiare, riduci di 1d4 aggiuntivi i danni ricevuti. Inizi con una familiarità al tuo equipaggiamento di partenza e puoi acquisire nuove familiarità allenandoti co…]]></summary>
+        <author>
+            <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IL RAMPOLLO ANNOIATO - Una classe per Cairn]]></title>
         <id>https://arcipelagoceleste.blogspot.com/2022/09/il-rampollo-annoiato-una-classe-per.html</id>
