@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-23T01:03:46.077Z</updated>
+    <updated>2022-09-23T04:12:19.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -572,36 +572,6 @@ Speciali
  E come se indossassi sempre un’Armatura Modesta.]]></summary>
         <author>
             <name>Surely not a Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My virtual GM binder]]></title>
-        <id>https://scrtgm.blogspot.com/2022/08/my-virtual-gm-binder.html</id>
-        <link href="https://scrtgm.blogspot.com/2022/08/my-virtual-gm-binder.html"/>
-        <updated>2022-08-24T13:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Some time ago, a reddit user asked: "what would you put in your GM binder?". Here's my list:
-
-
-Ask the Stars, an oracle: https://www.bastionland.com/2020/12/ask-stars-minimal-solo-rpg.html?m=0
-
-My own tables for hexcrawl building, and the articles and tables linked within: https://drive.google.com/drive/folders/1sdwPOWSrtMndwp4vf_bqtnP1X674hk5w
-Points of interest d6: 1. Lair; 2. Dungeon; 3. Landmark; 4. Settlement; 5. Secret; 6. Loot
-Landmarks: https://www.dragonsfoot.org/forums/viewtopic.php?f=1&t=59911
-More landmarks/encounter vignettes: https://docs.google.com/file/d/1odvwxifgGvbeaInMChL5zzAPmtp_QsQo/view
-Why is your replacement PC in the dungeon?: https://coinsandscrolls.blogspot.com/2017/03/osr-table-of-replacement-pcs.html
-Running out of light in a dungeon/time to end the open table session: https://riseupcomus.blogspot.com/2019/04/you-are-likely-to-be-eaten-by-grue.html
-The "catching up with the party" table in Macchiato Monsters, for players joining an ongoing adventure
-Weather tables
-
-https://preview.redd.it/q9om7rf3vzb71.jpg?width=2480&format=pjpg&auto=webp&s=d62de17b624f1487bfe24ee512980b1250d13229
-
-http://pitsperilous.blogspot.com/2017/09/weather-tables-from-real-meteorologist.html
-
-
-
-Resources to build dungeons: https://docs.google.com/document/d/1Dk0U_u7SeibgDrf-nw3VhWxVgxU2_GaRB8i6yovJ8h8/edit?usp=sharing]]></summary>
-        <author>
-            <name>The Secret Game - Il Gioco Segreto</name>
         </author>
     </entry>
 </feed>
