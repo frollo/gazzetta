@@ -122,18 +122,7 @@
       "title": "Surely not a Master",
       "feedUrl": "https://surelynotamaster.blogspot.com/feeds/posts/default",
       "siteUrl": "https://surelynotamaster.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://surelynotamaster.blogspot.com/2022/08/mecha-senza-cuore.html",
-          "author": null,
-          "description": "Ecco il mio piccolo contributo al Vecchio Carnevale Blogghereccio a tema Mecha! (Qui Jonnie che lo ospita questo mese)\nIn realtà non sono un grande esperto di mecha, oltre all'amore per l'ignoranza dei film 'Pacific Rim' e qualche pezzo di anime qua e la non ho visto molto. Ah sì, ho visto pure la saga cinematografica dei 'Transformers'... conta?\nLeggendo il tema del mese mi é venuto in mente come potesse essere un robottone senza il suo pilota, così ne ho realizzato un background per Troika! o Kasta! che sia.\n\n\n\nMecha senza cuore\n\n\nNon sai come e perché sia successo ma sei senza cuore, il tuo pilota è scomparso. Forse ti ha abbandonato, forse è successo qualcosa di brutto, forse è passato ad un modello più recente… Questo non lo sai. Senza di lui ti senti perso, per questo cercarlo è diventato il tuo unico scopo di vita. Senza di lui non hai uno scopo, non hai un cuore. Purtroppo, non hai molta energia, dovrai sostentarti con quello che trovi\n Averi\n\n\nAlabarda Spaziale (conta come Ascia)\nNucleo Prismatico\nOggetti dimenticati dal tuo pilota\nOcchi Laser (conta come Fusil)\nRottami\n\n\n\n Abilità Avanzate\n\n\n3 Combattere con l'Alabarda Spaziale\n2 Pitagorica\n2 Combattere con gli Occhi Laser\n1 Volare\n1 Forza\n1 Urlo Poderoso\n\n \nSpeciali\n Non recuperi Resistenza riposando in modo normale: devi invece passare un intero periodo di riposo ricaricandoti con un Nucleo plasmatico o con una fonte di energia abbastanza potente. Per ogni ora in ricarica recuperi 3 Punti Resistenza.\n E come se indossassi sempre un’Armatura Modesta.",
-          "link": "https://surelynotamaster.blogspot.com/2022/08/mecha-senza-cuore.html",
-          "publishedOn": "2022-08-24T20:24:00.002Z",
-          "wordCount": 4745,
-          "title": "Mecha senza cuore",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAxdipFJszRkP-7_HuyaU_tPFIuh_CaNfz7EMQAXuI78XQeDbsodTwqv1rDooNtbCLcGtRJxQI2IGEhkRnKYOFI8RSfy5ANiMnIhXBL0aUL2WwfTVbbZjcaUMR52JUarTrUxwuBXpOmLcsuC6BNvesl9X87dJBkMOBwHlk3Il-mfn50SJx9A49pCbmzA/w1200-h630-p-k-no-nu/photo_2022-08-24_22-17-03.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "ARCIPELAGO CELESTE",
@@ -272,6 +261,16 @@
       "feedUrl": "https://castellochimerico.blogspot.com/feeds/posts/default",
       "siteUrl": "https://castellochimerico.blogspot.com/",
       "articles": [
+        {
+          "id": "https://castellochimerico.blogspot.com/2022/09/dungeon-classici-e-inferi.html",
+          "author": null,
+          "description": "Perché in D&D classico si prevede che i mostri aumentino di Dado Vita (e di conseguenza di pericolosità) scendendo nei livelli più bassi? Una spiegazione che prende spunto dall'immaginario mitico potrebbe essere quella che più si scende in basso più ci si avvicina agli inferi, di conseguenza le creature più grandi e malvage sono attratte dai livelli inferiori, oppure diventano più potenti proprio per questa vicinanza con la fonte del caos. Anche la quantità maggiore di tesori può essere giustificata con le esche che i poteri infernali piazzano per attrarre gli avventurieri sprovveduti.\n\nQuest'interpretazione è coerente con il concetto di dungeon come \"Sottomondo mitico\" espresso originariamente nelle Riflessioni di Philotomy su Original D&D, documento fondamentale per le origini della scen…",
+          "link": "https://castellochimerico.blogspot.com/2022/09/dungeon-classici-e-inferi.html",
+          "publishedOn": "2022-09-23T09:45:00.002Z",
+          "wordCount": 5280,
+          "title": "Dungeon classici e inferi",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO-OvBwkRBwdu7_bRaSVlWFkiWomy3dgTOc-qV4VB5W6Jji3V86AQeOTq8A6Tcpq3P4E-o6-5Gh2BL29dcJ2TVVUgy6iZLxE2VsFv4kziJtowUhc6JRH5YVxtYN_FrfVrlhojkLIwNhCHTZacZu6yomGE42OrIPE2CAf99weQp3Mp9TVu0pR9Xi-PW3g/w1200-h630-p-k-no-nu/inferno-divina-commedia-1024x715.jpg"
+        },
         {
           "id": "https://castellochimerico.blogspot.com/2022/09/vecchio-carnevale-blogghereccio-la.html",
           "author": null,

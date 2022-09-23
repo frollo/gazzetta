@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-23T08:14:38.531Z</updated>
+    <updated>2022-09-23T10:11:57.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dungeon classici e inferi]]></title>
+        <id>https://castellochimerico.blogspot.com/2022/09/dungeon-classici-e-inferi.html</id>
+        <link href="https://castellochimerico.blogspot.com/2022/09/dungeon-classici-e-inferi.html"/>
+        <updated>2022-09-23T09:45:00.002Z</updated>
+        <summary type="html"><![CDATA[Perché in D&D classico si prevede che i mostri aumentino di Dado Vita (e di conseguenza di pericolosità) scendendo nei livelli più bassi? Una spiegazione che prende spunto dall'immaginario mitico potrebbe essere quella che più si scende in basso più ci si avvicina agli inferi, di conseguenza le creature più grandi e malvage sono attratte dai livelli inferiori, oppure diventano più potenti proprio per questa vicinanza con la fonte del caos. Anche la quantità maggiore di tesori può essere giustificata con le esche che i poteri infernali piazzano per attrarre gli avventurieri sprovveduti.
+
+Quest'interpretazione è coerente con il concetto di dungeon come "Sottomondo mitico" espresso originariamente nelle Riflessioni di Philotomy su Original D&D, documento fondamentale per le origini della scen…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IN THE WOOD FOR GLOG - Vol. 2]]></title>
         <id>https://arcipelagoceleste.blogspot.com/2022/09/in-wood-for-glog-vol-2.html</id>
@@ -528,50 +540,6 @@ di: Barakiel]]></summary>
 <p>Ricordate, avete dal primo al trenta di settembre per partecipare!</p>]]></summary>
         <author>
             <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mecha senza cuore]]></title>
-        <id>https://surelynotamaster.blogspot.com/2022/08/mecha-senza-cuore.html</id>
-        <link href="https://surelynotamaster.blogspot.com/2022/08/mecha-senza-cuore.html"/>
-        <updated>2022-08-24T20:24:00.002Z</updated>
-        <summary type="html"><![CDATA[Ecco il mio piccolo contributo al Vecchio Carnevale Blogghereccio a tema Mecha! (Qui Jonnie che lo ospita questo mese)
-In realtà non sono un grande esperto di mecha, oltre all'amore per l'ignoranza dei film 'Pacific Rim' e qualche pezzo di anime qua e la non ho visto molto. Ah sì, ho visto pure la saga cinematografica dei 'Transformers'... conta?
-Leggendo il tema del mese mi é venuto in mente come potesse essere un robottone senza il suo pilota, così ne ho realizzato un background per Troika! o Kasta! che sia.
-
-
-
-Mecha senza cuore
-
-
-Non sai come e perché sia successo ma sei senza cuore, il tuo pilota è scomparso. Forse ti ha abbandonato, forse è successo qualcosa di brutto, forse è passato ad un modello più recente… Questo non lo sai. Senza di lui ti senti perso, per questo cercarlo è diventato il tuo unico scopo di vita. Senza di lui non hai uno scopo, non hai un cuore. Purtroppo, non hai molta energia, dovrai sostentarti con quello che trovi
- Averi
-
-
-Alabarda Spaziale (conta come Ascia)
-Nucleo Prismatico
-Oggetti dimenticati dal tuo pilota
-Occhi Laser (conta come Fusil)
-Rottami
-
-
-
- Abilità Avanzate
-
-
-3 Combattere con l'Alabarda Spaziale
-2 Pitagorica
-2 Combattere con gli Occhi Laser
-1 Volare
-1 Forza
-1 Urlo Poderoso
-
- 
-Speciali
- Non recuperi Resistenza riposando in modo normale: devi invece passare un intero periodo di riposo ricaricandoti con un Nucleo plasmatico o con una fonte di energia abbastanza potente. Per ogni ora in ricarica recuperi 3 Punti Resistenza.
- E come se indossassi sempre un’Armatura Modesta.]]></summary>
-        <author>
-            <name>Surely not a Master</name>
         </author>
     </entry>
 </feed>
