@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-24T10:11:06.552Z</updated>
+    <updated>2022-09-24T12:20:01.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parabellum: un gdr in solitario su regni in guerra]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2022/09/parabellum-un-gdr-in-solitario-su-regni.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2022/09/parabellum-un-gdr-in-solitario-su-regni.html"/>
+        <updated>2022-09-24T11:58:00.008Z</updated>
+        <summary type="html"><![CDATA[Questo articolo si inserisce nell'iniziativa Vecchio Carnevale Blogghereccio. Il tema del mese di Settembere è...GUERRA!    
+
+I Avviso: Parabellum nasce perchè se gioco più di un'ora a Total War sul pc iniziano a bruciarmi gli occhi. 
+II Avviso: Parabellum nasce anche come segno di ribellione e ripicca verso le infami IA dei wargame tattici digitali. IA, so che barate...
+III Avviso: Parabellum è più un'idea che un gdr in solitario fatto e finito, una sorta di versione alfa. Quella che propongo qua è un'ipotetica struttura di gioco, da provare nella pratica (non ho avuto il tempo neanche di fare dei playtest). Non ho mai scritto nessun regolamento, quindi non sono sicuro che Parabellum avrà la migliore struttura e suddivisione delle regole possibile, ma cercherò di fare del mio meglio. Maga…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDR: un hobby in più parti]]></title>
+        <id>http://eclecticagdr.wordpress.com/?p=784</id>
+        <link href="https://eclecticagdr.wordpress.com/2022/09/24/gdr-un-hobby-in-piu-parti/"/>
+        <updated>2022-09-24T11:37:48.000Z</updated>
+        <summary type="html"><![CDATA[Per chi pratica il gioco di ruolo da anni è facile sottovalutare come sia in realtà un hobby in più parti, o se mi si permette il paragone con lo sport, un “hobby completo” che richiama a sé più passioni ma costituisce al contempo un buon allenamento in molte aree del tempo libero. Con questo […]]]></summary>
+        <author>
+            <name>zeruhur</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dungeon classici e inferi]]></title>
         <id>https://castellochimerico.blogspot.com/2022/09/dungeon-classici-e-inferi.html</id>
