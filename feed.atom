@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-25T18:13:34.131Z</updated>
+    <updated>2022-09-25T20:11:24.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Into The Deep]]></title>
+        <id>https://perticadatremetri.blogspot.com/2022/09/into-deep.html</id>
+        <link href="https://perticadatremetri.blogspot.com/2022/09/into-deep.html"/>
+        <updated>2022-09-25T18:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Informazioni di Base
+
+  
+    Pubblicata da Borderlands_Map (una pagina Facebook non più     raggiungibile)   
+  
+Gratuita, in pdf e jpg
+  
+    Per Old-School Essentials con supplemento Advanced Fantasy
+  
+Per 4-5 "giocatori" di livello 1
+
+Presentazione e Descrizione
+  L'avventura non include un'introduzione, ma necessita di essere letta tutta   per capire in cosa consiste. Per fortuna è molto breve, essendo solo 10   stanze. Questa è la mia sinossi brutta: 
+  
+    Il chierico malvagio Lucius Killoran vuole sacrificare Isabel al suo dio       chiamato Iganoth. Per compiere il sacrificio si è rifugiato in un tempio       all'interno di un dungeon sul Monte Arkhanor, protetto e servito dai suoi fedeli mutoidi.       Riusciranno i personaggi a salvare Isabel prima della fine del rituale?  
+
+  …]]></summary>
+        <author>
+            <name>perticadatremetri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parabellum: un gdr in solitario su regni in guerra]]></title>
         <id>https://calderonedeltroll.blogspot.com/2022/09/parabellum-un-gdr-in-solitario-su-regni.html</id>
