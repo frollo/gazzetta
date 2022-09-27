@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-27T01:05:10.071Z</updated>
+    <updated>2022-09-27T04:03:44.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -606,25 +606,6 @@ Partiamo dalla definizione di vech (tradotta dal glossario di UVG):
 di: Barakiel]]></summary>
         <author>
             <name>Barakiel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Guerra!]]></title>
-        <id>https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Guerra/</id>
-        <link href="https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Guerra/"/>
-        <updated>2022-08-28T15:34:35.000Z</updated>
-        <summary type="html"><![CDATA[<p>E così siamo quasi a settembre, sta per iniziare un nuovo mese e, di conseguenza, un nuovo <a href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio">carnevale</a>. Il tema di questo mese è piuttosto semplice da presentare e anche parecchio diffuso nei giochi di ruolo: la guerra.</p>
-<p>Come sempre, per partecipare, basta avere un blog, scrivere un post a tema e poi convididere il messaggio nella chat telegram del carnvale: <a href="https://t.me/vecchio_carnevale_blogghereccio">Vecchio Carnevale Blogghereccio</a>.</p>
-<p>Ora, potete partecipare un po’ con quello che volete, ma vi lascio qualche spunto e qualcosa da leggere:</p>
-<ul>
-<li><a href="https://acoup.blog/2021/10/29/collections-fortification-part-i-the-besiegers-playbook/">Una serie di articoli su fortificazioni e assedi nel mondo antico</a></li>
-<li>Che ne dite di creare un’avventura che si muove tra le trincee di una guerra?</li>
-<li>O una classe apposta per i pacifisti?</li>
-<li>Oppure un sistema minimale per tracciare gli eserciti mentre i PG fanno gli avventurieri?</li>
-</ul>
-<p>Ricordate, avete dal primo al trenta di settembre per partecipare!</p>]]></summary>
-        <author>
-            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
 </feed>
