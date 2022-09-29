@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-29T10:13:11.215Z</updated>
+    <updated>2022-09-29T12:22:22.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -586,19 +586,6 @@ Recensiremo materiale OSR scritto in italiano di produzione soprattutto italian
 Il…]]></summary>
         <author>
             <name>perticadatremetri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vech delle Praterie Ultraviolette]]></title>
-        <id>https://dismastersden.blogspot.com/2022/08/vech-delle-prateria-ultraviolette.html</id>
-        <link href="https://dismastersden.blogspot.com/2022/08/vech-delle-prateria-ultraviolette.html"/>
-        <updated>2022-08-30T22:54:00.019Z</updated>
-        <summary type="html"><![CDATA[Altro mese altro post del Vecchio Carnevale Blogghereccio, stavolta a tema I Mecha!
-E visto che i mecha (o vech, come vengono lì chiamati) stanno anche nelle Praterie Ultraviolette dell'ambientazione/campagna Ultraviolet Grasslands, come non dedicare un post per espandere un po' su di essi?
-Partiamo dalla definizione di vech (tradotta dal glossario di UVG):
- Meccanismi veicolari per il trasporto multiplo di persone e merci, di solito biomeccanici anche se occasionalmente puramente golem. Esempi sono i camminatori prismatici dei Satrapi dello Spettro, i camminatori diesel nanici della Costa Est e gli aggraziati camminatori di porcellana dei Principi di Porcellana. La maggior parte dei vech sono capaci di un semplice movimento autonomo, specialmente quando seguono un'unità guida, ma in tutta…]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
