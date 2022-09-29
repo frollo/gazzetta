@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-29T20:13:31.613Z</updated>
+    <updated>2022-09-29T22:11:38.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -569,23 +569,6 @@ Renitente alla Leva
 Hai rifiutato di combattere p…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chi cosa come perché]]></title>
-        <id>https://perticadatremetri.blogspot.com/2022/08/chi-cosa-come-perche.html</id>
-        <link href="https://perticadatremetri.blogspot.com/2022/08/chi-cosa-come-perche.html"/>
-        <updated>2022-08-31T08:34:00.002Z</updated>
-        <summary type="html"><![CDATA[Questo è un blog dedicato alle recensioni di avventure e giochi di ruolo OSR nostrani
-Ormai c'è molto materiale nostrano originale e sentiamo che sia giunto il momento che qualcuno inizi a fare recensioni in maniera imparziale e utile, che esponga sia il buono che il cattivo di queste avventure e giochi di ruolo in modo che si crei una cultura non solo del creare (che in parte già c'è), ma del creare bene.
-
-Chi siamo
-Siamo persone come voi, che amano il gioco di ruolo, specialmente quello OSR, che leggono (tanto) e giocano (meno di quello che vorrebbero) come voi. I nostri nomi non sono importanti quanto quello che scriveremo in questo blog, e vogliamo che sia questo che parli per noi.
-Cosa verrà recensito
-Recensiremo materiale OSR scritto in italiano di produzione soprattutto italiana.
-Il…]]></summary>
-        <author>
-            <name>perticadatremetri</name>
         </author>
     </entry>
 </feed>
