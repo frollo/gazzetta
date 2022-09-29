@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-29T08:18:31.238Z</updated>
+    <updated>2022-09-29T10:13:11.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -599,16 +599,6 @@ Partiamo dalla definizione di vech (tradotta dal glossario di UVG):
  Meccanismi veicolari per il trasporto multiplo di persone e merci, di solito biomeccanici anche se occasionalmente puramente golem. Esempi sono i camminatori prismatici dei Satrapi dello Spettro, i camminatori diesel nanici della Costa Est e gli aggraziati camminatori di porcellana dei Principi di Porcellana. La maggior parte dei vech sono capaci di un semplice movimento autonomo, specialmente quando seguono un'unità guida, ma in tutta…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Settembre - Guerra! + raccolta di Luglio (Il Tempo)]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/422306/settembre-guerra-raccolta-di-luglio-il-tempo</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/422306/settembre-guerra-raccolta-di-luglio-il-tempo"/>
-        <updated>2022-08-30T21:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Agosto è (quasi) finito, con il suo tema de I Mecha che spoilerino ha visto svariati contributi, ma... non siamo qui per questo! Siamo qui perché settembre inizia, e con esso arriva un nuovo tema ca...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
