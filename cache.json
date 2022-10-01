@@ -290,6 +290,16 @@
       "siteUrl": "https://sephilrosso.wordpress.com",
       "articles": [
         {
+          "id": "http://sephilrosso.wordpress.com/?p=956",
+          "author": "SephilRosso",
+          "description": "Questo mese il Vecchio CArnevale lo ospito io, con Blackjack e Squillo di Lusso",
+          "link": "https://sephilrosso.wordpress.com/2022/10/01/vecchio-carnevale-blogghereccio-linverno/",
+          "publishedOn": "2022-09-30T22:01:00.000Z",
+          "wordCount": 2966,
+          "title": "Vecchio Carnevale Blogghereccio: L’Inverno",
+          "imageUrl": "https://sephilrosso.files.wordpress.com/2021/11/vcb.jpg"
+        },
+        {
           "id": "http://sephilrosso.wordpress.com/?p=918",
           "author": "SephilRosso",
           "description": "Il mio contributo per il mese di settembre del VCB dedicato alla guerra",

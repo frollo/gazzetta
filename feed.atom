@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-09-30T22:12:19.499Z</updated>
+    <updated>2022-10-01T01:18:10.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: L’Inverno]]></title>
+        <id>http://sephilrosso.wordpress.com/?p=956</id>
+        <link href="https://sephilrosso.wordpress.com/2022/10/01/vecchio-carnevale-blogghereccio-linverno/"/>
+        <updated>2022-09-30T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Questo mese il Vecchio CArnevale lo ospito io, con Blackjack e Squillo di Lusso]]></summary>
+        <author>
+            <name>SephilRosso</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pandoro e Panettone:  la guerra dei dolci]]></title>
         <id>https://surelynotamaster.blogspot.com/2022/09/pandoro-e-panettone-la-guerra-dei-dolci.html</id>
