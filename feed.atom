@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-06T08:15:12.929Z</updated>
+    <updated>2022-10-06T10:15:07.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -605,25 +605,6 @@ Seguite il suo consiglio. Non temete. Usate gli orsi.]]></summary>
         <summary type="html"><![CDATA[Il mio contributo per il mese di settembre del VCB dedicato alla guerra]]></summary>
         <author>
             <name>SephilRosso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d12 Monthly Zine , una fanzine sta spulciare e stampare.]]></title>
-        <id>https://autarkikagdr.blogspot.com/2022/09/d12-monthly-zine-una-fanzine-sta.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2022/09/d12-monthly-zine-una-fanzine-sta.html"/>
-        <updated>2022-09-06T20:24:00.002Z</updated>
-        <summary type="html"><![CDATA[Ciao a tutti,
-
-nel mentre sto preparando un post riguardante una futura collaborazione, sono incappato in una fanzine molto interessante e piena di contenuti AGGRATISSE!
-Sto parlando di d12 Monthly.
-Ho scaricato tutti i numeri (16!) e mi sono trovato tra le mani alcune vere perle da riutilizzare in partita o da leggere con interesse. 
-Gli argomenti trattati sono vari e ogni numero ne tratta uno differente; vi consiglio di cercare quello che più vi aggrada.
-Con pazienza mi sono creato una raccolta contenente i numeri dall'1 al 15 (oltre 300 pagine) e grazie a  Lulu la stamperò al costo di circa 13 Euri.
-Per la copertina ho utilizzato l'immagine della mappa del modulo Undermontain da questo sito.
-Appena mi verrà consegnata vi aggiornerò.
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
