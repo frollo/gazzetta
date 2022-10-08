@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-08T06:16:19.761Z</updated>
+    <updated>2022-10-08T08:14:48.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -637,16 +637,6 @@ Bene, questa è la traduzione di un altro venerabile post della blogosfera OSR, 
 Seguite il suo consiglio. Non temete. Usate gli orsi.]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: SCARAMUCCIA]]></title>
-        <id>http://sephilrosso.wordpress.com/?p=918</id>
-        <link href="https://sephilrosso.wordpress.com/2022/09/08/vecchio-carnevale-blogghereccio-scaramuccia/"/>
-        <updated>2022-09-08T19:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Il mio contributo per il mese di settembre del VCB dedicato alla guerra]]></summary>
-        <author>
-            <name>SephilRosso</name>
         </author>
     </entry>
 </feed>
