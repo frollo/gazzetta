@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-09T10:12:14.923Z</updated>
+    <updated>2022-10-09T12:20:15.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -654,31 +654,6 @@ Warpland
 Midjourney sogna un astronauta alla deriva su di un pianeta autunnale]]></summary>
         <author>
             <name>ARCIPELAGO CELESTE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ti Basta Usare gli Orsi]]></title>
-        <id>https://dismastersden.blogspot.com/2022/09/ti-basta-usare-gli-orsi.html</id>
-        <link href="https://dismastersden.blogspot.com/2022/09/ti-basta-usare-gli-orsi.html"/>
-        <updated>2022-09-10T00:06:00.003Z</updated>
-        <summary type="html"><![CDATA[Ecco, nella tua sessione di D&D old-school i personaggi hanno deciso di andare da qualche parte per la quale non ti sei ancora preparato e tu gli hai appena descritto un qualche mostro davvero figo, bizzarro e fuori di testa per il quale non hai nessuna statistica:
-
-
-"Dalla dolina in fondo al Pozzo d'Ossa dell'Orbe Succulenta s'innalza una grossa figura; il suo corpo rettiloide scintilla di melma antidiluviana mentre le sue fauci pteroidi si spalancano rivelando file di denti seghettati in quello che appare un benvenuto a dir poco orrendo".
-
-
-In situazioni come queste, quello che faccio è semplicemente usare le statistiche degli orsi, anche perché chi se ne può accorgere? Modifica l'aspetto, i metodi di attacco, e se proprio devi aggiungi abilità speciali al volo… ma quando sei in dubbio, ti basta usare gli orsi.
-
-
-◈ ◈ ◈
-
-
-Bene, questa è la traduzione di un altro venerabile post della blogosfera OSR, ovvero Just Use Bears del blog Tales of the Grotesque and Dungeonesque. Sì è tutto qui, ma questo poco è anche molto.
-
-
-Seguite il suo consiglio. Non temete. Usate gli orsi.]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
