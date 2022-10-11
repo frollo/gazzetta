@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-10T22:12:54.365Z</updated>
+    <updated>2022-10-11T01:00:11.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -603,114 +603,6 @@ L’indagine porterà i personaggi a castello Warsle, ma mandante e movente poss
         <summary type="html"><![CDATA[Cairn è un gioco di matrice old school minimale e orientato alla narrazione. Può un manuale così conciso essere efficace?]]></summary>
         <author>
             <name>zeruhur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SCI-FANTASY DREAMING - Risorse per giocare OSR oltre il fantasy classico]]></title>
-        <id>https://arcipelagoceleste.blogspot.com/2022/09/sci-fantasy-dreaming-risorse-per.html</id>
-        <link href="https://arcipelagoceleste.blogspot.com/2022/09/sci-fantasy-dreaming-risorse-per.html"/>
-        <updated>2022-09-11T10:50:00.013Z</updated>
-        <summary type="html"><![CDATA[Midjourney sogna una navicella mutante in stile Bauhaus
-
-
-
-Questo post serve a raccogliere risorse per giocare di ruolo OSR Science-Fantasy, in uno spettro molto ampio che parte da MAD MAX - Oltre la sfera del tuono (il terzo, per capirci) e arriva fino a STALKER di Tarkovskij, passando da MOEBIUS, lo STUDIO GHIBLI e quel capolavoro assoluto di HEAVY METAL. 
-
-
-È un post aperto e verrà aggiornato ad ogni nuova scoperta che faremo, mentre andiamo a caccia di antichi artefatti tra le sabbie iridescenti di un pianeta ostile.
-
-
-Se volete suggerire delle risorse da aggiungere alla lista, vi invito a segnalarle nei commenti.
-
-
-
-
-
-GIOCHI COMPLETI
-
-
-
-Vaults of Vaarn // Le Volte di Vaarn 
-QZ
-Gamma World
-
-The Doomlands
-
-GROK?!
-
-The Electrum Archive
-Mutant Crawl Classics
-
-Yellowcake 
-Mutant Future
-Moonhop
-Maximum Recursion Depth
-Death is the New Pink
-Anna-X66
-Offworlders
-
-
-
-
-
-
-SUPPLEMENTI / RISORSE
-
-
-
-Acid Death Fantasy
-The Codex of the Black Sun
-Sprawlscape Cyber City Kit
-Stars Without Number
-Oddpocalypse
-Any planet is Earth
-Into the Ninth World
-Those who came before
-Augmented Reality
-
-
-
-
-AVVENTURE / AMBIENTAZIONI
-
-
-
-Gathox Vertical Slum
-ASE1: Anomalous Subsurface Environment
-
-Ultraviolet Grasslands and the Black City
-
-
-S3: Expedition to the Barrier Peaks
-
-Carcosa
-
-DA2: The Temple of the Frog
-
-DA3: City of the Gods
-
-Dungeon of Signs (blog)
-
-Desert Moon of Karth
-
-Mothership: A pound of flesh
-
-Abilities Considered Unnatural
-
-The Purple Rose of Vaarn
-
-Warpland
-
-
-
-
-
-
-
-
-Midjourney sogna un astronauta alla deriva su di un pianeta autunnale]]></summary>
-        <author>
-            <name>ARCIPELAGO CELESTE</name>
         </author>
     </entry>
 </feed>
