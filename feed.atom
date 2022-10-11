@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-11T10:13:43.127Z</updated>
+    <updated>2022-10-11T12:24:14.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: il Naftabosco - domanda numero 6]]></title>
+        <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_11.html</id>
+        <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_11.html"/>
+        <updated>2022-10-11T12:03:00.003Z</updated>
+        <summary type="html"><![CDATA[6: Chi è la persona più ricca di questi luoghi?
+
+La Baronessa Vedova Odiffreda Zerchioni-Bruttoni e suo figlio Gigione, Cavalier di Castel Zerchione erede al titolo baronale, sono le persone più ricche di tutto il Naftabosco. Gli Zerchioni - Bruttoni hanno il monopolio sulla vendita della nafta, la, sostanza petroleo-bituminosa da cui il Naftabosco prende il nome, utilizzata per alimentare le lampade a kerosene e occasionalmente come arma incendiaria. Ciò ha riempito i loro forzieri ancor più di quelli dei mercati e dei maghi di Città Lepega. Il loro castello,  che sorge su un colle ai margini del Naftabosco,  direttamente a Nord della Locanda di Tonio Cialtronio, è  ben fortificato, ben difeso da parecchi mercenari  (nonché da un paio di maghi e chierici di mediocre valore) e dotato di ogni comodità che il denaro possa comprare. 
+
+
+
+I viaggiatori però sono avvertiti che i signori del castello  tollerano gli ospiti solo se possono essere loro utili.]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco - domanda numero 5]]></title>
         <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_10.html</id>
@@ -581,16 +597,6 @@ CC BY-SA-4.0 2021 di Roberto Bisceglie
 Questa avventura investigativa è un point crawl ad ambientazione urbana che si basa sui concetti di “mistero a 5 nodi” e “regola dei tre indizi” di Justin Alexander.
 È pensata come interludio di una campagna di lungo corso o per una sessione one-shot.
 L’indagine porterà i personaggi a castello Warsle, ma mandante e movente possono e…]]></summary>
-        <author>
-            <name>Syrinx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tre blocchi statistiche per tutti i PNG]]></title>
-        <id>https://syrinx.zeruhur.space/strumenti/2022/09/12/tre-statistiche-png/</id>
-        <link href="https://syrinx.zeruhur.space/strumenti/2022/09/12/tre-statistiche-png/"/>
-        <updated>2022-09-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Traduco qui Three Statlines for All NPCs di Jim Parkin (con il suo permesso, ovviamente) a uso e consumo di tutti i giocatori di Cairn e Into the Odd.]]></summary>
         <author>
             <name>Syrinx</name>
         </author>
