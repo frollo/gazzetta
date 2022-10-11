@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-11T01:00:11.184Z</updated>
+    <updated>2022-10-11T04:04:28.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -593,16 +593,6 @@ L’indagine porterà i personaggi a castello Warsle, ma mandante e movente poss
         <summary type="html"><![CDATA[Traduco qui Three Statlines for All NPCs di Jim Parkin (con il suo permesso, ovviamente) a uso e consumo di tutti i giocatori di Cairn e Into the Odd.]]></summary>
         <author>
             <name>Syrinx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parlando di… Cairn]]></title>
-        <id>http://eclecticagdr.wordpress.com/?p=753</id>
-        <link href="https://eclecticagdr.wordpress.com/2022/09/11/parlando-di-cairn/"/>
-        <updated>2022-09-11T14:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Cairn è un gioco di matrice old school minimale e orientato alla narrazione. Può un manuale così conciso essere efficace?]]></summary>
-        <author>
-            <name>zeruhur</name>
         </author>
     </entry>
 </feed>
