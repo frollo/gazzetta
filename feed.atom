@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-13T04:08:01.288Z</updated>
+    <updated>2022-10-13T06:36:58.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -564,23 +564,6 @@ da non perdere.
 @threeballs]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recensione 002 - La rosa purpurea di Vaarn]]></title>
-        <id>https://gnollmassacrofamiglia.blogspot.com/2022/09/recensione-002-la-rosa-purpurea-di-vaarn.html</id>
-        <link href="https://gnollmassacrofamiglia.blogspot.com/2022/09/recensione-002-la-rosa-purpurea-di-vaarn.html"/>
-        <updated>2022-09-13T17:34:00.003Z</updated>
-        <summary type="html"><![CDATA[La seconda rece del blog è stata consigliata dall'autore dell'avventura, e per questo motivo ho deciso di recensirla con una severitá e cattiveria tale da sembrare parodistica. E cosí è, se non fosse che sotto agli insulti sguaiati e personali all'inverosimile (atti ad amplificare l'effetto umoristico alla lettura) si cela un giudizio tagliente ma sincero. Iniziamo.
-TITOLO: La rosa purpurea di Vaarn
-AUTORE: El Pedrito
-SISTEMA: Le volte di Vaarn/Myfaarog
-LIVELLO: Np
-Un cinema nel deserto è anche un laboratorio abbandonato. Son cose che capitano. Entrano gli avventurieri.
-L'hook è semplice quanto elegante (e non scritto, ma fa niente, solo perchè una cosa non c'è non significa che non esista). Antonio, fa caldo, e l'ombra e I segni di viandanti passati allettano.
-Siamo alla povertá estrema, …]]></summary>
-        <author>
-            <name>Gli gnoll hanno massacrato la mia famiglia</name>
         </author>
     </entry>
 </feed>
