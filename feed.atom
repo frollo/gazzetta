@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-15T08:15:22.757Z</updated>
+    <updated>2022-10-15T10:11:22.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -557,27 +557,6 @@ Ci troviamo sul Gargano, a San Giovanni Rotondo, dove una tribú di giganti si �
 Come risaputo, Gary Gygax è il solo e unico aut…]]></summary>
         <author>
             <name>Gli gnoll hanno massacrato la mia famiglia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Cattedrale della Regina della Notte]]></title>
-        <id>https://perticadatremetri.blogspot.com/2022/09/la-cattedrale-della-regina-della-notte.html</id>
-        <link href="https://perticadatremetri.blogspot.com/2022/09/la-cattedrale-della-regina-della-notte.html"/>
-        <updated>2022-09-15T21:43:00.004Z</updated>
-        <summary type="html"><![CDATA[La prima recensione di questo blog!
-Informazioni di Base
-
-
-Pubblicata sul blog Deeper Into The Dungeon
-Gratuita, scritta come post e senza pdf impaginato
-Per "qualunque retroclone del gioco di ruolo più famoso al mondo" (nei fatti le stat dei mostri sono per OSE).
-Per 3-6 personaggi di livello 1-3
-
-
-Presentazione e Descrizione
-La cattedrale era un tempio dedicato a qualche divinità della luce ormai dimenticata. Nel corso degli anni, vari criminali e tagliagole l’hanno sfruttata come rifugio per contrabbandare. Ma da un po’ di mesi, qualsiasi attivita criminale nell’edificio in rovina è cessata. Contemporaneamente, le signore più facoltose della città sono state rapinate dei loro gioielli. Alcuni dicono di aver visto delle creature di forma corvide rientrare la notte stessa nella cattedrale…]]></summary>
-        <author>
-            <name>perticadatremetri</name>
         </author>
     </entry>
 </feed>
