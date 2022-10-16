@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-16T04:09:12.952Z</updated>
+    <updated>2022-10-16T06:20:39.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -513,50 +513,6 @@ B: Scudi umani, Radice di tutti i mali, + 1 Funzionario, +1d6 PF
 C: …]]></summary>
         <author>
             <name>ARCIPELAGO CELESTE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LA TATA - Una classe per Cairn e Into the Odd]]></title>
-        <id>https://arcipelagoceleste.blogspot.com/2022/09/la-tata-una-classe-per-cairn-e-into-odd.html</id>
-        <link href="https://arcipelagoceleste.blogspot.com/2022/09/la-tata-una-classe-per-cairn-e-into-odd.html"/>
-        <updated>2022-09-16T17:47:00.007Z</updated>
-        <summary type="html"><![CDATA[Quando occorreva una cosa, di solito si diceva: <<Bisogna domandare 
-a Natal’ja Savišna>> ed effettivamente, dopo aver frugato un poco,
-essa trovava l’oggetto richiesto e diceva: <<Fortuna che l’avevo riposto!>>
-
-
-
-
-
-
-
-
-
-Tolstoj, in “Infanzia, Adolescenza, Giovinezza”, raccontava di questa njanja (un incrocio tra una balia, una governante e una seconda madre - tata per assonanza) di nome Natal’ja Savišna, la quale aveva un’abilità, quasi magica, di tirare fuori dai suoi preziosi bauli qualsiasi cosa avessero smarrito, nella loro grande casa di campagna. La classe della Tata ha la stessa capacità sovrannaturale di gestire l’inventario e di prendersi cura dei suoi “bambini”.
-
-
-A: Inventario Quantico (1 slot), Sacri Avanzi
-B: Inventario Quantico (2 slot), Nascondigli Segreti, +1d6 PF
-C: Inven…]]></summary>
-        <author>
-            <name>ARCIPELAGO CELESTE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recensione 003 - Steading of the hill giant chief]]></title>
-        <id>https://gnollmassacrofamiglia.blogspot.com/2022/09/recensione-003-steading-of-hill-giant.html</id>
-        <link href="https://gnollmassacrofamiglia.blogspot.com/2022/09/recensione-003-steading-of-hill-giant.html"/>
-        <updated>2022-09-16T17:00:00.003Z</updated>
-        <summary type="html"><![CDATA[TITOLO: Steading of the hill giant chief
-AUTORE: Gary Gygax
-SISTEMA: Dnd
-LIVELLO: 8-12
-
-Ora si ragiona. Pura carneficina di giganti, fortezza putrida e malvagia, innocenti incatenati nel sottosuolo. Un'avventura che ti incoraggia ad uccidere infanti senza dirtelo apertamente come un edgelord obeso qualunque. Qui non si scherza.
-Ci troviamo sul Gargano, a San Giovanni Rotondo, dove una tribú di giganti si è stabilitá e sta portando il terrore nei cuori degli abitanti delle zone limitrofe. Non servono scuse per agire immediatamente, se I personaggi hanno raggiunto il livello suggerito dall'avventura allora sono tra I pochi in zona che possono effettivamente fermare questa gigantesca (eh!) minaccia. Ma non tutto si puó risolvere con la violenza.
-Come risaputo, Gary Gygax è il solo e unico aut…]]></summary>
-        <author>
-            <name>Gli gnoll hanno massacrato la mia famiglia</name>
         </author>
     </entry>
 </feed>
