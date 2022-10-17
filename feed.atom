@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-17T18:25:56.984Z</updated>
+    <updated>2022-10-17T20:13:15.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Come creo/converto mostri per giochi Odd]]></title>
+        <id>https://scrtgm.blogspot.com/2022/10/come-creoconverto-mostri-per-giochi-odd.html</id>
+        <link href="https://scrtgm.blogspot.com/2022/10/come-creoconverto-mostri-per-giochi-odd.html"/>
+        <updated>2022-10-17T20:11:00.002Z</updated>
+        <summary type="html"><![CDATA[(mentre scrivo questo articolo mi rendo conto che la faccio molto più complicata di quanto potrebbe essere, però sticazzi mi diverto così)
+Per convertire gli HP mi baso sugli HD:
+<4: d6hp
+4-10: 2d6 hp
+>10: 3d6 hp
+Sinceramente la formula consigliata da Yochai Gal per cui 1 HD= 1HP è più semplice e dà gli stessi risultati
+Se creo il mostro dal nulla, come consigliato qui, dò d6 hp se è una creature normale, 2d6 hp se se la cava nel combattimento, 3d6 hp se è proprio tosto
+Le statistiche le tiro su 3d6 ma le scambio o le riaggiusto se non hanno senso
+Armatura:
+
+1 se il mostro è grosso o è parzialmente protetto
+2 se è enorme o completamente protetto
+3 se è proprio fatto di un materiale duro come roccia o metallo
+Dopodiché guardo questo articolo e confronto per vedere se l'effetto che avrà sul …]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Come creare una tabella casuale.........senza esagerare!]]></title>
         <id>https://autarkikagdr.blogspot.com/2022/10/come-creare-una-tabella-casualesenza.html</id>
