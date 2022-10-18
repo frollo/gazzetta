@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-18T08:20:45.136Z</updated>
+    <updated>2022-10-18T10:15:23.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande : Il Naftabosco - domanda n. 10]]></title>
+        <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_18.html</id>
+        <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_18.html"/>
+        <updated>2022-10-18T09:28:00.004Z</updated>
+        <summary type="html"><![CDATA[10: Dove posso trovare un saggio, un alchimista o un PNG esperto in un particolare campo del sapere? 
+
+Ci sono diverse botteghe di alchimisti  a Città Lepega, ma la più famosa è quella del sempre elegante Bezelius, che vende prodotti particolari quali cerini, verghette fumogene, colle iper-attaccose e solventi, nonché merci meno arcane quali colori per pittura. Qui si può trovare in vendita anche l'olio-kerosene infiammabile epr lampade, ma  Bezelius non lo produce, in quanto si tratta di un monopolio  della famiglia Zerchioni-Bruttoni. A Castel Zerchione, infatti, la produzione è diretta dall'alchimista del maniero, Danirza Quattrodita, donna di mezz'età arcigna quanto competente. Bezelius è un ex apprendista mago fallito che però è riuscito a reinventarsi e fare fortuna, e probabilmente sa anche qualche storia divertente riguardo alla Scuola Magica della città.
+Inoltre, le streghe e i maghi più potenti del Naftabosco (ma anche i maestri della Premiata Scuola Magica) sono estremamente eruditi (vedi domandan.4) e anche se non si tratta di un saggio o di uno studioso, è doveroso ricordare che Tonio Cialtronio,  il proprietario dell'omonima locanda (ex ladro e avventuriero famigerato) conosce una quantità enorme di dicerie e notizie sul Naftabosco e i suoi abitanti, che in genere è felice di condividere dietro un piccolo pagamento.]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Come creo/converto mostri per giochi Odd]]></title>
         <id>https://scrtgm.blogspot.com/2022/10/come-creoconverto-mostri-per-giochi-odd.html</id>
