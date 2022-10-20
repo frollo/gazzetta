@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-20T05:00:59.972Z</updated>
+    <updated>2022-10-20T06:21:52.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -474,21 +474,6 @@ Volume 1: https://pedro-celeste.itch.io/in-the-wood-for-glog-1
 Volume 2: https://pedro-celeste.itch.io/in-the-wood-for-glog-2]]></summary>
         <author>
             <name>ARCIPELAGO CELESTE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cuore di Tenebra: uno scenario/rettilario per Mausritter]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2022/09/cuore-di-tenebra-uno-scenariorettilario.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2022/09/cuore-di-tenebra-uno-scenariorettilario.html"/>
-        <updated>2022-09-20T17:16:00.014Z</updated>
-        <summary type="html"><![CDATA[Ecco uno scenario pointcrawl per Mausritter preparato in vista del ToPlay, ambientato in un rettilario e pieno di rane e altre creature tropicali.
-
-
-Un vostro caro amico (commilitone, parente, concittadino…decidetelo voi) è stato rapito da alcune bizzarre rane provenienti dalla Casa dei Rettili, una delle regioni dello zoo nel quale vivete. Avete promesso di salvarlo e vi siete messi sulle tracce delle rane rapitrici, arrivando nella loro oscura contrada. Le tracce per ora portano ad un gigantesco vivario (con la targetta “Costa Rica”, ma voi non conoscete l’idioma degli umani), là dove una stretta spaccatura nella parete di vetro dà sulla rigogliosa vegetazione all’interno della teca. Riuscirete a trovare il vostro compagno?
-Il Rettilario "Costa Rica"
-Questo rettilario è molto grande e ri…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
