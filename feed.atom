@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-21T08:16:04.574Z</updated>
+    <updated>2022-10-21T10:14:29.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -457,36 +457,6 @@ III Avviso: Parabellum è più un'idea che un gdr in solitario fatto e finito, u
 Quest'interpretazione è coerente con il concetto di dungeon come "Sottomondo mitico" espresso originariamente nelle Riflessioni di Philotomy su Original D&D, documento fondamentale per le origini della scen…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IN THE WOOD FOR GLOG - Vol. 2]]></title>
-        <id>https://arcipelagoceleste.blogspot.com/2022/09/in-wood-for-glog-vol-2.html</id>
-        <link href="https://arcipelagoceleste.blogspot.com/2022/09/in-wood-for-glog-vol-2.html"/>
-        <updated>2022-09-21T20:53:00.003Z</updated>
-        <summary type="html"><![CDATA[Ho appena pubblicato il secondo volume di IN THE WOOD FOR GLOG, il mio supplemento per giocare le classi del Glog con Cairn ed altri derivati di Into the Odd. Con i due volumi pubblicati finora avrete a disposizione 12 classi non tradizionali e un metodo facile facile per usare qualsiasi classe vi capiti di scovare nella Glogosfera, e non solo.
-
-Abbraccia il Glog. Vivi Goblin.
-Elenco delle classi pubblicate finora:
-
-Colonia alveare
-Bravo cane
-Girovago
-Disertore
-Mercante
-Frate
-Antimecha
-Signore dei topi
-Mucchio goblin
-Tata
-Rampollo annoiato
-Straniero
-
-
-Volume 1: https://pedro-celeste.itch.io/in-the-wood-for-glog-1
-Volume 2: https://pedro-celeste.itch.io/in-the-wood-for-glog-2]]></summary>
-        <author>
-            <name>ARCIPELAGO CELESTE</name>
         </author>
     </entry>
 </feed>
