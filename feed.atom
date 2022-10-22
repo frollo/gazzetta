@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-22T20:12:25.647Z</updated>
+    <updated>2022-10-22T22:11:20.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -523,18 +523,6 @@ III Avviso: Parabellum è più un'idea che un gdr in solitario fatto e finito, u
         <summary type="html"><![CDATA[Per chi pratica il gioco di ruolo da anni è facile sottovalutare come sia in realtà un hobby in più parti, o se mi si permette il paragone con lo sport, un “hobby completo” che richiama a sé più passioni ma costituisce al contempo un buon allenamento in molte aree del tempo libero. Con questo […]]]></summary>
         <author>
             <name>zeruhur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeon classici e inferi]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/09/dungeon-classici-e-inferi.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/09/dungeon-classici-e-inferi.html"/>
-        <updated>2022-09-23T09:45:00.002Z</updated>
-        <summary type="html"><![CDATA[Perché in D&D classico si prevede che i mostri aumentino di Dado Vita (e di conseguenza di pericolosità) scendendo nei livelli più bassi? Una spiegazione che prende spunto dall'immaginario mitico potrebbe essere quella che più si scende in basso più ci si avvicina agli inferi, di conseguenza le creature più grandi e malvage sono attratte dai livelli inferiori, oppure diventano più potenti proprio per questa vicinanza con la fonte del caos. Anche la quantità maggiore di tesori può essere giustificata con le esche che i poteri infernali piazzano per attrarre gli avventurieri sprovveduti.
-
-Quest'interpretazione è coerente con il concetto di dungeon come "Sottomondo mitico" espresso originariamente nelle Riflessioni di Philotomy su Original D&D, documento fondamentale per le origini della scen…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
