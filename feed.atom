@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-24T12:24:06.269Z</updated>
+    <updated>2022-10-24T14:34:57.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco - domanda n. 14]]></title>
+        <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_24.html</id>
+        <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_24.html"/>
+        <updated>2022-10-24T12:28:00.002Z</updated>
+        <summary type="html"><![CDATA[14: Ci sono mostri che terrorizzano i dintorni?  Se riesco a ucciderli posso diventare famoso? Ce ne sono diversi : 
+
+
+Il Grifone di Monte Calvo, un mostro  volante dal pessimo carattere che ha fatto il nido in una caverna del picco più alto che spunta dal bosco. La bestiaccia, non molto intelligente ma estremamente feroce e difficile da sorprendere, è arrivata alcuni anni fa  proveniente dall' Est, e compie regolari stragi di bestiame, in particolare divora i cavalli,  di cui è ghiotto. 
+
+
+
+
+Vorga la Verde, trollessa acquatica che tende agguati alla gente (specialmente quella più giovane e tenera)  per trascinarla in fondo agli stagni. Contro di lei il fuoco è meno efficace rispetto al solito, grazie al fatto che è sempre zuppa.
+
+
+
+
+I Drakken mutanti tricefali della  Valle naftosa, che assalgono i viandanti per divorarli, e a quanto pare gettano i loro possedimenti in un fosso catramoso, per motivi sconosciuti.]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La Morsa del Gelo: un'avventura fantasy per i mesi più freddi]]></title>
         <id>https://calderonedeltroll.blogspot.com/2022/10/la-morsa-del-gelo-unavventura-fantasy.html</id>
