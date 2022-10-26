@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-26T10:11:48.722Z</updated>
+    <updated>2022-10-26T12:23:32.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco - domanda n. 16]]></title>
+        <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_26.html</id>
+        <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_26.html"/>
+        <updated>2022-10-26T12:03:00.003Z</updated>
+        <summary type="html"><![CDATA[16: Esistono arene o combattimenti di gladiatori in cui posso conquistare gloria e ricchezze col sudore e col sangue?  
+
+
+Non ci sono arene vere e proprie da queste parti, ma la famigerata famiglia Zerchioni-Bruttoni a volte organizza tornei e giostre nei pressi del suo castello.  Questi combattimenti non sono mai all'ultimo sangue, ma gli incidenti possono sempre capitare..inoltre non è detto che i contendenti siano sempre leali. 
+
+
+
+
+
+Il vincitore o la vincitrice può impadronirsi di armi, armatura e cavalcatura di chi viene sconfitto, e ci si può accordare per mettere in palio ulteriori premi. In più, c'è sempre un certo giro di scommesse tra il pubblico, per cui  le possibilità di guadagnare ci sono,  ma è anche possibile perdere parecchio..]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SISTEMA MAGICO FREEFORM]]></title>
         <id>https://gnollmassacrofamiglia.blogspot.com/2022/10/sistema-magico-freeform.html</id>
@@ -484,41 +503,6 @@ L'avventura non é scritta per nessun sistema in particolare poiché non possied
 Non ho voluto impelagarmi sulle statistiche dei PNG/Mostri quindi saranno categorizzati in base alla loro pericolosità. La scala pericolosità v…]]></summary>
         <author>
             <name>Surely not a Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulciorso // un background per Troika! e Kasta!]]></title>
-        <id>https://dismastersden.blogspot.com/2022/09/pulciorso-un-background-per-troika-e.html</id>
-        <link href="https://dismastersden.blogspot.com/2022/09/pulciorso-un-background-per-troika-e.html"/>
-        <updated>2022-09-26T23:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Sei un orso, sei sporco, e hai le pulci. Questo è tutto quello la gente che sa di te. Ma la gente non sa che le pulci ti sono amiche, ti aiutano in tutto quello che fai, ti danno consiglio e si curano di te, ma soprattutto che non sei sporco perché non ti piace lavarti, ma perché è l'unico modo che hai per proteggere te e loro da un passato che ti vuole fare del male.
-
-
-
-
-creata con Midjourney
-
-Averi
-Pulci. Migliaia di pulci.
-Spessa crosta di sporcizia (Armatura Leggera)
-Barattolo di miele, vuoto da tempo, e coglimiele
-Artigli (danno come Bestia Grande)
-Una polo rossa, un cappellino e una cravatta verdi, o una giacca da aviatore
-
-
-Abilità
-4 Sporcare e Sporcarti
-3 Scalare Alberi
-2 Consapevolezza
-2 Nascondersi
-1 Combattere (Artigli)
-
-
-Speciale
-Puoi chiedere alle pulci di fare cose che solo le pulci possono fare, come saltare sul collo di qualcuno e fargli prurito, balzare in cima a un muro e riferire su cosa c'è oltre, spiare da una stretta serratura o farti da guardia mentre dormi.
-Per mantenere le tue pulci (e la tua crosta) devi bagnarti il meno possibile, altrimenti ti tocca andare alla ricerca di nuove amiche, e i veri amici sono difficili da trovare.]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
