@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-26T06:15:18.694Z</updated>
+    <updated>2022-10-26T08:14:08.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SISTEMA MAGICO FREEFORM]]></title>
+        <id>https://gnollmassacrofamiglia.blogspot.com/2022/10/sistema-magico-freeform.html</id>
+        <link href="https://gnollmassacrofamiglia.blogspot.com/2022/10/sistema-magico-freeform.html"/>
+        <updated>2022-10-26T07:32:00.003Z</updated>
+        <summary type="html"><![CDATA[Tutti amano un bel sistema magico freeform. Eccone uno.
+Tutti ci hanno dei PUNTI INCANTESIMO™. Quando lanci una magia dici la formula magica e fai così con le mani e dici che cosa fa la magia. Più è forte la magia più costa PUNTI INCANTESIMO™. Ogni tanto i PUNTI INCANTESIMO™ ti ritornano.]]></summary>
+        <author>
+            <name>Gli gnoll hanno massacrato la mia famiglia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: il Naftabosco  - domanda n. 15]]></title>
         <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_25.html</id>

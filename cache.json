@@ -442,7 +442,18 @@
       "title": "Gli gnoll hanno massacrato la mia famiglia",
       "feedUrl": "https://gnollmassacrofamiglia.blogspot.com/feeds/posts/default",
       "siteUrl": "https://gnollmassacrofamiglia.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://gnollmassacrofamiglia.blogspot.com/2022/10/sistema-magico-freeform.html",
+          "author": null,
+          "description": "Tutti amano un bel sistema magico freeform. Eccone uno.\nTutti ci hanno dei PUNTI INCANTESIMO™. Quando lanci una magia dici la formula magica e fai così con le mani e dici che cosa fa la magia. Più è forte la magia più costa PUNTI INCANTESIMO™. Ogni tanto i PUNTI INCANTESIMO™ ti ritornano.",
+          "link": "https://gnollmassacrofamiglia.blogspot.com/2022/10/sistema-magico-freeform.html",
+          "publishedOn": "2022-10-26T07:32:00.003Z",
+          "wordCount": 4986,
+          "title": "SISTEMA MAGICO FREEFORM",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi5tu7vN-1hMVcURDFy8NVwmW5Ts5s051fJr6ZMo-8ek6zdHyqb-L7tVU5ZtNrpTMK50p9ISjpLKRXMuko4Mx9Mq5WExSx40ClKVKuxNDgLeIRyBfzjtQ85ekpv9GzALYrgyoaKtEiGp20LYeTbBDADas4RlwYDXZGg0sGryEL7VJTeA2Y1ijD5F2DK=w1200-h630-p-k-no-nu"
+        }
+      ]
     },
     {
       "title": "Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io",
