@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-10-30T08:13:02.085Z</updated>
+    <updated>2022-10-30T10:10:46.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CYBER_PUNKS - Risorse per giocare OSR sul filo del rasoio]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2022/10/cyberpunks-risorse-per-giocare-osr-sul.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2022/10/cyberpunks-risorse-per-giocare-osr-sul.html"/>
+        <updated>2022-10-30T08:22:00.001Z</updated>
+        <summary type="html"><![CDATA[Questo post serve a raccogliere risorse, provenienti dalla galassia OSR e da altri stili di gioco, per giocare di ruolo in un setting Cyberpunk.
+
+
+È un post aperto e verrà aggiornato ad ogni nuova scoperta. Se volete suggerire delle risorse da aggiungere alla lista, vi invito a segnalarle nei commenti.
+
+
+
+
+GIOCHI COMPLETI
+
+Cyber Glog
+Sprawl Goons: Upgraded
+NETWORK 23 Revised edition
+Veil 2020
+CY_BORG
+The Black Hack: Cyber-Hacked! 
+Trash Planet Epsilon 5
+2400 Codebreakers
+Mainframe
+Dancing with Bullets Under a Neon Sun
+Zaibatsu
+Wired Neon Cities - Minimalist Cyberpunk Roleplaying
+Neon City Overdrive
+
+
+
+
+SUPPLEMENTI / RISORSE
+
+
+Mirrorshades
+Sprawlscape Cyber City Kit
+Polychrome: Cyberpunk Adventure for Stars Without Number
+2400 Data Loss
+Augmented Reality, The Holistic City Kit For Cyberpunk Games
+Augmented Reality PLUS]]></summary>
+        <author>
+            <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco - domanda n. 18]]></title>
         <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_28.html</id>
@@ -524,16 +569,6 @@ Atlante di Colbrugh
 A Colbrugh è inverno tutto l'anno. I comignoli fumano gioiosi ogni giorno e le strade sono sempre avvolte dal profumo di caldarroste e dal s…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: L’Inverno]]></title>
-        <id>http://sephilrosso.wordpress.com/?p=956</id>
-        <link href="https://sephilrosso.wordpress.com/2022/10/01/vecchio-carnevale-blogghereccio-linverno/"/>
-        <updated>2022-09-30T22:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Questo mese il Vecchio CArnevale lo ospito io, con Blackjack e Squillo di Lusso]]></summary>
-        <author>
-            <name>SephilRosso</name>
         </author>
     </entry>
 </feed>

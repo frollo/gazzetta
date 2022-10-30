@@ -86,7 +86,18 @@
       "title": "ARCIPELAGO CELESTE",
       "feedUrl": "https://arcipelagoceleste.blogspot.com/feeds/posts/default",
       "siteUrl": "https://arcipelagoceleste.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://arcipelagoceleste.blogspot.com/2022/10/cyberpunks-risorse-per-giocare-osr-sul.html",
+          "author": null,
+          "description": "Questo post serve a raccogliere risorse, provenienti dalla galassia OSR e da altri stili di gioco, per giocare di ruolo in un setting Cyberpunk.\n\n\nÈ un post aperto e verrà aggiornato ad ogni nuova scoperta. Se volete suggerire delle risorse da aggiungere alla lista, vi invito a segnalarle nei commenti.\n\n\n\n\nGIOCHI COMPLETI\n\nCyber Glog\nSprawl Goons: Upgraded\nNETWORK 23 Revised edition\nVeil 2020\nCY_BORG\nThe Black Hack: Cyber-Hacked! \nTrash Planet Epsilon 5\n2400 Codebreakers\nMainframe\nDancing with Bullets Under a Neon Sun\nZaibatsu\nWired Neon Cities - Minimalist Cyberpunk Roleplaying\nNeon City Overdrive\n\n\n\n\nSUPPLEMENTI / RISORSE\n\n\nMirrorshades\nSprawlscape Cyber City Kit\nPolychrome: Cyberpunk Adventure for Stars Without Number\n2400 Data Loss\nAugmented Reality, The Holistic City Kit For Cyberpunk Games\nAugmented Reality PLUS",
+          "link": "https://arcipelagoceleste.blogspot.com/2022/10/cyberpunks-risorse-per-giocare-osr-sul.html",
+          "publishedOn": "2022-10-30T08:22:00.001Z",
+          "wordCount": 5602,
+          "title": "CYBER_PUNKS - Risorse per giocare OSR sul filo del rasoio",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-OFMB21LYbHBWE1YWA5i0eO7qm2ulG4B8h026ispZExDAbMjaq-Wq_1yPiZlaAaVAUEOG1BP4G9rghkC_A-EF2jGjqLm7Dm-tIOG6GtAfPFYgV-O5ofe1_AmomEpjq7epKX9lSDdvJMnksqWGONo7PgRDIpQc5ujcananciz1rc6n5wpq4GHnzxaY/w1200-h630-p-k-no-nu/Cyberpunk_Edgerunners_Season1_Episode2_00_18_30_21.webp"
+        }
+      ]
     },
     {
       "title": "I CANCELLI DI HELLWINTER",
@@ -386,18 +397,7 @@
       "title": "L'Antro di Sephil Rosso",
       "feedUrl": "https://sephilrosso.wordpress.com/feed/",
       "siteUrl": "https://sephilrosso.wordpress.com",
-      "articles": [
-        {
-          "id": "http://sephilrosso.wordpress.com/?p=956",
-          "author": "SephilRosso",
-          "description": "Questo mese il Vecchio CArnevale lo ospito io, con Blackjack e Squillo di Lusso",
-          "link": "https://sephilrosso.wordpress.com/2022/10/01/vecchio-carnevale-blogghereccio-linverno/",
-          "publishedOn": "2022-09-30T22:01:00.000Z",
-          "wordCount": 2966,
-          "title": "Vecchio Carnevale Blogghereccio: L’Inverno",
-          "imageUrl": "https://sephilrosso.files.wordpress.com/2021/11/vcb.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Antiche Rovine",
