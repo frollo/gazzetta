@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-02T20:10:36.657Z</updated>
+    <updated>2022-11-02T22:10:27.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Guerra! Il recap]]></title>
+        <id>https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Guerra-il-recap/</id>
+        <link href="https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Guerra-il-recap/"/>
+        <updated>2022-11-02T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ed eccoci qua, con un po’ di ritardo, a vedere com’è andato il nostro mese di Carnevale. Come ricorderete, questa volta il tema era <a href="/2022/Vecchio-Carnevale-Blogghereccio-Guerra/" title="la guerra">la guerra</a>.</p>
+<p>Il tema ha riscosso un discreto successo con la bellezza di 11 post raccolti in un solo mese. Siccome sono in ritardo clamoroso, invece che fare un elenchetto stringato, provo a fare una cosa più ordinata.</p>
+<span id="more"></span>
+
+<h2 id="I-Giochi"><a href="#I-Giochi" class="headerlink" title="I Giochi"></a>I Giochi</h2><p>Eh sì, la guerra è un tema interessante e che potrebbe occupare un intero gioco (in fondo, il nostro hobby è nato dai wargame, quindi perché non fare il giro opposto?), tanto che abbiamo avuto la bellezza di due giochi dedicati:</p>
+<ul>
+<l…]]></summary>
+        <author>
+            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Novembre - Le Biblioteche by Gilda dei Ruolatori]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/446974/novembre-le-biblioteche-by-gilda-dei-ruolatori</id>
