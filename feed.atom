@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-02T14:19:32.187Z</updated>
+    <updated>2022-11-02T16:15:14.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Novembre - Le Biblioteche by Gilda dei Ruolatori]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/446974/novembre-le-biblioteche-by-gilda-dei-ruolatori</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/446974/novembre-le-biblioteche-by-gilda-dei-ruolatori"/>
+        <updated>2022-11-02T14:38:53.000Z</updated>
+        <summary type="html"><![CDATA[L'Inverno è arrivato ed è passato (nel Carnevale, poiché nella vita reale sta giungendo, ma si sta prendendo il suo tempo) ed è giunto il momento di rifugiarci nei migliori luoghi dove perdersi pe...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco - domanda n.  19]]></title>
         <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_31.html</id>
