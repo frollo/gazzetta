@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-02T22:10:27.923Z</updated>
+    <updated>2022-11-03T00:57:59.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -558,22 +558,6 @@ Inoltre,  alcuni articoli di attrezzatura comuni usati  potrebbero essere disp
         <summary type="html"><![CDATA[Ispirato da un esperimento di worldbuilding condiviso che ho intrapreso insieme all'ottima gente di Eclectica GDR,  ho deciso di intraprenderne un altro, ovvero creare un'ambientazione per giocare di ruolo (preferibilmente in stile OSR e FKR) usando le 20 domande inventate a suo tempo da Jeff Rients. Queste domande individuano molti aspetti del setting che verosimilmente entreranno spesso in gioco, in contrapposizione a ciò che si legge su molti supplementi commerciali, in cui spesso (ma per fortuna non sempre) fin troppe informazioni sono di utilità dubbia al tavolo. Mi sono dato tempo da qui alla fine dell'anno per rispondere a tutte delineando così l'ambientazione. Dopo un breve sondaggio in un altro gruppo, mi sono infine deciso per dare un sapore techno fantasy / science fantasy al nu…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rime di Esperia #1 (Introduzione e Monastero dei Viandanti)]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2022/10/rime-di-esperia-1-introduzione-e.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2022/10/rime-di-esperia-1-introduzione-e.html"/>
-        <updated>2022-10-04T10:34:00.002Z</updated>
-        <summary type="html"><![CDATA[E' da tempo che l'idea di un setting fantasy italico mi stuzzica, complici le influenze dei romanzi di Mazza e Sensolini  e le bellissime suggestioni del Official Game Reveal di Enotria: The Last Song (progetto videoludico nostrano). 
-Ecco alcune idee per incominciare:
-
-
-Vorrei utilizzare questa ambientazione per giochi della famiglia di Into the Odd (magari una versione lievemente modificata di Cairn o qualcos'altro).
-Mi piace l'idea di una città turbolenta e piena di segreti, con un culto politeistico basato sui santi e sui diavoli. Piena di ciarlatani, cospiratori, pazzi, arlecchini, mostriciattoli, vescovi tenebrosi e tanto altro!
-Voglio mettere dentro questa città personaggi e vicende assurde, grottesche, tragicomiche. Magari prendendo ispirazione dal Decamerone o dal Morgante. Mi pia…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
