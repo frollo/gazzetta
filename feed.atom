@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-03T20:09:26.708Z</updated>
+    <updated>2022-11-03T22:09:42.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -573,16 +573,6 @@ Inoltre,  alcuni articoli di attrezzatura comuni usati  potrebbero essere disp
         <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_6.html</id>
         <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_6.html"/>
         <updated>2022-10-06T16:58:00.004Z</updated>
-        <summary type="html"><![CDATA[Ispirato da un esperimento di worldbuilding condiviso che ho intrapreso insieme all'ottima gente di Eclectica GDR,  ho deciso di intraprenderne un altro, ovvero creare un'ambientazione per giocare di ruolo (preferibilmente in stile OSR e FKR) usando le 20 domande inventate a suo tempo da Jeff Rients. Queste domande individuano molti aspetti del setting che verosimilmente entreranno spesso in gioco, in contrapposizione a ciò che si legge su molti supplementi commerciali, in cui spesso (ma per fortuna non sempre) fin troppe informazioni sono di utilità dubbia al tavolo. Mi sono dato tempo da qui alla fine dell'anno per rispondere a tutte delineando così l'ambientazione. Dopo un breve sondaggio in un altro gruppo, mi sono infine deciso per dare un sapore techno fantasy / science fantasy al nu…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande:  Aquarius - Introduzione]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande.html"/>
-        <updated>2022-10-05T09:29:00.004Z</updated>
         <summary type="html"><![CDATA[Ispirato da un esperimento di worldbuilding condiviso che ho intrapreso insieme all'ottima gente di Eclectica GDR,  ho deciso di intraprenderne un altro, ovvero creare un'ambientazione per giocare di ruolo (preferibilmente in stile OSR e FKR) usando le 20 domande inventate a suo tempo da Jeff Rients. Queste domande individuano molti aspetti del setting che verosimilmente entreranno spesso in gioco, in contrapposizione a ciò che si legge su molti supplementi commerciali, in cui spesso (ma per fortuna non sempre) fin troppe informazioni sono di utilità dubbia al tavolo. Mi sono dato tempo da qui alla fine dell'anno per rispondere a tutte delineando così l'ambientazione. Dopo un breve sondaggio in un altro gruppo, mi sono infine deciso per dare un sapore techno fantasy / science fantasy al nu…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
