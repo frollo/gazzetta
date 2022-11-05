@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-05T16:12:17.308Z</updated>
+    <updated>2022-11-05T18:11:36.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tanto lavoro e poco spazio per il blog?]]></title>
+        <id>https://autarkikagdr.blogspot.com/2022/11/tanto-lavoro-e-poco-spazio-per-il-blog.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2022/11/tanto-lavoro-e-poco-spazio-per-il-blog.html"/>
+        <updated>2022-11-05T17:23:00.009Z</updated>
+        <summary type="html"><![CDATA[Immagine proprietà di Putrid Games
+
+
+Buonasera a tutti,
+
+come avrete notato da qualche tempo sto dedicando le mie energie ad alcune attività inerenti al gdr tralasciando la scrittura di questo blog.
+Oltre ad questoni lavorative mi sono dedicato ad essere presente ad alcune fiere e ho iniziato a gestire un gruppo di Facebook dedicato ai giochi OSR nostrani.
+Le tre attività che mi hanno più impegnato di questi tempi sono state:
+- la scrittura di un'avventura per Strange Magic intitolata "Una Luce nella Nebbia" che dovrebbe essere pubblicata tra circa due settimane (sto aspettando le prove di stampa).
+- la scrittura del terzo manuale de "La Terra Oscura" dedicato ai mostri, quest'ultimo mi sta facendo sudare faticare non poco a causa di alcuni problemi dovuti alla matematica del sistema. Nei primi manuali ho lasciato le meccaniche del tutto inalterate, purtroppo a livelli elevati i mostri tendevano a diventare inutili.
+-l'editing dei testi de La Guida Parzialmente Comprensiva di Pah'van, edita da Putrid Games.
+Non disperate, presto vi presenterò nuovo manteriale gratuito per le vostre partite.
+A presto
+@threeballs
+
+
+P.S. il materiale gratuito lo avete sopra, un grazie a Putri Games.]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco - domanda n.  20]]></title>
         <id>https://castellochimerico.blogspot.com/2022/11/creiamo-unambientazione-in-20-domande.html</id>
