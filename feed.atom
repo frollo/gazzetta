@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-06T00:56:41.778Z</updated>
+    <updated>2022-11-06T03:19:17.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -560,23 +560,6 @@ A Città Lepega non c'è un artigiano che ne abbia le competenze per un lavoro c
 In alternativa, gli Gnomi dei Colli Muschiosi ne avrebbero certamente le capacità,  ma preferiscono non avere a che fare con gli esseri umani, anzi, di solito  non si fanno nemmeno vedere!  D'altra parte c'è sempre una prima volta e qualcuno potrebbe anche riuscire a convincerli, magari riuscendo a capire cosa interessa loro..]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rime di Esperia #2 (Porta Maestra)]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2022/10/rime-di-esperia-2-porta-maestra.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2022/10/rime-di-esperia-2-porta-maestra.html"/>
-        <updated>2022-10-07T14:01:00.004Z</updated>
-        <summary type="html"><![CDATA[Prosegue la costruzione del mio pointcrawl fantasy italico. Dopo aver descritto il Monastero del Viandante ci si avvicina sempre di più alla città di Bastione. Ma prima è necessario superarne le poderose mura. Ci sono svariati cancelli, ma oggi affronterò il più importante di tutti...
-La Porta Maestra
-
-
-
-“All’alba passa il gregge del pastore, a mezzodì la cricca del Signore. Al calar del Sole passa il furfante in ronda, mentre a notte fonda passa il Don con la sua boldra”
-La Porta Maestra è la principale via di accesso per Bastione, un nodo nevralgico della città. Giorno e notte è affollata di mercanti e gente impegnata in affari di svariata e dubbia natura. Il controllo degli armigeri è alquanto lasso, ma più attento che presso gli altri cancelli della città. 
-Essendo un luogo in perenne …]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
