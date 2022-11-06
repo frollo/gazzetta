@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-05T22:09:15.204Z</updated>
+    <updated>2022-11-06T00:56:41.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -577,21 +577,6 @@ La Porta Maestra è la principale via di accesso per Bastione, un nodo nevralgic
 Essendo un luogo in perenne …]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco  n.2]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_7.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_7.html"/>
-        <updated>2022-10-07T12:49:00.003Z</updated>
-        <summary type="html"><![CDATA[Rieccoci al Naftabosco per la seconda domanda che contribuirà a creare l' ambientazione. 
-2 Dove posso comprare dell' equipaggiamento standard?  
-Molti oggetti utili agli avventurieri si possono comprare all' Emporio di Città Lepega, tranne le armi e le armature,  che invece si trovano da Vilorga la spadaia, le cui lame e altre armi sono di Buons qualità ma a volte molto care (con 1 su d6 il loro prezzo aumenta anche del 50%) e da Mungo il corazzaio, piuttosto onesto ma che non ha molta scelta. La merce di Mungo, anche se di solito è funzionale,  lascia a desiderare  lascia a desiderare in quanto a estetica, inoltre le armature e gli scudi desiderati non saranno disponibili con un risultato di 1-2 su 1d6, a causa della svogliatezza dell' artigiano e dei suoi stolidi  apprendisti,  ben diversi dai capaci (ma avidi e voraci) figli di Vilorga. 
-
-
-Inoltre,  alcuni articoli di attrezzatura comuni usati  potrebbero essere disponibili presso la Taverna "Da Tonio Cialtronio " ai margini del Naftabosco  e al Castello della famiglia  Zerchioni, detta "Bruttoni ".]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
