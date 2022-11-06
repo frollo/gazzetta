@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-06T08:13:02.418Z</updated>
+    <updated>2022-11-06T10:10:21.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Un Cont(r)atto di Troppo]]></title>
+        <id>https://hellwinter.blogspot.com/2022/11/un-contratto-di-troppo.html</id>
+        <link href="https://hellwinter.blogspot.com/2022/11/un-contratto-di-troppo.html"/>
+        <updated>2022-11-06T08:46:00.003Z</updated>
+        <summary type="html"><![CDATA[In occasione della CON Giochi in Biblioteca, organizzata a Sesto Fiorentino dagli amici di Kraken GDR, il team di Hellwinter è stato ospite con due tavoli di gioco.
+Il nostro Gianluca Boccia ha masterizzato il GDR cyberpunk Neon City Overdrive, con un'avventura scritta da lui: Un Cont(r)atto di troppo.
+
+
+
+Abbiamo deciso di editare l'avventura e di renderla disponibile a tutte le avventuriere e gli avventurieri che desiderassero giocarla!
+Potete scaricare l'avventura facendo clic qui. Buon divertimento!]]></summary>
+        <author>
+            <name>I CANCELLI DI HELLWINTER</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tanto lavoro e poco spazio per il blog?]]></title>
         <id>https://autarkikagdr.blogspot.com/2022/11/tanto-lavoro-e-poco-spazio-per-il-blog.html</id>
