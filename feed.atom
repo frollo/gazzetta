@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-08T20:12:33.038Z</updated>
+    <updated>2022-11-08T22:11:02.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Come Giocare Avventure Investigative in Stile OSR]]></title>
+        <id>https://dismastersden.blogspot.com/2022/11/come-giocare-avventure-investigative-in.html</id>
+        <link href="https://dismastersden.blogspot.com/2022/11/come-giocare-avventure-investigative-in.html"/>
+        <updated>2022-11-08T22:05:00.001Z</updated>
+        <summary type="html"><![CDATA[Stavolta il post di oggi non è mio in nessun modo, ma è un'ospitata che faccio   molto volentieri perché il pezzo è semplicemente ottimo. 
+
+
+  È infatti la traduzione di How To Run OSR-Style Investigative Adventures, di Captain Caveman (dal blog Cyborgs and Sorcerers) ad opera di Nicolò Mencaraglia  a cui, non avendo lui un blog, mi sono offerto di ospitarla. 
+
+
+  Ringraziando un sacco Nicolò, godetevi il post, ora in italiano! 
+
+
+◈ ◈ ◈
+
+
+  Come Giocare Avventure Investigative in Stile OSR 
+
+
+  Alle persone piace l'idea alla base delle avventure investigative, ma c'è   molta confusione su come realizzarle o se possono essere giocate in stile OSR,   cioè in modo più o meno sandbox, basate sulle abilità del giocatore,   difficili, dove il fallimento dei personaggi è un'opzione ecc. 
+  
+
+  
+ …]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Un Cont(r)atto di Troppo]]></title>
         <id>https://hellwinter.blogspot.com/2022/11/un-contratto-di-troppo.html</id>
