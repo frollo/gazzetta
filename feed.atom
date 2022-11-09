@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-09T10:11:10.263Z</updated>
+    <updated>2022-11-09T12:23:45.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Le biblioteche]]></title>
+        <id>https://castellochimerico.blogspot.com/2022/11/vecchio-carnevale-blogghereccio-le.html</id>
+        <link href="https://castellochimerico.blogspot.com/2022/11/vecchio-carnevale-blogghereccio-le.html"/>
+        <updated>2022-11-09T11:23:00.001Z</updated>
+        <summary type="html"><![CDATA[Eccoci tornati al Vecchio Carnevale Blogghereccio! La puntata di novembre, ospitata dalla Gilda dei Ruolatori,  è a tema biblioteche, e ciò mi ha  fatto molto piacere: amo leggere, inoltre librerie e biblioteche sono luoghi in cui mi trovo decisamente bene, anche se attualmente non sto frequentando granché le prime. Mi è saltata in mente l'idea di un megadungeon costituito da un'unica enorme biblioteca, ma il progetto è ovviamente irrealizzabile in tempi brevi..
+
+
+
+Perciò, ho deciso di realizzare un piccolo dungeon, la Biblioteca dei libri sognati e mai scritti.
+La biblioteca è uno spazio onirico, e vi si può accedere da un'altra biblioteca, libreria o casa situata nel mondo fisico, a patto che contenga almeno 100 libri. Per raggiungere la biblioteca dei libri sognati e mai scritti è neces…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Come Giocare Avventure Investigative in Stile OSR]]></title>
         <id>https://dismastersden.blogspot.com/2022/11/come-giocare-avventure-investigative-in.html</id>
