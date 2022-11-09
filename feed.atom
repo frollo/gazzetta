@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-09T16:14:31.729Z</updated>
+    <updated>2022-11-09T18:12:56.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recap Ottobrino del Vecchio Carnevale Blogghereccio]]></title>
+        <id>http://sephilrosso.wordpress.com/?p=972</id>
+        <link href="https://sephilrosso.wordpress.com/2022/11/09/recap-ottobrino-del-vecchio-carnevale-blogghereccio/"/>
+        <updated>2022-11-09T16:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Riassunto caldo caldo del mese di ottobre del VCB dedicato all'Inverno]]></summary>
+        <author>
+            <name>SephilRosso</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Le biblioteche]]></title>
         <id>https://castellochimerico.blogspot.com/2022/11/vecchio-carnevale-blogghereccio-le.html</id>
