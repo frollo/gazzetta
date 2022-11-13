@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-13T18:11:43.236Z</updated>
+    <updated>2022-11-13T20:10:12.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -532,17 +532,6 @@ Iniziamo col dire che lo scopo di una tabella, di questo tipo, è fornire imprev
 Il primo passo necessario per creare una tabella è determinarne la funzione e se il suo contenuto debba essere punitivo durante lo svol…]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande : Il Naftabosco - domanda n. 9]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_15.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_15.html"/>
-        <updated>2022-10-15T08:07:00.000Z</updated>
-        <summary type="html"><![CDATA[9: È presente una gilda di incantatori a cui la mia, strega o il mio mago appartiene o a cui può rivolgersi per ottenere nuovi incantesimi?  
-La Premiata Scuola Magica di città Lepega ha sede in alcune costruzioni un po' trascurate ma solide, vicino alla piazza del mercato cittadino.  Qui maghi e streghe possono imparare le arti magiche in cambio di una retta sostanziale ma non astronomica e di aiuto nei lavori domestici per tenere in ordine la scuola e le case  degli insegnanti. Gli allievi più anziani assistono anche i docenti nei loro procedimenti arcani, facendo così delle ottime esperienze.  I candidati più meritevoli possono anche ottenere degli sconti in cambio dell'impegno  a compiere missioni (pericolose) per conto dei maestri, una volta terminato l'apprendistato.  In breve,  si tratta di una delle rarissime attività oneste di nome e di fatto presenti a Città Lepega, fatto che ha reso la  carriera magica decisamente popolare tra chi se lo poteva permettere, a discapito del mestiere delle armi. È però da tenere ben presente che maestre e maestri della scuola pretendono  estrema precisione nel pagamento della retta e dei debiti,  e non si fanno scrupolo non solo  di riscuoterli, ma anche di vendicarsi verso i debitori.]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
