@@ -203,18 +203,7 @@
       "title": "The Secret Game - Il Gioco Segreto",
       "feedUrl": "https://scrtgm.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scrtgm.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://scrtgm.blogspot.com/2022/10/come-creoconverto-mostri-per-giochi-odd.html",
-          "author": null,
-          "description": "(mentre scrivo questo articolo mi rendo conto che la faccio molto più complicata di quanto potrebbe essere, però sticazzi mi diverto così)\nPer convertire gli HP mi baso sugli HD:\n<4: d6hp\n4-10: 2d6 hp\n>10: 3d6 hp\nSinceramente la formula consigliata da Yochai Gal per cui 1 HD= 1HP è più semplice e dà gli stessi risultati\nSe creo il mostro dal nulla, come consigliato qui, dò d6 hp se è una creature normale, 2d6 hp se se la cava nel combattimento, 3d6 hp se è proprio tosto\nLe statistiche le tiro su 3d6 ma le scambio o le riaggiusto se non hanno senso\nArmatura:\n\n1 se il mostro è grosso o è parzialmente protetto\n2 se è enorme o completamente protetto\n3 se è proprio fatto di un materiale duro come roccia o metallo\nDopodiché guardo questo articolo e confronto per vedere se l'effetto che avrà sul …",
-          "link": "https://scrtgm.blogspot.com/2022/10/come-creoconverto-mostri-per-giochi-odd.html",
-          "publishedOn": "2022-10-17T20:11:00.002Z",
-          "wordCount": 2683,
-          "title": "Come creo/converto mostri per giochi Odd",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Il Castello Chimerico",
