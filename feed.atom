@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-18T22:09:15.131Z</updated>
+    <updated>2022-11-19T00:54:11.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -532,19 +532,6 @@ Cosa mi ha ispirato? Ma questo, ovviamente!]]></summary>
         <summary type="html"><![CDATA[12: Ci sono luoghi  dove è illegale portare armi, lanciare incantesimi o sono in vigore altre leggi particolari di cui dovrei essere al corrente? 
 No,  inoltre Città Lepega è  l'unico luogo in cui ci sia una parvenza di legge e ordine più organizzata rispetto alla volontà della signora del castello o  dell'essere più forte del posto. 
 In città, come negli altri rari luoghi civilizzati,  è proibito fare del male al prossimo e derubarlo, così come usare la magia per forzarlo  a compiere qualsiasi atto, ma non ci sono limitazioni particolari. L' ordine è mantenuto dal Consiglio Cittadino, formato dagli abitanti più ricchi (come Bezelius l' alchimista) e dai maestri della Premiata Scuola Magica. Il consiglio paga delle piccole squadre di guardie per vigilare sulla sicurezza della città, formate  di solito da due armati (dotati di giubbe imbottite, elmetti e spade corte, nonché di ronconi o alabarde) e un mago. Tali guardie possono chiamare velocemente aiuto con i loro fischietti ed è facile che chi causa problemi possa trovarsi davanti dopo poco tempo 3d6 armati e 1d6 maghi.  D'altra parte pochi degli armati sono combattenti professionisti e quasi tutte le guardie hanno la fama di essere piuttosto corruttibili.]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[un'ambientazione in 20 domande : Il Naftabosco - domanda n. 11]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/10/unambientazione-in-20-domande-il.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/10/unambientazione-in-20-domande-il.html"/>
-        <updated>2022-10-20T10:18:00.003Z</updated>
-        <summary type="html"><![CDATA[11: Dove posso reclutare dei mercenari?
-Se parliamo di semplici inservienti che si limitino a accompagnare la spedizione per portare l'attrezzatura e reggere le lampade, se ne possono trovare parecchi nella piazza del mercato di Città Lepega o in qualunque taverna. La paga normale per tali individui è di 2 pezzi d'argento al giorno, più il vitto e,  se si transita in zone civilizzato,  l'alloggio. Si tratta però sempre di non combattenti,  che, pur essendo sovente persone con ben poco da perdere,  eviteranno di rischiare la pelle. Inoltre la loro lealtà è spesso dubbia.
-Trovare veri mercenari combattenti addestrati è più difficile. A Città Lepega saranno disponibili solo  con un risultato di 6 su 1d6, mentre presso la Locanda di Tonio Cialtronio se ne incontra quasi sempre qualcuno, seppure in numero variabile (1d6 mercenari presenti in un dato momento). I soldati mercenari presenti a Castello Zerchioni - Bruttoni non vengono normalmente ceduti,  ma potreste convincere i signori del castello a prestarvene qualcuno in cambio di qualche servizio (solitamente di natura pericolosa).  La paga di questi armati dipende dalla loro esperienza e dal loro armamento, ma non è mai inferiore a 2 pezzi d'oro al giorno, più una parte da negoziare dei tesori guadagnati. È però sempre tenere presente che, anche se si tratta di persone disposte a combattere, dietro pagamento,  la loro lealtà e  il loro coraggio non sono in nessun modo garantiti! 
-Un'alternativa abbastanza rischiosa può essere quella di reclutare degli Hobgoblin, se li si incontra nei boschi. Considerate che si tratta pur sempre di esseri fatati dal carattere mercuriale, che oltre il normale pagamento potrebbero richiedere altri servizi e favori, probabili fonti di guai.]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
         </author>
