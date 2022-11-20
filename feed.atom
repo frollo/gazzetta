@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-20T14:08:26.397Z</updated>
+    <updated>2022-11-20T16:12:11.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guerra! e L'Inverno - Raccolte di Settembre e Ottobre]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/453975/guerra-e-linverno-raccolte-di-settembre-e-ottobre</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/453975/guerra-e-linverno-raccolte-di-settembre-e-ottobre"/>
+        <updated>2022-11-20T14:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Con un po' di ritardo da parte di tutti (compreso me che scrivo), ecco finalmente le raccolte dei mesi di settembre e ottobre, con temi assai interessanti e decisamente partecipati! Guerra! - ospitato...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dungeons: Forgotten Lands è ora di esplorare le regioni ostili di Em]]></title>
         <id>https://cronachedaldungeon.blogspot.com/2022/11/dungeons-forgotten-lands-e-ora-di.html</id>
@@ -512,45 +522,6 @@ A Città Lepega ci sono parecchie taverne, ma la base degli avventurieri che par
 Se si getta un fungo velenoso della specie nota come "Orecchia di Morto", (che si trova solo nel  Naftabosco) nella bocca della Malevisione, accompagnandolo con mezza mezza pinta del proprio sangue (-1 punto di Forza in Cairn o -1pf massimo per tutta la giornata/sessione in La Scatola Bianca) lo schermo si accende e l'artefatto mostra una scena del passato, presente o futuro, completa di sonoro e spesso orribile, ma di solito potenzialmente molto utile.]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supereroe Tarocco // un background per Troika! e Kasta!]]></title>
-        <id>https://dismastersden.blogspot.com/2022/10/supereroe-tarocco-un-background-per.html</id>
-        <link href="https://dismastersden.blogspot.com/2022/10/supereroe-tarocco-un-background-per.html"/>
-        <updated>2022-10-22T02:28:00.001Z</updated>
-        <summary type="html"><![CDATA[Nella tua piccola sfera natia sei amato da tutti, ma non appena hai messo piede fuori da essa ti sei reso conto che per tutti gli altri sei solo una macchietta, una buffonata, una brutta copia dei veri supereroi. Il tuo costume è in qualche modo sbagliato, i tuoi poteri non all'altezza delle aspettative e le tue coreografie e danze appaiono strambe e amatoriali. Ma i supercattivi vanno sconfitti comunque, e te di certo non ti tirerai indietro.
-
-
-
-
-Averi
-Arma supereroica (ma solo nell'aspetto), oppure Pugni poderosi (danno come Bestia Modesta)
-Costume da supereroe da pochi spiccioli
-Cintura con gadget speciali ma dall'effetto contenuto
-Corpo di danza e canto che ti segue ovunque, ma appare solo quando ti esibisci
-
-
-Abilità
-1 Acrobatica
-1 Ballare
-1 Cantare
-1 Combattere (Arma, o Disarmato)
-1 Consapevolezza
-1 Forza
-1 Incantesimo Casuale
-1 Incantesimo Casuale
-1 Incantesimo Casuale
-1 Incantesimo Casuale
-1 Volare
-
-
-◈ ◈ ◈
-
-
-Cosa mi ha ispirato? Ma questo, ovviamente!]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
