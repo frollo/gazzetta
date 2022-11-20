@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-19T22:08:57.685Z</updated>
+    <updated>2022-11-20T00:56:00.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -551,18 +551,6 @@ Abilità
 Cosa mi ha ispirato? Ma questo, ovviamente!]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: il Naftabosco - domanda n. 12]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_21.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_21.html"/>
-        <updated>2022-10-21T11:54:00.001Z</updated>
-        <summary type="html"><![CDATA[12: Ci sono luoghi  dove è illegale portare armi, lanciare incantesimi o sono in vigore altre leggi particolari di cui dovrei essere al corrente? 
-No,  inoltre Città Lepega è  l'unico luogo in cui ci sia una parvenza di legge e ordine più organizzata rispetto alla volontà della signora del castello o  dell'essere più forte del posto. 
-In città, come negli altri rari luoghi civilizzati,  è proibito fare del male al prossimo e derubarlo, così come usare la magia per forzarlo  a compiere qualsiasi atto, ma non ci sono limitazioni particolari. L' ordine è mantenuto dal Consiglio Cittadino, formato dagli abitanti più ricchi (come Bezelius l' alchimista) e dai maestri della Premiata Scuola Magica. Il consiglio paga delle piccole squadre di guardie per vigilare sulla sicurezza della città, formate  di solito da due armati (dotati di giubbe imbottite, elmetti e spade corte, nonché di ronconi o alabarde) e un mago. Tali guardie possono chiamare velocemente aiuto con i loro fischietti ed è facile che chi causa problemi possa trovarsi davanti dopo poco tempo 3d6 armati e 1d6 maghi.  D'altra parte pochi degli armati sono combattenti professionisti e quasi tutte le guardie hanno la fama di essere piuttosto corruttibili.]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
