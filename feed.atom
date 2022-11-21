@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-21T00:54:13.373Z</updated>
+    <updated>2022-11-21T03:10:52.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
@@ -495,16 +495,6 @@ Vorga la Verde, trollessa acquatica che tende agguati alla gente (specialmente q
 I Drakken mutanti tricefali della  Valle naftosa, che assalgono i viandanti per divorarli, e a quanto pare gettano i loro possedimenti in un fosso catramoso, per motivi sconosciuti.]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Morsa del Gelo: un'avventura fantasy per i mesi più freddi]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2022/10/la-morsa-del-gelo-unavventura-fantasy.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2022/10/la-morsa-del-gelo-unavventura-fantasy.html"/>
-        <updated>2022-10-22T14:50:00.001Z</updated>
-        <summary type="html"><![CDATA[Giungono voci che la leggendaria e temuta Morvinter, signora delle nevi ed evocatrice della Morsa di Ghiaccio, sia spirata. Per quanto assurde queste dicerie possano sembrare, dai Monti del Lamento scende tanta di quell'acqua da innaffiare le Lande Brumose per i prossimi cent'anni. Che il disgelo sia la prova della sua morte? Se ciò fosse vero il suo regno avrebbe da offrire molte ricchezze e terribili artefatti! Voi, reietti del Luminoso Impero, avete deciso di approfittarne e scoprire se le cose stanno realmente così. Potreste racimolare tanti tesoti da riacquisire i vostri passati Titoli e abbandonare la vita da briganti nelle Lande Brumose! Si dice inoltre che Morvinter custodisse in una delle sue torri il cuore di un lindwurm dei ghiacci, che se mangiato conferirà la Maledizione del D…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
