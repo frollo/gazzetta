@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-21T08:13:25.215Z</updated>
+    <updated>2022-11-21T10:10:52.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Dungeon Crawler #1 C'è bisogno di un Pointcrawl!]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2022/11/pokemon-dungeon-crawler-merita-un.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2022/11/pokemon-dungeon-crawler-merita-un.html"/>
+        <updated>2022-11-21T09:05:00.003Z</updated>
+        <summary type="html"><![CDATA[Qualche giorno fa mi sono imbattuto in An Unofficial Pokémon Dungeon Crawler di Batts e ne sono rimasto affascinato. Si tratta di un gioco OSR in cui i personaggi sono Pokémon in un mondo dove gli umani si sono estinti. I giocatori esploreranno le rovine lasciate dagli umani, un po' nello stile di Pokémon Mystery Dungeon.
+
+Personalmente se sento OSR+Pokémon vado in brodo di giuggiole. Per quanto riguarda i videogiochi ho provato tutto quello che c'era da provare per GBA e GBC, ma non ho giocato nessuno dei titoli usciti dopo l'avvento del Nintendo DS. Ho provato alcuni gdr sui Pokémon (Pokémon Pen&Paper e Pokémon The Roleplay Game) ma nessuno dei due mi ha particolarmente colpito. In ogni caso ho deciso che voglio provare An Unofficial Pokémon Dungeon Crawler, quindi mi sono messo a prepar…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guerra! e L'Inverno - Raccolte di Settembre e Ottobre]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/453975/guerra-e-linverno-raccolte-di-settembre-e-ottobre</id>
