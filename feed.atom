@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-22T20:09:39.987Z</updated>
+    <updated>2022-11-22T22:09:29.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Dungeon Crawler #2 La Grotta dei Cristalli di Pallet Town]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2022/11/pokemon-dungeon-crawler-2-la-grotta-dei.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2022/11/pokemon-dungeon-crawler-2-la-grotta-dei.html"/>
+        <updated>2022-11-22T20:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Questo post segue a ruota il primo episodio della serie ed è un completamento dell'area di Pallet Town. Mi sono accorto che non potevo inaugurare una serie su Pokémon Dungeon Crawler (di Batts) senza creare un dungeon!
+La Grotta dei Cristalli è un piccolo ma tortuoso complesso ipogeo vicino a Pallet Town, abitata da una comunità di Paras. Ho deciso di creare un dungeon introduttivo basato su due dei mie Pokémon preferiti di prima generazione: Paras e Arbok.
+Iniziamo con la mappa:
+
+
+Mappa della Grotta dei Cristalli fatta con Mirò
+
+
+Agganci e Dicerie
+Il dungeon si basa sulla descrizione della Grotta dei Cristalli fatta nell'episodio #1 della serie:
+Piccolo complesso sotterraneo vicino a Pallet Town, ma incredibilmente buio e tortuoso. Da esso provengono, con cadenza molto rara, i cristalli c…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Dungeon Crawler #1 C'è bisogno di un Pointcrawl!]]></title>
         <id>https://calderonedeltroll.blogspot.com/2022/11/pokemon-dungeon-crawler-merita-un.html</id>
