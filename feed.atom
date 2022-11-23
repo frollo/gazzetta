@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frollo.github.io/gazzetta/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-23T04:11:21.302Z</updated>
+    <updated>2022-11-23T06:11:55.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
     <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beat'em up!]]></title>
+        <id>https://scrtgm.blogspot.com/2022/11/beatem-up.html</id>
+        <link href="https://scrtgm.blogspot.com/2022/11/beatem-up.html"/>
+        <updated>2022-11-23T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's my attempt at a tabletop game that simulates fighting games
+
+
+Maybe it could be used in a game with a kung-fu theme
+
+
+
+
+
+You'll have 5 cards in your hand:
+
+
+1. Light Strike Attack (2): disadvantaged against Blocks. Step up own die once if it connects. .
+2. Heavy Strike Attack (Ace): disadvantaged against Light Strikes and Blocks. If it connects, step up own die twice and step down opponent's die once.
+3. Dodge (Jack): cancels enemy's attack on a roll of 3+. If enemy's attack is cancelled, step down their die once
+4. Throw Attack (Queen): disadvantaged against Light and Heavy Strikes. Step down opponent's die once if it connects.
+5. Block (King): disadvantaged against Throws. If Block rolls higher, it cancels the enemy's attack, step down attacker's die once and step up defender's di…]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Dungeon Crawler #2 La Grotta dei Cristalli di Pallet Town]]></title>
         <id>https://calderonedeltroll.blogspot.com/2022/11/pokemon-dungeon-crawler-2-la-grotta-dei.html</id>

@@ -203,7 +203,18 @@
       "title": "The Secret Game - Il Gioco Segreto",
       "feedUrl": "https://scrtgm.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scrtgm.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://scrtgm.blogspot.com/2022/11/beatem-up.html",
+          "author": null,
+          "description": "Here's my attempt at a tabletop game that simulates fighting games\n\n\nMaybe it could be used in a game with a kung-fu theme\n\n\n\n\n\nYou'll have 5 cards in your hand:\n\n\n1. Light Strike Attack (2): disadvantaged against Blocks. Step up own die once if it connects. .\n2. Heavy Strike Attack (Ace): disadvantaged against Light Strikes and Blocks. If it connects, step up own die twice and step down opponent's die once.\n3. Dodge (Jack): cancels enemy's attack on a roll of 3+. If enemy's attack is cancelled, step down their die once\n4. Throw Attack (Queen): disadvantaged against Light and Heavy Strikes. Step down opponent's die once if it connects.\n5. Block (King): disadvantaged against Throws. If Block rolls higher, it cancels the enemy's attack, step down attacker's die once and step up defender's di…",
+          "link": "https://scrtgm.blogspot.com/2022/11/beatem-up.html",
+          "publishedOn": "2022-11-23T04:20:00.000Z",
+          "wordCount": 2483,
+          "title": "Beat'em up!",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvXDqH42AjJn4os9Ho1hZQatdSCbW9HkE7zzNxnzEjRwKpuZ6mZKWf_YFvDiM7mZf01CXtHKyErZK4aOo8P7R5YHJusjn41okn_09pfy50gpKkNA1Wa2RM_-hx_UF0fnHmlwHaSFrNzuqzXulo6vn2UzfUXuIPu-NMYbGLqzmukY5jhkVZ5cvivVbf/w1200-h630-p-k-no-nu/dcf8baa3e33cea3a3c6561f04aa18c64ece014087bd75e6ad5ff3f7c139a8beb._SX1080_.jpg"
+        }
+      ]
     },
     {
       "title": "Il Castello Chimerico",
