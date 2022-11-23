@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-23T16:12:21.117Z</updated>
+    <updated>2022-11-23T18:11:12.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -10,7 +10,7 @@
         <title type="html"><![CDATA[Beat'em up!]]></title>
         <id>https://scrtgm.blogspot.com/2022/11/beatem-up.html</id>
         <link href="https://scrtgm.blogspot.com/2022/11/beatem-up.html"/>
-        <updated>2022-11-23T04:20:00.000Z</updated>
+        <updated>2022-11-23T04:20:00.003Z</updated>
         <summary type="html"><![CDATA[Here's my attempt at a tabletop game that simulates fighting games
 
 
@@ -25,7 +25,7 @@ You'll have 5 cards in your hand:
 
 1. Light Strike Attack (2): disadvantaged against Blocks. Step up own die once if it connects. .
 2. Heavy Strike Attack (Ace): disadvantaged against Light Strikes and Blocks. If it connects, step up own die twice and step down opponent's die once.
-3. Dodge (Jack): cancels enemy's attack on a roll of 3+. If enemy's attack is cancelled, step down their die once
+3. Dodge (Jack): cancels enemy's attack on a roll of 3+. If enemy's attack is cancelled, step down both dice once
 4. Throw Attack (Queen): disadvantaged against Light and Heavy Strikes. Step down opponent's die once if it connects.
 5. Block (King): disadvantaged against Throws. If Block rolls higher, it cancels the enemy's attack, step down attacker's die once and step up defender's di…]]></summary>
         <author>
@@ -56,7 +56,7 @@ Piccolo complesso sotterraneo vicino a Pallet Town, ma incredibilmente buio e to
         <title type="html"><![CDATA[Pokémon Dungeon Crawler #1 C'è bisogno di un Pointcrawl!]]></title>
         <id>https://calderonedeltroll.blogspot.com/2022/11/pokemon-dungeon-crawler-merita-un.html</id>
         <link href="https://calderonedeltroll.blogspot.com/2022/11/pokemon-dungeon-crawler-merita-un.html"/>
-        <updated>2022-11-21T09:05:00.003Z</updated>
+        <updated>2022-11-21T09:05:00.004Z</updated>
         <summary type="html"><![CDATA[Qualche giorno fa mi sono imbattuto in An Unofficial Pokémon Dungeon Crawler di Batts e ne sono rimasto affascinato. Si tratta di un gioco OSR in cui i personaggi sono Pokémon in un mondo dove gli umani si sono estinti. I giocatori esploreranno le rovine lasciate dagli umani, un po' nello stile di Pokémon Mystery Dungeon.
 
 Personalmente se sento OSR+Pokémon vado in brodo di giuggiole. Per quanto riguarda i videogiochi ho provato tutto quello che c'era da provare per GBA e GBC, ma non ho giocato nessuno dei titoli usciti dopo l'avvento del Nintendo DS. Ho provato alcuni gdr sui Pokémon (Pokémon Pen&Paper e Pokémon The Roleplay Game) ma nessuno dei due mi ha particolarmente colpito. In ogni caso ho deciso che voglio provare An Unofficial Pokémon Dungeon Crawler, quindi mi sono messo a prepar…]]></summary>
@@ -78,7 +78,7 @@ Personalmente se sento OSR+Pokémon vado in brodo di giuggiole. Per quanto rigua
         <title type="html"><![CDATA[Dungeons: Forgotten Lands è ora di esplorare le regioni ostili di Em]]></title>
         <id>https://cronachedaldungeon.blogspot.com/2022/11/dungeons-forgotten-lands-e-ora-di.html</id>
         <link href="https://cronachedaldungeon.blogspot.com/2022/11/dungeons-forgotten-lands-e-ora-di.html"/>
-        <updated>2022-11-19T16:36:00.003Z</updated>
+        <updated>2022-11-19T16:36:00.004Z</updated>
         <summary type="html"><![CDATA[Dungeons: Forgotten Lands è un nuovo supplemento per il regolamento di Dungeons, gdr dai toni old school da giocare in solitario edito da Dungeoneer Games & Simulations, che ci porterà ad esplorare delle nuove regioni al di fuori degli ambienti conosciuti fin ora. Sempre in formato tascabile è stato presentato allo scorso Lucca comics in anteprima e uscito poco dopo per tutti su Terra dei Giochi.
 
 Introduce delle nuove meccaniche che aiuteranno il giocatore nelle sue avventure o lo ostacoleranno per rendergli la vita più difficile. 
@@ -107,7 +107,7 @@ Personalmente penso di utilizzare Beyound Corny Gron con il regolamento di Streb
         <title type="html"><![CDATA[5 BACKGROUND PER TROIKA ISPIRATI AD ELIO E LE STORIE TESE]]></title>
         <id>https://calderonedeltroll.blogspot.com/2022/11/5-background-per-troika-ispirati-ad.html</id>
         <link href="https://calderonedeltroll.blogspot.com/2022/11/5-background-per-troika-ispirati-ad.html"/>
-        <updated>2022-11-15T17:28:00.004Z</updated>
+        <updated>2022-11-15T17:28:00.005Z</updated>
         <summary type="html"><![CDATA[Un tributo ad Elio e le Storie Tese sotto forma di 5 background per Troika! o Kasta! 
 
 
@@ -143,7 +143,7 @@ Il mago mette le …]]></summary>
         <title type="html"><![CDATA[Guida all'OSR: Classi e Razze]]></title>
         <id>https://cronachedaldungeon.blogspot.com/2022/11/guida-allosr-classi-e-razze.html</id>
         <link href="https://cronachedaldungeon.blogspot.com/2022/11/guida-allosr-classi-e-razze.html"/>
-        <updated>2022-11-15T16:09:00.002Z</updated>
+        <updated>2022-11-15T16:09:00.005Z</updated>
         <summary type="html"><![CDATA[Bentornati,
 Vorrei ripartire con il blog proponendovi una rubrica sugli aspetti più discussi dei giochi della linea OSR che stanno uscendo di questi tempi, magari spero possa chiarire alcuni punti ai nuovi giocatori. Iniziamo dalle classi e razze.
 A chi si approccia a questo mondo per la prima volta potrà sembrare strano trovare poche scelte come il guerriero, il mago, il ladro e tra loro elfo, nano e halfling: tali scelte, presenti in alcuni regolamenti, riprendono in tutto e per tutto la famosa scatola rossa. Qualcuno potrà storcere il naso vedendo tra le classi quelle che di solito sono considerate razze; queste a volte presentano dei vantaggi in più rispetto alle classi tradizionali. Naturalmente altri titoli mostrano la moderna distinzione classe/razza, benché spesso limitando le scelte come fanno i cloni della Scatola Rossa; inoltre ad alcune razze possono essere precluse delle classi.
@@ -310,7 +310,7 @@ Potete scaricare l'avventura facendo clic qui. Buon divertimento!]]></summary>
         <title type="html"><![CDATA[Tanto lavoro e poco spazio per il blog?]]></title>
         <id>https://autarkikagdr.blogspot.com/2022/11/tanto-lavoro-e-poco-spazio-per-il-blog.html</id>
         <link href="https://autarkikagdr.blogspot.com/2022/11/tanto-lavoro-e-poco-spazio-per-il-blog.html"/>
-        <updated>2022-11-05T17:23:00.009Z</updated>
+        <updated>2022-11-05T17:23:00.010Z</updated>
         <summary type="html"><![CDATA[Immagine proprietà di Putrid Games
 
 
@@ -327,7 +327,7 @@ A presto
 @threeballs
 
 
-P.S. il materiale gratuito lo avete sopra, un grazie a Putri Games.]]></summary>
+P.S. il materiale gratuito lo avete sopra, un grazie a Putrid Games.]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
         </author>
@@ -449,32 +449,11 @@ Augmented Reality PLUS]]></summary>
         <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco - domanda n. 18]]></title>
         <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_28.html</id>
         <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_28.html"/>
-        <updated>2022-10-28T13:54:00.004Z</updated>
+        <updated>2022-10-28T13:54:00.012Z</updated>
         <summary type="html"><![CDATA[18: Cosa si mangia da queste parti?
 
 
-Nel Naftabosco bisogna accontentarsi dei frutti della terra, che a seconda delle stagioni possono essere funghi edibili, radici spontaneee, castagne, pere, mele e ciliege selvatiche, faggiole e bacche estive come corniole, more e lamponi. Con più difficoltà si può anche integrare la dieta con la caccia: gli avventurieri che riescono ad abbattere un conghiale, o anche solo a catturare un paio di lepri e fagiani, possono mangiare come signori. Più spesso però devono accontentarsi di serpenti o conigli magrolini fatti stufare nella pentola insieme a dei tuberi selvatici. Da bere c'è acqua di fonte, magari insaporita con un po' di vino acetoso per renderla più salubre.
-
-
-I nobili della famiglia Zerchioni-Bruttoni banchettano tutte le sere nel loro castello con carni pregiate e selvaggina, per cui hanno una vera ossessione, bevande costose e a volte anche conserve di frutta e dolci al miele.
-
-
-Nelle taverne di Città lepega e alla Locanda di Tonio Cialtronio il vitto è più vario, grazie ai prodotti delle fattorie vicine. Qui sotto trovate alcuni esempi di pasti divisi per qualità.
-
-
-
-
-
-Pasto povero: Zuppa di erbe e funghi secchi con pane raffermo (e forse un uovo). Infuso di erbe aromatiche (forse birra leggera). 2 pezzi di rame.
-
-
-Pasto ordinario: Stufato di tuberi vari, legumi e rigaglie di pollastro con pane fresco di semi misti. Birra. 1 pezzo d'argento.
-
-
-Pasto buono: Mezzo pollastro (o pancetta di maiale) arrosto con rape, carote e piselli al lardo e coriandolo. Fetta di formaggio fresco con pane nero e pere (fresche o in conserva). Birra speciale, sidro o vino annacquato. 5 pezzi d'argento.
-
-
-Pasto sontuoso: Brodo di cappone con ravioli alle erbe. Uccello Stigeo allo Spiedo o cosciotto di cinghiale al dragoncello e chiodi di garofano. Salsa agrodolce di pere e ribes. Pane bianco. Torta con miele e frutta secca. Vino, un bicchierino di ippocrasso da gustare con la torta e uno di nettare di Scivolizzzia (con 3 Z) per digerire. 2 pezzi d'oro.]]></summary>
+Nel Naftabosco bisogna accontentarsi dei frutti della terra, che a seconda delle stagioni possono essere funghi edibili, radici spontanee, mandragole urlanti, castagne, pere, mele e ciliege selvatiche, frutti facciadivecchio,  faggiole, mazzerocchie spinose, susine orchine e bacche estive come corniole, sanguinazze, more e lamponi. Con più difficoltà si può anche integrare la dieta con la caccia: gli avventurieri che riescono ad abbattere un conghiale, o anche solo a catturare un paio di lepri e fagiani, possono mangiare come signori. Più spesso però devono accontentarsi di serpenti o conigli magrolini fatti stufare nella pentola insieme a dei tuberi selvatici.  Le streghe sono solite preparare una zuppa speciale con le erbe e le radici che trovano nel…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
         </author>
