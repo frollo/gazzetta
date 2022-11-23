@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://frollo.github.io/gazzetta/cache.json
+cacheUrl: https://gazzetta.oicn.icu/cache.json
 siteTitle: "La Gazzetta dell'OSR"
 timezone: Europe/Rome
 sources:
