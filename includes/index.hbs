@@ -3,68 +3,49 @@
 
 <head>
   <title>{{siteTitle}}</title>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="robots" content="noindex, nofollow" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
-  <link href="index.css" rel="stylesheet" />
+  {{> head}}
 </head>
 
 <body>
-  <header>
-    <dl>
-      <dt><b>Site title</b></dt><dd>{{siteTitle}}</dd>
-      <dt><b>Built on</b></dt><dd>{{siteBuildTimestamp}}</dd>
-      <dt><b>Cli version</b></dt><dd>{{cliVersion}}</dd>
-      <dt><b>Documentation URL</b></dt><dd>{{projectUrl}}</dd>
-      <dt><b>Chi siamo</b></dt><dd>blogs.html</dd>
-    </dl>
-  </header>
+  <div class="container">
+  {{> header}}
 
-
-  <ul>
   {{#each dates}}
-    <li>
-      <section>
-      <h1>{{isoPublishDate}}</h1>
-
-      <ul>
-        {{#each sources}}
-        <li>
-          <section>
-            <h2>
-              <a href="{{siteUrl}}">{{title}}</a>
-            </h2>
-
-            {{#each articles}}
-            <article>
-                <h3><a href={{link}}>{{title}}</a></h3>
-                <div>
-                  <span>Source: <a href={{source.siteUrl}}>{{source.title}}</a></span> | 
-                  <span>Date: <time>{{isoPublishDate}}</time></span> |
-                  <span>Timestamp: <time>{{publishedOn}}</time></span> |
-                  <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
-                  <span>Word count: <time>{{wordCount}}</time></span>
-                </div>
-                {{#if imageUrl}}
-                <img src="{{imageUrl}}" width="100" />
-                {{/if}}
-                <p>{{description}}</p>
-              </details>
-            </article>
-            {{/each}}
-
-          </section>
-        </li>
-
-        {{/each}}
-      </ul>
-
+    <div class="row">
+      <section class="three columns">
+        <h3>{{isoPublishDate}}<h3>
       </section>
+      <section class="nine columns">
+        {{#each sources}}
+          <div class="row">
+            <h4>
+              <a href="{{siteUrl}}">{{title}}</a>
+            </h4>
+          </div>
+          {{#each articles}}
+            <article class="row">
+              <div class="four columns">
+                <span class="row">
+                  <h5><a href={{link}}>{{title}}</a></h5>
+                </span>
+                <span class="row">
+                  <em>Tempo di lettura: <time>{{readingTimeInMin}} min</time></em>
+                </span>
+              </div>
+              <div class="eight columns">
+                <span class="row"><p>{{description}}</p></span>
+                {{#if imageUrl}}
+                  <img src="{{imageUrl}}" class="row"/>
+                {{/if}}
+              </div>
+            </article>  
+          {{/each}}
+        {{/each}}
+      </section>
+    </div>  
   {{/each}}
-  </ul>
+</div>
 </body>
 
 </html>
