@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://frollo.github.io/gazzetta/index.html</id>
+    <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-23T14:08:44.292Z</updated>
+    <updated>2022-11-23T14:31:17.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="https://frollo.github.io/gazzetta/index.html"/>
-    <link rel="self" href="https://frollo.github.io/gazzetta/feed.atom"/>
+    <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
+    <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Beat'em up!]]></title>
         <id>https://scrtgm.blogspot.com/2022/11/beatem-up.html</id>
