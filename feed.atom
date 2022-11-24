@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-24T18:11:41.631Z</updated>
+    <updated>2022-11-24T20:09:23.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -500,17 +500,6 @@ Non ci sono arene vere e proprie da queste parti, ma la famigerata famiglia Zerc
 Il vincitore o la vincitrice può impadronirsi di armi, armatura e cavalcatura di chi viene sconfitto, e ci si può accordare per mettere in palio ulteriori premi. In più, c'è sempre un certo giro di scommesse tra il pubblico, per cui  le possibilità di guadagnare ci sono,  ma è anche possibile perdere parecchio..]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SISTEMA MAGICO FREEFORM]]></title>
-        <id>https://gnollmassacrofamiglia.blogspot.com/2022/10/sistema-magico-freeform.html</id>
-        <link href="https://gnollmassacrofamiglia.blogspot.com/2022/10/sistema-magico-freeform.html"/>
-        <updated>2022-10-26T07:32:00.003Z</updated>
-        <summary type="html"><![CDATA[Tutti amano un bel sistema magico freeform. Eccone uno.
-Tutti ci hanno dei PUNTI INCANTESIMO™. Quando lanci una magia dici la formula magica e fai così con le mani e dici che cosa fa la magia. Più è forte la magia più costa PUNTI INCANTESIMO™. Ogni tanto i PUNTI INCANTESIMO™ ti ritornano.]]></summary>
-        <author>
-            <name>Gli gnoll hanno massacrato la mia famiglia</name>
         </author>
     </entry>
 </feed>
