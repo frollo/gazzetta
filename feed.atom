@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-27T00:52:40.481Z</updated>
+    <updated>2022-11-27T02:59:10.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -457,19 +457,6 @@ Augmented Reality, The Holistic City Kit For Cyberpunk Games
 Augmented Reality PLUS]]></summary>
         <author>
             <name>ARCIPELAGO CELESTE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco - domanda n. 18]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_28.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_28.html"/>
-        <updated>2022-10-28T13:54:00.012Z</updated>
-        <summary type="html"><![CDATA[18: Cosa si mangia da queste parti?
-
-
-Nel Naftabosco bisogna accontentarsi dei frutti della terra, che a seconda delle stagioni possono essere funghi edibili, radici spontanee, mandragole urlanti, castagne, pere, mele e ciliege selvatiche, frutti facciadivecchio,  faggiole, mazzerocchie spinose, susine orchine e bacche estive come corniole, sanguinazze, more e lamponi. Con più difficoltà si può anche integrare la dieta con la caccia: gli avventurieri che riescono ad abbattere un conghiale, o anche solo a catturare un paio di lepri e fagiani, possono mangiare come signori. Più spesso però devono accontentarsi di serpenti o conigli magrolini fatti stufare nella pentola insieme a dei tuberi selvatici.  Le streghe sono solite preparare una zuppa speciale con le erbe e le radici che trovano nel…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
