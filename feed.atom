@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-27T20:08:52.754Z</updated>
+    <updated>2022-11-27T22:08:56.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dicembre - Le Reti by Cleptomania postale]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/456840/dicembre-le-reti-by-cleptomania-postale</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/456840/dicembre-le-reti-by-cleptomania-postale"/>
+        <updated>2022-11-27T21:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Novembre è quasi finito, ma il tema di dicembre è già qui! E si tratta di un tema, per la stessa ammissione di debbase , estremamente generico e multisfaccettato, interpretabile in moltissime manie...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30 Libri da Trovare in una Biblioteca Qualsiasi]]></title>
         <id>https://dismastersden.blogspot.com/2022/11/30-libri-da-trovare-in-una-biblioteca.html</id>
