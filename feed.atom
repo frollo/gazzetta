@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-27T16:11:28.451Z</updated>
+    <updated>2022-11-27T18:10:42.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[30 Libri da Trovare in una Biblioteca Qualsiasi]]></title>
+        <id>https://dismastersden.blogspot.com/2022/11/30-libri-da-trovare-in-una-biblioteca.html</id>
+        <link href="https://dismastersden.blogspot.com/2022/11/30-libri-da-trovare-in-una-biblioteca.html"/>
+        <updated>2022-11-27T17:13:00.007Z</updated>
+        <summary type="html"><![CDATA[Dopo aver superato sfide perigliose e creature maligne le canaglie spingono le doppie porte di cedro lucidato e si affacciano al prossimo   ambiente: un'ampia e antica biblioteca, gli scaffali carichi di tomi antichi e   misteriosi, globi alchemici ad illuminare pagine coperte di polvere pronte per   essere lette dopo centinaia di anni… ma il modulo d'avventura non ti dice che   cavolo sono questi libri! 
+  I tuoi giocatori stanno già scalpitando e chiedono a gran voce   "che libri trovo?" e te, disperato, non sai cosa rispondere se non roba   tipo "antichi libri di ricette e vecchi dépliant turistici" o   "purtroppo i libri si disfano in maniera illeggibile non appena li prendi     in mano". 
+  Sei fregato, e già stai vedendo come l'entusiasmo dei tuoi giocatori lasci   spazio alla delusi…]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La Biblioteca Perduta di Bartholomeus Crawn: un dungeon Dark Academia #1]]></title>
         <id>https://calderonedeltroll.blogspot.com/2022/11/la-biblioteca-perduta-di-bartholomeus.html</id>
