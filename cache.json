@@ -55,6 +55,16 @@
       "siteUrl": "https://oicn.icu",
       "articles": [
         {
+          "id": "https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Mostri-da-Biblioteca/",
+          "author": null,
+          "description": "<p><img src=\"/2022/Vecchio-Carnevale-Blogghereccio-Mostri-da-Biblioteca/carnevale_blogghereccio.jpg\" alt=\"\"></p>\n<p>Il Carnevale di questo mese, gentilmente ospitato dalla <a href=\"https://gildadeiruolatori.blogspot.com/\">Gilda dei Ruolatori</a>, parla di <a href=\"https://gildadeiruolatori.blogspot.com/2022/10/vecchio-carnevale-blogghereccio-le.html\">biblioteche</a>. Le biblioteche sono luoghi interessantissimi in cui giocare, con i loro scaffali labirintici, la conoscenza segreta, i vecchi monaci assassini…</p>\n<p>E infatti, stiamo avendo un piacevole proliferare di dungeon e scenari bibliotecosi. E quindi ho deciso di fare altro: pensiamo a un po’ di mostri che starebbero bene in una biblioteca.</p>\n<span id=\"more\"></span>\n\n<h2 id=\"Statistiche\"><a href=\"#Statistiche\" class=\"headerlink\" t…",
+          "link": "https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Mostri-da-Biblioteca/",
+          "publishedOn": "2022-11-28T19:15:02.000Z",
+          "wordCount": 1203,
+          "title": "Vecchio Carnevale Blogghereccio: Mostri da Biblioteca",
+          "imageUrl": "https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Mostri-da-Biblioteca/carnevale_blogghereccio.jpg"
+        },
+        {
           "id": "https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Guerra-il-recap/",
           "author": null,
           "description": "<p>Ed eccoci qua, con un po’ di ritardo, a vedere com’è andato il nostro mese di Carnevale. Come ricorderete, questa volta il tema era <a href=\"/2022/Vecchio-Carnevale-Blogghereccio-Guerra/\" title=\"la guerra\">la guerra</a>.</p>\n<p>Il tema ha riscosso un discreto successo con la bellezza di 11 post raccolti in un solo mese. Siccome sono in ritardo clamoroso, invece che fare un elenchetto stringato, provo a fare una cosa più ordinata.</p>\n<span id=\"more\"></span>\n\n<h2 id=\"I-Giochi\"><a href=\"#I-Giochi\" class=\"headerlink\" title=\"I Giochi\"></a>I Giochi</h2><p>Eh sì, la guerra è un tema interessante e che potrebbe occupare un intero gioco (in fondo, il nostro hobby è nato dai wargame, quindi perché non fare il giro opposto?), tanto che abbiamo avuto la bellezza di due giochi dedicati:</p>\n<ul>\n<l…",
@@ -137,18 +147,7 @@
       "title": "ARCIPELAGO CELESTE",
       "feedUrl": "https://arcipelagoceleste.blogspot.com/feeds/posts/default",
       "siteUrl": "https://arcipelagoceleste.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://arcipelagoceleste.blogspot.com/2022/10/cyberpunks-risorse-per-giocare-osr-sul.html",
-          "author": null,
-          "description": "Questo post serve a raccogliere risorse, provenienti dalla galassia OSR e da altri stili di gioco, per giocare di ruolo in un setting Cyberpunk.\n\n\nÈ un post aperto e verrà aggiornato ad ogni nuova scoperta. Se volete suggerire delle risorse da aggiungere alla lista, vi invito a segnalarle nei commenti.\n\n\n\n\nGIOCHI COMPLETI\n\nCyber Glog\nSprawl Goons: Upgraded\nNETWORK 23 Revised edition\nVeil 2020\nCY_BORG\nThe Black Hack: Cyber-Hacked! \nTrash Planet Epsilon 5\n2400 Codebreakers\nMainframe\nDancing with Bullets Under a Neon Sun\nZaibatsu\nWired Neon Cities - Minimalist Cyberpunk Roleplaying\nNeon City Overdrive\n\n\n\n\nSUPPLEMENTI / RISORSE\n\n\nMirrorshades\nSprawlscape Cyber City Kit\nPolychrome: Cyberpunk Adventure for Stars Without Number\n2400 Data Loss\nAugmented Reality, The Holistic City Kit For Cyberpunk Games\nAugmented Reality PLUS",
-          "link": "https://arcipelagoceleste.blogspot.com/2022/10/cyberpunks-risorse-per-giocare-osr-sul.html",
-          "publishedOn": "2022-10-30T08:22:00.001Z",
-          "wordCount": 5949,
-          "title": "CYBER_PUNKS - Risorse per giocare OSR sul filo del rasoio",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-OFMB21LYbHBWE1YWA5i0eO7qm2ulG4B8h026ispZExDAbMjaq-Wq_1yPiZlaAaVAUEOG1BP4G9rghkC_A-EF2jGjqLm7Dm-tIOG6GtAfPFYgV-O5ofe1_AmomEpjq7epKX9lSDdvJMnksqWGONo7PgRDIpQc5ujcananciz1rc6n5wpq4GHnzxaY/w1200-h630-p-k-no-nu/Cyberpunk_Edgerunners_Season1_Episode2_00_18_30_21.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "I CANCELLI DI HELLWINTER",
