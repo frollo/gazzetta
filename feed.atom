@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-29T10:10:00.592Z</updated>
+    <updated>2022-11-29T12:17:55.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What's the difference between Into the Odd and Electric Bastionland?]]></title>
+        <id>https://scrtgm.blogspot.com/2022/11/whats-difference-between-into-odd-and.html</id>
+        <link href="https://scrtgm.blogspot.com/2022/11/whats-difference-between-into-odd-and.html"/>
+        <updated>2022-11-29T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Into the Odd was designed to simplify D&D and making it a bit more scifi, but still similar enough that you could play D&D/OSR modules. To differentiate it from D&D, a 19th century industrial vibe was chosen instead of the usual sort-of-medieval fantasy.
+
+
+Chargen gives you equipment based on your stats roll. Worse stats give you better equipment and vice-versa. Equipment can tell you something about your character.
+
+
+There are no classes. There are "magical" objects called Arcanas sprinkled around the world
+
+
+Characters progress through milestones, at first based on the number of expedition they undertake, then based on taking an apprentice. When you reach a milestone you roll additional hp and sometimes raise your stats.
+
+
+There are rules for starting and managing an enterprise and large…]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Mostri da Biblioteca]]></title>
         <id>https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Mostri-da-Biblioteca/</id>
