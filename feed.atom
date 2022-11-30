@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-11-30T06:12:12.317Z</updated>
+    <updated>2022-11-30T08:12:26.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -475,20 +475,6 @@ Pellandra la velenosa è una strega non morta che vive (si fa per dire) reclusa 
         <summary type="html"><![CDATA[L'Inverno è arrivato ed è passato (nel Carnevale, poiché nella vita reale sta giungendo, ma si sta prendendo il suo tempo) ed è giunto il momento di rifugiarci nei migliori luoghi dove perdersi pe...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco - domanda n.  19]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_31.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/10/creiamo-unambientazione-in-20-domande_31.html"/>
-        <updated>2022-10-31T20:08:00.000Z</updated>
-        <summary type="html"><![CDATA[19: Ci sono tesori leggendari e perduti che posso andare a cercare?
-
-Nel Naftabosco ci sono diversi tesori perduti:
-Linfazza la Driade era solita sedurre le persone, derubarle e confonderne i ricordi con la sua magia per fare in modo di non essere più trovata.  Qualcuno veniva anche trasformato in cespuglio vivente, per farle compagnia e guardarle le spalle. In due o tre secoli ha accumulato un bel tesoro,  finché il suo frassino non è stato distrutto da un fulmine, il che l'ha portata alla morte. Però il suo tesoro,  stranamente non si trovava vicino all' albero.. Dove sarà finito?  
-Belinda la Bella, (sarà stato un soprannome veritiero o sarcastico? ) regina delle streghe del Naftabosco,  aveva una biblioteca sotterranea piena di libri (anche di magia)  da qualche parte sotto il Naftabosco.. Belinda non è più tra i vivi da circa un secolo,  ma la sua raccolta potrebbe essere ancora intonsa e difesa.. però contiene sicuramente parecchi incantesimi oggi dimenticati e una gran quantità di pergamene magiche!]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
