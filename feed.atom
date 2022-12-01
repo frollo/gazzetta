@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-01T16:12:55.143Z</updated>
+    <updated>2022-12-01T18:11:42.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nella rete del ragno: un bestiario ad 8 zampe]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2022/11/nella-rete-del-ragno-un-bestiario-ad-8.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2022/11/nella-rete-del-ragno-un-bestiario-ad-8.html"/>
+        <updated>2022-12-01T16:15:00.002Z</updated>
+        <summary type="html"><![CDATA[Questo articolo si inserisce nell'iniziativa Vecchio Carnevale Blogghereccio. Il tema del mese di Novembre è...LE RETI!
+In questo caso la rete...del ragno! Bestiaccia iconica del dungeon insieme al ratto gigante e al goblin, il ragno è un avversario temibile che costruisce ingegnose trappole di seta nell'oscurità e paralizza l'avventuriero con il suo subdolo veleno. Dal momento che un buon ragno serve sempre, ecco 1d8 aracnidi originali (ma ispirati alla vita reale, cosa che li renderà ancora più spaventosi) pronti a digerire i vostri personaggi dall'interno, nel migliore dei casi. Le statistiche sono per Cairn di Yochai Gal.
+
+
+
+
+1. Il Danzamorte (ispirato al Ragno Pavone)
+Ragazzo, guardare la danza di un Danzamorte è un po' come...perdersi in alto mare. Quel satanasso non ha bisogno nè de…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: le reti]]></title>
         <id>https://castellochimerico.blogspot.com/2022/12/vecchio-carnevale-blogghereccio-le-reti.html</id>
