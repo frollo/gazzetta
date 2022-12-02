@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-02T14:08:04.813Z</updated>
+    <updated>2022-12-02T16:11:48.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://gnollmassacrofamiglia.blogspot.com/2022/12/flailbride-s-ei-una-sposa.html</id>
+        <link href="https://gnollmassacrofamiglia.blogspot.com/2022/12/flailbride-s-ei-una-sposa.html"/>
+        <updated>2022-12-02T14:26:00.001Z</updated>
+        <summary type="html"><![CDATA[FLAILBRIDE: sei una sposa. O meglio, devi sposarti. Devi anche uccidere perché la violenza è nel tuo DNA e un matrimonio costa (1.000W).
+
+
+					
+CREARE UNA FLAILBRIDE: hai 2d6 PV, un oggetto da avventuriero quantico e (scegli 2 tra)
+-mazza chiodata pesante
+-fucile d’assalto m16
+-confetti (cura 1d6 pv)
+
+-regalo di nozze (oggetto qualsiasi a discrezione di giocatore e arbitro)
+
+					
+ESITI INCERTI E AIUTO: se fallire in un’azione può essere pericoloso (perdita di pv), o dispendioso (perdita di un oggetto o di turni di gioco), tira un dado. Con 5/6 riesci. Se un tuo oggetto o quello di un compagno a te vicino può essere usato e può aiutarti tira un dado ulteriore (max 3 ulteriori). Esiti positivi o negativi potrebbero ora ricadere anche sull'aiutante.
+					
+OGGETTI E USURA: puoi trasport…]]></summary>
+        <author>
+            <name>Gli gnoll hanno massacrato la mia famiglia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nella rete del ragno: un bestiario ad 8 zampe]]></title>
         <id>https://calderonedeltroll.blogspot.com/2022/11/nella-rete-del-ragno-un-bestiario-ad-8.html</id>
