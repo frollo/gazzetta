@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-02T00:43:53.578Z</updated>
+    <updated>2022-12-02T02:42:19.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -516,16 +516,6 @@ Pellandra la velenosa è una strega non morta che vive (si fa per dire) reclusa 
 <l…]]></summary>
         <author>
             <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novembre - Le Biblioteche by Gilda dei Ruolatori]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/446974/novembre-le-biblioteche-by-gilda-dei-ruolatori</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/446974/novembre-le-biblioteche-by-gilda-dei-ruolatori"/>
-        <updated>2022-11-02T14:38:53.000Z</updated>
-        <summary type="html"><![CDATA[L'Inverno è arrivato ed è passato (nel Carnevale, poiché nella vita reale sta giungendo, ma si sta prendendo il suo tempo) ed è giunto il momento di rifugiarci nei migliori luoghi dove perdersi pe...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
