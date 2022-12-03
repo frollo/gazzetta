@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-03T04:10:29.876Z</updated>
+    <updated>2022-12-03T06:10:29.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -496,34 +496,6 @@ A presto
 P.S. il materiale gratuito lo avete sopra, un grazie a Putrid Games.]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creiamo un'ambientazione in 20 domande: Il Naftabosco - domanda n.  20]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/11/creiamo-unambientazione-in-20-domande.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/11/creiamo-unambientazione-in-20-domande.html"/>
-        <updated>2022-11-03T16:48:00.003Z</updated>
-        <summary type="html"><![CDATA[20: Ci sono draghi o altri mostri con tesori ingenti nelle vicinanze? 
-
-
-Uno dei mostri più grossi,  cattivi e potenzialmente ricchi del Naftabosco (visto il tesoro accumulato nei secoli)è il drago a quattro teste conosciuto come Barbóz, Troz, Patagal e Sgangaroz (ogni testa ha un suo nome proprio) . Nessuno lo vede più da tanto tempo e potrebbe anche essere morto, ma d'altra parte è anche possibile che giaccia addormentato sul suo mucchio d' oro e gioielli..  Per accertarsene bisognerebbe ritrovare la sua grotta,  forse qualche vecchia mappa sparsa per il Naftabosco ne mostra l'ubicazione.  Gli antichi racconti dicono che le teste a volte litigavano tra di loro e questa informazione potrebbe essere utile se il bestione venisse ritrovato ancora in vita. 
-
-
-
-
-
-
-Mannuccione l' orco gigante è un tipo molto pericoloso,  noto per aver massacrato almeno un paio di bande di briganti, a cui poi ha rubato tutto il bottino.  Contrariamente alla maggioranza dei suoi simili è piuttosto intelligente e possiede dei discreti poteri stregoneschi. Si astiene scrupolosamente dal molestare le creature fatate e ciò fa pensare alcuni che abbia un patto di qualche tipo con questi esseri .
-
-
-
-
-
-
-
-Pellandra la velenosa è una strega non morta che vive (si fa per dire) reclusa in una torre nel fitto del Naftabosco.  Ogni tanto dalla sua roccaforte escono corvi non morti e scarabei giganti che agiscono da messaggeri e servitori. Chi ha cercato di saccheggiare la sua, collezione di oggetti magici e gioielli inestimabili non è tornato per raccontare la storia, al massimo sono tornati alcuni pezzi in un sacco portato da un enorme  scarafaggio.]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
