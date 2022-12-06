@@ -258,6 +258,12 @@
       "articles": []
     },
     {
+      "title": "Italian Translation Alliance",
+      "feedUrl": "https://italiantranslationalliance.org/feed.xml",
+      "siteUrl": "https://italian-translation-alliance.github.io//",
+      "articles": []
+    },
+    {
       "title": "L'Antro di Sephil Rosso",
       "feedUrl": "https://sephilrosso.wordpress.com/feed/",
       "siteUrl": "https://sephilrosso.wordpress.com",
@@ -278,6 +284,12 @@
       "title": "Antiche Rovine",
       "feedUrl": "https://anticherovine.blogspot.com/feeds/posts/default",
       "siteUrl": "https://anticherovine.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "RSS Feed Title",
+      "feedUrl": "https://italiantranslationalliance.org/podcast/feed.xml",
+      "siteUrl": "https://podcast.italiantranslationalliance.org/",
       "articles": []
     },
     {
