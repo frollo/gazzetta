@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-08T18:10:47.834Z</updated>
+    <updated>2022-12-08T20:08:35.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Dungeon Crawler #3 Palette Harbor]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2022/12/pokemon-dungeon-crawler-3-palette-harbor.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2022/12/pokemon-dungeon-crawler-3-palette-harbor.html"/>
+        <updated>2022-12-08T19:45:00.001Z</updated>
+        <summary type="html"><![CDATA[Prosegue la creazione di un pointcrawl per Pokémon Dungeon Crawler di Batts. In questo post si va a Sud di Pallet Town, raggiungendo le coste della regione di Kanto. Tra le rovine del porto una comunità di Tangela è tormentata a causa di una reliquia degli Uomini.
+
+
+Tangela di Mitsuhiro Arita
+
+
+Questo complesso di rovine portuali è da sempre stato la dimora di una numerosa popolazione di Tangela, una Selva chiamata Groviglio Blu (le comunità Tangela sono chiamate “Selve” per la loro organizzazione e peculiare proliferazione), famoso per la produzione di elisir a partire dalla bacche e per le molte TMs di tipo Erba custodite con gelosia e risalenti all'epoca degli Uomini. La Grande Madre del Groviglio Blu, Bluja, è da sempre un’intima amica di Ash e ha sostenuto Pallet Town nei momenti di d…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Un anno di Calderone del Troll: facciamo il punto della situazione!]]></title>
         <id>https://calderonedeltroll.blogspot.com/2022/12/un-anno-di-calderone-del-troll-facciamo.html</id>
