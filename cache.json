@@ -247,18 +247,7 @@
       "title": "L'Antro di Sephil Rosso",
       "feedUrl": "https://sephilrosso.wordpress.com/feed/",
       "siteUrl": "https://sephilrosso.wordpress.com",
-      "articles": [
-        {
-          "id": "http://sephilrosso.wordpress.com/?p=972",
-          "author": "SephilRosso",
-          "description": "Riassunto caldo caldo del mese di ottobre del VCB dedicato all'Inverno",
-          "link": "https://sephilrosso.wordpress.com/2022/11/09/recap-ottobrino-del-vecchio-carnevale-blogghereccio/",
-          "publishedOn": "2022-11-09T16:23:11.000Z",
-          "wordCount": 2820,
-          "title": "Recap Ottobrino del Vecchio Carnevale Blogghereccio",
-          "imageUrl": "https://sephilrosso.files.wordpress.com/2021/11/vcb.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Antiche Rovine",
