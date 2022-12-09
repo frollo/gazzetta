@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-08T22:08:41.229Z</updated>
+    <updated>2022-12-09T00:44:10.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -444,21 +444,6 @@ Comunque vi consiglio di scaricare comunque il manuale che potrete utilizzare co
         <summary type="html"><![CDATA[Riassunto caldo caldo del mese di ottobre del VCB dedicato all'Inverno]]></summary>
         <author>
             <name>SephilRosso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Le biblioteche]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/11/vecchio-carnevale-blogghereccio-le.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/11/vecchio-carnevale-blogghereccio-le.html"/>
-        <updated>2022-11-09T11:23:00.001Z</updated>
-        <summary type="html"><![CDATA[Eccoci tornati al Vecchio Carnevale Blogghereccio! La puntata di novembre, ospitata dalla Gilda dei Ruolatori,  è a tema biblioteche, e ciò mi ha  fatto molto piacere: amo leggere, inoltre librerie e biblioteche sono luoghi in cui mi trovo decisamente bene, anche se attualmente non sto frequentando granché le prime. Mi è saltata in mente l'idea di un megadungeon costituito da un'unica enorme biblioteca, ma il progetto è ovviamente irrealizzabile in tempi brevi..
-
-
-
-Perciò, ho deciso di realizzare un piccolo dungeon, la Biblioteca dei libri sognati e mai scritti.
-La biblioteca è uno spazio onirico, e vi si può accedere da un'altra biblioteca, libreria o casa situata nel mondo fisico, a patto che contenga almeno 100 libri. Per raggiungere la biblioteca dei libri sognati e mai scritti è neces…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
