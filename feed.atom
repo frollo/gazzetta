@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-10T08:11:12.917Z</updated>
+    <updated>2022-12-10T10:08:26.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -413,27 +413,6 @@ Abilità
   Kasta! by OSR Italia]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE NECROMANCER, NUOVA CLASSE PER OSE]]></title>
-        <id>https://autarkikagdr.blogspot.com/2022/11/the-necromancer-nuova-classe-per-ose.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2022/11/the-necromancer-nuova-classe-per-ose.html"/>
-        <updated>2022-11-10T21:43:00.003Z</updated>
-        <summary type="html"><![CDATA[Buonasera a tutti,
-oggi vi parlerò di una uova classe che sarà disponibile per OSE: Il Necromante.
-La versione disponibile è, per ora, la beta test resa disponibile dalla casa editrice del gioco.
-Questa classe era già presente in Advanced dnd dove gli era stato dedicato intero manuale.
-Il Necromante si presenta come un perfetto villain da inserire nelle vostre campagne, anche se il suo fascino indurrà i ostri giocatori a sceglierlo come pg.
-Sfogliando il manuale si ha la sensazione di avere tra le mani un prodotto che sa di già visto, certo un bel prodotto ma risente della mancanza di originalità siccome riprende a piene mani diversi vecchi manuali come il Tome of Magic di Advenced Dnd.
-Inoltre leggendo i vari incantesimi ho notato una certa tendenza a dotare questa classe di magie molto potenti non equilibrate con quelle presenti nel manuale base.
-Magari le mie sono solo impressioni, ma mi inducono a pensare che l'uso di questa classe potrebbe essere riservata solo al ruolo di nemico del party.
-Comunque vi consiglio di scaricare comunque il manuale che potrete utilizzare come spunto per le vostre partite.
-
-
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
