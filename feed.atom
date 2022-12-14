@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-14T08:12:02.517Z</updated>
+    <updated>2022-12-14T10:09:31.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -365,18 +365,6 @@ In conclusione ognuno di voi potrà senza tanti fronzoli scegliere sempre e co
 @GioRediFerro]]></summary>
         <author>
             <name>CronachedalDungeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TPK - Total Party Kon,  una convention spettacolare!]]></title>
-        <id>https://castellochimerico.blogspot.com/2022/11/tpk-total-party-kon-una-convention.html</id>
-        <link href="https://castellochimerico.blogspot.com/2022/11/tpk-total-party-kon-una-convention.html"/>
-        <updated>2022-11-14T20:56:00.010Z</updated>
-        <summary type="html"><![CDATA[Sabato ho partecipato (dando anche una mano con l'organizzazione)  alla Total Party Kon,  la prima convention di gioco di ruolo OSR (dal vivo)  italiana. È stata una bomba: un sacco di gente felice di giocare, tante avventure originali e persino giochi inediti, ma soprattutto tanto divertimento! Vedere tante persone felici e sorridenti, che magari erano totalmente digiune di GDR ai nostri tavoli, è stata una grande soddisfazione. Per me è stata davvero una splendida giornata, ringrazio tutte le persone che hanno partecipato da entrambi i lati dello schermo, che si confermano una comunità stupenda, Adventures Milano e La Casa dei Giochi per averci ospitato, e soprattutto l'amico  Francisco alias Dismaster Frane (La Fumeria dei Pensieri Incompiuti)  e Lorenzo "The Kernel in Yellow," che si sono accollati la maggior parte del peso dell' organizzazione. Tra i giochi che ho arbitrato, oltre al sempiterno Cairn, sempre fonte di grandi soddisfazioni, voglio ricordare l'ottimo Thàlassa, opera di Roberto "Zeruhur" gran sacerdote di Il tempio di Syrinx, con cui il gruppo del pomeriggio ha dato vita a una sessione divertentissima, tra ninfe, satiri, greggi di pecore incendiarie, ricatti alle arpie e la lira di Orfeo usata per addormentare enormi mostri mitologici. 
-
-Posso solo dire.. Quando lo rifacciamo?]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
