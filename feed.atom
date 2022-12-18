@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-18T18:09:18.693Z</updated>
+    <updated>2022-12-18T20:08:19.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -295,22 +295,6 @@ Introduce delle nuove meccaniche che aiuteranno il giocatore nelle sue avventur
 Il manuale si divide in: introduzione alle terre dimenticate e le 4 zone esplorabili, una quest speciale, mercenari e una serie di nuove regole, pozioni, oggetti magici e mostri unici. La prima parte dedicata alle 4 nuove aree è introdotta da una mappa e ognuna…]]></summary>
         <author>
             <name>CronachedalDungeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Corny Gron]]></title>
-        <id>https://autarkikagdr.blogspot.com/2022/11/beyond-corny-gron.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2022/11/beyond-corny-gron.html"/>
-        <updated>2022-11-19T08:07:00.002Z</updated>
-        <summary type="html"><![CDATA[Buongiorno a tutti,
-oggi vi voglio presentare un'ambientazione o è meglio dire un modulo geografico facilmente adattabile a qualsiasi ambientazione Grim-dark di stampo Osr.
-Si tratta di Beyond Corny Gron un prodotto che si ispira al folcklore e alle leggende dell'est Europa e della zona balcanica.
-Troverete un modulo geografico e un sistema Hex Crawl, oltre che alle descrizioni di diverse fazioni e un bestiario.
-Il prodotto è da considerarsi agnostico e facilmente utilizzabile con qualsiasi sistema, in particolare con regolamenti derivati da Knave o giochi simili.
-Personalmente penso di utilizzare Beyound Corny Gron con il regolamento di Streben (prima o poi ve lo recensisco).
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
