@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-19T04:10:22.175Z</updated>
+    <updated>2022-12-19T06:11:31.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -282,19 +282,6 @@ Personalmente se sento OSR+Pokémon vado in brodo di giuggiole. Per quanto rigua
         <summary type="html"><![CDATA[Con un po' di ritardo da parte di tutti (compreso me che scrivo), ecco finalmente le raccolte dei mesi di settembre e ottobre, con temi assai interessanti e decisamente partecipati! Guerra! - ospitato...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeons: Forgotten Lands è ora di esplorare le regioni ostili di Em]]></title>
-        <id>https://cronachedaldungeon.blogspot.com/2022/11/dungeons-forgotten-lands-e-ora-di.html</id>
-        <link href="https://cronachedaldungeon.blogspot.com/2022/11/dungeons-forgotten-lands-e-ora-di.html"/>
-        <updated>2022-11-19T16:36:00.004Z</updated>
-        <summary type="html"><![CDATA[Dungeons: Forgotten Lands è un nuovo supplemento per il regolamento di Dungeons, gdr dai toni old school da giocare in solitario edito da Dungeoneer Games & Simulations, che ci porterà ad esplorare delle nuove regioni al di fuori degli ambienti conosciuti fin ora. Sempre in formato tascabile è stato presentato allo scorso Lucca comics in anteprima e uscito poco dopo per tutti su Terra dei Giochi.
-
-Introduce delle nuove meccaniche che aiuteranno il giocatore nelle sue avventure o lo ostacoleranno per rendergli la vita più difficile. 
-Il manuale si divide in: introduzione alle terre dimenticate e le 4 zone esplorabili, una quest speciale, mercenari e una serie di nuove regole, pozioni, oggetti magici e mostri unici. La prima parte dedicata alle 4 nuove aree è introdotta da una mappa e ognuna…]]></summary>
-        <author>
-            <name>CronachedalDungeon</name>
         </author>
     </entry>
 </feed>
