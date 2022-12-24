@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-23T22:07:56.358Z</updated>
+    <updated>2022-12-24T00:38:13.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -256,20 +256,6 @@ Sono ugualmente sicuro che, quando lasciati soli, i libri inizino a darsele di s
 Da piccolo rimasi traumatizzato dal The Monster Book of Monsters di Harr…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interactive Environment and Combos]]></title>
-        <id>https://scrtgm.blogspot.com/2022/11/interactive-environment-and-combos.html</id>
-        <link href="https://scrtgm.blogspot.com/2022/11/interactive-environment-and-combos.html"/>
-        <updated>2022-11-24T12:23:00.003Z</updated>
-        <summary type="html"><![CDATA[Further developing this project
-There are two more playable cards: Repeat Previous Card and Repeat First Card
-Cards are played 3 at a time, covered, and then revealed and resolved one at a time. The order of reveal is important, so make sure you are on the same page on which counts as the First Card.
-Example:
-Player 1 and Player 2 each place 3 cards covered on the table. They decided that the first card is the one on Player 1's left side and Player 2's right side, so they reveal those cards. Player 1's card is as Block while Player 2's card is a Throw. They go through all the steps of the procedure explained in the last blogpost, then move to the second card, and so on. After the clash of the third card is resolved, they check if someone pulled off a Combo, resolve that effect, take back t…]]></summary>
-        <author>
-            <name>The Secret Game - Il Gioco Segreto</name>
         </author>
     </entry>
 </feed>
