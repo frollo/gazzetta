@@ -114,7 +114,18 @@
       "title": "I CANCELLI DI HELLWINTER",
       "feedUrl": "https://hellwinter.blogspot.com/feeds/posts/default",
       "siteUrl": "https://hellwinter.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://hellwinter.blogspot.com/2022/12/natale-di-sangue.html",
+          "author": null,
+          "description": "E, come ormai tradizione, anche questo Natale, il blog di Hellwinter fa trovare sotto l’albero un regalo per la community ludica.\nQuest’anno si son fatte le cose in grande: una lunga avventura di genere mystery horror scritta a quattro mani da Andrea Tupac Mollica, Danilo Frontani, Gianluca Boccia e Marcello Scarponi.\nL’avventura si Intitola Natale di Sangue, e vi catapulterà nel più spaventoso Natale della vostra vita! Quella dei PG, ovviamente.\n\nSe la giocate e vi fa di farci sapere cosa ve n’è parso, saremmo davvero contenti.\nAltro non resta che augurarvi buon Natale e un ludicissimo anno nuovo!",
+          "link": "https://hellwinter.blogspot.com/2022/12/natale-di-sangue.html",
+          "publishedOn": "2022-12-24T08:30:00.033Z",
+          "wordCount": 3019,
+          "title": "Natale di Sangue!",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEMvob4mXLac3ZYsv8qUBsQr5sVtawWGBdgqkF_S--FVoVZjaKPzgdutOBWxZ-f0r8SixAbdYz9j1GrZn9hlrPYOv5UIOJGKmIrQkRfV5Xi3-AKeDUJ5oVoU_uH-a1b1-B-gNwWQgbiqLNM_IJg5MwLksNzjjJQuIgeIkVf68RXg1aMELLR99Pbaoykw/w1200-h630-p-k-no-nu/NataleSangue.png"
+        }
+      ]
     },
     {
       "title": "Say Friends and Play",
