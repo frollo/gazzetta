@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-27T08:11:04.946Z</updated>
+    <updated>2022-12-27T10:08:58.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -270,16 +270,6 @@ There are rules for starting and managing an enterprise and large…]]></summary
 <h2 id="Statistiche"><a href="#Statistiche" class="headerlink" t…]]></summary>
         <author>
             <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dicembre - Le Reti by Cleptomania postale]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/456840/dicembre-le-reti-by-cleptomania-postale</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/456840/dicembre-le-reti-by-cleptomania-postale"/>
-        <updated>2022-11-27T21:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Novembre è quasi finito, ma il tema di dicembre è già qui! E si tratta di un tema, per la stessa ammissione di debbase , estremamente generico e multisfaccettato, interpretabile in moltissime manie...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
