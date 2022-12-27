@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-26T22:07:38.829Z</updated>
+    <updated>2022-12-27T00:42:20.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -292,24 +292,6 @@ There are rules for starting and managing an enterprise and large…]]></summary
   Sei fregato, e già stai vedendo come l'entusiasmo dei tuoi giocatori lasci   spazio alla delusi…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Biblioteca Perduta di Bartholomeus Crawn: un dungeon Dark Academia #1]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2022/11/la-biblioteca-perduta-di-bartholomeus.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2022/11/la-biblioteca-perduta-di-bartholomeus.html"/>
-        <updated>2022-11-27T11:35:00.003Z</updated>
-        <summary type="html"><![CDATA[Questo articolo si inserisce nell'iniziativa Vecchio Carnevale Blogghereccio. Il tema del mese di Novembre è...LE BIBLIOTECHE!
-
-
-Il tema di questo mese non può che rendermi contento, dato l'enorme (malsano) attaccamento che ho per la mia libreria (rispolvero amorevolmente i miei libri una volta al mese, uno ad uno).
-Dovendo decidere cosa scrivere per il Carnevale ho buttato giù un po' di idee e suggestioni:
-
-Sono abbastanza sicuro che i libri siano a tutti gli effetti delle creature. Inkheart e La Storia Infinita hanno dimostrato scientificamente che non si tratta di semplici oggetti. 
-Sono ugualmente sicuro che, quando lasciati soli, i libri inizino a darsele di santa ragione (Small Soldiers è una prova sufficiente).
-Da piccolo rimasi traumatizzato dal The Monster Book of Monsters di Harr…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
