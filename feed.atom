@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-28T06:11:11.761Z</updated>
+    <updated>2022-12-28T08:10:54.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -270,21 +270,6 @@ Characters progress through milestones, at first based on the number of expediti
 There are rules for starting and managing an enterprise and large…]]></summary>
         <author>
             <name>The Secret Game - Il Gioco Segreto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Mostri da Biblioteca]]></title>
-        <id>https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Mostri-da-Biblioteca/</id>
-        <link href="https://oicn.icu/2022/Vecchio-Carnevale-Blogghereccio-Mostri-da-Biblioteca/"/>
-        <updated>2022-11-28T19:15:02.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="/2022/Vecchio-Carnevale-Blogghereccio-Mostri-da-Biblioteca/carnevale_blogghereccio.jpg" alt=""></p>
-<p>Il Carnevale di questo mese, gentilmente ospitato dalla <a href="https://gildadeiruolatori.blogspot.com/">Gilda dei Ruolatori</a>, parla di <a href="https://gildadeiruolatori.blogspot.com/2022/10/vecchio-carnevale-blogghereccio-le.html">biblioteche</a>. Le biblioteche sono luoghi interessantissimi in cui giocare, con i loro scaffali labirintici, la conoscenza segreta, i vecchi monaci assassini…</p>
-<p>E infatti, stiamo avendo un piacevole proliferare di dungeon e scenari bibliotecosi. E quindi ho deciso di fare altro: pensiamo a un po’ di mostri che starebbero bene in una biblioteca.</p>
-<span id="more"></span>
-
-<h2 id="Statistiche"><a href="#Statistiche" class="headerlink" t…]]></summary>
-        <author>
-            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
 </feed>
