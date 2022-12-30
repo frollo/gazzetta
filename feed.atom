@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-30T10:08:34.563Z</updated>
+    <updated>2022-12-30T12:14:35.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to create a sandbox suitable for a campaign, in 3-4  hours, step by step]]></title>
+        <id>https://scrtgm.blogspot.com/2022/12/how-to-create-sandbox-suitable-for.html</id>
+        <link href="https://scrtgm.blogspot.com/2022/12/how-to-create-sandbox-suitable-for.html"/>
+        <updated>2022-12-30T12:04:00.017Z</updated>
+        <summary type="html"><![CDATA[1. Roll 3d6 on this chart for Climate, Elevation and Humidity of the region
+
+
+
+
+Latitude/10      
+
+Climate
+
+Elevation
+
+Humidity 
+
+
+0
+
+Tropical
+
+Sealevel
+
+Inundated
+
+
+1-2
+
+Subtropical
+
+Low
+
+Humid
+
+
+
+3-4                           
+
+Temperate
+
+1k ft/ 300 m
+
+Dry
+
+
+
+5
+
+Boreal
+
+2.5k ft. / 1000 m
+
+Semi-arid
+
+
+6
+
+Subpolar
+
+5k ft. / 2000 m
+
+Arid
+
+
+7-9
+
+Polar
+
+Treeline
+
+Super-Arid
+
+
+
+        ex: I roll a 3 (Temperate), a 2 (Low), and a 4 (Dry)
+
+2. Cross reference this chart to find biome, this is the default biome of the map
+
+
+        ex: Temperate and Dry gives me Woodland
+
+
+3. Draw a Hex Flower of 7 hexes in the middle of the paper
+
+
+4. Draw the borders with a thicker line
+
+
+4. Write a H in the center hex: this is the Safe Haven
+
+
+
+
+
+
+
+5. Roll the Terrain of this region
+
+
+
+
+
+d10
+
+Terrain
+
+Effect
+
+…]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Una Luce Nella Nebbia, un'avventura horror.]]></title>
+        <id>https://autarkikagdr.blogspot.com/2022/12/una-luce-nella-nebbia-unavventura-horror.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2022/12/una-luce-nella-nebbia-unavventura-horror.html"/>
+        <updated>2022-12-30T10:56:00.005Z</updated>
+        <summary type="html"><![CDATA[Ciao a tutti,
+finalmente sono riuscito a concludere la pubblicazione della mia avventura "Una luce nella Nebbia" su Amazon.
+La stesura si è rivelata complicata a causa della natura investigativa della storia narrata, il playtest è stato lungo siccome ho dovuto limare per bene alcune situazioni proposte.
+Troverete una vicenda basata sulla ricerca di indizi e su un'atmosfera "Lovercraftiana" contro forze oscure e incomprensibili.
+Come sempre l'avventura è facilmente convertibile per qualsiasi sistema Osr e non solo.
+Spero vi diverta giocarla.
+@threeballs]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lo stato di questo macello III]]></title>
         <id>https://oicn.icu/2022/Lo-stato-di-questo-macello-III/</id>
