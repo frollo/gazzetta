@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2022-12-30T20:08:27.848Z</updated>
+    <updated>2022-12-30T22:07:42.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -369,16 +369,6 @@ d6
 1. Fare un servizio giornalistico sulla mixolomagia, nuova branca della magia nata nei bar, che consiste nella creazione di cocktail incantati. Alla …]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrazione]]></title>
-        <id>http://eclecticagdr.wordpress.com/?p=819</id>
-        <link href="https://eclecticagdr.wordpress.com/2022/12/01/migrazione/"/>
-        <updated>2022-12-01T09:17:25.000Z</updated>
-        <summary type="html"><![CDATA[Questo sito è migrato su https://www.eclecticagdr.it/ Aggiornate feed e segnalibri!]]></summary>
-        <author>
-            <name>zeruhur</name>
         </author>
     </entry>
 </feed>
