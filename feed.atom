@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-01T08:10:44.232Z</updated>
+    <updated>2023-01-01T10:08:22.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Barrowmaze, il mega Dungeon della consapevolezza]]></title>
+        <id>https://autarkikagdr.blogspot.com/2023/01/barrowmaze-il-mega-dungeon-della.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2023/01/barrowmaze-il-mega-dungeon-della.html"/>
+        <updated>2023-01-01T09:07:00.002Z</updated>
+        <summary type="html"><![CDATA[Ciao a tutti,
+partendo dal video di storia del Master Kae voglio iniziare da dove lui ha concluso presentandovi il megadungeon della rinascita dello stile Old School.
+Era il 2012 quando nasceva un prodotto che riassumeva in modo ragionato e coerente lo stile del Megadaungeon partendo dal passato.
+Il movimento OSR era nato quasi sette anni prima, con la pubblicazione di Labyrinth Lord, i tempi erano maturi per provare strutturare e a rendere coerenti molti concetti e regolamenti nati agli albori del gdr.
+L'opera di Greg Gillespie riesce a creare un mondo nel mondo, un dedalo di gallerie sotterranee coerente che può essere inserito in qualsiasi ambientazione.
+L'avventura fornisce un sistema che ricalca la struttura del Undermountain, viene fornita la possibilità ai personaggi di creare un lo…]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Il 2022 in gioco]]></title>
         <id>https://castellochimerico.blogspot.com/2022/12/il-2022-in-gioco.html</id>
