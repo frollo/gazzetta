@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-08T20:08:18.145Z</updated>
+    <updated>2023-01-08T22:07:41.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La prima sessione dell'anno, Wanderhome e ritrovamenti  alla fine della festa..]]></title>
+        <id>https://castellochimerico.blogspot.com/2023/01/la-prima-sessione-dellanno-wanderhome-e.html</id>
+        <link href="https://castellochimerico.blogspot.com/2023/01/la-prima-sessione-dellanno-wanderhome-e.html"/>
+        <updated>2023-01-08T20:24:00.005Z</updated>
+        <summary type="html"><![CDATA[Oggi ho partecipato alla mia prima sessione di GDR dell' anno.  Ho giocato a Wanderhome, titolo per me nuovo, e l'esperienza è stata molto positiva,  anche grazie a un ottimo gruppo. Detto in breve,  Wanderhome è un GDR fantasy del designer indipendente Jay Dragon, dal regolamento leggero, in cui si interpretano degli animali senzienti e antropomorfi che si muovono in un mondo dal passato turbolento in cui la violenza è stata bandita, dopo molte sofferenze.  I personaggi vanno in giro e aiutano gli abitanti delle terre che attraversano, senza però poter risolvere totalmente i loro problemi. La creazione dei personaggi mi ha colpito positivamente,  in quanto si compie rispondendo a diverse domande, un processo che produce figure interessanti,  ad esempio ho giocato un riccio poeta e scritto…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sea Fortress of Yule Qeen, un ottimo esempio di design.]]></title>
         <id>https://autarkikagdr.blogspot.com/2023/01/sea-fortress-of-yule-qeen-un-ottimo.html</id>
