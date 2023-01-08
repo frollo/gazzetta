@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-08T18:09:33.967Z</updated>
+    <updated>2023-01-08T20:08:18.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sea Fortress of Yule Qeen, un ottimo esempio di design.]]></title>
+        <id>https://autarkikagdr.blogspot.com/2023/01/sea-fortress-of-yule-qeen-un-ottimo.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2023/01/sea-fortress-of-yule-qeen-un-ottimo.html"/>
+        <updated>2023-01-08T19:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Ciao a tutti,
+oggi voglio presentarvi un piccolo gioiello creato da Sam Barret.
+Il punto cardine di questo prodotto consiste nel collegare sapientemente il game design e il concetto di one-page dungeon.
+La struttura del Dungeon viene esposta SOLO ed esclusivamente attraverso un diagramma di flusso e di una spiegazione delle stanze e situazioni.
+A parte alcuni refusi, trovo il modulo geniale e figlio di una nuova corrente di design presente in certi ambienti del gioco di ruolo indipendente.
+Consiglio agli addetti ai lavori di tenere gli occhi aperti verso questa corrente di cui ho già individuato alcuni altri esempi; inoltre collego questa tipologia di produzione accostabile all'utilizzo delle IA per creare avventure di questo tipo.
+Penso che utilizzerò una struttura simile per i miei prossimi lavori su pamphlet, oltre che per strutturare delle teorie sulla creazione di avventure e Dungeon.
+@threeballs]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Le Biblioteche - Raccolta di Novembre]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/473590/le-biblioteche-raccolta-di-novembre</id>
