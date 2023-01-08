@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-08T10:08:34.076Z</updated>
+    <updated>2023-01-08T12:14:20.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Le Biblioteche - Raccolta di Novembre]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/473590/le-biblioteche-raccolta-di-novembre</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/473590/le-biblioteche-raccolta-di-novembre"/>
+        <updated>2023-01-08T10:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Ed eccoci già qui! La farò breve: è arrivata la raccolta dei contributi di novembre 2022 che aveva come tema Le Biblioteche… e che contributi! Ben 10, tutti bellissimi e riassunti ottimamente nel...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Cavalieri della Follia]]></title>
         <id>https://hellwinter.blogspot.com/2023/01/i-cavalieri-della-follia.html</id>
