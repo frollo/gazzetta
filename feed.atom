@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-09T16:16:25.822Z</updated>
+    <updated>2023-01-09T18:11:26.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Di licenze, open e altre sciocchezze]]></title>
+        <id>https://oicn.icu/2023/Di-licenze-open-e-altre-sciocchezze/</id>
+        <link href="https://oicn.icu/2023/Di-licenze-open-e-altre-sciocchezze/"/>
+        <updated>2023-01-09T19:00:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>A meno che non abbiate vissuto in un buco negli ultimi 5 giorni, probabilmente vi sarete accorti della piccola discussione sul tema dell’OGL e del futuro di moltissimi giochi legati a D&amp;D. Se siete appena usciti dal buco, c’è un <a href="https://www.eclecticagdr.it/2023/01/09/osr-ogl-e-dd-le-opportunita-di-una-crisi-incombente/">ottimo post</a> di Eclectica GDR che fa un breve riassunto e mostra le prospettive a oggi.</p>
+<p>Bene, ora che sapete da dove è partito il casino, posso cominciare con le stronzate!</p>
+<span id="more"></span>
+
+<p>Sto casino della OGL in realtà si innesta sopra un mio casino interiore. Come potreste aver notato se leggete il canale, a Capodanno ho fatto un sogno del cazzo:</p>
+<blockquote><p>Signorɜ e signorɜ, è con viva e vibrante soddisfazione che vi annu…]]></summary>
+        <author>
+            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Mecha - Raccolta di Febbraio+Agosto]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/474164/i-mecha-raccolta-di-febbraioagosto</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/474164/i-mecha-raccolta-di-febbraioagosto"/>
+        <updated>2023-01-09T17:44:34.000Z</updated>
+        <summary type="html"><![CDATA[E finalmente dopo aver minacciato Dada di dargli fuoco alle dita dei piedi, siamo riusciti a ottenere da parte sua la raccolta dei contributi dei mesi di febbraio e agosto a tema I Mecha (a febbraio e...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Mecha sono roba vecchia!]]></title>
         <id>https://write.as/jonnie/i-mecha-sono-roba-vecchia</id>
