@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-09T08:11:47.880Z</updated>
+    <updated>2023-01-09T10:10:23.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Mecha sono roba vecchia!]]></title>
+        <id>https://write.as/jonnie/i-mecha-sono-roba-vecchia</id>
+        <link href="https://write.as/jonnie/i-mecha-sono-roba-vecchia?pk_campaign=rss-feed"/>
+        <updated>2023-01-09T09:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Roba del profondo passato, sia dei manga che dei gdr. Robotech ve lo ricordate? Certo che no. A quindi come un blast from the plast vi sblocco un ricordo estivo ...]]></summary>
+        <author>
+            <name>jonnie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La prima sessione dell'anno, Wanderhome e ritrovamenti  alla fine della festa..]]></title>
         <id>https://castellochimerico.blogspot.com/2023/01/la-prima-sessione-dellanno-wanderhome-e.html</id>
