@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-11T08:12:07.515Z</updated>
+    <updated>2023-01-11T10:11:49.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -498,16 +498,6 @@ di: Barakiel]]></summary>
 di: Barakiel]]></summary>
         <author>
             <name>Barakiel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENTA GIORNI DI OSR PIZZA!]]></title>
-        <id>https://write.as/jonnie/trenta-giorni-di-osr-pizza</id>
-        <link href="https://write.as/jonnie/trenta-giorni-di-osr-pizza?pk_campaign=rss-feed"/>
-        <updated>2022-12-12T20:47:01.000Z</updated>
-        <summary type="html"><![CDATA[La community osr italiana prospera! Chi lo avrebbe mai detto? Chi nei lontani giorni di G+ avrebbe scommesso un euro sulla nascita di una community osr in Italia?...]]></summary>
-        <author>
-            <name>jonnie</name>
         </author>
     </entry>
 </feed>
