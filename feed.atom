@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-12T10:10:54.142Z</updated>
+    <updated>2023-01-12T12:17:52.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rime di Esperia #3 (Poggio Cavalli)]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/01/rime-di-esperia-3-poggio-cavalli.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/01/rime-di-esperia-3-poggio-cavalli.html"/>
+        <updated>2023-01-12T10:31:00.004Z</updated>
+        <summary type="html"><![CDATA[Prosegue il pointcrawl di Rime di Esperia, ambientazione fantasy dai toni italici e rinascimentali. Potete usare l'Etichetta rime di esperia per recuperare gli episodi precedenti. Bando alle ciance! Entrato in città  dalla Porta Maestra, il pellegrino stanco vedrà di fronte a sè il monumentale Poggio Cavalli, con le sue statue in marmo (e in rovina). Quel che rimane dei fasti dell'Antico Impero.
+
+
+
+Il Poggio Cavalli è un colle avvolto dalla boscaglia, dove le coppie innamorate si recano a peccare (come direbbere il Cardinale Fosco de' Presagi) tra le statue classiche. Famoso per le statue di Crepusco e Solfiero, i cavalli che guidarono la stirpe umana nella vallata dove oggi sorge la città. 
+
+Personaggi
+
+Guidobaldo dei Baldi, detto "Il Pazzo dell'Ultimo Giorno". Un vecchio pazzo che pontif…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Di licenze, open e altre sciocchezze]]></title>
         <id>https://oicn.icu/2023/Di-licenze-open-e-altre-sciocchezze/</id>
