@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-19T06:11:22.179Z</updated>
+    <updated>2023-01-19T08:11:41.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -510,21 +510,6 @@ Per concludere il cambio di approccio in questi gdr è fondamentale per evitare 
 @GioReDiFerro]]></summary>
         <author>
             <name>Cronache dal Dungeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Dungeon Crawler #4 Pale Forest]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2022/12/pokemon-dungeon-crawler-4-pale-forest.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2022/12/pokemon-dungeon-crawler-4-pale-forest.html"/>
-        <updated>2022-12-20T19:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecco un nuovo episodio del pointcrawl per Pokémon Dungeon Crawler di Batts. Questa volta descriverò Pale Forest, un'umida area boschiva vicino a Pallet Town. Potete collocare la Grotta dei Cristalli a metà strada tra Pallet Town e la Pale Forest.
-La Pale Forest è un bosco tappezzato di stagni e canneti, il cui sottobosco è perennemente al buio a causa degli alberi secolari che vivono qui. Quando gli Umani calcavano ancora la terra questo era un luogo di preghiera, dove veniva celebrato il culto delle stagioni. Rimangono ancora i segni di questo culto, sotto forma di vecchi santuari in legno dipinto. Attraversando il bosco si raggiunge la costa, dove placide onde bagnano ampie spiagge sabbiose.
-
-
-
-La Pale Forest è situata su una stretta penisola lambita dal mare su tre lati. I giocatori pot…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
