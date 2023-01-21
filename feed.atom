@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-21T20:08:12.204Z</updated>
+    <updated>2023-01-21T22:07:30.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -520,36 +520,6 @@ Se la giocate e vi fa di farci sapere cosa ve n’è parso, saremmo davvero cont
 Altro non resta che augurarvi buon Natale e un ludicissimo anno nuovo!]]></summary>
         <author>
             <name>I CANCELLI DI HELLWINTER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guida all'OSR: le sfide dei Dungeon]]></title>
-        <id>https://cronachedaldungeon.blogspot.com/2022/12/guida-allosr-le-sfide-dei-dungeon.html</id>
-        <link href="https://cronachedaldungeon.blogspot.com/2022/12/guida-allosr-le-sfide-dei-dungeon.html"/>
-        <updated>2022-12-23T10:00:00.033Z</updated>
-        <summary type="html"><![CDATA[Salve a tutti, torniamo con la nostra rubrica che esplora il mondo old school, rimanete sintonizzati che il 25 vi faccio un regalino. 
-Se nella maggior parte dei gdr troviamo dei nemici studiati per fronteggiare alla pari i personaggi, nei giochi OS questa convinzione viene sfatata. Innanzitutto perché i personaggi guadagnano livelli più lentamente e di rado ottengono abilità rilevanti in combattimento; in secondo luogo gli incontri OS sono presenti per dare un senso allo scenario e non per offrire uno scontro alla pari. Affrontare questi avversari senza ragionare porterà a una sconfitta sicura: a volte sarà possibile sfruttare lo scenario per batterli o per nascondersi; altre volte la fuga potrebbe rilevarsi una scelta saggia. 
-
-
-(foto da internet)
-
-
-
-
-Vedremo che con il progredire dello scenario il “saper leggere la situazione” viene premiato più del lanciarsi a testa bassa in uno scontro fermo restando che la morte è un’eventualità che non va mai esclusa.
-Ora, giocatori, mi rivolgo a voi che fate i primi passi in questo mondo: non sempre una minaccia può essere superata con la forza bruta; uno scontro richiede il ragionamento collettivo e una certa dose di pensiero fuori dagli schemi.
-Per concludere il cambio di approccio in questi gdr è fondamentale per evitare un total party kill ed il capire come il modo giusto per immergersi e divertirsi in questo mondo. 
-
-
-
-(foto da internet)
-
-
-
-
-@GioReDiFerro]]></summary>
-        <author>
-            <name>Cronache dal Dungeon</name>
         </author>
     </entry>
 </feed>
