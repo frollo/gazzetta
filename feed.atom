@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-23T20:09:16.912Z</updated>
+    <updated>2023-01-23T22:07:55.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prendete un'altra tazza di tè: un compendio alla teina per Cairn]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/01/un-compendio-alla-teina-per.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/01/un-compendio-alla-teina-per.html"/>
+        <updated>2023-01-23T21:11:00.010Z</updated>
+        <summary type="html"><![CDATA[Ecco il mio contributo al Vecchio Carnevale Blogghereccio di Gennaio.
+Il tema di questo mese è...il TÉ!
+
+
+Per l'occasione ho deciso di preparare una sorta di compendio per Cairn, incentrato tutto sulla teina. Una raccolta di pacchetti d'avventura, reliquie, magie e mostri per organizzare un tea party anche nel livello più fetido del dungeon. Il post inaugura una serie di compendi per Cairn di Yochai Gal, ognuno con un tema ben preciso (un'idea nata già con l'Atlante di Colbrugh). Infatti il Cairn originale ha un'ambientazione ben precisa (una selva oscura e bizzarra) anche se nascosta tra i paragrafi del manuale. Nonostante ciò credo possa essere giocato con le ambientazioni più svariate con qualche aggiunta a tema. Ed ecco il perchè della rubrica. Ma bando alle ciance, prendiamo tutti ins…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thebbar e la Tea Family]]></title>
         <id>https://surelynotamaster.blogspot.com/2023/01/thebbar-e-la-tea-family.html</id>
@@ -498,34 +512,6 @@ Spero vi diverta giocarla.
 <h3 id="Piattaforme"><a href="#Piattaforme" class="headerlink" title="Piattaforme"></a>Piattaforme</h3><p>Quest’anno …]]></summary>
         <author>
             <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guida all'OSR: Le zine]]></title>
-        <id>https://cronachedaldungeon.blogspot.com/2022/12/guida-allosr-le-zine.html</id>
-        <link href="https://cronachedaldungeon.blogspot.com/2022/12/guida-allosr-le-zine.html"/>
-        <updated>2022-12-25T09:00:00.084Z</updated>
-        <summary type="html"><![CDATA[Salve, ecco un regalo insieme agli auguri di Buon Natale direttamente dal dungeon, in questo breve articolo parliamo di zine. 
-Inizio col dire che molti regolamenti Old school che siano brevi Streben o quick and classic (di qui vi parlerò) oppure più articolati vedi Strange Magic, Against the darkmaster, Knave, Scatola Bianca o OSE tutti sono spesso accompagnati da materiale inedito pubblicato sulle famose zine. 
-
-Queste sono riviste, nate insieme ai primi gdr, scritte dai fan o dalle stesse case editrici che raccolgono materiale che va ad arricchire il mondo di gioco, possiamo avere a che fare con nuove razze, abilità, magie, mostri, nuove regole e tanto altro; alcune contengono pure nuove ambientazioni o articoli sul mondo old school vedi Knock! o Vault of Vaarn, ad esempio, che si offre un intero nuovo setting basato sul sistema Knave. 
-
-
-(immagini da internet)
-
-
-
-
-La parte più interessante è che il materiale contenuto è spesso adattabile a tutti i nostri sistemi preferiti visto che gli stessi ci offrono gli strumenti per fare le conversioni, quindi, sono certamente una miniera d'oro per tutti i giocatori e master.
- Per citarne alcune Carcass Crawler, Knock!, Brave Dungeoneers, The lantern, streben magazine, Axian Library, pit zine e altre ancora per tutti i gusti. Molte di queste sono gratuite o acquistabili previo piccoli contributi dato che sono autoprodotte anche dai fan. Se siete interessati consiglio questi due gruppi facebook dove trovate di tutto: OSR Italia e Old school Italia.
-
-
-In conclusione, come si vede questo mondo è ben diverso dai classici manuali che troviamo di solito in quanto il titolo moderno avrà sempre manuali in supporto mentre il titolo OSR è supportato anche attraverso l’amore dei suoi giocatori tramite nuove integrazioni per render il gioco ancora più godibile. 
-Colgo l'occasione per farvi ancora gli auguri e ringrazio Leonardo che da dietro le quinte mi aiuta a rivedere i post, consiglia e sopporta ogni mese e al prossimo anno.  
-
-@GioReDiFerro]]></summary>
-        <author>
-            <name>Cronache dal Dungeon</name>
         </author>
     </entry>
 </feed>
