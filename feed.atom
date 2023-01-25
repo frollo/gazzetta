@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-25T04:10:35.829Z</updated>
+    <updated>2023-01-25T06:11:10.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -497,21 +497,6 @@ Spero vi diverta giocarla.
 @threeballs]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lo stato di questo macello III]]></title>
-        <id>https://oicn.icu/2022/Lo-stato-di-questo-macello-III/</id>
-        <link href="https://oicn.icu/2022/Lo-stato-di-questo-macello-III/"/>
-        <updated>2022-12-26T16:35:33.000Z</updated>
-        <summary type="html"><![CDATA[<p>La tradizione vuole che questo post esca ai primi di gennaio, ma quest’anno conto di posticipare la mia tradizionale pausa natalizia e, di conseguenza, anticipo il consueto recap di quello che è successo a questo blog. Come sempre, potete recuperare l’anno scorso <a href="/2022/Lo-stato-di-questo-macello-II/" title="qua">qua</a>.</p>
-<p>E ora, diamo inizio alle danze!</p>
-<span id="more"></span>
-
-<h1 id="Il-2022"><a href="#Il-2022" class="headerlink" title="Il 2022"></a>Il 2022</h1><p>Il trend positivo per la mia vita ruolistica è continuato abbondantemente. Ho giocato parecchio, fatto cose fighe e messo le basi per cose ancora più fighe. Vediamo un po’ in dettaglio.</p>
-<h3 id="Piattaforme"><a href="#Piattaforme" class="headerlink" title="Piattaforme"></a>Piattaforme</h3><p>Quest’anno …]]></summary>
-        <author>
-            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
 </feed>
