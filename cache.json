@@ -107,16 +107,6 @@
           "wordCount": 2453,
           "title": "Barrowmaze, il mega Dungeon della consapevolezza",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhjijfwdthTN7dO-MRvOQLYE-ihW1YDTX9-avPnOsR2OsqsagaW9h6H_-yvlkqxk1YnQHngdlRtY3NLLnEVghHfwyWIM1Iem7KngXq-BKwsMAzHqmAbi09OxEYFN9Us1C_sPL89UxeoHkZ8_jvKCQrob8SO-V_PpCHaqRHA9J9odZFD7OspoWxfrvZsuQ=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://autarkikagdr.blogspot.com/2022/12/una-luce-nella-nebbia-unavventura-horror.html",
-          "author": null,
-          "description": "Ciao a tutti,\nfinalmente sono riuscito a concludere la pubblicazione della mia avventura \"Una luce nella Nebbia\" su Amazon.\nLa stesura si è rivelata complicata a causa della natura investigativa della storia narrata, il playtest è stato lungo siccome ho dovuto limare per bene alcune situazioni proposte.\nTroverete una vicenda basata sulla ricerca di indizi e su un'atmosfera \"Lovercraftiana\" contro forze oscure e incomprensibili.\nCome sempre l'avventura è facilmente convertibile per qualsiasi sistema Osr e non solo.\nSpero vi diverta giocarla.\n@threeballs",
-          "link": "https://autarkikagdr.blogspot.com/2022/12/una-luce-nella-nebbia-unavventura-horror.html",
-          "publishedOn": "2022-12-30T10:56:00.005Z",
-          "wordCount": 2051,
-          "title": "Una Luce Nella Nebbia, un'avventura horror.",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu7ipn7zzlw2gcTWVGZmljwMdxcQTWI_F5R20ogeSwM8PsoZxwE7xYt5v1y-Fw-zdBGwHY6RHPnrSoRN35KYFi-q9pAz2O6rgOUFOYMA8aVkXpyPF5OSNH-V4NOPYykVnoVy5AkRRA4s5UMe978DgnX4oFsAmQAGdI9otWYv-CWX3TIMnhbV7SXlx7zw/w1200-h630-p-k-no-nu/41PSs5z+n-L._SX351_BO1,204,203,200_.jpg"
         }
       ]
     },
@@ -223,18 +213,7 @@
       "title": "The Secret Game - Il Gioco Segreto",
       "feedUrl": "https://scrtgm.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scrtgm.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://scrtgm.blogspot.com/2022/12/how-to-create-sandbox-suitable-for.html",
-          "author": null,
-          "description": "1. Roll 3d6 on this chart for Climate, Elevation and Humidity of the region\n\n\n\n\nLatitude/10      \n\nClimate\n\nElevation\n\nHumidity \n\n\n0\n\nTropical\n\nSealevel\n\nInundated\n\n\n1-2\n\nSubtropical\n\nLow\n\nHumid\n\n\n\n3-4                           \n\nTemperate\n\n1k ft/ 300 m\n\nDry\n\n\n\n5\n\nBoreal\n\n2.5k ft. / 1000 m\n\nSemi-arid\n\n\n6\n\nSubpolar\n\n5k ft. / 2000 m\n\nArid\n\n\n7-9\n\nPolar\n\nTreeline\n\nSuper-Arid\n\n\n\n        ex: I roll a 3 (Temperate), a 2 (Low), and a 4 (Dry)\n\n2. Cross reference this chart to find biome, this is the default biome of the map\n\n\n        ex: Temperate and Dry gives me Woodland\n\n\n3. Draw a Hex Flower of 7 hexes in the middle of the paper\n\n\n4. Draw the borders with a thicker line\n\n\n4. Write a H in the center hex: this is the Safe Haven\n\n\n\n\n\n\n\n5. Roll the Terrain of this region\n\n\n\n\n\nd10\n\nTerrain\n\nEffect\n\n…",
-          "link": "https://scrtgm.blogspot.com/2022/12/how-to-create-sandbox-suitable-for.html",
-          "publishedOn": "2022-12-30T12:04:00.017Z",
-          "wordCount": 2780,
-          "title": "How to create a sandbox suitable for a campaign, in 3-4  hours, step by step",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vncDPnaEGKw__-tApf0ZVUkxBunx-DcUQbz53cmzp4JB8qRzbjebNqgS8wOmSYZuZAcNemPAXMN6eaUmcATervp3dtv-wUIdjj9_lnsn4FK9WefOm3-g0y3FMrKfI3FRxyXbJ7jL2FgJWpcjk460bfbPp84crRMrtZtUaLEgFtafXh-BLDkHivHM/w1200-h630-p-k-no-nu/photo_2022-12-30_12-22-24.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Il Castello Chimerico",
