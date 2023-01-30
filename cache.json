@@ -314,7 +314,18 @@
       "title": "Cronache dal Dungeon",
       "feedUrl": "https://cronachedaldungeon.blogspot.com/feeds/posts/default",
       "siteUrl": "https://cronachedaldungeon.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cronachedaldungeon.blogspot.com/2023/01/quick-and-classic-un-light-fantasy.html",
+          "author": null,
+          "description": "Ehilà bentrovati, ve ne avevo accennato ecco qua Quick and Classic di David Chelazzi.\n\nQAC è un gioco old school che strettamente si rifà al classico fantasy anni 80, volutamente leggero quindi master e giocatori troveranno situazioni che andranno risolte al tavolo in quanto esulano dalle regole. \nQAC è un gioco che per alcune meccaniche varia dai classici sistemi OS, per cominciare le azioni sono assegnate a 7 categorie: Combattimento, Acrobazie, Sotterfugio, Enigmi, Fascino, Minaccie e Impervia. Ogni personaggio avrà le sue preferite e un punteggio abilità, che si potrà usare solo se si è competenti nella categoria richiesta. Esistono pure le azioni di gruppo mediando il punteggio e arrotondandolo per difetto. \nUna tabella poi indicherà il dado corrispondente che andremo a tirare per ris…",
+          "link": "https://cronachedaldungeon.blogspot.com/2023/01/quick-and-classic-un-light-fantasy.html",
+          "publishedOn": "2023-01-30T16:30:00.010Z",
+          "wordCount": 2360,
+          "title": "Quick and Classic: un \"light\" fantasy classico, veloce e semplice.",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmwwTIKwzGYUojIVJ2-M-VI2HPzYfvBmHWbXklrgMGiFBGvNfgF_aP6rycchijWq7GvzRhTCisVrvGYa4-2wor3aq7i7KXyGB89Qh8cVXG7fR3L2HF2y_Z5HdIgg_NdZ-feO06F0g3P1gF-k2MoS6s5DJDdS-o_A7HAJOfmSx4lIS6VZYPB8zScfbo5A/w1200-h630-p-k-no-nu/download.jpg"
+        }
+      ]
     },
     {
       "title": "perticadatremetri",

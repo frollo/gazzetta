@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-30T16:11:22.127Z</updated>
+    <updated>2023-01-30T18:10:39.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quick and Classic: un "light" fantasy classico, veloce e semplice.]]></title>
+        <id>https://cronachedaldungeon.blogspot.com/2023/01/quick-and-classic-un-light-fantasy.html</id>
+        <link href="https://cronachedaldungeon.blogspot.com/2023/01/quick-and-classic-un-light-fantasy.html"/>
+        <updated>2023-01-30T16:30:00.010Z</updated>
+        <summary type="html"><![CDATA[Ehilà bentrovati, ve ne avevo accennato ecco qua Quick and Classic di David Chelazzi.
+
+QAC è un gioco old school che strettamente si rifà al classico fantasy anni 80, volutamente leggero quindi master e giocatori troveranno situazioni che andranno risolte al tavolo in quanto esulano dalle regole. 
+QAC è un gioco che per alcune meccaniche varia dai classici sistemi OS, per cominciare le azioni sono assegnate a 7 categorie: Combattimento, Acrobazie, Sotterfugio, Enigmi, Fascino, Minaccie e Impervia. Ogni personaggio avrà le sue preferite e un punteggio abilità, che si potrà usare solo se si è competenti nella categoria richiesta. Esistono pure le azioni di gruppo mediando il punteggio e arrotondandolo per difetto. 
+Una tabella poi indicherà il dado corrispondente che andremo a tirare per ris…]]></summary>
+        <author>
+            <name>Cronache dal Dungeon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Le Frontiere]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/01/vecchio-carnevale-blogghereccio-le.html</id>
