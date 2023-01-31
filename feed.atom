@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-31T06:11:17.218Z</updated>
+    <updated>2023-01-31T08:11:41.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -336,30 +336,6 @@ L'esagono più a Sud è stato descritto nel primo post dedicato alla Dungeon23
 Gennaio 2, 2023
 Le Colline Aride
 Colline brulle, punteggiate da rari arbusti spinosi e scavate da ruscelli ormai scomparsi da tempo. Numerose rovine sparse per questa regione, molte tom…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[365 Esagoni: il mio Dungeon23!]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2023/01/365-esagoni-il-mio-dungeon23.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2023/01/365-esagoni-il-mio-dungeon23.html"/>
-        <updated>2023-01-01T18:52:00.009Z</updated>
-        <summary type="html"><![CDATA[Ecco il primo manicaretto troll dell'anno! Si parte in quarta con i primi passi attraverso la Dungeon23, una challenge creata da Sean McCoy. Un megadungeon da 365 stanze, una stanza al giorno. Nel mio caso al posto delle stanze ci saranno gli esagoni, con la speranza di arrivare al 31 Dicembre 2023 con un mega-hexcrawl. Nella pagina Itch.io della challenge ci sono numerosi informazioni, risorse e i progetti e progressi di molti partecipanti. Non è passato molto, infatti, per vedere numerose declinazioni della challenge originale: City23, Facility23, Horror23...
-Quindi ecco il mio Hex23 sul modello di Paludenera, una vasta terra di confine piena di bizzarre creature e misteriosi personaggi. Attende solo di essere esplorata! In questo post descriverò il primo esagono: non si tratta di una descrizione lunga ed esaustiva, perchè nella challenge originale si consiglia di mantenere tutto in un'agenda, quindi parliamo di poche righe per ciascuna stanza. Nel mio caso mi sono posto un limite di 600-700 caratteri. Per il futuro cercherò di aggiornare settimanalmente la challenge, di 7 esagoni in 7 esagoni. 
-Si parte!
-
-
-Gennaio 1, 2023 
-Il tema del primo mese è Antico.
-La Caverna della Dama Pallida
-
-
-Un'antica cripta nobiliare si cela tra queste aride colline. Al suo interno è stata sepolta Lady Karis Quercianera, una nobildonna affiliata al culto elementale noto come Via dell'Acqua. A protezione della tomba vi è un elementale minore dell'acqua di nome Uls. L'unica stanza nascosta della cripta è quella del corredo della defunta, che cela ancora antichi tesori famigliari (come i Guanti di Perle: se ingerite le perle permettono di respirare sott'acqua per un'ora e parlare con tutte le creature acquatiche). Lady Karis dimora ancora nella cripta sotto forma di Banshee, affranta per gli orrori che hanno portato alla caduta del suo Casato.
-
-
-
-Se anche voi partecipate alla Dungeon23 vi auguro buona fortuna! Postate pure nei commenti i link al vostro progetto.]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
         </author>
