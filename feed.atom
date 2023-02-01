@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-01-31T22:07:57.421Z</updated>
+    <updated>2023-02-01T00:53:56.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -317,27 +317,6 @@ Buon Anno a tutti!
 @threeballs]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEX23: settimana 1]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2023/01/hex23-settimana-1.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2023/01/hex23-settimana-1.html"/>
-        <updated>2023-01-02T11:53:00.275Z</updated>
-        <summary type="html"><![CDATA[Ecco il primo aggiornamento sul mio hexcrawl per la challenge Dungeon23. Ho creato con successo i primi 7 esagoni del mio mega-hexcrawl. Dato il tema della prima settimana ("Antico") ho deciso di ammantare tutto di polvere e cose vecchie e dimenticate. Credo che proseguirò la creazione della mappa usando la lista dei temi per creare differenti aree caratteristiche, in modo da arrivare a Gennaio 2024 con una cinquantina di regioni ben definite o qualcosa del genere, che potrebbero anche funzionare come molti piccoli hexcrawl.
-
-
-L'esagono più a Sud è stato descritto nel primo post dedicato alla Dungeon23
-
-
-
-
-
-Gennaio 2, 2023
-Le Colline Aride
-Colline brulle, punteggiate da rari arbusti spinosi e scavate da ruscelli ormai scomparsi da tempo. Numerose rovine sparse per questa regione, molte tom…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
