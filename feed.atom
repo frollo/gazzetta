@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-05T22:08:04.087Z</updated>
+    <updated>2023-02-06T00:42:40.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -236,18 +236,6 @@ Penso che utilizzerò una struttura simile per i miei prossimi lavori su pamphle
         <summary type="html"><![CDATA[Ed eccoci già qui! La farò breve: è arrivata la raccolta dei contributi di novembre 2022 che aveva come tema Le Biblioteche… e che contributi! Ben 10, tutti bellissimi e riassunti ottimamente nel...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Cavalieri della Follia]]></title>
-        <id>https://hellwinter.blogspot.com/2023/01/i-cavalieri-della-follia.html</id>
-        <link href="https://hellwinter.blogspot.com/2023/01/i-cavalieri-della-follia.html"/>
-        <updated>2023-01-07T11:23:00.006Z</updated>
-        <summary type="html"><![CDATA[Era il finire degli anni '90, e all'epoca giocavamo quasi esclusivamente il World of Darkness.
-Una campagna, tra le molte, rimane nei nostri annali. Tanto ci coinvolse che, dalle sessioni di gioco, nacquero dei brevi racconti che ne riassumevano e romanzavano il contenuto.
-Eccoli, qui, solo per i vostri occhi. Buona lettura e buon divertimento!]]></summary>
-        <author>
-            <name>I CANCELLI DI HELLWINTER</name>
         </author>
     </entry>
 </feed>
