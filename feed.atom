@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-07T06:11:28.654Z</updated>
+    <updated>2023-02-07T08:11:39.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -234,23 +234,6 @@ Guidobaldo dei Baldi, detto "Il Pazzo dell'Ultimo Giorno". Un vecchio pazzo che 
         <summary type="html"><![CDATA[Oggi ho partecipato alla mia prima sessione di GDR dell' anno.  Ho giocato a Wanderhome, titolo per me nuovo, e l'esperienza è stata molto positiva,  anche grazie a un ottimo gruppo. Detto in breve,  Wanderhome è un GDR fantasy del designer indipendente Jay Dragon, dal regolamento leggero, in cui si interpretano degli animali senzienti e antropomorfi che si muovono in un mondo dal passato turbolento in cui la violenza è stata bandita, dopo molte sofferenze.  I personaggi vanno in giro e aiutano gli abitanti delle terre che attraversano, senza però poter risolvere totalmente i loro problemi. La creazione dei personaggi mi ha colpito positivamente,  in quanto si compie rispondendo a diverse domande, un processo che produce figure interessanti,  ad esempio ho giocato un riccio poeta e scritto…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sea Fortress of Yule Qeen, un ottimo esempio di design.]]></title>
-        <id>https://autarkikagdr.blogspot.com/2023/01/sea-fortress-of-yule-qeen-un-ottimo.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2023/01/sea-fortress-of-yule-qeen-un-ottimo.html"/>
-        <updated>2023-01-08T19:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Ciao a tutti,
-oggi voglio presentarvi un piccolo gioiello creato da Sam Barret.
-Il punto cardine di questo prodotto consiste nel collegare sapientemente il game design e il concetto di one-page dungeon.
-La struttura del Dungeon viene esposta SOLO ed esclusivamente attraverso un diagramma di flusso e di una spiegazione delle stanze e situazioni.
-A parte alcuni refusi, trovo il modulo geniale e figlio di una nuova corrente di design presente in certi ambienti del gioco di ruolo indipendente.
-Consiglio agli addetti ai lavori di tenere gli occhi aperti verso questa corrente di cui ho già individuato alcuni altri esempi; inoltre collego questa tipologia di produzione accostabile all'utilizzo delle IA per creare avventure di questo tipo.
-Penso che utilizzerò una struttura simile per i miei prossimi lavori su pamphlet, oltre che per strutturare delle teorie sulla creazione di avventure e Dungeon.
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
