@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-07T20:09:14.760Z</updated>
+    <updated>2023-02-07T22:08:25.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -214,16 +214,6 @@ Guidobaldo dei Baldi, detto "Il Pazzo dell'Ultimo Giorno". Un vecchio pazzo che 
         <summary type="html"><![CDATA[E finalmente dopo aver minacciato Dada di dargli fuoco alle dita dei piedi, siamo riusciti a ottenere da parte sua la raccolta dei contributi dei mesi di febbraio e agosto a tema I Mecha (a febbraio e...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Mecha sono roba vecchia!]]></title>
-        <id>https://write.as/jonnie/i-mecha-sono-roba-vecchia</id>
-        <link href="https://write.as/jonnie/i-mecha-sono-roba-vecchia?pk_campaign=rss-feed"/>
-        <updated>2023-01-09T09:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Roba del profondo passato, sia dei manga che dei gdr. Robotech ve lo ricordate? Certo che no. A quindi come un blast from the plast vi sblocco un ricordo estivo ...]]></summary>
-        <author>
-            <name>jonnie</name>
         </author>
     </entry>
 </feed>
