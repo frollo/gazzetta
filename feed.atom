@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-08T06:12:06.390Z</updated>
+    <updated>2023-02-08T08:11:59.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -189,21 +189,6 @@ Personaggi
 Guidobaldo dei Baldi, detto "Il Pazzo dell'Ultimo Giorno". Un vecchio pazzo che pontif…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Di licenze, open e altre sciocchezze]]></title>
-        <id>https://oicn.icu/2023/Di-licenze-open-e-altre-sciocchezze/</id>
-        <link href="https://oicn.icu/2023/Di-licenze-open-e-altre-sciocchezze/"/>
-        <updated>2023-01-09T19:00:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>A meno che non abbiate vissuto in un buco negli ultimi 5 giorni, probabilmente vi sarete accorti della piccola discussione sul tema dell’OGL e del futuro di moltissimi giochi legati a D&amp;D. Se siete appena usciti dal buco, c’è un <a href="https://www.eclecticagdr.it/2023/01/09/osr-ogl-e-dd-le-opportunita-di-una-crisi-incombente/">ottimo post</a> di Eclectica GDR che fa un breve riassunto e mostra le prospettive a oggi.</p>
-<p>Bene, ora che sapete da dove è partito il casino, posso cominciare con le stronzate!</p>
-<span id="more"></span>
-
-<p>Sto casino della OGL in realtà si innesta sopra un mio casino interiore. Come potreste aver notato se leggete il canale, a Capodanno ho fatto un sogno del cazzo:</p>
-<blockquote><p>Signorɜ e signorɜ, è con viva e vibrante soddisfazione che vi annu…]]></summary>
-        <author>
-            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
 </feed>
