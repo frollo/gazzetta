@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-09T16:11:54.303Z</updated>
+    <updated>2023-02-09T18:11:24.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[E la Dungeon23???]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/02/e-la-dungeon23.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/02/e-la-dungeon23.html"/>
+        <updated>2023-02-09T16:47:00.006Z</updated>
+        <summary type="html"><![CDATA[Ecco il terzo e ultimo resoconto della mia esperienza con Dungeon23. Sono partito molto carico con il mio progetto Hex23, ma alla fine ho dovuto desistere...non riuscivo a tirar fuori un esagono ogni giorno e dopo una settimana di niente ho deciso di fermarmi. Fortunatamente parteciperò comunque alla sfida, ma tramite il progetto collettivo Cantiere Dungeon23 (cercando @cantieredungeon23 su Telegram troverete la pagina in cui vengono condivise le stanze giorno per giorno).
+Un altro fattore decisivo per il mio abbandono è che già creo materiale per i gdr quotidianamente (dungeon, scenari, ambientazioni, mappe ecc...) e la Dungeon23 stava diventando solo un compitino in aggiunta a tutti gli altri miei progetti (molti dei quali, come Le Rime di Esperia e il pointcrawl per Pokémon Dungeon Crawler, li posto regolarmento qua sul blog). Inoltre nel post per il primo compleanno del blog avevo parlato di un hexcrawl dal titolo L'Atlante delle Terre Senza Corona. Si tratta di un mega-hexcrawl fantasy al quale sto lavorando da un po', una sorta di Hex23 dal ritmo molto più tranquillo. Avevo pensato di integrarlo nella Hex23, ma mi sono reso subito conto che se volevo rispettare i temi della sfida (cosa che volevo fare) avrei dovuto modificare la mia idea per l'Atlante. Ho quindi deciso di concentrarmi solo su quello.
+Ho mollato la Dungeon23, quindi...
+
+Pagherò la tassa
+Perchè l'ho deciso io. Perchè ho bisogno di autoassolvermi. Perchè sono contento di come si sta sviluppando l'Atlante. Qua sotto trovate un estratto (con un sacco di riferimenti tolkeniani, tra l'altro). Eventuali meccaniche fanno riferimento a Cairn di Yochai Gal.]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1d20 Cartelli e Insegne da Terre di Confine]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/02/1d20-cartelli-e-insegne-da-terre-di.html</id>
