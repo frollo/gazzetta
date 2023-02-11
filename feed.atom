@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-11T12:14:38.593Z</updated>
+    <updated>2023-02-11T14:07:21.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rime di Esperia #4 (Giardini del Re + Terzo Portone de lo Sottomondo)]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/02/rime-di-esperia-4-giardini-del-re-terzo.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/02/rime-di-esperia-4-giardini-del-re-terzo.html"/>
+        <updated>2023-02-11T13:05:00.004Z</updated>
+        <summary type="html"><![CDATA[Prosegue Rime di Esperia, il mio pointcrawl a tema italico/rinascimentale. Si torna vicino alle mura della Città per visitare i Giardini del Re, un grande in stato d'abbandono. Pochi sanno che il groviglio arboreo cela il Terzo Portone de lo Sottomondo, una delle entrate privilegiate per il ricettacolo diabolico che trama sotto la Città (non che in superficie sia una festa di santi!).
+I Giardini del Re
+
+
+
+Anche i Giardini del Re, come Poggio Cavalli, sono vestigia dell'Antico Impero. Un vasto parco lussureggiante lasciato a se stesso, frequentato principalmente da ladruncoli e società segrete. I Giardini sono attraversati da due sentieri disposti a croce, per lo più invasi dalle erbacce. In mezzo agli alberi si trovano ancora i resti di padiglioni, templi e statue. 
+
+Il Tempio dell'Amore. …]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E la Dungeon23???]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/02/e-la-dungeon23.html</id>
