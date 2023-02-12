@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-12T14:07:30.533Z</updated>
+    <updated>2023-02-12T16:10:29.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Terra Oscura: licenza creative commons]]></title>
+        <id>https://autarkikagdr.blogspot.com/2023/02/terra-oscura-licenza-creative-commons.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2023/02/terra-oscura-licenza-creative-commons.html"/>
+        <updated>2023-02-12T14:42:00.001Z</updated>
+        <summary type="html"><![CDATA[La Terra Oscura 
+
+
+Buongiorno a tutti,
+ho concluso, finalmente, i tre manuali de "La Terra Oscura".
+I tre manuali ( il Basic, Expert e il Bestiario ) sono rilasciati con licenza Creative Commons BY-SA Attribuzione - Condividi allo Stesso Modo.
+Questo significa che potete utilizzare il regolamento per le vostre creazioni.
+Troverete i manuali stampati su LULU e i PDF su questo blog.
+@threeballs]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rime di Esperia #4 (Giardini del Re + Terzo Portone de lo Sottomondo)]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/02/rime-di-esperia-4-giardini-del-re-terzo.html</id>
