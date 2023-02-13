@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-13T00:47:57.132Z</updated>
+    <updated>2023-02-13T02:42:47.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -201,23 +201,6 @@ Teiera nera del ratto: il tè preparato con questa teiera dona piede leggero e c
 in questo periodo ho trovato qualche difficoltà a pubblicare e stampare tramite il sito Lulu.com, ma non mi sono dato per vinto.
 vi link l'indirizzo per poter scaricare il materiale aggiornato completo del nuovo Bestiario.
 Spero vi piaccia.
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dall'algoritmo alla carta : cyclic dungeon generation]]></title>
-        <id>https://autarkikagdr.blogspot.com/2023/01/dallalgoritmo-alla-carta-cyclic-dungeon.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2023/01/dallalgoritmo-alla-carta-cyclic-dungeon.html"/>
-        <updated>2023-01-14T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[immagine creata con https://creator.nightcafe.studio
-Ciao a tutti,
-oggi vi propongo un esempio che va controcorrente, un modulo creato partendo da un algoritmo e non generato automaticamente da esso.
-si tratta di Cyclic Dungeon Generation , vi linko anche un semplice video esplicativo.
-Il manuale espone in modo lineare la teoria e le regole per generare le stanze e le differenti situazioni incontrate in un Dungeon, un lavoro encomiabile e molto interessante.
-In un periodo dove sembra che le IA potrebbero sostituire la mente umana, qui abbiamo un esempio di generazione di un gioco usando dei logaritmi, matite, dadi e fanatasia.
-Inoltre nel manuale è presente un'avventura esplicativa ed utilizzabile.
 @threeballs]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
