@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-14T02:43:39.392Z</updated>
+    <updated>2023-02-14T04:11:18.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -190,20 +190,6 @@ Teiera viola del ragno: il tè preparato con questa teiera conferisce la capacit
 Teiera nera del ratto: il tè preparato con questa teiera dona piede leggero e capacità di muoversi in silenzio a chi lo beve per un giorno e una notte, a patto che non ci si trovi in piena luce, ma non si può rispondere in maniera affermativa a nessuna domanda per lo stesso arco di tempo.]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aggironamento file pdf di "La Terra Oscura"]]></title>
-        <id>https://autarkikagdr.blogspot.com/2023/01/aggironamento-file-pdf-di-la-terra.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2023/01/aggironamento-file-pdf-di-la-terra.html"/>
-        <updated>2023-01-15T15:14:00.006Z</updated>
-        <summary type="html"><![CDATA[Ciao a tutti,
-in questo periodo ho trovato qualche difficoltà a pubblicare e stampare tramite il sito Lulu.com, ma non mi sono dato per vinto.
-vi link l'indirizzo per poter scaricare il materiale aggiornato completo del nuovo Bestiario.
-Spero vi piaccia.
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
