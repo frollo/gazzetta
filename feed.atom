@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-19T04:10:36.772Z</updated>
+    <updated>2023-02-19T06:11:02.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -230,20 +230,6 @@ Da qui potete scaricare Thebbar
 https://nicio.itch.io/thebbar]]></summary>
         <author>
             <name>Surely not a Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il Necrogrognard]]></title>
-        <id>https://castellochimerico.blogspot.com/2023/01/il-necrogrognard.html</id>
-        <link href="https://castellochimerico.blogspot.com/2023/01/il-necrogrognard.html"/>
-        <updated>2023-01-20T17:26:00.001Z</updated>
-        <summary type="html"><![CDATA[I Necrogrognard sono mostri non-morti somiglianti a persone di mezz'età piuttosto fuori forma e abbondantemente putrefatte,  quasi sempre di genere maschile e barbute, che portano sempre con loro diversi pesanti, vecchi e polverosi manuali di gioco. Borbottano costantemente frasi sconnesse riguardanti il fatto che in passato tutto era migliore e a volte insultano quanti non la pensano come loro, paragonandoli a bestie feroci, esseri schifosi e criminali. Fortunatamente sono sempre più rari, ma è tutt'ora possibile incontrarli in dungeon, ludoteche, templi maledetti e convention.
-Necrogrognard (per Cairn e affini)
-8 PF , 7 Destrezza, 13 Volontà, D6, 2 Armatura (si rifiuta di accettare la realtà di prendere delle botte). 
-Danno critico: ti ammazza picchiandoti in testa con la Guida del DM di AD&D prima edizione, sproloquiando del fatto che quando c'era Gygax i mostri erranti arrivavano in orario. Un round dopo risorgi come necrogrognard sotto il suo controllo.
-Ringrazio Michele pavani e Roberto Bisceglie (quest'ultimo ha anche fornito l'immagine creata tramite AI) che hanno ispirato la creazione di questo mostro!]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
