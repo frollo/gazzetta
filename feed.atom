@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-02-26T00:52:57.222Z</updated>
+    <updated>2023-02-26T02:52:18.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -201,17 +201,6 @@ QAC è un gioco che per alcune meccaniche varia dai classici sistemi OS, per com
 Una tabella poi indicherà il dado corrispondente che andremo a tirare per ris…]]></summary>
         <author>
             <name>Cronache dal Dungeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Le Frontiere]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2023/01/vecchio-carnevale-blogghereccio-le.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2023/01/vecchio-carnevale-blogghereccio-le.html"/>
-        <updated>2023-01-27T14:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Le Frontiere, il tema del Vecchio Carnevale Blogghereccio di Febbraio ospitato dal Calderone del Troll. 
-Ho scelto questo tema pensando a quanto la frontiera sia un elemento ricorrente nel gioco di ruolo, fin dai suoi albori. Pensate al titolo di una delle più famose avventure di Dungeons & Dragons: The Keep on the Borderlands (La Rocca sulle Terre di Confine). Da sempre, nei GDR, i personaggi si recano in luoghi sconosciuti, superando i confini tra il Noto e l'Ignoto. E l'attraversamento non è mai qualcosa di neutrale: ti cambia, ti migliora o peggiora...ti distrugge. Attraversare il confine, diradare le nebbie di guerra sulla mappa, scoprire cosa c'è oltre una montagna(o una cintura di asteroidi!) o le pagine di un antico tomo è spesso il fulcro di molte delle nostre sessioni di gioco. Q…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
