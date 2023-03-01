@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-03-01T10:10:26.377Z</updated>
+    <updated>2023-03-01T12:18:07.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marzo - Le Luci + Raccolta di Febbraio (Le Frontiere)]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/496385/marzo-le-luci-raccolta-di-febbraio-le-frontiere</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/496385/marzo-le-luci-raccolta-di-febbraio-le-frontiere"/>
+        <updated>2023-03-01T11:43:21.000Z</updated>
+        <summary type="html"><![CDATA[A febbraio abbiamo esplorato le lontane frontiere, siano esse spaziali, del vecchio west, fantasy, della mente o della scoperta in senso lato, e quante sono state! Ben nove, se non ho disimparato a co...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oltre la Frontiera: contributi per il Vecchio Carnevale Blogghereccio di Febbraio]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/03/oltre-la-frontiera-contributi-del.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/03/oltre-la-frontiera-contributi-del.html"/>
+        <updated>2023-03-01T10:40:00.002Z</updated>
+        <summary type="html"><![CDATA[É infine giunto al termine il Vecchio Carnevale Blogghereccio di Febbraio, tema "Le Frontiere". Viandanti da ognidove si sono addentrati nell'Ignoto riportando indietro mirabolanti notizie e storie che vi sproneranno (spero) a partire per un'avventura là dove le mappe sono ancora vuote. 
+
+
+
+Il Blog Bellicoso ci offre una dettagliata guida sugli Spazi Liminali e sulla nature di queste "soglie". Riferimenti mitologici e pop, agganci per avventure e misteriose creature che si affacciano dal limen.
+Il Castello Chimerico ha affisso una chiamata all'avventura sulla bacheca della locanda: 6 vacche sono scomparse nelle Terre di Confine, riuscirete a riportarle a casa? Un' ottima aggiunta a The Keep on the Borderlands!
+Dietro lo Schermo ci racconta la sua esperienza con una open table stile West Ma…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rise......... tanti spinti in 12 pagine.]]></title>
         <id>https://autarkikagdr.blogspot.com/2023/02/rise-tanti-spinti-in-12-pagine.html</id>
