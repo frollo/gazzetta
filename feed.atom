@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-03-04T18:10:22.033Z</updated>
+    <updated>2023-03-04T20:09:00.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guida all'OSR: Il mondo di gioco e le avventure]]></title>
+        <id>https://cronachedaldungeon.blogspot.com/2023/03/guida-allosr-il-mondo-e-le-avventure.html</id>
+        <link href="https://cronachedaldungeon.blogspot.com/2023/03/guida-allosr-il-mondo-e-le-avventure.html"/>
+        <updated>2023-03-04T20:05:00.003Z</updated>
+        <summary type="html"><![CDATA[Salve a tutti, si è passato un po' di tempo dopo aver giocato e fatto nuove ricerche per portare contenuti interessanti son tornato.
+Parliamo del mondo di gioco e delle avventure old school. Tutte le nostre avventure nei giochi old school cominciano in un dungeon che sia un'avventura del manuale o creata da noi poi magari insieme al nsotro gruppo ci chiediamo cosa esiste fuori di esso? Naturalmente la risposta più tipica è, le Terre Selvagge. Per animare questo posto esistono alcuni mezzi che zine o moduli specifici, le tabelle casuali. Questo è uno strumento fondamentale per chi vuole da se crearsi un ambientazione aiutano a definire incontri, città, avventure, tesori e molto altro. Del materiale in italiano abbiamo Knock!, Scatola degli attrezzi e un paio di companion che posso fare al c…]]></summary>
+        <author>
+            <name>Cronache dal Dungeon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ranchero Swing // cinque background per Troika! × Cowboy Bebop]]></title>
         <id>https://dismastersden.blogspot.com/2023/03/ranchero-swing-cinque-background-per.html</id>
