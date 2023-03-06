@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-03-06T16:12:17.517Z</updated>
+    <updated>2023-03-06T18:11:44.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Australia Cairn Edition: quando il bestiario non è fantasia]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/03/australia-cairn-edition-quando-il.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/03/australia-cairn-edition-quando-il.html"/>
+        <updated>2023-03-06T17:39:00.001Z</updated>
+        <summary type="html"><![CDATA[Un post poco serio in cui trasformo alcuni animali dell'Oceania in mostri per Cairn. Non è stato difficile.
+DISCLAIMER: l'ispirazione per questo pezzo arriva da una condivisione sulla chat di Ruling the Game e dalla miriade di meme sulla "spaventosa" fauna australiana. Sono meme. Gli squali uccidono in media 9 persone all'anno. Gli umani uccidono in media cento milioni di squali all'anno.
+
+
+
+1. La Marea di Serpenti
+La Marea di Serpenti è una creatura magica molto rara, conseguenza di terribili fallimenti magici. Vaga per le coste con l'obiettivo di espandersi.
+
+12 PF, 11 FOR
+
+Fauci velenose (1d6+1d6, esplosivo)
+
+Difficilmente si può distinguere una semplice marea schiumosa da una Marea di Serpenti. Stando zitti, però, è possibile sentire, fievole a causa del rumore del mare, un coro di son…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guida all'OSR: Il mondo di gioco e le avventure]]></title>
         <id>https://cronachedaldungeon.blogspot.com/2023/03/guida-allosr-il-mondo-e-le-avventure.html</id>
