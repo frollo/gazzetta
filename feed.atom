@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-03-07T10:10:12.915Z</updated>
+    <updated>2023-03-07T12:17:31.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vecchio carnevale Blogghereccio: Le luci]]></title>
+        <id>https://castellochimerico.blogspot.com/2023/03/vecchio-carnevale-blogghereccio-le-luci.html</id>
+        <link href="https://castellochimerico.blogspot.com/2023/03/vecchio-carnevale-blogghereccio-le-luci.html"/>
+        <updated>2023-03-07T10:26:00.004Z</updated>
+        <summary type="html"><![CDATA[Questo mese il Vecchio Carnevale Blogghereccio è ospitato da Dietro lo Schermo e ha per tema le luci.
+Lo stile di gioco associato alla scena OSR sottolinea quasi sempre l'importanza della gestione delle risorse e degli oggetti, mentre torce e lanterne sono le compagne inseparabili di chi si avventura sottoterra in dungeon e caverne. Un incantesimo di luce, a volte snobbato, può essere decisamente potente se usato in maniera creativa (per accecare una creatura ostile abituata all'oscurità) o può aiutare a scorgere dettagli difficili da notare con luci più deboli, persino un'umile torcia in più può fare la differenza tra la vita e la morte, evitando di cadere in una fossa o di accorgersi di un agguato. 
+
+
+Avventuriere e avventurieri del Naftabosco non fanno eccezione: aiutati dall'abbondanza…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australia Cairn Edition: quando il bestiario non è fantasia]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/03/australia-cairn-edition-quando-il.html</id>
