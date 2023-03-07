@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-03-07T20:10:06.680Z</updated>
+    <updated>2023-03-07T22:08:51.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -275,16 +275,6 @@ Ecco una lista di cartelli e insegne da mettere su una strada alle terre di conf
 1d20 Cartel…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Febbraio - Le Frontiere + Raccolta di Gennaio (Il Tè)]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/486479/febbraio-le-frontiere-raccolta-di-gennaio-il-t</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/486479/febbraio-le-frontiere-raccolta-di-gennaio-il-t"/>
-        <updated>2023-02-06T09:57:40.000Z</updated>
-        <summary type="html"><![CDATA[Il freddo gennaio se ne è andato, con il suo carico di caldi tè e infusi a scaldarci il cuore e le membra. È giunto al suo post il freddo febbraio, a farci guardare lontano oltre i confini del cono...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
