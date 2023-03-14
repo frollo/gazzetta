@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-03-14T02:27:51.590Z</updated>
+    <updated>2023-03-14T04:11:08.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -210,24 +210,6 @@ NELLA PRIMA PUNTATA
 I Grigi Compagni Tanith Greyweather e Drystan Dragonheart si recano a Hillshade, magione del Conte Thored, per aiutarlo con un’angosciante pena che affligge sua figlia Moira…]]></summary>
         <author>
             <name>I CANCELLI DI HELLWINTER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terra Oscura: licenza creative commons]]></title>
-        <id>https://autarkikagdr.blogspot.com/2023/02/terra-oscura-licenza-creative-commons.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2023/02/terra-oscura-licenza-creative-commons.html"/>
-        <updated>2023-02-12T14:42:00.001Z</updated>
-        <summary type="html"><![CDATA[La Terra Oscura 
-
-
-Buongiorno a tutti,
-ho concluso, finalmente, i tre manuali de "La Terra Oscura".
-I tre manuali ( il Basic, Expert e il Bestiario ) sono rilasciati con licenza Creative Commons BY-SA Attribuzione - Condividi allo Stesso Modo.
-Questo significa che potete utilizzare il regolamento per le vostre creazioni.
-Troverete i manuali stampati su LULU e i PDF su questo blog.
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
