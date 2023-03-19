@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-03-18T22:07:26.771Z</updated>
+    <updated>2023-03-19T00:50:37.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -160,38 +160,6 @@ Da tenere, comunque, in considerazione.
 @threeballs]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCC - Dungeon Crawl Cuties]]></title>
-        <id>https://gnollmassacrofamiglia.blogspot.com/2023/02/dcc-dungeon-crawl-cuties.html</id>
-        <link href="https://gnollmassacrofamiglia.blogspot.com/2023/02/dcc-dungeon-crawl-cuties.html"/>
-        <updated>2023-02-17T10:27:00.013Z</updated>
-        <summary type="html"><![CDATA[- ver. WIP 0.1 - 
-CUTIES
--1 pv per livello
--1 kit da avventuriero e un'arma
--allineamento: legale, neutrale, caotico
-
-
-USURA
--3 usi a tutti gli oggetti prima di rompersi, guastarsi o scaricarsi. Oggetti diversi richiedono tempi (frangenti, turni e quarti) e attrezzi diversi per essere ristabiliti.
-
-
-ARMI e ARMATURE
--leggere (1 danno), distanza (1 danno), pesanti (2 danni)
--armature: max 1 corazza e 1 scudo a testa.
-
-
-TEMPO
--quarti: 6 ore - turni: 10 minuti - frangenti: 10 secondi
-
-
-PROVE
--prove che richiedono tempo-strumenti: se fattibili fai passare il tempo e consuma gli oggetti usati. La prova è superata
--prove che richiedono abilità: se fattibili tira 1d6, se superi 3 riesci. Sottrai 1 se non hai il tempo, sottrai 1 se non hai oggetti. Sottrai 1 se ci sono altri svantaggi (al buio, al …]]></summary>
-        <author>
-            <name>Gli gnoll hanno massacrato la mia famiglia</name>
         </author>
     </entry>
 </feed>

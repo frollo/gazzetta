@@ -260,18 +260,7 @@
       "title": "Gli gnoll hanno massacrato la mia famiglia",
       "feedUrl": "https://gnollmassacrofamiglia.blogspot.com/feeds/posts/default",
       "siteUrl": "https://gnollmassacrofamiglia.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://gnollmassacrofamiglia.blogspot.com/2023/02/dcc-dungeon-crawl-cuties.html",
-          "author": null,
-          "description": "- ver. WIP 0.1 - \nCUTIES\n-1 pv per livello\n-1 kit da avventuriero e un'arma\n-allineamento: legale, neutrale, caotico\n\n\nUSURA\n-3 usi a tutti gli oggetti prima di rompersi, guastarsi o scaricarsi. Oggetti diversi richiedono tempi (frangenti, turni e quarti) e attrezzi diversi per essere ristabiliti.\n\n\nARMI e ARMATURE\n-leggere (1 danno), distanza (1 danno), pesanti (2 danni)\n-armature: max 1 corazza e 1 scudo a testa.\n\n\nTEMPO\n-quarti: 6 ore - turni: 10 minuti - frangenti: 10 secondi\n\n\nPROVE\n-prove che richiedono tempo-strumenti: se fattibili fai passare il tempo e consuma gli oggetti usati. La prova è superata\n-prove che richiedono abilità: se fattibili tira 1d6, se superi 3 riesci. Sottrai 1 se non hai il tempo, sottrai 1 se non hai oggetti. Sottrai 1 se ci sono altri svantaggi (al buio, al …",
-          "link": "https://gnollmassacrofamiglia.blogspot.com/2023/02/dcc-dungeon-crawl-cuties.html",
-          "publishedOn": "2023-02-17T10:27:00.013Z",
-          "wordCount": 5447,
-          "title": "DCC - Dungeon Crawl Cuties",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io",
