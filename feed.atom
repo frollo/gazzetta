@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-03-21T20:08:56.962Z</updated>
+    <updated>2023-03-21T22:06:48.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canaglie del Bizzarro - un nuovo e innecessario regolamento OSR]]></title>
+        <id>https://dismastersden.blogspot.com/2023/03/canaglie-del-bizzarro-un-nuovo-e.html</id>
+        <link href="https://dismastersden.blogspot.com/2023/03/canaglie-del-bizzarro-un-nuovo-e.html"/>
+        <updated>2023-03-21T21:42:00.003Z</updated>
+        <summary type="html"><![CDATA[Questo è la primissima bozza, e soprattutto un brainstorming disordinato, dell'ennesimo regolamento OSR di cui non si sentiva il bisogno. Ma dé, ognuno ha il suo Regolamento di Frankenstein e questo è il mio.
+
+Le principali ispirazioni sono: Into the Odd, Cairn, Canaglie (da Knave), Lamentations of the Flame Princess, Mothership, Ultraviolet Grasslands, Mork Borg, Death in Space, Troika! e boh sicuramente altro di cui non ricordo.
+
+
+Probabilmente come testo base da cui partire userò Quintessential B/X, ma questo non è un regolamento pensato per neofiti: è un regolamento per me, e quindi probabilmente rimarrà molto più leggero e non mi metterò a regolamentare tutto. Probabilmente.
+
+
+Lo scopo che ho per regolamento è comunque, oltre a farlo come piace a me, fare sì che sia compatibile con i …]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La miniera maledetta, un simpatico one page dungeon!]]></title>
         <id>https://castellochimerico.blogspot.com/2023/03/la-miniera-maledetta-un-one-page-dungeon.html</id>
