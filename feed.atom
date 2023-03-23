@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-03-23T10:09:09.014Z</updated>
+    <updated>2023-03-23T12:16:14.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SCASSINARE I PNG]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2023/03/scassinare-i-png.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2023/03/scassinare-i-png.html"/>
+        <updated>2023-03-23T11:08:00.003Z</updated>
+        <summary type="html"><![CDATA[Quella che segue è una traduzione parziale del bellissimo articolo di Rise Up Comus: Oblivion Social Encounters using Errant's Lockpicking. Come si può dedurre dal titolo originale, la procedura riprende, passo passo, quella per scassinare le serrature di Errant, un regolamento bellissimo di Ava Islam (una miniera d'oro da saccheggiare!), e la applica ai Png.
+
+
+
+
+
+
+
+
+Scassinare i png
+Quando lo incontri per la prima volta, un Png può avere tre atteggiamenti iniziali:
+
+
+1.	Amichevole
+2.	Incerto
+3.	Ostile
+
+
+Se l'atteggiamento di un Png è incerto, puoi usare questa procedura per fare amicizia con lui e cercare di ottenere un favore.
+
+
+Azioni di conversazione
+•	Ammirare: loda il Png, esprimi apprezzamento per una sua caratteristica.
+•	Scherzare: racconta una barzelletta o porta un po' di legger…]]></summary>
+        <author>
+            <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canaglie del Bizzarro - un nuovo e innecessario regolamento OSR]]></title>
         <id>https://dismastersden.blogspot.com/2023/03/canaglie-del-bizzarro-un-nuovo-e.html</id>
