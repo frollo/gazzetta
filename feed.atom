@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-03-23T06:11:17.252Z</updated>
+    <updated>2023-03-23T08:11:02.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -184,23 +184,6 @@ Il Castello Chimerico ha affisso una chiamata all'avventura sulla bacheca della 
 Dietro lo Schermo ci racconta la sua esperienza con una open table stile West Ma…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rise......... tanti spinti in 12 pagine.]]></title>
-        <id>https://autarkikagdr.blogspot.com/2023/02/rise-tanti-spinti-in-12-pagine.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2023/02/rise-tanti-spinti-in-12-pagine.html"/>
-        <updated>2023-02-21T19:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Buongiorno a tutti,
-volevo ricollegarmi con alcuni miei recenti post riguardanti la generazione di dungeon e avventure, presentandovi un piccolo modulo interessante anche se non curato adeguatamente.
-Parlerò di Rise un sistema (SRD) che avrebbe dovuto essere spiegato e sviluppato in modo più approfondito: le idee ci sono così come le meccaniche.
-Ero dubbioso se presentarvelo sul blog, siccome avrei preferito esporvi un sistema più completo, tuttavia ho deciso di segnalarvelo siccome presenta alcuni punti interessanti.
-Rise si presenta come un sistema basato sullo sviluppo di una storia esposta nei classici 3 atti, dove grazie a dei contatori si potrà tenere traccia delle azioni dei Pg e delle risorse da loro utilizzate.
-Come già detto il sistema è interessante e da molti spunti, ma avrebbe dovuto essere spiegato in modo più completo e (magari) con più esempi.
-Da tenere, comunque, in considerazione.
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
