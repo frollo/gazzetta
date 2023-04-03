@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-04-03T14:08:00.037Z</updated>
+    <updated>2023-04-03T16:10:31.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[L'onore dei ladri: Dungeon & Draghi sul grande schermo!]]></title>
+        <id>https://castellochimerico.blogspot.com/2023/04/lonore-dei-ladri-dungeon-draghi-sul.html</id>
+        <link href="https://castellochimerico.blogspot.com/2023/04/lonore-dei-ladri-dungeon-draghi-sul.html"/>
+        <updated>2023-04-03T15:23:00.002Z</updated>
+        <summary type="html"><![CDATA[Sabato sono andato al cinema a vedere L'onore dei ladri, il nuovo film di D&D. Molte persone si stanno esprimendo sull'argomento, (spesso in modo sorprendentemente pacato) e anch'io vorrei dire la mia (senza i temuti spoiler). 
+Intanto il mio giudizio è complessivamente positivo: non si tratta di un capolavoro ma è un film assolutamente godibile, che non si prende troppo sul serio, molto divertente e piuttosto ben recitato (spicca il trio Rodriguez - Pine - Grant, estremamente a suo agio). Tanta azione, botte, fughe rocambolesche, gag e forse qualche momento strappalacrime di troppo per i miei gusti. Mi è piaciuto però il fatto che si parli di un gruppo di furfanti di buon cuore, come nella miglior tradizione Sword & Sorcery, non di eroi senza macchia, e che i protagonisti cerchino sempre …]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tanto va la gatta al dungeon... che arriva al Naftabosco! Vecchio Carnevale Blogghereccio: Il gatto]]></title>
         <id>https://castellochimerico.blogspot.com/2023/04/tanto-va-la-gatta-al-dungeon-che-arriva.html</id>
