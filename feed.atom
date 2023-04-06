@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-04-06T00:39:43.785Z</updated>
+    <updated>2023-04-06T02:25:01.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -176,18 +176,6 @@ E cosa più importante: tutto il materiale qui presente, ben 14 anni di dungeon,
 									 Anno 														 PDF Originali 						…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giocare in solitario: possibile e divertente]]></title>
-        <id>https://cronachedaldungeon.blogspot.com/2023/03/giocare-in-solitario-possibile-e.html</id>
-        <link href="https://cronachedaldungeon.blogspot.com/2023/03/giocare-in-solitario-possibile-e.html"/>
-        <updated>2023-03-07T14:00:00.001Z</updated>
-        <summary type="html"><![CDATA[Bentrovati,
-Ebbene i gdr in solitario esistono e non parlo di librigame ma veri e proprio manuali che ci permettono di creare una storia originale, chiaramente essendo un blog sulla OSR ci soffermeremo sui titoli dungeon crawler che si sono ritagliati un loro spazio nel panorama italiano. 
-Certo non è come giocare in gruppo però gestendo da soli un party nessuno vi ferma dal creare dinamiche tra gli avventurieri magari inserendo l'assurdo background che avevate in mente oppure facendoli interagire tra di loro in maniera sarcastica, l'esperienza per chi gioca old school poi continua nel provare i diversi archetipi di classe perché no potrete portare il vostro pg preferito alla prossima serata oppure  dare vita al luogo appena esplorato arricchendolo di particolari e usarlo nelle vostre avve…]]></summary>
-        <author>
-            <name>Cronache dal Dungeon</name>
         </author>
     </entry>
 </feed>
