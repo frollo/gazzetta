@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-04-09T18:09:08.549Z</updated>
+    <updated>2023-04-09T20:08:01.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Non è un paese per Halfling...senza la seconda colazione]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/04/non-e-un-paese-per-halflingsenza-la.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/04/non-e-un-paese-per-halflingsenza-la.html"/>
+        <updated>2023-04-09T19:05:00.002Z</updated>
+        <summary type="html"><![CDATA[Rieccomi! Il clima festaiolo e le grandi abbuffate mi hanno ispirato un bel post a tema halfling. Volete giocare un intero party di affabili, smargiassi, comici halfling? Allora qui troverete del materiale per farlo. Le fonti di ispirazione principali sono il Signore degli Anelli e i mezzuomini di Warhammer Fantasy (le immagini sono prese da una fighissima mod di Total War Warhammer 2) e le varie regole presenti qua e là sono per Cairn di Yochai Gal.
+
+Ecco due tabelle per creare i vostri Halfling: una basata sulla professione e un'altra sulla contea di origine. Mettendo insieme i due risultati ottenuti avrete un pacchetto d'avventura festaiolo e pieno di assi cosciotti d'agnello nella manica.
+Tabella delle Professioni (1d8)
+
+SCERIFFO Parti con: stella da sceriffo, armatura da parata (2 Arm…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aprile - Il Gatto + Raccolta di Marzo (Le Luci)]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/513046/aprile-il-gatto-raccolta-di-marzo-le-luci</id>
