@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-04-12T12:15:19.939Z</updated>
+    <updated>2023-04-12T14:07:51.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bastardi a Dolmenwood, Sessione I]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2023/04/bastardi-dolmenwood-sessione-i.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2023/04/bastardi-dolmenwood-sessione-i.html"/>
+        <updated>2023-04-12T12:15:00.002Z</updated>
+        <summary type="html"><![CDATA[The Black Wyrm of Brandonsford, I
+Colly, 1 di harchment - Alta Primavera, Quinto mese dell’anno 1532
+
+Regolamento: Bastards di Micah Anderson 
+Setting: Dolmenwood di Gavin Norman (Patreon & Wormskin zine #1-8)
+Risorse e Procedure aggiuntive: Downtime in Zyan, Wonder & Wickedness, Name this alchemical book
+Pg presenti: Tutti.
+La compagnia itinerante dei “Bardi senza gloria” viene a sapere che un tipo di Brandonsford, tale signor Reeve, ha offerto 1000 Po per cacciare e uccidere un drago che sta minacciando il villaggio, provocando gravi danni all’economia e al commercio della zona. L’avventura ha inizio con la compagnia in viaggio verso il villaggio di Brandonsford, lungo la Horse Eye Road, ai margini della foresta di Dolmenwood (Hex 1407). 
+Durante il viaggio verso la foresta, i Pg apprend…]]></summary>
+        <author>
+            <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L'Albero per Tír na nÓg: un dungeon arboreo per Cairn]]></title>
         <id>https://calderonedeltroll.blogspot.com/2022/09/lalbero-per-tir-na-nog-un-dungeon-per.html</id>
