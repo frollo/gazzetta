@@ -31,9 +31,9 @@
       "articles": []
     },
     {
-      "title": "Ruling With Archangels",
+      "title": null,
       "feedUrl": "https://archangelruling.blogfree.net/rss.php?f=1158479",
-      "siteUrl": "https://archangelruling.blogfree.net/?f=1158479",
+      "siteUrl": null,
       "articles": []
     },
     {
@@ -175,18 +175,7 @@
       "title": "Il Castello Chimerico",
       "feedUrl": "https://castellochimerico.blogspot.com/feeds/posts/default",
       "siteUrl": "https://castellochimerico.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://castellochimerico.blogspot.com/2023/04/lonore-dei-ladri-dungeon-draghi-sul.html",
-          "author": null,
-          "description": "Sabato sono andato al cinema a vedere L'onore dei ladri, il nuovo film di D&D. Molte persone si stanno esprimendo sull'argomento, (spesso in modo sorprendentemente pacato) e anch'io vorrei dire la mia (senza i temuti spoiler). \nIntanto il mio giudizio è complessivamente positivo: non si tratta di un capolavoro ma è un film assolutamente godibile, che non si prende troppo sul serio, molto divertente e piuttosto ben recitato (spicca il trio Rodriguez - Pine - Grant, estremamente a suo agio). Tanta azione, botte, fughe rocambolesche, gag e forse qualche momento strappalacrime di troppo per i miei gusti. Mi è piaciuto però il fatto che si parli di un gruppo di furfanti di buon cuore, come nella miglior tradizione Sword & Sorcery, non di eroi senza macchia, e che i protagonisti cerchino sempre …",
-          "link": "https://castellochimerico.blogspot.com/2023/04/lonore-dei-ladri-dungeon-draghi-sul.html",
-          "publishedOn": "2023-04-03T15:23:00.002Z",
-          "wordCount": 5767,
-          "title": "L'onore dei ladri: Dungeon & Draghi sul grande schermo!",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZb1zxDaW6uyyOLRT4SYCd5uFZrk88JwIC_F1aeEUHv5c3EV-tzDD_qk0zmfko0RTZ9qBeSyWSLHm1uU5cJgKOyiSHH0dD2OL5gU0eXG23fd-ZDjD7G_2rxuR9goydVb8qTfdgJIrjCbPBrT4vJLH-DueeQ_CGzWahhKJ12gK2AdTd3Q6clrd8mUVKPw/w1200-h630-p-k-no-nu/DALL%C2%B7E%202023-04-03%2016.01.45%20-%20A%20big%20fat%20red%20dragon%20in%20a%20dark%20hallway%20with%20stone%20walls%20.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "The Soron Archives",
