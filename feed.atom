@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-05-04T08:10:42.728Z</updated>
+    <updated>2023-05-04T10:08:40.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La mappa di Kalystan]]></title>
+        <id>https://castellochimerico.blogspot.com/2023/05/la-mappa-di-kalystan.html</id>
+        <link href="https://castellochimerico.blogspot.com/2023/05/la-mappa-di-kalystan.html"/>
+        <updated>2023-05-04T09:52:00.005Z</updated>
+        <summary type="html"><![CDATA[Ecco a voi la mappa delle mitiche terre del Kalytsan, la mia ambientazione pseudo-mediorientale ricca di Jinn e Ifrit (già ambientazione di un open table e di alcune avventure e one page dungeon, vedi La miniera abbandonata).
+
+La mappa è opera del bravissimo Gianluca Candiago, con cui ho avuto il piacere di giocare diverse volte, ottimo come giocatore, artista e persona!
+
+
+
+
+
+
+Più in basso trovate la mappa anche in formato verticale per comodità.]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gheprid Day Afternoon: un'avventura per Terror Target Gemin]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/03/gheprid-day-afternoon-unavventura-per.html</id>
