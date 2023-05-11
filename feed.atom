@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-05-11T10:08:44.263Z</updated>
+    <updated>2023-05-11T12:15:17.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -161,18 +161,6 @@ La compagnia itinerante dei “Bardi senza gloria” viene a sapere che un tipo 
 Durante il viaggio verso la foresta, i Pg apprend…]]></summary>
         <author>
             <name>ARCIPELAGO CELESTE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L'Albero per Tír na nÓg: un dungeon arboreo per Cairn]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2022/09/lalbero-per-tir-na-nog-un-dungeon-per.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2022/09/lalbero-per-tir-na-nog-un-dungeon-per.html"/>
-        <updated>2023-04-11T22:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Ho scritto un dungeon per Cairn. In realtà questa avventura l'ho scritta per il ToPlay 2022, ma ora ho fatto la versione carina in pdf. C'è un albero dorato delle leggende, un lindworm addormentato, un amalgama di mitologia irlandese e norrena. Spero vi piaccia!
-
-QUI il link per Itch.io]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
