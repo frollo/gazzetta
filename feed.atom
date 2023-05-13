@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-05-12T22:07:35.278Z</updated>
+    <updated>2023-05-13T00:39:36.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Il Circo di Bosch #2 LUCOLO]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/05/il-circo-di-bosch-2-lucolo.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/05/il-circo-di-bosch-2-lucolo.html"/>
+        <updated>2023-05-12T23:58:00.004Z</updated>
+        <summary type="html"><![CDATA[Prosegue il mini-bestiario dedicato a Bosch. Tocca al Lucolo:
+
+
+
+
+IL LUCOLO
+4 PF
+Morso (d6)
+
+I Lukolos sono un bizzarro incrocio tra un cane e un ratto, nati dai folli esperimenti della Cabala delle Delizie. I Lukolos grigi sono relativamente normali, mentre i Lukolos verdi esplodono in una nube venefica quando uccisi (d6 danno, scoppio).
+Queste creature cacciano in branchi numerosi (3d6) che pattugliano senza sosta le fogne e i sobborghi dei centri abitati. Là dove la spazzatura abbonda i Lukolos proliferano. I Goblin li considerano animali sacri.
+Sir Lundir di Roccalta, primogenito del Conte Romulus, fu divorato da un branco di Lukolos durante una notte di bagordi. Il Conte ha promesso una ricompensa di 1 mo per ogni testa di Lukolos portata ai gabellieri del contado. Chi guadagnerà 10.000 mo in tale maniera otterrà le chiavi di Castelrovo.
+
+
+
+#1. La Rostrina]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: integrazione e discriminazione]]></title>
         <id>https://castellochimerico.blogspot.com/2023/05/vecchio-carnevale-blogghereccio.html</id>
