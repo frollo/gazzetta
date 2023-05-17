@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-05-17T10:08:49.176Z</updated>
+    <updated>2023-05-17T12:14:44.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grandi acquisti a Bastion: negozi e shopping in Electric Bastionland e non solo]]></title>
+        <id>https://castellochimerico.blogspot.com/2023/05/grandi-acquisti-bastionland-negozi-e.html</id>
+        <link href="https://castellochimerico.blogspot.com/2023/05/grandi-acquisti-bastionland-negozi-e.html"/>
+        <updated>2023-05-17T10:24:00.010Z</updated>
+        <summary type="html"><![CDATA[Ieri sera ho giocato un’altra sessione molto divertente di Electric Bastionland, sempre nel ruolo di guida, che mi ha fatto pensare al ruolo degli acquisti e dei negozi nel GDR. Infatti a un certo punto, aspettandosi guai, i personaggi si sono recati a comprare delle armi. Spesso acquistare  qualcosa in game è considerato una perdita di tempo e anch’io credo che presentare una lista di oggetti e prezzi sia una maniera più che buona di risolvere la questione. Ma Bastion è diversa, la città stessa è un luogo di avventura e credo che anche farsi un panino a un chiosco per strada dovrebbe essere un’esperienza tra l’interessante e il delirante (può succedere anche nella vita reale, come quella volta a Istanbul in cui fermandomi  a un chiosco,  mi sono ritrovato a chiacchierare in Francese con d…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Il Circo di Bosch #3 DEMORGONE]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/05/il-circo-di-bosch-3-demorgone.html</id>
