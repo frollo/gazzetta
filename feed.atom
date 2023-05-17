@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-05-17T12:14:44.022Z</updated>
+    <updated>2023-05-17T14:07:32.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Training to Learn New Abilities in OSR Classless Systems]]></title>
+        <id>https://scrtgm.blogspot.com/2023/05/training-to-learn-new-abilities-in-osr.html</id>
+        <link href="https://scrtgm.blogspot.com/2023/05/training-to-learn-new-abilities-in-osr.html"/>
+        <updated>2023-05-17T12:25:00.000Z</updated>
+        <summary type="html"><![CDATA[On the OSR Reddit, someone stated that classless systems ruin the immersion for them, since everyone can do anything: anyone can cast spells, anyone is trained in every weapon, etc.
+
+It's the opposite for me. Since everything is a consequence of the character's choices in the game world, rather than their pre-determined path, I find it more immersive.
+
+
+You could easily hack some "training" rules on a classless system, or something similar. For example, I use Unions and Rituals in my Bastionland game. I like something instant better than just "spending time to train" because it's more fantastical, and more involving for the player.
+
+
+
+
+
+I'd rather put in the game the option of being possessed by the soul of a famous swordsman and instantly learning his skills, rather than having players pick the training option from a menu of downtime actions
+
+
+
+And that is because the latter option doesn't involve the player, while retrieving the swordsman's soul could be a quest, or carry some dilemma.
+
+
+An option to involve a player in a training, is to give their characters challenges. Want to learn Lightning Bolt? Ok, first you have to be hit by an electric monster's attack, to get the feel of electricity running through your body. Once this is achieved, you have to down a monster by yourself, with electric melee attacks dealt with your bare hands. Only then you will be good enough to cast ranged lightning attacks.
+
+
+Can PCs train their skills in your game? What does that look like? Let me know in the comments.]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grandi acquisti a Bastion: negozi e shopping in Electric Bastionland e non solo]]></title>
         <id>https://castellochimerico.blogspot.com/2023/05/grandi-acquisti-bastionland-negozi-e.html</id>

@@ -129,7 +129,18 @@
       "title": "The Secret Game - Il Gioco Segreto",
       "feedUrl": "https://scrtgm.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scrtgm.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://scrtgm.blogspot.com/2023/05/training-to-learn-new-abilities-in-osr.html",
+          "author": null,
+          "description": "On the OSR Reddit, someone stated that classless systems ruin the immersion for them, since everyone can do anything: anyone can cast spells, anyone is trained in every weapon, etc.\n\nIt's the opposite for me. Since everything is a consequence of the character's choices in the game world, rather than their pre-determined path, I find it more immersive.\n\n\nYou could easily hack some \"training\" rules on a classless system, or something similar. For example, I use Unions and Rituals in my Bastionland game. I like something instant better than just \"spending time to train\" because it's more fantastical, and more involving for the player.\n\n\n\n\n\nI'd rather put in the game the option of being possessed by the soul of a famous swordsman and instantly learning his skills, rather than having players pick the training option from a menu of downtime actions\n\n\n\nAnd that is because the latter option doesn't involve the player, while retrieving the swordsman's soul could be a quest, or carry some dilemma.\n\n\nAn option to involve a player in a training, is to give their characters challenges. Want to learn Lightning Bolt? Ok, first you have to be hit by an electric monster's attack, to get the feel of electricity running through your body. Once this is achieved, you have to down a monster by yourself, with electric melee attacks dealt with your bare hands. Only then you will be good enough to cast ranged lightning attacks.\n\n\nCan PCs train their skills in your game? What does that look like? Let me know in the comments.",
+          "link": "https://scrtgm.blogspot.com/2023/05/training-to-learn-new-abilities-in-osr.html",
+          "publishedOn": "2023-05-17T12:25:00.000Z",
+          "wordCount": 2356,
+          "title": "Training to Learn New Abilities in OSR Classless Systems",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkFhqo5fzcOL0ond9u4LYxu2QBY4DST2t45MdZXIelR7ukibi2t0c5BQGkt3WcnWIKEhG0dhYoTfz4mTlbWZ_TbB0RNNUu0ijsqfKgjj3RhT-pSRiPbIiCyFbg0zcMIRwzvnLlSTWEsnzAanmF5m7pwmgJ_nE_KB4tTXap5Zdw-Ur9b3nTRZy7ZDqP/w1200-h630-p-k-no-nu/Shaman-King.jpeg"
+        }
+      ]
     },
     {
       "title": "Il Castello Chimerico",
