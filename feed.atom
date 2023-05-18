@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-05-17T22:07:46.696Z</updated>
+    <updated>2023-05-18T00:41:10.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canaglie del Bizzarro - Combattimento, Morte & Smembramento]]></title>
+        <id>https://dismastersden.blogspot.com/2023/05/canaglie-del-bizzarro-combattimento.html</id>
+        <link href="https://dismastersden.blogspot.com/2023/05/canaglie-del-bizzarro-combattimento.html"/>
+        <updated>2023-05-17T22:10:00.001Z</updated>
+        <summary type="html"><![CDATA[Continua la serie da questo post. Qui parliamo delle cose divertenti.
+
+
+Combattimento, Morte e Smembramento
+
+
+Il combattimento è una situazione caotica e fluida. I personaggi agiscono sempre prima degli avversari, agendo perseguendo i propri obiettivi o reagendo alle loro azioni e intenzioni, ma la situazione può mutare velocemente e la morte è sempre dietro l'angolo.
+
+
+Svolgimento del Combattimento
+
+L’Arbitro descrive la situazione, e cosa succederà se nessuno fa nulla;
+Voi dichiarate come reagite, o fate eventuali domande;
+L’Arbitro risponde alle domande, e comunica le conseguenze delle reazioni in caso di successo e fallimento;
+Se necessario, si eseguono Tiri Salvezza e i tiri dei Danni;
+A seconda dei risultati l’Arbitro descrive le conseguenze dei tiri, e si ricomincia dal passo 1.
+
+Es…]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canaglie del Bizzarro - L'Interazione con il Mondo e i Tiri Salvezza]]></title>
         <id>https://dismastersden.blogspot.com/2023/05/canaglie-del-bizzarro-linterazione-con.html</id>
