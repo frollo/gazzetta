@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-05-27T18:08:53.347Z</updated>
+    <updated>2023-05-27T20:07:49.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Saperi della Magia: un sistema magico alternativo per Cairn]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/05/saperi-della-magia-un-sistema-magico.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/05/saperi-della-magia-un-sistema-magico.html"/>
+        <updated>2023-05-27T18:46:00.003Z</updated>
+        <summary type="html"><![CDATA[Un'opzione per giocare incantatori specializzati ispirata ai Collegi Arcani di Warhammer Fantasy e al sistema di Classi di Archipelago Celeste.
+
+
+Un incantatore può decidere di specializzarsi in un unico Sapere della Magia. Tali individui raggiungono livelli di potere superiori a quelli dei maghi tuttofare e di coloro che conoscono giusto un trucchetto o due, ma scavare a fondo in una qualsiasi branca magica comporta delle conseguenze. Se scegli un Sapere della Magia sei costretto a praticare solo quella tipologia di incantesimi e inizi con tutti gli incantesimi di Livello 1, che occupano 1 slot dell’inventario. Se i tuoi studi proseguono potrai man mano imparare incantesimi di Livello superiore: li prendi sempre come set e ciascun livello occupa una slot dell’inventario addizionale. Ogni …]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Il Broken Moon System in Creative Commons!]]></title>
         <id>https://hellwinter.blogspot.com/2023/05/broken-moon-system.html</id>
