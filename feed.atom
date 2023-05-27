@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-05-27T10:07:34.912Z</updated>
+    <updated>2023-05-27T12:13:21.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Il Broken Moon System in Creative Commons!]]></title>
+        <id>https://hellwinter.blogspot.com/2023/05/broken-moon-system.html</id>
+        <link href="https://hellwinter.blogspot.com/2023/05/broken-moon-system.html"/>
+        <updated>2023-05-27T10:24:00.003Z</updated>
+        <summary type="html"><![CDATA[Durante l'edizione appena trascorsa di Play Modena ho avuto modo di far giocare a doversi tavoli La Luna dei Lupi, un'avventura demo del GDR di Hellwinter.
+Parecchi giocatori sono rimasti incuriositi dal sistema di gioco che, in effetti, presenta aclune caratteristiche che lo differenziano da altri motori "minimalisti" che si trovano in circolazione.
+Per questo motivo ho deciso di stilare il motore di Hellwinter in una versione "agnostica", applicabile a qualsiasi setting desideriate, e di renderlo Creative Common, di modo che possiate usarlo liberamente per le vostre partite e per i vostri GDR, col solo obbligo di citare la fonte e l'autore.
+Ecco quindi a voi il Broken Moon System, libero da scaricare e da usare a vostro gradimento! Come sempre, ogni feedback è più che gradito e mi aiuterà a migliorare il motore nelle prossime versioni.
+Daje!]]></summary>
+        <author>
+            <name>I CANCELLI DI HELLWINTER</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canaglie del Bizzarro - Tempo, Incontri Casuali e Grossi, Rossi d30]]></title>
         <id>https://dismastersden.blogspot.com/2023/05/canaglie-del-bizzarro-tempo-incontri.html</id>

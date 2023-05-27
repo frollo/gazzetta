@@ -122,7 +122,18 @@
       "title": "I CANCELLI DI HELLWINTER",
       "feedUrl": "https://hellwinter.blogspot.com/feeds/posts/default",
       "siteUrl": "https://hellwinter.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://hellwinter.blogspot.com/2023/05/broken-moon-system.html",
+          "author": null,
+          "description": "Durante l'edizione appena trascorsa di Play Modena ho avuto modo di far giocare a doversi tavoli La Luna dei Lupi, un'avventura demo del GDR di Hellwinter.\nParecchi giocatori sono rimasti incuriositi dal sistema di gioco che, in effetti, presenta aclune caratteristiche che lo differenziano da altri motori \"minimalisti\" che si trovano in circolazione.\nPer questo motivo ho deciso di stilare il motore di Hellwinter in una versione \"agnostica\", applicabile a qualsiasi setting desideriate, e di renderlo Creative Common, di modo che possiate usarlo liberamente per le vostre partite e per i vostri GDR, col solo obbligo di citare la fonte e l'autore.\nEcco quindi a voi il Broken Moon System, libero da scaricare e da usare a vostro gradimento! Come sempre, ogni feedback è più che gradito e mi aiuterà a migliorare il motore nelle prossime versioni.\nDaje!",
+          "link": "https://hellwinter.blogspot.com/2023/05/broken-moon-system.html",
+          "publishedOn": "2023-05-27T10:24:00.003Z",
+          "wordCount": 3075,
+          "title": "Il Broken Moon System in Creative Commons!",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje9KrFx6962w2ITmVH23hRGiChXD8ikbBbkllhn6K4mDHHPqGrUmcUajJsaQdqCYHvyLmT1xu-N7kCKRAROA6iEWiZoKIr-BILsxBVWKICXn2uns5D3VmkIy_jBXS74ZW8cGfX50f_A3hH9df7zPehNZif0JCztQWaMhkuBe362yZkcw9eo6xdnkICSA/w1200-h630-p-k-no-nu/Screen.png"
+        }
+      ]
     },
     {
       "title": "Say Friends and Play",
