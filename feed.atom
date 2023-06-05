@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-05T16:10:31.612Z</updated>
+    <updated>2023-06-05T18:09:33.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vecchio carnevale blogghereccio: la solitudine ( e il GDR in solitaria)]]></title>
+        <id>https://castellochimerico.blogspot.com/2023/06/vecchio-carnevale-blogghereccio-la.html</id>
+        <link href="https://castellochimerico.blogspot.com/2023/06/vecchio-carnevale-blogghereccio-la.html"/>
+        <updated>2023-06-05T16:12:00.005Z</updated>
+        <summary type="html"><![CDATA[Torna il Vecchio Carnevale Blogghereccio in grande spolvero! Per il mese di giugno è stato scelto il tema della solitudine e ciò mi ha fatto piacere in quanto da poco tempo ho scoperto il mondo del GDR in solitaria. Non vi nascondo che quando ho sentito parlare per la prima volta di questo concetto sono rimasto un po' perplesso; dopotutto il GDR non è un'attività di gruppo per eccellenza? Poi però, da bravo curioso, mi sono informato meglio e ho scoperto una realtà piuttosto vasta, con diversi titoli e variazioni sul tema (come i GDR diaristici o quelli epistolari) e parecchie persone appassionate. 
+Si tratta solo di un ripiego per quando non si riesce a radunare il gruppo? Non proprio: benché mi sia interessato al gioco di ruolo in solitaria per poter giocare un personaggio a cui sono aff…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Dungeon Crawler #5 La Casa Infestata]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/06/pokemon-dungeon-crawler-5-la-casa.html</id>
