@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-06T08:10:22.541Z</updated>
+    <updated>2023-06-06T10:08:11.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -363,28 +363,6 @@ Sir Lundir di Roccalta, primogenito del Conte Romulus, fu divorato da un branco 
 Ho scelto di non scrivere un articolo su questi argomenti, ci sono persone molto più qualificate di me al riguardo, ma di presentare un'avventura ispirata a questi temi. I dati di gioco sono per Cairn, ma il modulo è semplicemente adattabile a qualsiasi gioco di area "OSR" e "NSR" specialmente a Into the Odd e Electric Bastionland. Prima di giocare l'avventura da entrambi i lati dello …]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il Circo di Bosch #1 ROSTRINA]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2023/05/il-circo-di-bosch-1-rostrina.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2023/05/il-circo-di-bosch-1-rostrina.html"/>
-        <updated>2023-05-07T21:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Primo capitolo di un bestiario dedicato alle creazioni di Hieronymus Bosch: prendo una creatura dai suoi grotteschi quadri e le assegno delle statistiche per Cairn di Yochai Gal.
-
-
-
-LA ROSTRINA
-
-8 PF, 12 DES, 14 VOL
-Incantesimi a raffica (d6+d6)
-
-
-Le Rostrine sono creature anfibie, sirene maledette che non possono più assumere forma umana. La ricerca di conoscenze occulte è costata loro becchi d'anatra e braccia da rana.
-In cambio di artefatti e gingilli arcani una Rostrina è più che felice di insegnare le proprie capacità a chiunque lo desideri. L'allievo della Rostrina può ritirare il suo valore di VOL e riceve in dono un incantesimo caro alla creatura.
-Danno critico: un sortilegio malevolo si abbatte sulla vittima, che si trasforma in un' anatra (se è giorno) o in una rana (se è notte) parlante. Se il sortilegio colpisce all'alba o al tramonto rimbalza contro la Rostrina, che riottiene le proprie sembianze originarie di sirena o tritone.]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
