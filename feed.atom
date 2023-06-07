@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-07T20:08:15.555Z</updated>
+    <updated>2023-06-07T22:07:30.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -381,17 +381,6 @@ Sir Lundir di Roccalta, primogenito del Conte Romulus, fu divorato da un branco 
 #1. La Rostrina]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: integrazione e discriminazione]]></title>
-        <id>https://castellochimerico.blogspot.com/2023/05/vecchio-carnevale-blogghereccio.html</id>
-        <link href="https://castellochimerico.blogspot.com/2023/05/vecchio-carnevale-blogghereccio.html"/>
-        <updated>2023-05-09T08:54:00.002Z</updated>
-        <summary type="html"><![CDATA[Questo mese il Vecchio Carnevale Blogghereccio è ospitato da Nerdcoledì e presenta un tema difficile ma decisamente interessante: l'inclusione e la discriminazione. Ci sarebbe molto da scrivere e da dire: secondo me l'ambiente del GDR negli ultimi anni ha fatto grandi passi avanti in merito, anche se rimangono sacche di indifferenza a questi problemi. Spero che col tempo la situazione continui a migliorare. 
-Ho scelto di non scrivere un articolo su questi argomenti, ci sono persone molto più qualificate di me al riguardo, ma di presentare un'avventura ispirata a questi temi. I dati di gioco sono per Cairn, ma il modulo è semplicemente adattabile a qualsiasi gioco di area "OSR" e "NSR" specialmente a Into the Odd e Electric Bastionland. Prima di giocare l'avventura da entrambi i lati dello …]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
