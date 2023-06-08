@@ -294,7 +294,18 @@
       "title": "Cronache dal Dungeon",
       "feedUrl": "https://cronachedaldungeon.blogspot.com/feeds/posts/default",
       "siteUrl": "https://cronachedaldungeon.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cronachedaldungeon.blogspot.com/2023/06/novita-e-prossimi-passi.html",
+          "author": null,
+          "description": "Ehilà,\n\nSono tornato dopo un periodo nei dungeon in cerca di tesori e scontri fatali, si manco da qualche tempo però sono qua con tante novità come quelle in foto che sono una parte di quelle uscite a Modena play, oltre a queste tornerò con la guida all'OSR e qualche riflessione sull'old school; inoltre ho pronte un paio di sorprese per tutti voi spero di farmi perdonare della mia assenza. \n \n\n\n\n\n\n@GioRediFerro",
+          "link": "https://cronachedaldungeon.blogspot.com/2023/06/novita-e-prossimi-passi.html",
+          "publishedOn": "2023-06-08T10:00:00.005Z",
+          "wordCount": 2002,
+          "title": "Novità e prossimi passi",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTplorhdCsW8F4orXL9ivpQpJFdYhqAcxE5VrrV8CC9LGHb8A7Z8s3D3mZT08_hc3ureoWCCD3YaBqh-uQBL3DywjsbqshN4Ugi6G6XAfXFoNGuCO7stL_nzcfAXXaR8o2_F0LkqvIuN47pMPWxlNVFXypRSVcfnrU8JgluF551naHY4XexLscsf3qVw/w1200-h630-p-k-no-nu/IMG_4741.jpeg"
+        }
+      ]
     },
     {
       "title": "perticadatremetri",
