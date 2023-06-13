@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-13T04:09:41.766Z</updated>
+    <updated>2023-06-13T06:10:46.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -348,33 +348,6 @@ Ascia di Quercia (1d10)
 Il Cavaliere Verde vaga per la Foresta di Kanlann sul suo destriero dal manto di muschio (8 PF, 14 FOR, 16 DES, carica 1d6). Si reca quattro volte l’anno (durante Solstizi ed Equinozi) presso il Circolo degli Antichi, un cerchio di pietre nascosto nel profondo del b…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canaglie del Bizzarro - Creare una Canaglia (prima bozza)]]></title>
-        <id>https://dismastersden.blogspot.com/2023/05/canaglie-del-bizzarro-creare-una.html</id>
-        <link href="https://dismastersden.blogspot.com/2023/05/canaglie-del-bizzarro-creare-una.html"/>
-        <updated>2023-05-14T17:29:00.004Z</updated>
-        <summary type="html"><![CDATA[Dopo aver pubblicato un post di brainstorming riguardante le idee per il mio regolamento di Frankenstein, è ora di mettere giù qualche cosa di concreto. Dopotutto devo portarlo al Play Festival del Gioco questo regolamento, ma se non esiste è un po' difficile.
-
-
-Noterete che quanto è scritto adesso si basa tantissimo su Canaglie. Più avanti probabilmente le cose cambieranno, ma i punti più importanti del mio regolamento (quelli del post di cui sopra) sono la cosa che voglio davvero testare.
-
-
-
-◈◈◈
-
-
-Creare una Canaglia
-
-
-Per ogni Tiro Salvezza tira d4-d4 e segna il risultato:
-
-
-Tempra: resistere a infezioni, veleni e malattie, sopportare dolore, digiuno, pesi, sforzi.
-Destrezza: saltare via da massi rotolanti, aggrapparsi a una corda prima di cadere, schivare dardi avvelenati, evitare di f…]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
