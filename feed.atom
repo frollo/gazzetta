@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-16T08:11:08.796Z</updated>
+    <updated>2023-06-16T10:08:58.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -282,32 +282,6 @@ Se necessario, si eseguono Tiri Salvezza e i tiri dei Danni;
 A seconda dei risultati l’Arbitro descrive le conseguenze dei tiri, e si ricomincia dal passo 1.
 
 Es…]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canaglie del Bizzarro - L'Interazione con il Mondo e i Tiri Salvezza]]></title>
-        <id>https://dismastersden.blogspot.com/2023/05/canaglie-del-bizzarro-linterazione-con.html</id>
-        <link href="https://dismastersden.blogspot.com/2023/05/canaglie-del-bizzarro-linterazione-con.html"/>
-        <updated>2023-05-17T21:55:00.007Z</updated>
-        <summary type="html"><![CDATA[Qui mi chiedo perché non stia scrivendo le cose direttamente su un documento Google visto che ce le dovrò comunque mettere per farmele stampare prima di andare al Play.
-
-Comunque, questo è il terzo post della serie dove abbozzo il mio assolutamente non necessario (almeno per il grande pubblico) regolamento OSR di Frankenstein Franestein.
-
-
-L'Interazione con il Mondo e i Tiri Salvezza
-
-
-Quando ti trovi in una situazione di pericolo, o stai eseguendo un'azione che comporta dei rischi, per evitare le conseguenze che ne derivano devi superare un Tiro Salvezza:
-
-
-Tira d20 + valore del Tiro Salvezza più appropriato:
-
-Successo: il risultato è maggiore di 15, eviti o attenui le conseguenze.
-Fallimento: il risultato è minore o uguale a 15, subisci completamente le conseguenze.
-
-Ricorda: a effettuar…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
