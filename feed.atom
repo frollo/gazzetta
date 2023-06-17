@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-17T06:09:48.911Z</updated>
+    <updated>2023-06-17T08:09:45.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -261,26 +261,6 @@ Tener traccia del tempo è molto importante!
 Questo viene scandito in Turni di 10 minuti. Qualsiasi azione significativa impiega almeno un Turno (esaminare un’area di 10’, forza…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le caratteristiche nei giochi minimali, una strada segnata da Mork Borg.]]></title>
-        <id>https://autarkikagdr.blogspot.com/2023/05/le-caratteristiche-nei-giochi-minimali.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2023/05/le-caratteristiche-nei-giochi-minimali.html"/>
-        <updated>2023-05-18T19:49:00.006Z</updated>
-        <summary type="html"><![CDATA[Buonasera a tutti,
-dopo un'assenza di parecchi mesi volevo esporvi un mio personale ragionamento sulle caratteristiche nei giochi di ruolo.
-Riprendendo le scorse indicazioni riguardanti i giochi della categoria "minimale" vorrei far notare la tendenza presente in questi giochi nel diminuire il numero delle caratteristiche e di conseguenza il numeri di variabili da gestire da parte dei giocatori.
-Generalmente un alto numero di caratteristiche (7 o 8) era una prerogativa dei primi giochi di ruolo, negli ultimi anni si è voluto semplificare raggruppandone alcune.
-Proprio seguendo questo processo di semplificazione si è passati a 3 o 4 caratteristiche, sufficienti per molti giochi che vogliono portare al tavolo un'esperienza di gioco più semplice.
-La stessa filosofia si può riscontrare nella tendenza a eliminare il valore tradizionale della caratteristica per sostituirlo con un solo valore indicante un bonus; alcuni giochi derivanti dal B/X ripropongono inutilmente il valore della caratteristica anche se questa non ha un'effettivo utilizzo durante il gioco.
-L'esempio più famoso di questa nuova tendenza è rappresentato da Mork Borg dove le caratteristiche sono divenute tre e vengono rappresentate dal solo valore del bonus da applicare ai tiri di dado.
-Questa semplificazione permette al gioco di essere dinamico e semplice nella sua esecuzione, eliminando così molti artifici inutili ai fini del gioco.
-Tempo fa ho applicato questa filosofia mentre stavo leggendo la beta di un gioco di recete pubblicazione dove ho consigliato all'autore di diminuire le caratteristiche col l'intento di rendere il gioco più dinamico e veloce.
-Non sempre questo processo più rendere il gioco più fruibile, questo non avviene quando il regolamento risulta poco curato e l'esperienza di gioco non segue l'ambientazione proposta.
-Nelle prossime settimane vi voglio presentare un esempio di questo tipo.......]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
