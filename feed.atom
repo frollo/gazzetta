@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-18T10:07:50.753Z</updated>
+    <updated>2023-06-18T12:14:30.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canaglie del Bizzarro - La Clessidra degli Eventi]]></title>
+        <id>https://dismastersden.blogspot.com/2023/06/canaglie-del-bizzarro-la-clessidra.html</id>
+        <link href="https://dismastersden.blogspot.com/2023/06/canaglie-del-bizzarro-la-clessidra.html"/>
+        <updated>2023-06-18T11:36:00.001Z</updated>
+        <summary type="html"><![CDATA[Quando ho scritto il precedente post Tempo, Incontri Casuali e Grossi, Rossi d30 non avevo ancora letto questo bellissimo post di Arnold K. THE UNDERCLOCK: Fixing the Random Encounter che è un modo bellissimo per gestire gli incontri casuali e lo scorrere del tempo.
+
+E quindi questa meccanica finisce in Canaglie del Bizzarro come regola ufficiale, con la meccanica classica che può funzionare come alternativa opzionale (per chi preferisce un sistema più casuale).
+
+
+Quindi questa parte sovrascrive il capitolo nel post precedente.
+
+
+◈◈◈
+
+
+Il Tempo è un Nemico Senza Volto
+
+
+Tener traccia del tempo è molto importante!
+
+
+Nel dungeon e in qualsiasi luogo chiuso e pericoloso, viene scandito in Turni di 10 minuti. Qualsiasi azione significativa impiega almeno un Turno (esaminare una stanza, forzare…]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bestiario del Naftabosco: I Drakken tricefali]]></title>
         <id>https://castellochimerico.blogspot.com/2023/06/bestiario-del-naftabosco-i-drakken.html</id>
