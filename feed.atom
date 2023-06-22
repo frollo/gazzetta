@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-22T12:15:34.494Z</updated>
+    <updated>2023-06-22T14:07:31.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Il Circo di Bosch #4 CORNATTO]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/06/il-circo-di-bosch-4-cornatto.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/06/il-circo-di-bosch-4-cornatto.html"/>
+        <updated>2023-06-22T13:11:00.004Z</updated>
+        <summary type="html"><![CDATA[Un'altra bestiaccia per Cairn direttamente dai quadri di Hieronymus Bosch.
+
+IL CORNATTO
+7 PF, 15 DES
+Artigli (d6+d6)
+
+
+I Cornatti sono felini mutati dal sangue di Unicorno durante bizzarri e misteriosi rituali. Sono spesso usati da demoni e fate come destrieri, per via della loro prodigiosa velocità e vivacità.
+Ricercati dagli alchimisti per il corno, il manto e le ghiandole. Questi ingredienti sono citati in tutti i trattati accademici come fondamentali per infondere pozioni e oggetti di proprietà illusorie ed eteree.
+Se il Cornatto riesce a caricare in linea retta può infilzare gli avversari con il suo corno (+1d8 danno). In caso di Danno Critico provocato dal corno la vittima è incapace di interagire fisicamente con la realtà per 1d6 Turni.
+
+1. La Rostrina
+2. Il Lucolo
+3. Il Demorgone]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Come iniziare a giocare OSR]]></title>
         <id>https://scrtgm.blogspot.com/2023/06/come-iniziare-giocare-osr.html</id>
