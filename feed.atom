@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-24T20:08:56.477Z</updated>
+    <updated>2023-06-24T22:08:13.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -330,34 +330,6 @@ Ecco quindi a voi il Broken Moon System, libero da scaricare e da usare a vostro
 Daje!]]></summary>
         <author>
             <name>I CANCELLI DI HELLWINTER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canaglie del Bizzarro - Tempo, Incontri Casuali e Grossi, Rossi d30]]></title>
-        <id>https://dismastersden.blogspot.com/2023/05/canaglie-del-bizzarro-tempo-incontri.html</id>
-        <link href="https://dismastersden.blogspot.com/2023/05/canaglie-del-bizzarro-tempo-incontri.html"/>
-        <updated>2023-05-26T08:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Al Play speravo di playtestare un po' il gioco, e invece no, tutti a scegliere Pirate Borg e Mothership.
-Ma non mi lamento (anche se un po' me ne dispiaccio) perché c'erano pezzi mancanti, il regolamento non era affatto finito, almeno nelle parti più importanti -seppur le avessi in testa- e quindi continuiamo la scrittura di questo mostro.
-
-
-Per vedere tutti i pezzi, cliccate qui.
-
-
-Ringrazio inoltre il Prof Marrelli per avermi aiutato con il calcolo delle probabilità per lo spegnimento delle torce. Se non lo conoscete, andate a seguire il suo blog. Scrive e fa cose belle.
-
-◈◈◈
-
-
-Il Tempo è un Nemico Senza Volto
-
-
-Tener traccia del tempo è molto importante!
-
-
-Questo viene scandito in Turni di 10 minuti. Qualsiasi azione significativa impiega almeno un Turno (esaminare un’area di 10’, forza…]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
