@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-25T22:08:23.665Z</updated>
+    <updated>2023-06-26T00:55:51.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -316,20 +316,6 @@ Danno Critico: la vittima viene sbalzata in aria e viene ingoiata intera dal Fan
 Un incantatore può decidere di specializzarsi in un unico Sapere della Magia. Tali individui raggiungono livelli di potere superiori a quelli dei maghi tuttofare e di coloro che conoscono giusto un trucchetto o due, ma scavare a fondo in una qualsiasi branca magica comporta delle conseguenze. Se scegli un Sapere della Magia sei costretto a praticare solo quella tipologia di incantesimi e inizi con tutti gli incantesimi di Livello 1, che occupano 1 slot dell’inventario. Se i tuoi studi proseguono potrai man mano imparare incantesimi di Livello superiore: li prendi sempre come set e ciascun livello occupa una slot dell’inventario addizionale. Ogni …]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il Broken Moon System in Creative Commons!]]></title>
-        <id>https://hellwinter.blogspot.com/2023/05/broken-moon-system.html</id>
-        <link href="https://hellwinter.blogspot.com/2023/05/broken-moon-system.html"/>
-        <updated>2023-05-27T10:24:00.003Z</updated>
-        <summary type="html"><![CDATA[Durante l'edizione appena trascorsa di Play Modena ho avuto modo di far giocare a doversi tavoli La Luna dei Lupi, un'avventura demo del GDR di Hellwinter.
-Parecchi giocatori sono rimasti incuriositi dal sistema di gioco che, in effetti, presenta aclune caratteristiche che lo differenziano da altri motori "minimalisti" che si trovano in circolazione.
-Per questo motivo ho deciso di stilare il motore di Hellwinter in una versione "agnostica", applicabile a qualsiasi setting desideriate, e di renderlo Creative Common, di modo che possiate usarlo liberamente per le vostre partite e per i vostri GDR, col solo obbligo di citare la fonte e l'autore.
-Ecco quindi a voi il Broken Moon System, libero da scaricare e da usare a vostro gradimento! Come sempre, ogni feedback è più che gradito e mi aiuterà a migliorare il motore nelle prossime versioni.
-Daje!]]></summary>
-        <author>
-            <name>I CANCELLI DI HELLWINTER</name>
         </author>
     </entry>
 </feed>
