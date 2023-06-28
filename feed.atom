@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-06-28T06:12:37.888Z</updated>
+    <updated>2023-06-28T08:12:13.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streben Schatzjager: un dungeon crawl in puro spirito old school]]></title>
+        <id>https://cronachedaldungeon.blogspot.com/2023/06/streben-schatzjager-un-dungeon-crawl-in.html</id>
+        <link href="https://cronachedaldungeon.blogspot.com/2023/06/streben-schatzjager-un-dungeon-crawl-in.html"/>
+        <updated>2023-06-28T07:00:00.010Z</updated>
+        <summary type="html"><![CDATA[Ciao a tutti,
+
+
+Questo titolo era già stato citato nell'articolo sui solitari e ora è arrivato il momento di presentarvelo. 
+
+
+Streben Schatzjager: Cacciatori di tesori è un gioco di Giovanni Galli e Niccolò Rossi uscito in prima tiratura nel 2022 a seguito di una raccolta fondi indipendente, oggi è edito dalla Dungeoneer Games. Ambientato nello stesso mondo del gdr il titolo è un dungeon crawl con caratteristiche peculiari del mondo old school, il manuale consiglia l'uso di miniature e battlemat per un esperienza più immersiva. 
+In Cacciatori di Tesori ci avventureremo in dungeon e terre selvagge in cerca delle vestigia del mondo pre cataclisma da rivendere a facoltosi e collezionisti di queste illegali reliquie. 
+Come nel gdr i pg non avranno classe e le loro peculiarità saranno definite…]]></summary>
+        <author>
+            <name>Cronache dal Dungeon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guida all'OSR: Morte dei personaggi]]></title>
         <id>https://cronachedaldungeon.blogspot.com/2023/06/guida-allosr-morte-dei-personaggi.html</id>
