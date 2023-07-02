@@ -220,18 +220,7 @@
       "title": "Italian Translation Alliance",
       "feedUrl": "https://italiantranslationalliance.org/feed.xml",
       "siteUrl": "https://italian-translation-alliance.github.io//",
-      "articles": [
-        {
-          "id": "https://italian-translation-alliance.github.io//annunci/corso-intensivo-cairn/",
-          "author": null,
-          "description": "Presentiamo la traduzione italiana di questo utilissimo articolo di Naeolin che introduce sintenticamente lo stile di gioco OSR/NSR e chiarisce alcuni dubbi ricorrenti su Cairn",
-          "link": "https://italian-translation-alliance.github.io//annunci/corso-intensivo-cairn/",
-          "publishedOn": "2023-06-03T00:00:00.000Z",
-          "wordCount": 3496,
-          "title": "Corso intensivo di Cairn",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "L'Antro di Sephil Rosso",

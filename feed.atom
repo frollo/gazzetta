@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-07-02T10:08:46.459Z</updated>
+    <updated>2023-07-02T12:15:27.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -314,16 +314,6 @@ L'accorpamento di questi valori riduce significativamente i punteggi da tenere i
 Il vero pericolo di accorpare le …]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corso intensivo di Cairn]]></title>
-        <id>https://italian-translation-alliance.github.io//annunci/corso-intensivo-cairn/</id>
-        <link href="https://italian-translation-alliance.github.io//annunci/corso-intensivo-cairn/"/>
-        <updated>2023-06-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Presentiamo la traduzione italiana di questo utilissimo articolo di Naeolin che introduce sintenticamente lo stile di gioco OSR/NSR e chiarisce alcuni dubbi ricorrenti su Cairn]]></summary>
-        <author>
-            <name>Italian Translation Alliance</name>
         </author>
     </entry>
 </feed>
