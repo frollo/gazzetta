@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-07-04T20:09:56.491Z</updated>
+    <updated>2023-07-04T22:08:56.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -292,24 +292,6 @@ Ciao, vorrei fare un esperimento …]]></summary>
 Si tratta solo di un ripiego per quando non si riesce a radunare il gruppo? Non proprio: benché mi sia interessato al gioco di ruolo in solitaria per poter giocare un personaggio a cui sono aff…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Dungeon Crawler #5 La Casa Infestata]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2023/06/pokemon-dungeon-crawler-5-la-casa.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2023/06/pokemon-dungeon-crawler-5-la-casa.html"/>
-        <updated>2023-06-05T08:26:00.003Z</updated>
-        <summary type="html"><![CDATA[Una nuova avventura per Pokémon Dungeon Crawler di Batts: una banda di Rattata criminali, una casa infestata, uno spettro tutto solo.
-Questo è il mio contributo per il Vecchio Carnevale Blogghereccio di Giugno, ospitato da L'Antro dello Shamano e con tema LA SOLITUDINE.
-Non sapete cosa sia il Vecchio Carnevale Blogghereccio?! Cercate qua.
-
-Illustrazione di arkeis-pokemon
-
-Aggancio (se ne avete bisogno)
-
-Siete Pokémon. Gli Umani si sono ormai estinti e avete riottenuto le terre ed ereditato le grandi città in rovina. Ma non tutto è semplice. Siete stati incaricati dagli Anziani di esplorare una grande villa umana abbandonata, dove sono scomparsi innumerevoli Pokémon. Si dice che una terribile creatura nonmorta risieda nell'oscura magione e Aiko, il Savio Kadabra, non è più tornato dalla sua…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
