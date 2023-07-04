@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-07-04T18:11:16.690Z</updated>
+    <updated>2023-07-04T20:09:56.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -310,24 +310,6 @@ Aggancio (se ne avete bisogno)
 Siete Pokémon. Gli Umani si sono ormai estinti e avete riottenuto le terre ed ereditato le grandi città in rovina. Ma non tutto è semplice. Siete stati incaricati dagli Anziani di esplorare una grande villa umana abbandonata, dove sono scomparsi innumerevoli Pokémon. Si dice che una terribile creatura nonmorta risieda nell'oscura magione e Aiko, il Savio Kadabra, non è più tornato dalla sua…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le caratteristiche nei giochi minimali (parte2), prima di Mork Borg c'è stato Into the odd......]]></title>
-        <id>https://autarkikagdr.blogspot.com/2023/06/le-caratteristiche-nei-giochi-minimali.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2023/06/le-caratteristiche-nei-giochi-minimali.html"/>
-        <updated>2023-06-05T07:11:00.003Z</updated>
-        <summary type="html"><![CDATA[Ciao a tutti,
-continuerò la mia riflessione sulle caratteristiche e i loro bonus portando qualche esempio concreto.
-In molti giochi del panorama OSR il numero delle caratteristiche è stato drasticamente diminuito da 6 a 3, questo processo accorpa alcune caratteristiche col fine di rendere il gioco più semplice.
-INTO THE ODD del 2012 è il rappresentante più importante di questa filosofia, dove avremo:
--    Forza e Costituzione vengono accorpate in Forza
--    Destrezza rimane invariata
--    Intelligenza, Saggezza e Carisma vengono accorpate in Volontà.
-L'accorpamento di questi valori riduce significativamente i punteggi da tenere in considerazione durante la creazione del personaggio; questo può sembrare un vantaggio ma risulta essere una grande limitazione.
-Il vero pericolo di accorpare le …]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
