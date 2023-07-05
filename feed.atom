@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-07-05T10:10:36.172Z</updated>
+    <updated>2023-07-05T12:19:53.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -271,16 +271,6 @@ NOTA PER IL LETTORE:
 Ciao, vorrei fare un esperimento …]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giugno - La Solitudine + Raccolta di Aprile (Il Gatto)]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/541766/giugno-la-solitudine-raccolta-di-aprile-il-gatto</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/541766/giugno-la-solitudine-raccolta-di-aprile-il-gatto"/>
-        <updated>2023-06-05T22:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Sì, maggio me lo sono fumato per intero , tra le preparazioni per il Play e casini vari. Chiedo scusa, anche se non credo che il post avrebbe fatto tantissima differenza. Sapete cosa fa la differenza...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
