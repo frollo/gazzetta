@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-07-07T04:11:17.304Z</updated>
+    <updated>2023-07-07T06:12:25.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -262,35 +262,6 @@ Sono tornato dopo un periodo nei dungeon in cerca di tesori e scontri fatali, si
 @GioRediFerro]]></summary>
         <author>
             <name>Cronache dal Dungeon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Pietra di Coralina #1 Gioco a Cairn con ChatGTP]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2023/06/la-pietra-di-coralina-1-gioco-cairn-con.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2023/06/la-pietra-di-coralina-1-gioco-cairn-con.html"/>
-        <updated>2023-06-07T17:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Tutto è iniziato chiedendo a ChatGTP di popolare un sandbox con animali strani e creature mostruose. Ho finito con l'intavolare una sessione di Cairn con l'intelligenza artificiale come giocatore. Ecco la prima parte del resoconto.
-Voglio farmi un'idea di come sia "giocare da solo" (non parlo dei GDR in solitario, ma di quelli che normalmente si giocano con 1+ giocatori escluso il master) utilizzando le IA. Spero possa risultare interessante.
-
-
-Questo è un contributo per il Vecchio Carnevale Blogghereccio di Giugno, ospitato da L'Antro dello Shamano e con tema LA SOLITUDINE.
-Non sapete cosa sia il Vecchio Carnevale Blogghereccio?! Cercate qua.
-
-
-
-
-
-
-NOTA PER IL LETTORE:
-
--I miei messaggi sono in grassetto
-
--I messaggi di ChatGTP sono in carattere normale
-
-
-Ciao, vorrei fare un esperimento …]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
