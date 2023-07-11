@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-07-11T14:08:17.502Z</updated>
+    <updated>2023-07-11T16:11:30.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elephantumachia - Un serraglio elefantino per Cairn]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/07/elephantumachia-un-serraglio-elefantino.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/07/elephantumachia-un-serraglio-elefantino.html"/>
+        <updated>2023-07-11T15:40:00.005Z</updated>
+        <summary type="html"><![CDATA[Ecco il mio contributo per il Vecchio Carnevale Blogghereccio di Luglio a tema ELEFANTI (ospitato dal blog Il Castello Chimerico)!
+
+
+Per l'occasione ho pensato di scrivere un piccolo almanacco per Cairn di Yochai Gal, come già fatto in altre occasioni. Quindi all'interno dell'Elephantumachia potrete trovare:
+
+
+Tre pacchetti d'avventura a tema: un sacerdote di divinità pachidermiche, un cavaliere di elefanti e un vero e proprio elefante umanoide simile ai Loxodon di Dungeons & Dragons
+Tre reliquie dalle sembianze elefantine che racchiudono al loro interno la forza e la saggezza di questo magnifico animale
+Tre creature grandi, ma proprio grandi. Meglio andarsene o essere sicuri di avere un piano a prova di Leviatano
+6 siti di avventura e idee per scenari
+
+
+QUI trovate la pagina Itch.io con il pdf dell'Elephantumachia]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Integrazione e Discriminazione (Raccolta di Maggio)]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/555571/integrazione-e-discriminazione-raccolta-di-maggio</id>
