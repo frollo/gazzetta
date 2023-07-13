@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-07-13T06:12:25.385Z</updated>
+    <updated>2023-07-13T08:11:42.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La Solitudine - Raccolta di Giugno]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/559263/la-solitudine-raccolta-di-giugno</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/559263/la-solitudine-raccolta-di-giugno"/>
+        <updated>2023-07-13T07:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Ecco qui che mentre impazzano Gli Elefanti a luglio, ci arriva la raccolta di giugno a tema La Solitudine ! Sei contributi tutti per voi, da leggere quando siete da soli e non sapete cosa fare (o in c...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elephantumachia - Un serraglio elefantino per Cairn]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/07/elephantumachia-un-serraglio-elefantino.html</id>
@@ -248,23 +258,6 @@ Light and shadow, by Tyra Af Kleen (1907)
         costantemente, ma non parli. Ti fissi con i tuoi occhi morti. Non …]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle, ancora diagrammi di flusso e gdr!]]></title>
-        <id>https://autarkikagdr.blogspot.com/2023/06/oracle-ancora-diagrammi-di-flusso-e-gdr.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2023/06/oracle-ancora-diagrammi-di-flusso-e-gdr.html"/>
-        <updated>2023-06-13T20:03:00.003Z</updated>
-        <summary type="html"><![CDATA[Buonasera,
-
-voglio segnalarvi un'ulteriore gioco minimale che incorpora l'alcuni elementi presenti in Cyclic Dungeon Generation e Sea Fortress of Yule Queen.
-Il prodotto in questione è Oracle.
-Il regolamento non risulta essere nulla di innovativo, ma può essere un buon esempio di design minimale da tenere in considerazione.
-Inoltre la struttura delle avventure proposte (ben 3) può risultare adatta a capire come strutturare un Dungeon partendo da zero.
-dateci un'occhiata
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>

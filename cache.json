@@ -67,18 +67,7 @@
       "title": "AUTARKIKAGDR",
       "feedUrl": "https://autarkikagdr.blogspot.com/feeds/posts/default",
       "siteUrl": "https://autarkikagdr.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://autarkikagdr.blogspot.com/2023/06/oracle-ancora-diagrammi-di-flusso-e-gdr.html",
-          "author": null,
-          "description": "Buonasera,\n\nvoglio segnalarvi un'ulteriore gioco minimale che incorpora l'alcuni elementi presenti in Cyclic Dungeon Generation e Sea Fortress of Yule Queen.\nIl prodotto in questione è Oracle.\nIl regolamento non risulta essere nulla di innovativo, ma può essere un buon esempio di design minimale da tenere in considerazione.\nInoltre la struttura delle avventure proposte (ben 3) può risultare adatta a capire come strutturare un Dungeon partendo da zero.\ndateci un'occhiata\n@threeballs",
-          "link": "https://autarkikagdr.blogspot.com/2023/06/oracle-ancora-diagrammi-di-flusso-e-gdr.html",
-          "publishedOn": "2023-06-13T20:03:00.003Z",
-          "wordCount": 2071,
-          "title": "Oracle, ancora diagrammi di flusso e gdr!",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx1phNvMgmSmY7lPOEyHfqYvldI1fZFf1eEqE1UOKFRubZ9F0T7gEYYdtExQH1wutZXFAMqxy5Rsg4HrTMED-_aqRtg_pHAtk5NNTfhPh7L1q1f_wBAFSmOhtWtK3cQ9IZ_Nqn8zEOLeAN2wNNPpKuaLikL4XMh3sq2xEG569KcM4KvQ1dBsgCr30p2g/w1200-h630-p-k-no-nu/G4OI9I.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "jonnie",
@@ -298,6 +287,16 @@
       "feedUrl": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog.rss",
       "siteUrl": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio",
       "articles": [
+        {
+          "id": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/559263/la-solitudine-raccolta-di-giugno",
+          "author": null,
+          "description": "Ecco qui che mentre impazzano Gli Elefanti a luglio, ci arriva la raccolta di giugno a tema La Solitudine ! Sei contributi tutti per voi, da leggere quando siete da soli e non sapete cosa fare (o in c...",
+          "link": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/559263/la-solitudine-raccolta-di-giugno",
+          "publishedOn": "2023-07-13T07:32:41.000Z",
+          "wordCount": null,
+          "title": "La Solitudine - Raccolta di Giugno",
+          "imageUrl": null
+        },
         {
           "id": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/555571/integrazione-e-discriminazione-raccolta-di-maggio",
           "author": null,
