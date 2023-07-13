@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-07-13T16:11:33.705Z</updated>
+    <updated>2023-07-13T18:11:16.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cosa ci fa un elefante nel Naftabosco?   Vecchio carnevale Blogghereccio - gli elefanti parte 2]]></title>
+        <id>https://castellochimerico.blogspot.com/2023/07/cosa-ci-fa-un-elefante-nel-naftabosco.html</id>
+        <link href="https://castellochimerico.blogspot.com/2023/07/cosa-ci-fa-un-elefante-nel-naftabosco.html"/>
+        <updated>2023-07-13T16:22:00.005Z</updated>
+        <summary type="html"><![CDATA[Visto che questo mese ospito il Vecchio Carnevale Blogghereccio, a tema elefanti, mi sembrava appropriato offrire più di un contributo.
+Per cui beccatevi una tabella casuale a tema
+Cosa ci fa un elefante nel Naftabosco?
+D6
+1: Non è un elefante, ma un essere demoniaco dell'Inframondo! Il puzzo di zolfo e gli occhi leggermente luminosi dovrebbero essere un indizio...infatti se viene avvicinato si trasforma in una sorta di gigante mostruoso e sulfureo. Questo mostro brama le anime dei personaggi (almeno di un paio) che poi userà per i suoi scopi immondi. Potrebbe essere possibile persuaderlo a accettare che gli vengano consegnate le anime di altre persone più interessanti al posto delle loro.
+Demone dell'Inframondo: 10 PF, 16 For, 7 Des, 13 Vol, artigli e zanne d8+d8 o soffio sulfureo d6 scop…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La Solitudine - Raccolta di Giugno]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/559263/la-solitudine-raccolta-di-giugno</id>
