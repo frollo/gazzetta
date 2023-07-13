@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-07-13T10:09:38.810Z</updated>
+    <updated>2023-07-13T12:17:49.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -228,36 +228,6 @@ Drakken tricefalo 
 CA 7 (12),  DV 1+1, Attacchi 1, morsi e unghiate 1d6, Speciale: sorpresi soltanto con 1 su D6, Movimento 12, DVE/PE: 1/15]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sei rimasto da solo nel dungeon…]]></title>
-        <id>https://dismastersden.blogspot.com/2023/06/sei-rimasto-da-solo-nel-dungeon.html</id>
-        <link href="https://dismastersden.blogspot.com/2023/06/sei-rimasto-da-solo-nel-dungeon.html"/>
-        <updated>2023-06-13T23:38:00.002Z</updated>
-        <summary type="html"><![CDATA[Sei rimasto da solo, nel dungeon, per sventura, follia o stolta iniziativa
-  personale, separato dai tuoi compagni e lontano dalle loro voci… tira un d10:
-
-
-
-Light and shadow, by Tyra Af Kleen (1907)
-
-1
-      
-        Incontri i tuoi compagni… ma non sono davvero loro. Sono ombre perdute
-        di altri come te, avide della tua compagnia, pronte ad accoglierti tra
-        le loro fila tentandoti con un aspetto conosciuto. Temono la luce
-        (proveranno a spegnere la tua) e sono sconfitte solo con la presenza di
-        altre creature.
-      
-    
-2
-      
-        Incontri te stesso, e non sei una bella vista. Sei in decomposizione,
-        odori di morte e il tuo respiro pare provenire dall'oltretomba. Ti segui
-        costantemente, ma non parli. Ti fissi con i tuoi occhi morti. Non …]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
