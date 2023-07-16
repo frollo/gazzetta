@@ -57,7 +57,18 @@
       "title": "AUTARKIKAGDR",
       "feedUrl": "https://autarkikagdr.blogspot.com/feeds/posts/default",
       "siteUrl": "https://autarkikagdr.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://autarkikagdr.blogspot.com/2023/07/linventario-consumabile-una-meccanica.html",
+          "author": null,
+          "description": "Ciao a tutti,\n\nda diverso tempo sono affascinato dalla meccanica riguardante l'equipaggiamento introdotta in giochi derivati da Black Hack.\nIn questi regolamenti , alcuni oggetti possiedono un valore numerico determinato da un dado (1d4-1d6-1d8 ecc...); quando lo si utilizza si tirerà il dado relativo. Nel caso il risultato ottenuto sia un 1 o un 2, il dado di riferimento verrà diminuito di una unità.\nGeneralmente questa meccanica permette di utilizzare l'oggetto in questione per permettere di ottenere alcuni vantaggi o abilità.\nPer esempio se si possiede un libro di incantesimi da 1d6, si dovrà tirare il dado per determinare se tale risorsa si deteriorerà con il suo utilizzo.\nL'uso dell'equipaggiamento \"consumabile\" permette di simulare efficacemente sia il passaggio del tempo e rendere dinamico l'uso delle risorse a disposizione.\nNei giochi OSR la gestione delle proprie risorse è fondamentale e un buon sistema di simulazione permette partite più dinamiche e divertenti.\nCome avrete capito considero questa meccanica molto interessante e stimolante, analizzandola\n mi sono chiesto se sarebbe possibile creare un regolamento interamente basato su questi tiri di dado.\nQualcosa ho scritto........rimanete connessi\n@threeballs",
+          "link": "https://autarkikagdr.blogspot.com/2023/07/linventario-consumabile-una-meccanica.html",
+          "publishedOn": "2023-07-16T07:19:00.003Z",
+          "wordCount": 2167,
+          "title": "L'inventario \"consumabile\" una meccanica molto interessante.",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3XLqv61AvmI6A7kZLtIRuOHMyHBC94J8dw7kHs6QjnZ_SkU3HNPgT9Zt1a_OOx0njix8UKg_W_DTQWR2i4QPgTvzjlmF5lJ40Ll91al6cnyBHL-6pPtAs0HeUMfr6OFtuePiQgh3mwypvQkK96-XU8gp5r2AjEZOk7ww6HZvqea-QB7yJsbAAc_csldiF/w1200-h630-p-k-no-nu/depositphotos_2627661-stock-photo-white-candles-burning-in-dark.jpg"
+        }
+      ]
     },
     {
       "title": "jonnie",
