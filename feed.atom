@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-07-27T08:10:18.370Z</updated>
+    <updated>2023-07-27T10:08:23.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recensione: Il Torneo della Manticora]]></title>
+        <id>https://oicn.icu/2023/Recensione-Il-Torneo-della-Manticora/</id>
+        <link href="https://oicn.icu/2023/Recensione-Il-Torneo-della-Manticora/"/>
+        <updated>2023-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Oggi facciamo una cosa che faccio raramente, una bella recensione. Premetto che sarà una recensione piuttosto particolare per due motivi: innanzitutto, non ho ancora avuto il tempo di giocare il Torneo; in secondo luogo, avendo fatto da editor al modulo per circa 5 anni, ho investito molto su questa avventura<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup><sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>. Però, proprio perché ci ho investito un fracco, ci terrei a raccontare questo modulo a modo mio. Non solo per parlare del modulo in sè, ma anche un po’ del lavoro che è stato fatto dietro e di quanto sarebbe figo se lo facessimo più spesso.</p>
+<p>Quindi, ciancio alle bande, diamoci dentro con la recensione!</p>
+<img src="/2023/Recensione-Il-Torneo-della-Manticor…]]></summary>
+        <author>
+            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L'inventario "consumabile" una meccanica molto interessante.]]></title>
         <id>https://autarkikagdr.blogspot.com/2023/07/linventario-consumabile-una-meccanica.html</id>
