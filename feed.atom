@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-08-04T02:23:43.258Z</updated>
+    <updated>2023-08-04T04:09:18.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -122,26 +122,6 @@ Tre creature grandi, ma proprio grandi. Meglio andarsene o essere sicuri di aver
 QUI trovate la pagina Itch.io con il pdf dell'Elephantumachia]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrazione e Discriminazione (Raccolta di Maggio)]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/555571/integrazione-e-discriminazione-raccolta-di-maggio</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/555571/integrazione-e-discriminazione-raccolta-di-maggio"/>
-        <updated>2023-07-05T15:16:57.000Z</updated>
-        <summary type="html"><![CDATA[A quanto pare la raccolta del mese di maggio, a tema Integrazione e Discriminazione , era stata fatta e io non ne ero al corrente. Ed eccovi qui il link per andarvi a leggere gli interessantissimi con...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luglio - Gli Elefanti]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/555553/luglio-gli-elefanti</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/555553/luglio-gli-elefanti"/>
-        <updated>2023-07-05T14:42:27.000Z</updated>
-        <summary type="html"><![CDATA[Luglio, con il caldo, è arrivato. E mentre aspettiamo che arrivi anche la raccolta del mese precedente a tema La Solitudine (e le raccolte ancora prima), andiamo verso il tema di questo mese che rigu...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
