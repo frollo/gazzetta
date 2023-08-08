@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-08-08T10:08:20.262Z</updated>
+    <updated>2023-08-08T12:15:04.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Abraham Merrit, il grande dimenticato del fantastico]]></title>
+        <id>https://castellochimerico.blogspot.com/2023/08/abraham-merrit-il-grande-dimenticato.html</id>
+        <link href="https://castellochimerico.blogspot.com/2023/08/abraham-merrit-il-grande-dimenticato.html"/>
+        <updated>2023-08-08T10:42:00.001Z</updated>
+        <summary type="html"><![CDATA[La figura  dello scrittore e giornalista statunitense Abraham Merrit è molto particolare, e non solo perché si tratta di uno dei precursori del pulp fantasy americano.
+
+
+Infatti, a differenza di altri autori che scrivevano per i pulp magazines, la cui opera è stata riscoperta dopo la scomparsa (è il caso di R. E. Howard, H. P. Lovecraft e Clark Ashton Smith), Merrit è stato molto apprezzato in vita da critica e pubblico, ottenendo fama e ricchezza. Dopo la morte è però  progressivamente caduto nell’oblio anche in patria, tanto che oggi è difficile vedere il suo nome citato tra quelli dei grandi del fantastico come invece avviene nel caso del suo contemporaneo E. R. Burroughs, che scriveva sulle stesse riviste.
+
+
+
+
+La sua opera è stata inoltre una fonte di ispirazione per moltissimi scritto…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agosto - Le Belve Distorcenti]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/571898/agosto-le-belve-distorcenti</id>
