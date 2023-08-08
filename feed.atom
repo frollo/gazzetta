@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-08-07T22:07:21.761Z</updated>
+    <updated>2023-08-08T00:42:47.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agosto - Le Belve Distorcenti]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/571898/agosto-le-belve-distorcenti</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/571898/agosto-le-belve-distorcenti"/>
+        <updated>2023-08-07T22:09:14.000Z</updated>
+        <summary type="html"><![CDATA[Gli elefanti sono andati verso pascoli più verdi, oppure sono stati cacciati via da... Le Belve Distorcenti Ospitato da Jonnie Che aspettate? Correte a scrivere un post per il fantastico tema di ques...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Le belve distorcenti del Vecchio Carnevale Blogghereccio]]></title>
         <id>https://castellochimerico.blogspot.com/2023/08/le-belve-distorcenti-del-vecchio.html</id>
