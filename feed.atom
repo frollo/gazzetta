@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-08-15T06:10:35.822Z</updated>
+    <updated>2023-08-15T08:10:08.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La Marca del Este gratis]]></title>
+        <id>https://d20d12.blogspot.com/2023/08/la-marca-del-este-gratis.html</id>
+        <link href="https://d20d12.blogspot.com/2023/08/la-marca-del-este-gratis.html"/>
+        <updated>2023-08-15T08:05:00.004Z</updated>
+        <summary type="html"><![CDATA[Il gruppo creativo La Marca del Este (autori di tutto il materiale de "La Marca del Este", ha reso disponibile gratuitamente il regolamento base rivisto nel 2021 nonché tantissime avventure.
+
+Qui trovate l'articolo con il link per scaricare il gioco: https://codexdelamarca.com/posts/caja_roja/
+Sullo stesso sito troverete tantissimo materiale, avventure, espansioni e quant'altro. Un tesoro degno di un drago! Qui: https://codexdelamarca.com/
+Ricordiamo che "La Marca del Este" é uno splendido clone del BECM (scatola rossa, blu e verde), assolutamente da non perdere (consiglio l'edizione cartacea ovviamente).
+In passato avevamo parlato della sfortunata edizione italiana qui: 
+Quella che trovate qui è una versione rivista con molte delle classi avanzate (come il druido) presentate nella caja verde e una nuova presentazione grafica.]]></summary>
+        <author>
+            <name>Castelli &amp; Chimere - Castles &amp; Chimeras</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Il Savio: una classe per Rinascimento 2e]]></title>
         <id>https://oicn.icu/2023/Il-Savio-una-classe-per-Rinascimento-2e/</id>
