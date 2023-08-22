@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-08-22T10:08:23.436Z</updated>
+    <updated>2023-08-22T12:14:36.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gli Elefanti - Raccolta di Luglio]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/578393/gli-elefanti-raccolta-di-luglio</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/578393/gli-elefanti-raccolta-di-luglio"/>
+        <updated>2023-08-22T12:06:33.000Z</updated>
+        <summary type="html"><![CDATA[È giunta a noi la raccolta di tutti i sette contributi del tema di luglio, Gli Elefanti , che nella calura estiva ci vengono a trovare con interessantissimi post. Se volete vederli tutti, cliccate su...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Riepilogo del Vecchio Carnevale Blogghereccio di luglio 2023: Gli elefanti]]></title>
         <id>https://castellochimerico.blogspot.com/2023/08/riepilogo-del-vecchio-carnevale.html</id>
