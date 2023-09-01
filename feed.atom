@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-09-01T08:10:42.266Z</updated>
+    <updated>2023-09-01T10:08:32.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio - I Maiali]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2023/09/vecchio-carnevale-blogghereccio-i-maiali.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2023/09/vecchio-carnevale-blogghereccio-i-maiali.html"/>
+        <updated>2023-09-01T09:49:00.004Z</updated>
+        <summary type="html"><![CDATA[“Mi piacciono i maiali. I cani ci guardano dal basso. I gatti ci guardano dall'alto. I maiali ci trattano da loro pari.”
+- Sir Winston Churchill
+
+
+IL CARNEVALE
+Questo mese ho l'onore di ospitare il Vecchio Carnevale Blogghereccio, con un tema che mi sta molto a cuore: i maiali. Se non sai cosa sia il Carnevale, puoi approfondire qui. In breve: ogni mese qualcuno propone un tema, e chi vuole scrive un articolo, un'avventura, un mostro, una tabella, un tesoro, un saggio sul tema, legati al mondo dei gdr.
+
+I MAIALI
+
+Maiali e Gdr, che strana coppia. Per quanto mi riguarda, l'aspetto più interessante di questo abbinamento è il fatto che i maiali rappresentano alla perfezione una certa Estetica Patetica che adoro innestare in ogni mia partita, e poi che questi animali bellissimi possono essere u…]]></summary>
+        <author>
+            <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SCRAPFEY, il vero GDR FAERIEPUNK!]]></title>
         <id>https://castellochimerico.blogspot.com/2023/08/scrapfey-il-vero-gdr-faeriepunk.html</id>
