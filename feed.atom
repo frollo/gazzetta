@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-09-06T14:07:48.594Z</updated>
+    <updated>2023-09-06T16:10:22.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Settembre - I Maiali 🐖]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/585468/settembre-i-maiali-</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/585468/settembre-i-maiali-"/>
+        <updated>2023-09-06T14:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Ho poco tempo, ho da grufolare in giro, quindi sarò breve, ma il buon (a volte) Pedro Celeste ha tirato fuori una supercombo micidiale tra il tema del Vecchio Carnevale di questo mese e la sua jam pe...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio - I Maiali]]></title>
         <id>https://arcipelagoceleste.blogspot.com/2023/09/vecchio-carnevale-blogghereccio-i-maiali.html</id>
