@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-09-07T12:14:44.784Z</updated>
+    <updated>2023-09-07T16:10:43.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UVG - Commercio nelle Praterie Desolate // Trade in the Desolate Grasslands]]></title>
+        <id>https://dismastersden.blogspot.com/2023/09/uvg-commercio-nelle-praterie-desolate.html</id>
+        <link href="https://dismastersden.blogspot.com/2023/09/uvg-commercio-nelle-praterie-desolate.html"/>
+        <updated>2023-09-07T14:33:00.000Z</updated>
+        <summary type="html"><![CDATA[(english below)
+
+
+— Commercio & Inganni —
+
+  In Ultraviolet Grasslands nella sezione relativa al commercio è
+  descritta l'opzione di fare ricerca di mercato:
+
+
+
+  Spendi un giorno o una settimana (in UVG 1e spendi anche soldini) e scopri il prezzo di
+  una singola merce in una destinazione adiacente / una catena di tre Destinazioni adiacenti.
+
+
+
+  Questa meccanica molto interessante pone però il problema delle Destinazioni
+  senza insediamenti (che sono davvero tante). In che modo un certo bene può
+  valere qualcosa se lì non c'è nessuno di interessato a comprarlo?
+
+E quindi ho fatto questa tabella su cui tirare una volta che giungi in una di queste Destinazioni con la speranza di commerciarvi a seguito della ricerca di mercato:
+
+
+    
+    
+ d30 + Carisma Occasioni di commercio nelle prat…]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Settembre - I Maiali 🐖]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/585468/settembre-i-maiali-</id>
