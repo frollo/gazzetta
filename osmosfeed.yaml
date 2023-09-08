@@ -6,6 +6,7 @@
 cacheUrl: https://gazzetta.oicn.icu/cache.json
 siteTitle: "La Gazzetta dell'OSR"
 timezone: Europe/Rome
+cacheMaxDays: 60
 sources:
   - href: https://d20d12.blogspot.com/feeds/posts/default
   - href: https://dismastersden.blogspot.com/feeds/posts/default
