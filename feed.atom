@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-09-10T16:08:39.906Z</updated>
+    <updated>2023-09-10T20:07:34.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -372,16 +372,6 @@ D6
 Demone dell'Inframondo: 10 PF, 16 For, 7 Des, 13 Vol, artigli e zanne d8+d8 o soffio sulfureo d6 scop…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Solitudine - Raccolta di Giugno]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/559263/la-solitudine-raccolta-di-giugno</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/559263/la-solitudine-raccolta-di-giugno"/>
-        <updated>2023-07-13T07:32:41.000Z</updated>
-        <summary type="html"><![CDATA[Ecco qui che mentre impazzano Gli Elefanti a luglio, ci arriva la raccolta di giugno a tema La Solitudine ! Sei contributi tutti per voi, da leggere quando siete da soli e non sapete cosa fare (o in c...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
