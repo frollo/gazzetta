@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-09-13T18:10:01.086Z</updated>
+    <updated>2023-09-13T20:07:14.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -336,27 +336,6 @@ L’ambientazione del romanzo è piuttosto particolare e costituisce forse l’e
 <img src="/2023/Recensione-Il-Torneo-della-Manticor…]]></summary>
         <author>
             <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L'inventario "consumabile" una meccanica molto interessante.]]></title>
-        <id>https://autarkikagdr.blogspot.com/2023/07/linventario-consumabile-una-meccanica.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2023/07/linventario-consumabile-una-meccanica.html"/>
-        <updated>2023-07-16T07:19:00.003Z</updated>
-        <summary type="html"><![CDATA[Ciao a tutti,
-
-da diverso tempo sono affascinato dalla meccanica riguardante l'equipaggiamento introdotta in giochi derivati da Black Hack.
-In questi regolamenti , alcuni oggetti possiedono un valore numerico determinato da un dado (1d4-1d6-1d8 ecc...); quando lo si utilizza si tirerà il dado relativo. Nel caso il risultato ottenuto sia un 1 o un 2, il dado di riferimento verrà diminuito di una unità.
-Generalmente questa meccanica permette di utilizzare l'oggetto in questione per permettere di ottenere alcuni vantaggi o abilità.
-Per esempio se si possiede un libro di incantesimi da 1d6, si dovrà tirare il dado per determinare se tale risorsa si deteriorerà con il suo utilizzo.
-L'uso dell'equipaggiamento "consumabile" permette di simulare efficacemente sia il passaggio del tempo e rendere dinamico l'uso delle risorse a disposizione.
-Nei giochi OSR la gestione delle proprie risorse è fondamentale e un buon sistema di simulazione permette partite più dinamiche e divertenti.
-Come avrete capito considero questa meccanica molto interessante e stimolante, analizzandola
- mi sono chiesto se sarebbe possibile creare un regolamento interamente basato su questi tiri di dado.
-Qualcosa ho scritto........rimanete connessi
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
