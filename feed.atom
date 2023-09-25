@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-09-25T20:08:29.333Z</updated>
+    <updated>2023-09-25T22:07:19.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A volte ritornano: il Vecchio Carnevale Blogghereccio]]></title>
+        <id>https://oicn.icu/2023/A-volte-ritornano-il-Vecchio-Carnevale-Blogghereccio/</id>
+        <link href="https://oicn.icu/2023/A-volte-ritornano-il-Vecchio-Carnevale-Blogghereccio/"/>
+        <updated>2023-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Dopo una lunga, lunghissima pausa, torno ad ospitare il <a href="/2021/Vecchio-Carnevale-Blogghereccio/" title="Vecchio Carnevale Blogghereccio">Vecchio Carnevale Blogghereccio</a>, che ha attraversato tutto il 2021 senza di me, diventando sempre, sempre meglio.</p>
+<p>Se siete fermi al Carnevale <a href="/2021/Vecchio-Carnevale-Blogghereccio/" title="come lo raccontavo qui">come lo raccontavo qui</a>, vi do un rapido aggiornamento: il Carnevale ha preso vita propria ed è diventato un bellissimo sforzo collettivo con il buon <a href="https://linktr.ee/dismasterfrane">Dismaster FraNe</a> a tenere le fila dello <a href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio">spazio itch</a> che ne fa da casa ufficiale. Un giorno farò un post in cui parlerò del mio rapporto col Carneval…]]></summary>
+        <author>
+            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Dungeon Crawler #7 Il Mistero di Cherise Island]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/09/pokemon-dungeon-crawler-7-il-mistero-di.html</id>
