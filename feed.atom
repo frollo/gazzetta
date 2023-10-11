@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-10-11T10:09:08.231Z</updated>
+    <updated>2023-10-11T12:15:51.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -446,18 +446,6 @@ In passato avevamo parlato della sfortunata edizione italiana qui: 
 Quella che trovate qui è una versione rivista con molte delle classi avanzate (come il druido) presentate nella caja verde e una nuova presentazione grafica.]]></summary>
         <author>
             <name>Castelli &amp; Chimere - Castles &amp; Chimeras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il Savio: una classe per Rinascimento 2e]]></title>
-        <id>https://oicn.icu/2023/Il-Savio-una-classe-per-Rinascimento-2e/</id>
-        <link href="https://oicn.icu/2023/Il-Savio-una-classe-per-Rinascimento-2e/"/>
-        <updated>2023-08-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Siccome mi sono preso bene con <a href="https://pedro-celeste.itch.io/rinascimento-2ed">Rinascimento 2e</a> di Pedro, ho deciso di provare a creare una classe addizionale per il suo regolamento: il Savio. L’ho basata vagamente sul Filosofo del Pirate GLOG, ma le ho dato un tono più in linea con i chierici erranti e i saggi viaggiatori del medioevo e rinascimento italiani. Per ora è pubblicata sul blog per comodità di scrittura, ma quando riesco a impaginarla bene poi la metto su Itch.</p>
-<p>Vi segnalo anche che è in corso una <a href="https://itch.io/jam/maiali-morte">jam</a> su Rinascimento, a cui questa classe non può partecipare perché fuori tema. Ma potete partecipare voi con del materiale adatto! Cosa che farò anch’io appena finisco di perfezionare la mia idea.</p>
-<img src="/2023…]]></summary>
-        <author>
-            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
 </feed>
