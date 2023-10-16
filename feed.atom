@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-10-16T08:11:47.555Z</updated>
+    <updated>2023-10-16T10:09:29.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Avventure nel Ducato (Rinascimento 2e): Sessioni #1 e #2]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/10/avventure-nel-ducato-rinascimento-2e.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/10/avventure-nel-ducato-rinascimento-2e.html"/>
+        <updated>2023-10-16T09:06:00.001Z</updated>
+        <summary type="html"><![CDATA[In queste settimane sto giocando dal vivo una piccola campagna a Rinascimento 2e, gioco di ruolo OSR di Arcipelago Celeste. Rinascimento non ha un'ambientazione esplicita, ma le atmosfere e gli elementi del gioco rimandano ad un'Italia fantasy rinascimentale (nel mio caso mescolo impunemente Medioevo e Rinascimento). Di seguito un resoconto delle prime due sessioni, forse la roba più divertente che abbia mai giocato.
+L'Ambientazione
+La campagna è ambientata in un Piemonte di finzione con molti rimandi storici, dove sorge il Ducato di Torrino. La mappe e i suoi luoghi di interesse sono nati poco a poco, nel mezzo della mia partecipazione alla jam Maiali & Morte. Sono finalmente riuscito a portare tutto al tavolo!
+Di seguito la mappa del ducato, che potete scaricare qui.
+
+
+La Compagnia
+
+
+Abb…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Imbuto o setaccio? Un metodo per introdurre i personaggi.]]></title>
         <id>https://autarkikagdr.blogspot.com/2023/10/imbuto-o-setaccio-un-metodo-per.html</id>
