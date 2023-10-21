@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-10-20T22:07:34.462Z</updated>
+    <updated>2023-10-21T00:36:05.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -544,16 +544,6 @@ Mi è piaciuto e mi sento di consigliarlo? Sì, però l'ho trovato un libro vera
 Una doverosa avvertenza: non è un libro d'azione, nella prima parte succede apparentemente molto poco, anche se i personaggi (tra cui la stessa Casa di Edgewood) vengono delineati molto bene e si introduce l'ambientazione. Quest'ultima sembrerebbe essere  il nostro mondo, in particolare gli USA in qualche momento imprecisato dopo la metà del XX Secolo, ma evidentemente non lo è, visto lo sviluppo differente che…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gli Elefanti - Raccolta di Luglio]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/578393/gli-elefanti-raccolta-di-luglio</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/578393/gli-elefanti-raccolta-di-luglio"/>
-        <updated>2023-08-22T12:06:33.000Z</updated>
-        <summary type="html"><![CDATA[È giunta a noi la raccolta di tutti i sette contributi del tema di luglio, Gli Elefanti , che nella calura estiva ci vengono a trovare con interessantissimi post. Se volete vederli tutti, cliccate su...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
