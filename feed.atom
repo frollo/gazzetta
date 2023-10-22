@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-10-22T18:09:21.855Z</updated>
+    <updated>2023-10-22T20:07:45.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -519,27 +519,6 @@ Viviamo sulle spalle dei giganti? forse..........
 @threeballs]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosa amo dell'"OSR"]]></title>
-        <id>https://scrtgm.blogspot.com/2023/08/cosa-amo-dellosr.html</id>
-        <link href="https://scrtgm.blogspot.com/2023/08/cosa-amo-dellosr.html"/>
-        <updated>2023-08-24T06:54:00.003Z</updated>
-        <summary type="html"><![CDATA[I seguenti principi, che io associo all'OSR, sono quelli che rendono il gioco divertente per me:
-
-- Player agency: non c'è una storia prestabilita, solo un mondo da esplorare, nell'ordine e nel modo che preferisci. Le tue azioni hanno conseguenze sul mondo.
-
-
-- The answer is not on your character sheet: non sentirti limitato dalle abilità speciali del tuo personaggio, sfrutta tutte le tue risorse al massimo, compreso il tuo equipaggiamento, l'ambiente, i desideri e i punti deboli dei PNG
-
-
-- Combat as war not combat as sport: se scoppia un combattimento, questo non è stato bilanciato in modo da renderlo uno scontro equo, una delle 2 forze potrebbe essere di gran lunga superiore in potenza. Scappare è un'opzione da tenere sempre in considerazione. E' comunque possibile rendere inoffensivo un avversario più forte usando l'ingegno
-
-
-- Rulings over rules. Non esiste una regola per tutto, il che permette una grande libertà rispetto alle azioni che possono essere intraprese. In queste situazioni, l'arbitro farà un ruling basato sulle circostanze]]></summary>
-        <author>
-            <name>The Secret Game - Il Gioco Segreto</name>
         </author>
     </entry>
 </feed>
