@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-10-25T00:37:12.275Z</updated>
+    <updated>2023-10-25T02:15:54.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -490,35 +490,6 @@ Il vero GDR FAERIEPUNK e anche un po' SUBURBAN FANTASY
 🧞‍♂ Tira 1d6: è il tuo GLAMOUR (PV max x2 e usi dei POTERI FATATI che puoi sfruttare a sessione). Sottrailo ai tiri quando cerchi di fare cose BANALI (roba noiosa che è il contrario della creatività, tipo com…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torniamo a scuola con la scatola rossa.]]></title>
-        <id>https://autarkikagdr.blogspot.com/2023/08/torniamo-scuola-con-la-scatola-rossa.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2023/08/torniamo-scuola-con-la-scatola-rossa.html"/>
-        <updated>2023-08-26T13:22:00.004Z</updated>
-        <summary type="html"><![CDATA[Buongiorno a tutti,
-
-prossimamente porterò al tavolo l'avventura contenuta nella famosa scatola rossa di dnd, intitolata "Haunted Keep".
-Premetto che non l'avevo mai letta ne giocata, ma un amico mi ha consigliato di utilizzarla per l'evento in programma.
-Appena ho iniziato a leggerla sono rimasto colpito dalla stesura del testo pensato per spiegare in modo chiaro e semplice come creare il vostro primo dungeon.
-L'avventura si svolge in un maniero abbandonato costituito da due torri diroccate e da una zona sotterranea.
-Delle due torri viene fornita la descrizione di una solo di queste, mentre l'altra viene lasciata vuota col fine di fornire al Master carta bianca per provare a definirla lui stesso.
-Viene fornita una lista di operazioni da eseguire per creare il proprio Dungeon:
-1-scegliere uno scenario
-2-decidere la struttura del Dungeon
-3-scegliere i mostri
-4-disegnare la mappa
-5-determinare i tesori, mostri e trappole.
-6-inserire i dettagli finali.
-Questi punti forniscono tutte le informazioni necessarie al fine di determinare in modo semplice il proprio Dungeon.
-Considero questi punti molto interessanti, siccome molti giocatori si lamentano di non possedere una guida su come impostare un Dungeon Old School.
-Penso che molti dei loro problemi potrebbero risolversi leggendo questi vecchi manuali, dove venivano fornite alcune importanti indicazioni su come giocare e impostare le proprie partite. 
-A volte penso che dovremmo leggere i testi esistenti e applicare i consigli che venivano dati quasi cinquant'anni fà.
-Viviamo sulle spalle dei giganti? forse..........
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
