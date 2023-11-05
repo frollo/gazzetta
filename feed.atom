@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-11-05T00:40:46.293Z</updated>
+    <updated>2023-11-05T04:09:52.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -523,16 +523,6 @@ E quindi ho fatto questa tabella su cui tirare una volta che giungi in una di qu
  d30 + Carisma Occasioni di commercio nelle prat…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Settembre - I Maiali 🐖]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/585468/settembre-i-maiali-</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/585468/settembre-i-maiali-"/>
-        <updated>2023-09-06T14:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Ho poco tempo, ho da grufolare in giro, quindi sarò breve, ma il buon (a volte) Pedro Celeste ha tirato fuori una supercombo micidiale tra il tema del Vecchio Carnevale di questo mese e la sua jam pe...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
