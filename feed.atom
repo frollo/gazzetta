@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-11-13T04:10:00.785Z</updated>
+    <updated>2023-11-13T06:11:30.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -518,26 +518,6 @@ Documenti falsi
 Schiavo umano (1. camionista, 2. bidello, 3. muratore, 4. contadino, 5. vagabondo, 6. acca…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I primi avventurieri del dungeon: Fafhrd e il Gray Mouser!]]></title>
-        <id>https://castellochimerico.blogspot.com/2023/09/i-primi-avventurieri-del-dungeon-fafhrd.html</id>
-        <link href="https://castellochimerico.blogspot.com/2023/09/i-primi-avventurieri-del-dungeon-fafhrd.html"/>
-        <updated>2023-09-14T16:54:00.006Z</updated>
-        <summary type="html"><![CDATA[Le figure letterarie che hanno ispirato il primo gioco di ruolo sono state molte, ma i contributi più importanti nella definizione dei personaggi e delle avventure di D&D sono probabilmente tre:
-
-1 Conan il Cimmero di R.E. Howard,
-
-2) I componenti della Compagnia dell’Anello presentata in Il Signore degli Anelli di J.R.R. Tolkien (anche se in seguito Arneson e Gygax dichiararono che non fu un'ispirazione primaria e che il libro non era tra i loro preferiti),
-
-3) Cugel l’astuto, il malfattore del ciclo della Terra Morente di Jack Vance e (forse soprattutto)
-
-4) Fafhrd e Gray Mouser di Fritz Lieber
-
-Gli ultimi due sono i protagonisti di una lunga serie di racconti e romanzi del grande scrittore americano Fritz Leiber (scritti dal 1936 fino ai tardi anni ’80), anche se l’idea originale dei du…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
