@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-11-17T02:22:24.554Z</updated>
+    <updated>2023-11-17T04:10:16.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -419,42 +419,6 @@ Tempo fa Cherise Island era una base di sperimentazione umana, dove venivano ese
 Aree di Cher…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Checklist dell'Incontro!]]></title>
-        <id>https://dismastersden.blogspot.com/2023/09/la-checklist-dellincontro.html</id>
-        <link href="https://dismastersden.blogspot.com/2023/09/la-checklist-dellincontro.html"/>
-        <updated>2023-09-18T14:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Altra checklist, altra traduzione! Stavolta dell'ottimo post
-Encounter Checklist
-dell'ottimo blog Prismatic Wasteland, che stila un elenco di cose che non
-possono mancare in un incontro casuale (in realtà lo stesso W.F. Smith dice
-che alcune possono mancare, ma che se ci sono è meglio).
-
-
-Spero vi sia utile!
-
-
-
-
-
-La Checklist dell'Incontro!
-
-checklist del dungeon*).
-
-
-
-Come Usare Questa Checklist
-
-Al contrario della checklist del dungeon di Arnold, gli incontri migliori
-    non saranno dovuti all'aver risposto a ogni singola domanda di questa
-    lista. Però un incontro che non risponde a nessuna di esse, probabilmente al
-  tavolo sarà molto piatto. Gli incontri peggiori sono le scenette lette o
-  recitate ad alta voce dall'arbitro, dove i giocatori dicono "mh, ok" o "uh,
-  strano" e tiran…]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
