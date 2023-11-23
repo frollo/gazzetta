@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-11-23T10:08:54.993Z</updated>
+    <updated>2023-11-23T12:15:04.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -451,17 +451,6 @@ L’indagine porterà i personaggi a castello Warsle, ma mandante e movente poss
         <summary type="html"><![CDATA[Questo blog chiude i battenti. Gli articoli rilevanti (non tutti) sono stati migrati su Geek Wanderings.]]></summary>
         <author>
             <name>Syrinx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A volte ritornano: il Vecchio Carnevale Blogghereccio]]></title>
-        <id>https://oicn.icu/2023/A-volte-ritornano-il-Vecchio-Carnevale-Blogghereccio/</id>
-        <link href="https://oicn.icu/2023/A-volte-ritornano-il-Vecchio-Carnevale-Blogghereccio/"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Dopo una lunga, lunghissima pausa, torno ad ospitare il <a href="/2021/Vecchio-Carnevale-Blogghereccio/" title="Vecchio Carnevale Blogghereccio">Vecchio Carnevale Blogghereccio</a>, che ha attraversato tutto il 2021 senza di me, diventando sempre, sempre meglio.</p>
-<p>Se siete fermi al Carnevale <a href="/2021/Vecchio-Carnevale-Blogghereccio/" title="come lo raccontavo qui">come lo raccontavo qui</a>, vi do un rapido aggiornamento: il Carnevale ha preso vita propria ed è diventato un bellissimo sforzo collettivo con il buon <a href="https://linktr.ee/dismasterfrane">Dismaster FraNe</a> a tenere le fila dello <a href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio">spazio itch</a> che ne fa da casa ufficiale. Un giorno farò un post in cui parlerò del mio rapporto col Carneval…]]></summary>
-        <author>
-            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
 </feed>
