@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-02T18:09:32.758Z</updated>
+    <updated>2023-12-02T20:08:15.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -543,23 +543,6 @@ Spero la regola vi piaccia tanto come piace a me, e credo che nelle mie sessioni
 Grazie, Gianluca!]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://syrinx.zeruhur.space/2023/10/04/2021-04-16-omicidio-festival-clovenwich/</id>
-        <link href="https://syrinx.zeruhur.space/2023/10/04/2021-04-16-omicidio-festival-clovenwich/"/>
-        <updated>2023-10-04T07:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Ed eccoci al terzo mese del Vecchio Carnevale Blogghereccio, il tema di questo mese è festività, ospitato da Barakielthearchangel.
-
-Ammetto che ho usato il tema più come aggancio e scusa per testare qualcosa che volevo fare da un po’: un point crawl. E rispolverando un mio vecchio amore: i gialli. Spero che l’esperimento di un’avventura investigativa in ottica OSR vi piaccia e vi stimoli.
-Omicidio al festival di Clovenwich
-CC BY-SA-4.0 2021 di Roberto Bisceglie
-Questa avventura investigativa è un point crawl ad ambientazione urbana che si basa sui concetti di “mistero a 5 nodi” e “regola dei tre indizi” di Justin Alexander.
-È pensata come interludio di una campagna di lungo corso o per una sessione one-shot.
-L’indagine porterà i personaggi a castello Warsle, ma mandante e movente possono e…]]></summary>
-        <author>
-            <name>Syrinx</name>
         </author>
     </entry>
 </feed>
