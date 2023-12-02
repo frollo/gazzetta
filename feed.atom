@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-02T10:07:54.586Z</updated>
+    <updated>2023-12-02T12:13:37.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -494,16 +494,6 @@ CC BY-SA-4.0 2021 di Roberto Bisceglie
 Questa avventura investigativa è un point crawl ad ambientazione urbana che si basa sui concetti di “mistero a 5 nodi” e “regola dei tre indizi” di Justin Alexander.
 È pensata come interludio di una campagna di lungo corso o per una sessione one-shot.
 L’indagine porterà i personaggi a castello Warsle, ma mandante e movente possono e…]]></summary>
-        <author>
-            <name>Syrinx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Questo blog è chiuso]]></title>
-        <id>https://syrinx.zeruhur.space/2023/10/04/migrato/</id>
-        <link href="https://syrinx.zeruhur.space/2023/10/04/migrato/"/>
-        <updated>2023-10-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Questo blog chiude i battenti. Gli articoli rilevanti (non tutti) sono stati migrati su Geek Wanderings.]]></summary>
         <author>
             <name>Syrinx</name>
         </author>
