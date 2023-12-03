@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-03T12:14:11.410Z</updated>
+    <updated>2023-12-03T14:06:50.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Maiali - Raccolta di Settembre]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/644881/i-maiali-raccolta-di-settembre</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/644881/i-maiali-raccolta-di-settembre"/>
+        <updated>2023-12-03T14:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Il Vecchio Carnevale Blogghereccio continua ad evocare irresponsabilmente nuove bizzarrie. Giunge la raccolta del tema di Settembre, ovvero I MAIALI E mentre andate alla ricerca di creature dalla coda...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bastardi a Dolmenwood, Sessione V]]></title>
         <id>https://arcipelagoceleste.blogspot.com/2023/12/bastardi-dolmenwood-sessione-v.html</id>
