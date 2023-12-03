@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-03T16:09:24.494Z</updated>
+    <updated>2023-12-03T18:09:40.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bastardi a Dolmenwood - Indice delle sessioni]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2023/12/bastardi-dolmenwood-indice-delle.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2023/12/bastardi-dolmenwood-indice-delle.html"/>
+        <updated>2023-12-03T16:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Regolamento: Bastards di Micah Anderson + Classi estratte da Rinascimento 2e
+Setting: Dolmenwood di Gavin Norman (Patreon & Wormskin Zine #1-8)
+Risorse e Procedure aggiuntive: Downtime in Zyan, Wonder & Wickedness
+
+Indice Sessioni
+o - Creazione dei personaggi
+I - The Black Wyrm of Brandonsford, i
+II - The Black Wyrm of Brandonsford, ii
+III - The Black Wyrm of Brandonsford, iii
+IV - The Black Wyrm of Brandonsford, iv
+V - The Black Wyrm of Brandonsford, v
+
+
+
+Pg ancora in vita:
+
+RAMA NARAJAN - Venturiero di 2° livello
+Classe iniziale: Guerriero Onirico / Fallimento professionale: Marinaio. 
+Originario dell’India, possiede la capacità sovrannaturale di entrare nei sogni dei nemici. 
+
+
+
+UGANILDA DE SILVESTRIS - Balia di 2° livello
+Classe iniziale: Facchino / Fallimento professionale: Contasemi.…]]></summary>
+        <author>
+            <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Maiali - Raccolta di Settembre]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/644881/i-maiali-raccolta-di-settembre</id>
