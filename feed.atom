@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-05T10:09:58.205Z</updated>
+    <updated>2023-12-05T12:15:51.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bastardi a Dolmenwood, Sessione VII]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2023/12/bastardi-dolmenwood-sessione-vii.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2023/12/bastardi-dolmenwood-sessione-vii.html"/>
+        <updated>2023-12-05T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Black Wyrm of Brandonsford, VII
+6 e 7 di Harchment - Quinto mese dell’anno 1532 - Alta primavera
+Pg presenti: Nigel, Pavar, Rama, Grouch
+ 
+
+Indice delle Sessioni 
+
+
+Eggfast, 6 di Harchment - Quinto mese dell’anno 1532 - Alta primavera
+
+Il mattino è freddo e umido a Brandonsford. I popolani sono preoccupati per gli avvistamenti del drago nei pressi del villaggio. I bastardi si chiedono se il lassativo disciolto nella pozza d'acqua dei goblin la sera prima abbia avuto gli effetti sperati. Decidono di partire alla volta del tempio per scoprirlo.
+Lungo la strada, nei pressi del fiume, incontrano un leprechaun di nome Ruscello che è rimasto impigliato nella lenza mentre tentava di pescare un grosso salmone. I bastardi lo liberano e lui li ringrazia con una grossa gemma verde. Il gruppo deci…]]></summary>
+        <author>
+            <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Montelupo]]></title>
         <id>https://perticadatremetri.blogspot.com/2023/12/montelupo.html</id>
