@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-05T14:08:27.295Z</updated>
+    <updated>2023-12-05T16:11:21.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mothership S00 - Abbiamo un Problema]]></title>
+        <id>https://dismastersden.blogspot.com/2023/12/mothership-s00-abbiamo-un-problema.html</id>
+        <link href="https://dismastersden.blogspot.com/2023/12/mothership-s00-abbiamo-un-problema.html"/>
+        <updated>2023-12-05T15:35:00.004Z</updated>
+        <summary type="html"><![CDATA[Mi è stato chiesto dal gruppo storico di quando ho iniziato a giocare online quando ero in trasferta in Israele, ormai nel lontano 2015, di fare una "reunion" e giocare una bella campagna di Mothership.
+Ma da dove iniziare (soprattutto se non hai avuto tempo di preparare nulla) se non dall'avventura The Haunting of Ypsilon 14?
+E visto che il buon Alessio è così pio da scrivere in tempo reale i resoconti di quanto succede in sessione, ho deciso di pubblicarli quasi così come sono scritti. Quasi zero editing, correzioni minime ove necessario su cose poco chiare, zero commenti. Insomma, quasi zero sbatta. Altrimenti non avrei il tempo di fare anche questa cosa qui. Spero comunque sia apprezzato.
+E quindi grazie Alessio, e grazie a tutti gli altri voi che vi siete riuniti per questa campagna. …]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bastardi a Dolmenwood, Sessione VII]]></title>
         <id>https://arcipelagoceleste.blogspot.com/2023/12/bastardi-dolmenwood-sessione-vii.html</id>
@@ -176,6 +189,17 @@ Il Drago è il Maiale Fantasy [Nerdcoledì]: un articolo in cui paragona i dragh
 A presto, e ricordate che a dicembre il tema del Carnevale è il WEIRD!]]></summary>
         <author>
             <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: Vecchio Carnevale Bloggereggio, Dicembre 2023. IL WEIRD!]]></title>
+        <id>https://archangelruling.blogfree.net/?t=6472915</id>
+        <link href="https://archangelruling.blogfree.net/?t=6472915"/>
+        <updated>2023-12-01T21:58:17.000Z</updated>
+        <summary type="html"><![CDATA[Il Ritorno in grande stile del carnevale pi� bello di sempre
+di: Roberto Bisceglie]]></summary>
+        <author>
+            <name>Roberto Bisceglie</name>
         </author>
     </entry>
     <entry>
