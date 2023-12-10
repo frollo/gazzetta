@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-10T20:08:23.152Z</updated>
+    <updated>2023-12-10T22:07:27.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -615,46 +615,6 @@ GIOCATORI: CREATE LE GUARDIE
 …]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aggiornamenti dal Calderone: 2 anni dopo]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2023/10/aggiornamenti-dal-calderone-2-anni-dopo.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2023/10/aggiornamenti-dal-calderone-2-anni-dopo.html"/>
-        <updated>2023-10-12T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Tiro le somme, faccio il punto, raccolgo idee. Anche perchè mi sono ricordato che il blog ha compiuto 2 anni all'inizio di Ottobre! Ne è entrata di roba dentro il calderone dal 2021, per non parlare di ciò che ne è uscito... 
-
-
-
-
-
-Il Vecchio Carnevale Blogghereccio. Punto fisso del blog, un'iniziativa alla quale partecipo sempre molto volentieri. 
-
-Sto preparando il mio contributo per Ottobre, a tema LE GUARDIE: per ora l'idea è di scrivere un hack di Lasers & Feelings a tema, dal titolo "Chiacchiere & Distintivo". Tra l'altro ho appena finito di leggere "A me le Guardie!" di Terry Pratchett, quindi mi sento ispirato. E consiglio la lettura, mi sono ribaltato dal ridere per tutto il tempo.
-
-Le Rubriche. Al momento ci sono due rubriche attive (che io sappia, chissà quali ingredienti sono na…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ottobre - Le Guardie]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/619640/ottobre-le-guardie</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/619640/ottobre-le-guardie"/>
-        <updated>2023-10-12T08:36:52.000Z</updated>
-        <summary type="html"><![CDATA[In ritardissimo (ma ho assoldato un collaboratore per rimediare a questo le prossime volte) vi presento un tema davvero interessante per questo caldissimo ottobre, non solo per colpa del clima paxxere...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le Reti - Raccolta di Dicembre (è arrivata!)]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/619639/le-reti-raccolta-di-dicembre-arrivata</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/619639/le-reti-raccolta-di-dicembre-arrivata"/>
-        <updated>2023-10-12T08:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Finalmente grazie al buon Gregorio de Il Calderone del Troll abbiamo la così agognata raccolta de Le Reti , tema di dicembre 2022 che aveva ricevuto un sacco di contributi ma che non erano mai stati...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
