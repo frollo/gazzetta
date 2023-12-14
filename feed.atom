@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-14T20:09:13.388Z</updated>
+    <updated>2023-12-14T22:08:00.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -557,25 +557,6 @@ Usare questa regola è da adesso obbligatorio per ogni gioco a livelli. Se non t
         <summary type="html"><![CDATA[Come accennato nel riepilogo del secondo compleanno, la rubrica Rime di Esperia è al momento interrotta e alla fine ho deciso di sostituirla con .DUNGEON, una serie dedicata all'omonimo gioco di snow, stesso autore di Pokémon Dungeon Crawler. Bando alle ciance, voglio parlarvi di...
 .dungeon
 In .dungeon i personaggi sono gli avatar/giocatori di un MMORPG che vivono avventure in un mondo virtuale fantasy. Per chi non lo sapesse MMORPG sta per Massively Multiplayer Online Role-Playing Game: un videogioco di ruolo online in cui si gestisce un avatar e si portano a compimento quest attraverso tutta la mappa. Esempi famosi di questo genero sono World of Warcraft, Guild Wars, The Elder Scrolls Online o l'ambientazione di Ready Player One. In .dungeon la creazione del personaggio diventa quindi l…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avventure nel Ducato (Rinascimento 2e): Sessioni #1 e #2]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2023/10/avventure-nel-ducato-rinascimento-2e.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2023/10/avventure-nel-ducato-rinascimento-2e.html"/>
-        <updated>2023-10-16T09:06:00.001Z</updated>
-        <summary type="html"><![CDATA[In queste settimane sto giocando dal vivo una piccola campagna a Rinascimento 2e, gioco di ruolo OSR di Arcipelago Celeste. Rinascimento non ha un'ambientazione esplicita, ma le atmosfere e gli elementi del gioco rimandano ad un'Italia fantasy rinascimentale (nel mio caso mescolo impunemente Medioevo e Rinascimento). Di seguito un resoconto delle prime due sessioni, forse la roba più divertente che abbia mai giocato.
-L'Ambientazione
-La campagna è ambientata in un Piemonte di finzione con molti rimandi storici, dove sorge il Ducato di Torrino. La mappe e i suoi luoghi di interesse sono nati poco a poco, nel mezzo della mia partecipazione alla jam Maiali & Morte. Sono finalmente riuscito a portare tutto al tavolo!
-Di seguito la mappa del ducato, che potete scaricare qui.
-
-
-La Compagnia
-
-
-Abb…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
         </author>
