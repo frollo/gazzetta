@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-18T10:09:54.575Z</updated>
+    <updated>2023-12-18T12:15:45.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monster treasure for Cairn! A-C]]></title>
+        <id>https://scrtgm.blogspot.com/2023/12/monster-treasure-for-cairn.html</id>
+        <link href="https://scrtgm.blogspot.com/2023/12/monster-treasure-for-cairn.html"/>
+        <updated>2023-12-18T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a 1in6 chance for each individual in an encountered group to carry a piece of treasure.
+Unless indicated otherwise, each piece of treasure occupies one slot and is worth 100gp. Relics are invaluable.
+Roll before the encounter happens, cause some of the treasure may be useful to the NPCs.
+
+
+Acolyte (d6): 
+1-2. A pearl rosary 
+3-4. A reliquary with the finger, tooth, or nail of a saint (bulky, 100 gp)
+4-6. Relic: holy rod (d6, 2 hands needed to strike, can smite an undead once for d12 damage. This damage can't be regenerated. Recharge: foot pilgrimage to a certain temple and pray)
+
+
+Bandit: 
+Individual (d6): 
+1-2. A broken coral necklace (small, 100 gp)
+3-4. A little statue carved out of bone, depicting the deity patron of thieves and brigands (small, 10 gp) 
+5-6. Three smoke bombs (…]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paura e saldi in Via Montenapovermone!]]></title>
         <id>https://castellochimerico.blogspot.com/2023/12/paura-e-saldi-in-via-montenapovermone.html</id>
