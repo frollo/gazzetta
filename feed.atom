@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-24T08:09:54.754Z</updated>
+    <updated>2023-12-24T10:08:14.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Buon Natale 2023!!]]></title>
+        <id>https://hellwinter.blogspot.com/2023/12/buon-natale-2023.html</id>
+        <link href="https://hellwinter.blogspot.com/2023/12/buon-natale-2023.html"/>
+        <updated>2023-12-24T09:30:00.029Z</updated>
+        <summary type="html"><![CDATA[Forse l'avrete capito: il Natale è il mio periodo preferito dell'anno! E mi fa davvero piacere festeggiarlo degnamente con voi, Avventuriere e Avventurieri, con il classico regalo di Natale di Hellwinter.
+Quest'anno ho preparato per voi la versione 2.0 del Broken Moon System, il motore per GDR in Creative Commons che ho sviluppato per la mia ambientazione twilight fantasy di Hellwinter, e che può essere utilizzato per qualsiasi altro setting da voi preferito. Il Broken Moon System è veloce da apprendere, facilissimo da usare, e pensato per privilegiare l'interpretazione e la narrazione condivisa.
+
+Non vi voglio annoiare oltre. Buon Gioco di Ruolo, buon divertimento, e soprattutto BUON NATALE!!]]></summary>
+        <author>
+            <name>I CANCELLI DI HELLWINTER</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weird Cabinet: cianfrusaglie per giochi di ruolo]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/12/weird-cabinet-cianfrusaglie-per-giochi.html</id>

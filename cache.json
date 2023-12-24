@@ -235,7 +235,18 @@
       "title": "I CANCELLI DI HELLWINTER",
       "feedUrl": "https://hellwinter.blogspot.com/feeds/posts/default",
       "siteUrl": "https://hellwinter.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://hellwinter.blogspot.com/2023/12/buon-natale-2023.html",
+          "author": null,
+          "description": "Forse l'avrete capito: il Natale è il mio periodo preferito dell'anno! E mi fa davvero piacere festeggiarlo degnamente con voi, Avventuriere e Avventurieri, con il classico regalo di Natale di Hellwinter.\nQuest'anno ho preparato per voi la versione 2.0 del Broken Moon System, il motore per GDR in Creative Commons che ho sviluppato per la mia ambientazione twilight fantasy di Hellwinter, e che può essere utilizzato per qualsiasi altro setting da voi preferito. Il Broken Moon System è veloce da apprendere, facilissimo da usare, e pensato per privilegiare l'interpretazione e la narrazione condivisa.\n\nNon vi voglio annoiare oltre. Buon Gioco di Ruolo, buon divertimento, e soprattutto BUON NATALE!!",
+          "link": "https://hellwinter.blogspot.com/2023/12/buon-natale-2023.html",
+          "publishedOn": "2023-12-24T09:30:00.029Z",
+          "wordCount": 3044,
+          "title": "Buon Natale 2023!!",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0iy3VIcpbH_pGkTFU3XmJr3olhDhVB6MHc6r2s0SMmb559wGSjxlwPWqMj1EFAkSek5h65mFmMZCM4_VLMgkyYHDQmabjoO8tOfQ6rTt_BF8n2_qjVxNOhbsWd1C7tWswb5tYzobqBQK7mwAdZ3tj_afi_toebaMZMaw-WtKnqc-kxKQRk5OrFyUOZHiV/w1200-h630-p-k-no-nu/BMS20.png"
+        }
+      ]
     },
     {
       "title": "Say Friends and Play",
