@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-25T20:08:47.774Z</updated>
+    <updated>2023-12-25T22:07:46.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -688,20 +688,6 @@ d20
 12. Mace, hefty. On a roll o…]]></summary>
         <author>
             <name>The Secret Game - Il Gioco Segreto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BASTA]]></title>
-        <id>https://gnollmassacrofamiglia.blogspot.com/2023/10/basta.html</id>
-        <link href="https://gnollmassacrofamiglia.blogspot.com/2023/10/basta.html"/>
-        <updated>2023-10-27T09:40:00.001Z</updated>
-        <summary type="html"><![CDATA[Ora basta con sta storia che tutti possono riuscire e ottenere quello che vogliono se ci credono veramente e si impegnano. Non è vero, è finto, è tossico, fa schifo, è menzognero, fandonia. Ecco perchè ho scritto la regola definitiva per giocare a Dungeons&Dragons in modo rispettoso di tutto ciò che è buono e reale. 
-A fine creazione del personaggio tira 1d6. Il risultato è il livello massimo raggiungibile da quel personaggio. 
-Se esce 1 ritira il dado e, se esce nuovamente 1, il personaggio muore a fine creazione.
-Se esce 6 ritira il dado e, se esce nuovamente 6, può tirare 1d4 e aggiungere il risultato al livello massimo raggiungibile.
-Usare questa regola è da adesso obbligatorio per ogni gioco a livelli. Se non ti piace è giusto, deve non piacere, ma è così.]]></summary>
-        <author>
-            <name>Gli gnoll hanno massacrato la mia famiglia</name>
         </author>
     </entry>
 </feed>
