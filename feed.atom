@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-26T04:10:36.728Z</updated>
+    <updated>2023-12-26T06:11:17.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monster treasure for Cairn! H-M]]></title>
+        <id>https://scrtgm.blogspot.com/2023/12/monster-treasure-for-cairn-h-m.html</id>
+        <link href="https://scrtgm.blogspot.com/2023/12/monster-treasure-for-cairn-h-m.html"/>
+        <updated>2023-12-26T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a 1in6 chance for each individual in an encountered group to carry a piece of treasure.
+Unless indicated otherwise, each piece of treasure occupies one slot. Relics and other powerful items are invaluable.
+
+Roll before the encounter happens, cause some of the treasure may be useful to the NPCs. 
+
+
+Halfling:
+Individual:
+Relic: Animated Rope, answers simple commands from its owner. An old halfling woman who makes them, Lina Heartweaver, lives on the outskirts of the halfling’s village. The process requires a few hairs from the one who wants to own the rope.
+
+
+Village:
+
+
+Tailor’s house: Silk fabric (1 slot, 100 gp)
+Doctor’s house: set of alchemical tools. Kettles, vials, a tank, etc. (bulky, 50 gp), as well as the necessary materials and recipe to create a salve that accelerates tissu…]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Buon Natale 2023!!]]></title>
         <id>https://hellwinter.blogspot.com/2023/12/buon-natale-2023.html</id>
