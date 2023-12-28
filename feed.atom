@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-28T18:10:16.786Z</updated>
+    <updated>2023-12-28T20:08:14.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gennaio - Metropoli]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/657146/gennaio-metropoli</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/657146/gennaio-metropoli"/>
+        <updated>2023-12-28T19:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Siamo prossimi al 2024 e il Vecchio Carnevale Blogghereccio giunge al suo quarto anno! Il 2023 è stato fantastico, con tantissimi bei temi e contributi. Con l'anno nuovo siamo pronti a replicare, mag...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: METROPOLI]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2023/12/vecchio-carnevale-blogghereccio.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2023/12/vecchio-carnevale-blogghereccio.html"/>
+        <updated>2023-12-28T19:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Metropolis di Tezuka Productions
+
+Dopo quasi un anno ho nuovamente il piacere di ospitare il Vecchio Carnevale Blogghereccio, che giunge alla sua quarta edizione tra l'altro! Questa volta è stato difficile decidere il tema, ne avevo 3-4 che si rimestavano nella mia mente, ma alla fine sono riuscito a decidermi. Il tema di Gennaio sarà...
+METROPOLI
+
+Tentacolari, rumorose, polimorfe. Piene di gente. Piene di solitudine. Grigie. Variopinte. Di corsa. Congelate. Le grandi città mi provocano al tempo stesso fascino e repulsione. Non ho mai vissuto in una metropoli e, anche se la curiosità c'è, temo che non potrei viverci a lungo. Per coltivare l'illusione quale modo migliore di costruirci intorno, come le impalcature di un grattacielo, una patina di fantastico e romanticismo? 
+Esplorare le terr…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tipografo in Disgrazia // un background per Troika!]]></title>
         <id>https://dismastersden.blogspot.com/2023/12/tipografo-in-disgrazia.html</id>
