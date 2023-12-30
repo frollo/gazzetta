@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-30T12:13:46.463Z</updated>
+    <updated>2023-12-30T14:07:25.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dolmenwood travel calculator]]></title>
+        <id>https://soronarchives.blogspot.com/2023/12/dolmenwood-travel-calculator.html</id>
+        <link href="https://soronarchives.blogspot.com/2023/12/dolmenwood-travel-calculator.html"/>
+        <updated>2023-12-30T12:14:00.002Z</updated>
+        <summary type="html"><![CDATA[This is an automatic travel calculator for Dolmenwood by Gavin Norman (Necrotic Gnome & Exalted Funeral) - https://necroticgnome.com/pages/about-dolmenwood
+To use the calculator, enter the required information in the blue spaces.
+This tool does not (yet) take into account random encounter chances.
+Please send me feedback, especially if you find a bug - I expect that there are still many - to allow me to correct them, please send me a screenshot with all the parameters you inserted.]]></summary>
+        <author>
+            <name>Soron Archives</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monster treasure for Cairn! N-P]]></title>
         <id>https://scrtgm.blogspot.com/2023/12/monster-treasure-for-cairn-n-p.html</id>
