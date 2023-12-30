@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-30T06:10:19.595Z</updated>
+    <updated>2023-12-30T08:10:01.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monster treasure for Cairn! N-P]]></title>
+        <id>https://scrtgm.blogspot.com/2023/12/monster-treasure-for-cairn-n-p.html</id>
+        <link href="https://scrtgm.blogspot.com/2023/12/monster-treasure-for-cairn-n-p.html"/>
+        <updated>2023-12-30T07:05:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a 1in6 chance for each individual in an encountered group to carry a piece of treasure.
+
+
+Unless indicated otherwise, each piece of treasure occupies one slot. Relics and other powerful items are invaluable.
+
+
+Roll before the encounter happens, cause some of the treasure may be useful to the NPCs. 
+
+
+
+Neanderthal (d10)
+1-2. Bracelet of eagle talons (50 gp)
+3-4. Cape made with feathers of some turkey-like bird considered extinct (2k gp)
+5-6. Relic: Dreamcatcher. 50% chance every night that it catches a wandering spell. You can tell when it caught one but you won’t know which one until you cast it (roll d100 on the spellbook table the moment it’s cast). It can only hold one spell at a time.
+7-8. Wooden bowl containing pigment for cave painting (3gp)
+9-10. Large piece of amber (small,…]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gennaio - Metropoli]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/657146/gennaio-metropoli</id>
