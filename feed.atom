@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2023-12-31T10:08:20.362Z</updated>
+    <updated>2023-12-31T12:13:53.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -795,21 +795,6 @@ d20
         <summary type="html"><![CDATA[Arriva Novembre e il freddo si fa sempre più siderale, perciò il Vecchio Carnevale Blogghereccio questo mese parte per lo spazio. Imbarcatevi anche voi in questa odissea, cercate di raggiungere gli...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A volte ritornano: recap del Vecchio Carnevale Blogghereccio]]></title>
-        <id>https://oicn.icu/2023/A-volte-ritornano-recap-del-Vecchio-Carnevale-Blogghereccio/</id>
-        <link href="https://oicn.icu/2023/A-volte-ritornano-recap-del-Vecchio-Carnevale-Blogghereccio/"/>
-        <updated>2023-11-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Ed eccoci alla fine di un altro mese e, di conseguenza, di un altro <a href="/2023/A-volte-ritornano-il-Vecchio-Carnevale-Blogghereccio/" title="carnevale">carnevale</a>. Mentre ci prepariamo a pubblicare per il <a href="https://ilblogbellicoso.altervista.org/vecchio-carnevale-blogghereccio-novembre-2023/">nuovo carnevale</a>, guardiamo un po’ cosa è arrivato ad ottobre.</p>
-<p>Questo mese hanno partecipato in 7, con contenuti che vanno da interessanti considerazioni sui massimi sistemi a roba che potete schiantare nelle vostre avventure prima e leggerla dopo. Ergo, diamoci dentro!</p>
-<p><img src="/2023/A-volte-ritornano-recap-del-Vecchio-Carnevale-Blogghereccio/carnevale_blogghereccio.jpg" alt=""></p>
-<span id="more"></span>
-
-<h3 id="Raffinate-analisi-sui-mondi-di-gioco"><a href="#Raf…]]></summary>
-        <author>
-            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
 </feed>
