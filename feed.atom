@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-01T08:11:19.787Z</updated>
+    <updated>2024-01-01T10:09:12.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -753,39 +753,6 @@ I Pret sono una specie di non-morti simile a cadaveri disseccati e quasi …]]><
 <h2 i…]]></summary>
         <author>
             <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Pianeti di Cairnjammer]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2023/11/i-pianeti-di-cairnjammer.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2023/11/i-pianeti-di-cairnjammer.html"/>
-        <updated>2023-11-02T21:09:00.001Z</updated>
-        <summary type="html"><![CDATA[Ecco il mio contributo per il Vecchio Carnevale Blogghereccio di Novembre a tema...I PIANETI! Ospitato da Il Blog Bellicoso. Se non sapete cosa sia il Vecchio Carnevale Blogghereccio potete trovare qui il bando.
-Ho deciso di dedicare al tema un po' di materiale per Cairnjammer, un hack di Cairn che sto scrivendo per poter giocare in un'ambientazione simile a Spelljammer, classico setting di Dungeons & Dragons. 
-
-
-Generatore di Pianeti
-
-Tira 1d4 per generare la quantità di lune
-Tira 1d20 per la Tipologia (puoi fare la stessa cosa per ciascuna luna)
-Tira 2d20 (o più) per le Caratteristiche (puoi fare la stessa cosa per ciascuna luna)
-
-
-Prima stabilisci la Tipologia del pianeta
-d20
-        Tipologia
-        d20
-        Tipologia
-      
-1
-        Ghiacciato
-        11
-        Oscuro
-      
-2
- …]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
