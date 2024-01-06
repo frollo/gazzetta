@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-06T10:08:09.667Z</updated>
+    <updated>2024-01-06T12:14:00.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Dala-Zala 6 - La giungla di Bandwar]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-6-la-giungla-di.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-6-la-giungla-di.html"/>
+        <updated>2024-01-06T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[La giungla di Bandwar si estende oltre al lago di Khara fino ai piedi delle montagne. Tra gli alberi si aggirano cervi, rinoceronti, leopardi e tigri, mentre nei fiumi che la attraversano nuotano parecchie specie di pesci (anche carnivori) e coccodrilli. tratta di un luogo quasi disabitato, se si escludono alcuni villaggi di Rospoidi e poche abitazioni di potenti streghe e stregoni solitari. L'unico insediamento umano degno di nota è Drepani, al limitare della foresta, dove iniziano le colline. Questo villaggio è abitato quasi esclusivamente da fattucchiere e stregoni, spesso piuttosto amichevoli,  disposti a pagare bene per le erbe officinali che crescono nel folto del bosco. Molte di queste piante però sono sacre per il popolo dei Rospoidi, che le difende ferocemente con i dardi avvelenati e i bastoni che maneggiano abilmente. A volte questi esseri sono disposti a insegnare i segreti della scherma di bastone agli altri umanoidi, ma chiedono sempre dei favori in pagamento. 
+
+
+Ultimamente alcuni animali ben conosciuti dagli abitanti della foresta sono spariti nel nulla. C'entreranno qualcosa i misteriosi vapori che salgono da uno stagno remoto o gli avvistamenti di un misterioso essere simile a un mucchio di rifiuti vegetali semovente? Sembra che una strega di Drepani abbia anche trovato un grosso uovo azzurro deposto da un animale sconosciuto e stia raccogliendo informazioni al riguardo.]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grazie Herbie]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/01/grazie-herbie.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/01/grazie-herbie.html"/>
+        <updated>2024-01-06T10:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Apprendo con grande tristezza che Herbie Brennan, scrittore nord-Irlandese, autore di diversi librogame,  romanzi e libri su molti argomenti diversi,  è mancato.
+La mia passione per il fantastico e i giochi è iniziata grazie e lui,  con il suo librogame Il Castello di Tenebra. Avevo 9 anni...
+Ti ringrazio Herbie, grazie a te ho arricchito la mia vita.]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lore 24: Dala-Zala 5 - Gli Elefanti. Antichi della Terra]]></title>
         <id>https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-5-gli-elefanti.html</id>
