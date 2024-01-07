@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-07T10:08:27.817Z</updated>
+    <updated>2024-01-07T12:14:05.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Dala-Zala 7 - Il Tempio delle Scimmie]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-7-il-tempio-delle.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-7-il-tempio-delle.html"/>
+        <updated>2024-01-07T11:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Oltre la giungla, il terreno si fa più accidentato e la vegetazione meno fitta. Su una delle prime colline sorge il Tempio delle Scimmie, un grande santuario dedicato a tutte le divinità benevole di Dala-Zala. 
+
+
+
+
+Il tempio è frequentato da una gran quantità di macachi, considerati di buon auspicio, che vengono protetti e nutriti dai sacerdoti, e in cambio fanno la guardia al posto, che contiene alcune reliquie preziose e una fonte la cui acqua ha poteri curativi. A volte però l'acqua non è sufficiente per curare tutte le afflizioni e si rende necessaria qualche altro componente particolare
+
+
+Attorno al tempio è sorto un piccolo villaggio ben organizzato, uno dei pochissimi luoghi in cui il popolo Doka delle persone-scimmia coabita con Umani e rari componenti di altre specie. I Doka sono famosi atleti e guerrieri, che spregiano le armature metalliche e combattono con lance, giavellotti, scudi, mazze e raramente spade o tulwar. Sono dotati di scarso orecchio musicale e tengono in gran considerazione cantanti e musicisti.
+Mukesh, il capovillaggio dei Doka, ormai anziano ma che in passato è stato un grande combattente e avventuriero, sta cercando la figlia Krupa, che è partita improvvisamente senza comunicare la sua meta.
+Combattente Doka: 6 PF, 14 DES, 1 Armatura (scudo) D6 (giavellotti) o D8 (spada). Agilissimi, saltano e corrono meglio degli esseri umani più atletici. Facilmente distratti dalla musica.
+
+
+Con oggi termino la pubblicazione giornaliera di contenuti, che inizia a diventare troppo gravosa, e inizierò a pubblicare a cadenza settimanale, il sabato o la domenica, cercando di raccogliere più contenuti nello stesso post e seguendo un tema mensile.]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lore 24: Dala-Zala 6 - La giungla di Bandwar]]></title>
         <id>https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-6-la-giungla-di.html</id>
