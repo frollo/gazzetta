@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-09T00:40:34.221Z</updated>
+    <updated>2024-01-09T02:24:14.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -952,24 +952,6 @@ Lich 3 hp, 6 STR, 6 DEX, 16 WIL
 A lich has 16 WIL, one spell slot, and one magic die per point of WIL. They can only use the highest slot available. To use the spells, they have to spend WIL points to gain the magic dice necessary (max 3). A lich's magic dice never return to the pool until they perform a ritual. They don't suffer dooms or m…]]></summary>
         <author>
             <name>The Secret Game - Il Gioco Segreto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-morti Nepalesi!]]></title>
-        <id>https://castellochimerico.blogspot.com/2023/11/non-morti-nepalesi.html</id>
-        <link href="https://castellochimerico.blogspot.com/2023/11/non-morti-nepalesi.html"/>
-        <updated>2023-11-10T13:05:00.002Z</updated>
-        <summary type="html"><![CDATA[I non-morti sono una classe di mostri che mi affascina, anche se ho sempre trovato quelli classici un po' noiosi, in quanto rappresentano in genere automi senz'anima o al limite degli evil mastermind quali lich e vampiri.
-
-Per cui, ispirandomi agli spettri della tradizione Nepalese, ho creato tre tipi di non morti con motivazioni e ruoli particolari, adatti anche a Dala-Zala, l'ambientazione OSR pseudo-Himalayana che forse un giorno vedrà la luce in una forma presentabile, o forse no.  Le stat sono per Cairn e GDR simili. 
-
-
-
-Pret: invisibile, consumato dalla fame di cadaveri e brama un tipo di oggetto in particolare.
-6 PF, 7 FOR, 13 DES, 7 VOL, unghie sporche di terra e morsi D4+D4, danno critico sfigura la vittima.
-I Pret sono una specie di non-morti simile a cadaveri disseccati e quasi …]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
