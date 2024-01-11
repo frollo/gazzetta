@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-11T14:08:18.075Z</updated>
+    <updated>2024-01-11T16:11:17.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Metropoli]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/01/vecchio-carnevale-blogghereccio.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/01/vecchio-carnevale-blogghereccio.html"/>
+        <updated>2024-01-11T15:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Con l'inizio del 2024 ritorno al Vecchio Carnevale Blogghereccio, che questo mese prevede il tema "metropoli". Le avventure urbane sono sempre state tra le mie preferite e non è un caso che le mie città fantastiche siano un po' tutte fortemente ispirate a Lankmar, (con un pizzico di Genova e Istanbul, per gradire) avendo letto le Spade di Lankhmar di Fritz Leiber a un'età molto precoce, e rimanendo affascinato dalla metropoli decadente,  pericolosa e piena di furbissimi ratti. Del resto sono in buona compagnia, in quanto sia Ed Greenwood con Waterdeep e Gary Gygax con Greyhawk City hanno sempre dichiarato di essersi ispirati a Lankhmar. 
+Così non ho potuto fare a meno di partecipare, anche grazie all'ottimo post introduttivo di Gregorio di Il Calderone del Troll, che ospita l'iniziativa e …]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lore24 - Cambio di Paradigma]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/01/lore24-cambio-di-paradigma.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/01/lore24-cambio-di-paradigma.html"/>
+        <updated>2024-01-11T14:12:00.001Z</updated>
+        <summary type="html"><![CDATA[Abbandono la Lore24? No, ma cambio l'obiettivo finale. La sfida presuppone che l'ambientazione rimanga la stessa per 365 giorni, ma per la mia Lore24 ho deciso di cambiare universo ogni mese. In teoria ciò vuol dire che arriverò a fine Dicembre con 12 ambientazioni, ciascuna descritta da circa 30 frammenti di lore. 
+
+Alcuni dei motivi dietro la scelta:
+
+Praticità: per quel che mi riguarda la Lore24 non è un mero esercizio di scrittura creativa, ma un'occasione per creare materiale di gioco. Dal momento che gioco molti titoli diversi e raramente riesco a imbastire campagne lunghe mi sembra controproducente dedicare così tante energie ad un unico universo.
+Sicurezza: di finire la sfida. Cambiare spesso ambientazione dovrebbe ridurre la noia e il rischio di finire a corto di idee. Si spera.
+P…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mothership S04 - La Heracles]]></title>
         <id>https://dismastersden.blogspot.com/2024/01/mothership-s04-la-heracles.html</id>
