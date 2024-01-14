@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-14T12:14:05.894Z</updated>
+    <updated>2024-01-14T14:07:33.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Dala-Zala - Settimana 2: Il cibo]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-settimana-2-il-cibo.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-settimana-2-il-cibo.html"/>
+        <updated>2024-01-14T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Si dice che noi Italiani siamo fissati con il mangiare, e probabilmente questo luogo comune trito e ritrito nasconde una parte di verità. Infatti la cultura del buon cibo (anche di quello sano per fortuna) sia particolarmente sviluppata dalle nostre parti è innegabile. 
+A Dala-Zala le cose sono simili, ,d'altra parte mangiare è sia una necessità fondamentale che un piacere, per cui il cibo ha una grande importanza nella cultura e nell'economia di queste terre, specie se si considera che riempirsi la pancia a dovere non è tanto semplice per tutti. 
+Per cui vediamo un contenuto per ogni giorno di questa settimana sul tema del cibo:
+1 Il Riso: il riso è la base dell'economia di Dala-Zala, oltre che della dieta. Insieme alle lenticchie bollite e speziate costruisce il Dal Bhaat, nutrimento quo…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anime Fredde: uno scenario per Mork Borg]]></title>
         <id>https://calderonedeltroll.blogspot.com/2023/12/anime-fredde-uno-scenario-per-mork-borg.html</id>
