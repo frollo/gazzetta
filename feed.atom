@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-14T08:10:31.575Z</updated>
+    <updated>2024-01-14T10:08:13.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EREMOS Lore24.2]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/01/eremos-lore242.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/01/eremos-lore242.html"/>
+        <updated>2024-01-14T09:06:00.003Z</updated>
+        <summary type="html"><![CDATA[Proseguo la Lore24.
+
+
+
+#1.8 Spettri della Capitale
+
+Dopo la Caduta degli Dei la grande Capitale Imperiale cadde in rovina. É ormai una distesa di scheletri di pietra ed esalazioni tossiche (probabilmente dovute alla catena di avarie delle fabbriche sotterranee). I pochi sciacalli così temerari da avventurarsi in questa tomba della gloria imperiale raccontano che qualcuno abita ancora là. Ergo "Vecchiamosca" è stato dilaniato da una creatura centocefala (non che abbiano contato con precisione, ma questa è la versione più diffusa) tre anni fa, mentre la spedizione di Veia Lamalgida non ha più fatto ritorno; le Sentinelle del Grande Muro sostengono di aver sentito delle urla nel settore Ovest della Capitale, due giorni dopo la loro partenza.
+
+
+#1.9 Il Mostro dei Vicoli
+Se devi avventurarti ne…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy birthday, Mr. Clark Ashton Smith]]></title>
         <id>https://castellochimerico.blogspot.com/2024/01/happy-birthday-mr-clark-ashton-smith.html</id>
