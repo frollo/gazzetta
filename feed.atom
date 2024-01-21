@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-21T10:08:38.901Z</updated>
+    <updated>2024-01-21T12:14:04.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EREMOS Lore24.3]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/01/eremos-lore243.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/01/eremos-lore243.html"/>
+        <updated>2024-01-21T10:11:00.002Z</updated>
+        <summary type="html"><![CDATA[Penultima settimana dedicata ad EREMOS, in queste ultime due settimane di Gennaio alcuni dei frammenti di lore saranno ispirati alla oneshot ad Adventure World Chassis giocata sul server della COSMO (ne avevo parlato qua). Un ringraziamento ai prodi giocatori che hanno esplorato Kolimeth di Sottoguscio!
+
+
+#1.15 Zoot
+Antico popolo precedente agli Elder stessi. Gli Zoot hanno una stazza paragonabile a quella degli altri popoli, ma dai lati inferiori della mascella si sviluppano due acuminate zanne lunghe quasi una spanna e orientate verso l'alto. Un aspetto curioso di tale caratteristica fisica è che gli Zoot sono incapaci di baciare; tale gesto è sostituito dallo sfregamento leggero delle zanne tra due o più Zoot. Oltre alle zanne gli Zoot sviluppano capelli dai colori variopinti, che si di…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sulle mille definizioni personali di railorading e sul giustificarne la pratica]]></title>
         <id>https://dismastersden.blogspot.com/2024/01/sulle-mille-definizioni-personali-di.html</id>
