@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-21T22:07:33.902Z</updated>
+    <updated>2024-01-22T00:42:28.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La letteratura e i multiclasse di dnd]]></title>
+        <id>https://autarkikagdr.blogspot.com/2024/01/la-letteratura-e-i-multiclasse-di-dnd.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2024/01/la-letteratura-e-i-multiclasse-di-dnd.html"/>
+        <updated>2024-01-21T23:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Immagine realizzata con Bing.
+
+Buongiorno a tutti,
+
+vorrei rendervi partecipi delle mie riflessioni riguardo all'introduzione dei personaggi multiclasse o biclasse nei primi giochi di ruolo, in particolare dnd.
+Da qualche tempo stavo ragionando riguardo ai collegamenti tra la letteratura e gioco di ruolo, casualmente stavo discutendo scherzosamente sulla figura letteraria di Conan il barbaro nel mondo dei miti di chtulhu.
+Proprio il personaggio di Conan il Cimmero mi ha ispirato a scrivere questo piccolo articolo riguardanti i personaggi multiclasse in dnd .
+Iniziamo col dire, che le prime edizioni del gioco erano ispirate principalmente al genere letterario dello Sword and Sorcery in voga all'inizio del ventesimo secolo.
+La componente "tolkieniana" non era preponderante e si trovavano var…]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lore 24: Dala-Zala settimana 3 - Gli animali]]></title>
         <id>https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-settimana-3-gli.html</id>
