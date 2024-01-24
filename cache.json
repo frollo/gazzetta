@@ -581,6 +581,26 @@
       "siteUrl": "https://soronarchives.blogspot.com/",
       "articles": [
         {
+          "id": "https://soronarchives.blogspot.com/2024/01/symbiotic-flesh-garden.html",
+          "author": null,
+          "description": "This is a resource for Dolmenwood by Gavin Norman (Necrotic Gnome & Exalted Funeral) - https://necroticgnome.com/pages/about-dolmenwood \n\nOne of my Mossling players is a biologist by trade. She is trying to exploit Symbiotic flesh to grow useful mushrooms on her character's shins. This is a short ark, therefore I am not too worried about long-term imbalances. This was my ruling.\n\nTo start you need to experiment. I require 3 successful wisdom checks to attempt to implant mushrooms in your flesh. Every attempt cost a portion of fresh mushrooms and 2 hours of work.\n\n\n\nOnce passed the experimental phase, you can implant any kind of mushroom in your shins. This required a portion of the desired kind of mushroom and one hour of uninterrupted work. \n\nYou will consume double rations for the day and need to attempt a wisdom check. \n\nA natural 1 means that you inflict yourself 1d4 damage\n\nA successful roll allows you to collect 1d4 portion of the implated mushroom on the following day.\n\nAny idea how to improve it?",
+          "link": "https://soronarchives.blogspot.com/2024/01/symbiotic-flesh-garden.html",
+          "publishedOn": "2024-01-24T05:57:00.004Z",
+          "wordCount": 1993,
+          "title": "Symbiotic flesh garden",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soronarchives.blogspot.com/2024/01/snowfall-at-dusks-lamentation.html",
+          "author": null,
+          "description": "This is a resource for Dolmenwood and Winter's Daughter by Gavin Norman (Necrotic Gnome & Exalted Funeral) - https://necroticgnome.com/pages/about-dolmenwood\n\nI like to use Winter's Daughter for short arks and as an introductory quest to Dolmenwood. I used a magician (Mostlemyre Drouge - Prigwort, HEX 1106) as a quest giver - he wants the enchanted ring and offers a significant amount of GP for it, enough to allow the group to level up.\n\n\nGiven this incentive to take the ring to him, I need to communicate to the players that there is someone else who wants that ring very badly and is ready to pay well. When a fay is involved visions and prophetic dreams are automatically called for and a short poem could be the right medium to communicate Snowfall-at-dusk's plea.\n\n\nIn Frigia's embrace, I lonely stand, \nSnowfall-at-dusk, princess of this land. \nSir Chyde, my love, yet to arrive, \nIn the dance of frost, our destinies strive. \n\n\nNine centuries weave a tapestry of sighs, \nSilent longing beneath frozen skies. \nChyde's ring, a promise, our fate's true key, \nA pledge unfulfilled, in waiting, I plea.  \n\n\nThrough realms unknown, my heart unfolds, \nFor a true seeker, in tales yet untold. \nRiches and dreams, I offer with glee, \nTo the brave one who brings Chyde's ring to me.\n\n\n\nI'm not a native speaker. If you can improve the rhymes or the metrics, please leave a comment. Every contribution is welcome :)",
+          "link": "https://soronarchives.blogspot.com/2024/01/snowfall-at-dusks-lamentation.html",
+          "publishedOn": "2024-01-24T05:35:00.000Z",
+          "wordCount": 2053,
+          "title": "Snowfall-at-dusk's lamentation",
+          "imageUrl": null
+        },
+        {
           "id": "https://soronarchives.blogspot.com/2023/12/dolmenwood-travel-calculator.html",
           "author": null,
           "description": "This is an automatic travel calculator for Dolmenwood by Gavin Norman (Necrotic Gnome & Exalted Funeral) - https://necroticgnome.com/pages/about-dolmenwood\nTo use the calculator, enter the required information in the blue spaces.\nThis tool does not (yet) take into account random encounter chances.\nPlease send me feedback, especially if you find a bug - I expect that there are still many - to allow me to correct them, please send me a screenshot with all the parameters you inserted.",
