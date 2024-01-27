@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-27T20:07:33.231Z</updated>
+    <updated>2024-01-27T22:07:59.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tomb of Thousand Doors: un megadungeon collettivo per Mausritter]]></title>
+        <id>https://autarkikagdr.blogspot.com/2024/01/tomb-of-thousand-doors-un-megadungeon.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2024/01/tomb-of-thousand-doors-un-megadungeon.html"/>
+        <updated>2024-01-27T20:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Ciao a tutti,
+oggi vi voglio far conoscere un Megadungeon per Mausritter.
+Ho scoperto questo lavoro per puro caso e mi ha colpito molto, la mole di lavoro è considerevole.
+Il dungeon è diviso in 38 zone differenti, ogni zona è stata scritta da un differente autore; già questo fatto mi stuzzica molto.
+Il manuale presenta tutto quello che serve in un megadungeon; comprese fazioni, tesori e situazioni ed ambienti diversi.
+Forse troppo diversi! Siccome il dungeon è un collage di diversi stili grafici, questo disorienta un poco e da la sensazione di essere difronte a un prodotto abbozzato.
+Però ha un suo fascino e una sua coerenza, siccome i differenti ambienti sono stati scritti e pensati da autori diversi.
+Un prodotto collettivo da non perdere, vedrete che sfogliandolo mi scapperà un sorriso.
+lo trovate a questo indirizzo:  Tomb of Thousand Doors
+@threeballs]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aldweald pre-Rolled random encounter]]></title>
         <id>https://soronarchives.blogspot.com/2024/01/aldweald-pre-rolled-random-encounter.html</id>
