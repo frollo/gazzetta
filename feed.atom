@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-28T10:07:45.918Z</updated>
+    <updated>2024-01-28T12:12:49.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Dala-Zala - Settimana 3 Armi e combattimento]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-settimana-3-armi-e.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-settimana-3-armi-e.html"/>
+        <updated>2024-01-28T11:26:00.000Z</updated>
+        <summary type="html"><![CDATA[1 Il Kukhri: detto anche kukuri, il classico coltello di Dala- Zala è usato sia come attrezzo che come arma. Si presta a essere lanciato e la sua forma dona forza ai fendenti. Ne esistono di varie taglie, alcuni giungono alle dimensioni di una spada corta. D6, da lancio.
+2 Le Tigri bianche.  Questo ordine di guerrieri e assassini noti per l'efficienza e l'uso del veleno e molto misterioso. Si dice che non possa venire contattato direttamente ma che chi cerca un assassino prezzolato a volte venga avvicinato da loro, se si può permettere le tariffe del gruppo. Si mormora che la setta sia sotto il controllo di un Rakshasa, che la sfrutta per i suoi misteriosi fini personali.
+3 Combattenti di fama:
+Grula la Rospoide: donna rospo della Giungla del Corno, nota per aver ucciso diversi avversari c…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tomb of Thousand Doors: un megadungeon collettivo per Mausritter]]></title>
         <id>https://autarkikagdr.blogspot.com/2024/01/tomb-of-thousand-doors-un-megadungeon.html</id>
