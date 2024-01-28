@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-28T04:10:36.526Z</updated>
+    <updated>2024-01-28T06:09:44.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1300,16 +1300,6 @@ di: Roberto Bisceglie]]></summary>
         <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/644009/i-pianeti-raccolta-di-novembre"/>
         <updated>2023-12-01T21:31:10.000Z</updated>
         <summary type="html"><![CDATA[Il mese di Novembre dedicato ai Pianeti è giunto al termine ed ecco a voi la raccolta dei contributi. Procuratevi un potente telescopio ed esplorate la volta celeste alla loro ricerca. Un piccolo aiu...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dicembre - Il Weird]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/642668/dicembre-il-weird</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/642668/dicembre-il-weird"/>
-        <updated>2023-11-29T16:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Siamo vicini alla fine dell'anno e giunge da bizzarri piani d'esistenza il Vecchio Carnevale Blogghereccio di Dicembre! É quel momento dell'anno in cui un uomo millenario dalla dimora sconosciuta gir...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
