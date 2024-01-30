@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-30T08:10:38.028Z</updated>
+    <updated>2024-01-30T10:09:34.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1304,27 +1304,6 @@ Il Drago è il Maiale Fantasy [Nerdcoledì]: un articolo in cui paragona i dragh
 A presto, e ricordate che a dicembre il tema del Carnevale è il WEIRD!]]></summary>
         <author>
             <name>ARCIPELAGO CELESTE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re: Vecchio Carnevale Bloggereggio, Dicembre 2023. IL WEIRD!]]></title>
-        <id>https://archangelruling.blogfree.net/?t=6472915</id>
-        <link href="https://archangelruling.blogfree.net/?t=6472915"/>
-        <updated>2023-12-01T21:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Il Ritorno in grande stile del carnevale pi� bello di sempre
-di: Roberto Bisceglie]]></summary>
-        <author>
-            <name>Roberto Bisceglie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Pianeti - Raccolta di Novembre]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/644009/i-pianeti-raccolta-di-novembre</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/644009/i-pianeti-raccolta-di-novembre"/>
-        <updated>2023-12-01T21:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Il mese di Novembre dedicato ai Pianeti è giunto al termine ed ecco a voi la raccolta dei contributi. Procuratevi un potente telescopio ed esplorate la volta celeste alla loro ricerca. Un piccolo aiu...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
