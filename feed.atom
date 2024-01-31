@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-31T06:10:58.788Z</updated>
+    <updated>2024-01-31T08:10:18.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EREMOS Lore24.4]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/01/eremos-lore244.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/01/eremos-lore244.html"/>
+        <updated>2024-01-31T08:02:00.001Z</updated>
+        <summary type="html"><![CDATA[L'ultimo post dedicato all'ambientazione di Eremos. Per il momento sto riuscendo nell'impresa di proseguire la Lore24 senza intoppi e il mese di Febbraio sarà dedicato alla grande foresta di Glengaroff, un'ambientazione scritta con in mente Cairn di Yochai Gal. Ma per ora torniamo nelle desolazioni desertiche...
+
+
+
+#1.22 Biolinfa
+Data la scarsità di nuclei ad alta energia, che compromette la sopravvivenza di molti artefatti tecnologici dell'età imperiale, i Savi di Tol Mara hanno cercato per lungo tempo una fonte energetica sostitutiva, trovandola alla fine nella materia organica vivente. Concentrando in grandi vasche le creature oceaniche invisibili ad occhio nudo e le alghe sono riusciti a produrre una sostanza dall'alto potenziale, chiamata biolinfa. L'aiuto dell'Arcanum, che ha propost…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Febbraio - Gli Specchi]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/673402/febbraio-gli-specchi</id>
