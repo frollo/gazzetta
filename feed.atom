@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-01-31T16:09:56.389Z</updated>
+    <updated>2024-01-31T18:08:10.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore24 #EREMOS]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/01/lore24-eremos.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/01/lore24-eremos.html"/>
+        <updated>2024-01-31T17:07:00.001Z</updated>
+        <summary type="html"><![CDATA[Un post per raccogliere i vari aggiornamenti dedicati ad Eremos, l'ambientazione della mia Lore24 di Gennaio. In aggiunta una mappa con tutti i luoghi presenti nei vari frammenti di lore.
+#EREMOS 1.1
+Introduzione, La Caduta degli Dei, Fucili a Scheggia, Diavoli del Fumo, Fian delle Dolcidune, Morfosi, Lo Scorpione del Savio Catalan, Sanguefreddo di Eremos
+#EREMOS 1.2
+Spettri della Capitale, Il Mostro dei Vicoli, Quattro Incontri a Kolimeth, Alanera di Kaarth, La Fortezza Volante di Kirimod, La Guerra Eterna di Gehenna, Viaggiare
+#EREMOS 1.3
+Zoot, Grandizanne e il Culto del Sole Invitto, Tomba del Fiume, La Campana Solitaria, La Spira, Il Minareto di Ultar, Il Dungeon dell'Albero Nero
+#EREMOS 1.4
+Biolinfa, Signore della Guerra Korn, La Triarchia, Il Pozzo è Libero?, La Perduta Zendhym, Quarzi Eterici, Sangre Blupelle, La Ribellione, Il Sindacato, La Torre Astronomata
+
+
+
+
+
+1 Esagono = 100 Km (un giorno di viaggio a piedi)]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EREMOS Lore24.4]]></title>
         <id>https://calderonedeltroll.blogspot.com/2024/01/eremos-lore244.html</id>
