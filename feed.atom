@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-01T00:39:40.618Z</updated>
+    <updated>2024-02-01T02:18:49.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1269,16 +1269,6 @@ UGANILDA DE SILVESTRIS - Balia di 2° livello
 Classe iniziale: Facchino / Fallimento professionale: Contasemi.…]]></summary>
         <author>
             <name>ARCIPELAGO CELESTE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Maiali - Raccolta di Settembre]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/644881/i-maiali-raccolta-di-settembre</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/644881/i-maiali-raccolta-di-settembre"/>
-        <updated>2023-12-03T14:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Il Vecchio Carnevale Blogghereccio continua ad evocare irresponsabilmente nuove bizzarrie. Giunge la raccolta del tema di Settembre, ovvero I MAIALI E mentre andate alla ricerca di creature dalla coda...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
