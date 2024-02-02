@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-01T22:08:37.549Z</updated>
+    <updated>2024-02-02T00:38:07.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1215,27 +1215,6 @@ Montelupo è un Mega Dungeon appositamente realizzato per simulare come scriveva
 Montelupo è un modulo di avventura che descrive una piccola regione dai nomi (ma non dai toni) italici che include una piccola città, una manciata di luoghi piazzati su una mappa esagonale, e un dungeon su tr…]]></summary>
         <author>
             <name>perticadatremetri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bastardi a Dolmenwood, Sessione VI]]></title>
-        <id>https://arcipelagoceleste.blogspot.com/2023/12/bastardi-dolmenwood-sessione-vi.html</id>
-        <link href="https://arcipelagoceleste.blogspot.com/2023/12/bastardi-dolmenwood-sessione-vi.html"/>
-        <updated>2023-12-04T11:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The Black Wyrm of Brandonsford, VI
-5 di Harchment - Quinto mese dell’anno 1532 - Alta primavera
-Pg presenti: Rama, Uga, Grouch, Pavar, Nigel
- 
-
-Indice delle Sessioni 
-
-
-
-Tira vento e piove leggero su Brandonsford. I bastardi pagano 50 Po per il sostentamento del mese di Harchment.
-Durante la colazione sentono un forte trambusto provenire dalla strada: due persone evidentemente ferite e con segni di ustioni su tutto il corpo. Sono i figli di Gill, l'agricoltore. Sono stati attaccati dal wyrm. Pavar prova a chiedere informazioni sull'accaduto, mentre Grouch va a chiedere aiuto. Tod rivela che l'agguato è avvenuto vicino alla miniera dei nani: un'enorme bestia nera senz'ali li ha attaccati spruzzando un fiotto di acido nero dalla gola.
-I Pg raccontano a Quinn (locanda dell'Uovo dorato) di ave…]]></summary>
-        <author>
-            <name>ARCIPELAGO CELESTE</name>
         </author>
     </entry>
 </feed>
