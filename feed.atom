@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-02T14:08:03.982Z</updated>
+    <updated>2024-02-02T16:09:00.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Metropoli - Raccolta di Gennaio]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/675629/metropoli-raccolta-di-gennaio</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/675629/metropoli-raccolta-di-gennaio"/>
+        <updated>2024-02-02T15:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Ecco la raccolta del mese di Gennaio, pronti a perdervi in metropoli misteriose? Io ne sono uscito per miracolo. Siete fortunati che sia riuscito a tracciare una mappa, eccola qui: METROPOLI Date un o...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persi nella Metropoli: contributi per il Vecchio Carnevale Blogghereccio di Gennaio]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/02/persi-nella-metropoli-contributi-per-il.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/02/persi-nella-metropoli-contributi-per-il.html"/>
+        <updated>2024-02-02T15:41:00.002Z</updated>
+        <summary type="html"><![CDATA[Gennaio è finito e non vedo l'ora di presentare i contributi per il Vecchio Carnevale Blogghereccio a tema 
+METROPOLI
+
+Luca Negri partorisce un Grande Essere fantastico gioco dalle atmosfere bloodborniane che mescola le meccaniche dei Powered by the Apocalypse al DJ-System di Helios Pu: Beast City Coagulation. Ho in programma di giocarlo nelle prossime settimane!
+Il Castello Chimerico ha contribuito in ben due modi con il suo post: fornendo altre utili risorse per giocare avventure urbane e proponendo patroni e creditori con i quali popolare Sharn, la città delle torri di Eberron.
+Il Blog Bellicoso ci fa visitare la metropoli di Eshunna alla foce del fiume Phula. Il tentativo di creare una città stratificata funziona e ci sono parecchi elementi interessanti come le fazioni e i luoghi di interesse.
+Dietro lo Schermo propone una meta decisamente meno invitante, la metropoli in rovina nota come L'Urbe. Il post è un'ottima guida sul come creare uno scenario citycrawl con fazioni dinamiche.
+Nerdcoledì ci passa una lente di ingrandimento per osservare la città in miniatura di Sila Bleskova, all'alba della sua era elettrica. Tra intrighi e quartieri infestati da mostri i giocatori non dovrebbero annoiarsi. E molto bella l'idea di allegare le bacheche Pinterest al fondo del post!
+Quanto a me, Il Calderone del Troll, sono felice di aver ospitato per la seconda volta il Vecchio Carnevale Blogghereccio (ho già in mente un tema per la prossima volta, ma dovrò pazientare!🐛). Ho dedicato alle metropoli uno dei post della Lore24.
+
+Ricordate che il Vecchio Carnevale Blogghereccio è sempre lì che vi aspetta, e quale occasione migliore per unirsi al carrozzone se non quella di contribuire al tema del mese di Febbraio, ospitato da Dietro lo Schermo?]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lore24 #EREMOS]]></title>
         <id>https://calderonedeltroll.blogspot.com/2024/01/lore24-eremos.html</id>
