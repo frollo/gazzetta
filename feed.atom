@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-04T18:11:03.791Z</updated>
+    <updated>2024-02-04T20:08:06.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Il Sansone - Una classe per Rinascimento 2e WIP]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/02/il-sansone-una-classe-per-rinascimento.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/02/il-sansone-una-classe-per-rinascimento.html"/>
+        <updated>2024-02-04T18:42:00.002Z</updated>
+        <summary type="html"><![CDATA[Il Sansone
+Una classe per Rinascimento 2e
+Non è colpa mia se sono il più grande e il più forte! Quanto vi devo per il carro sfondato?
+
+
+
+
+Nomi da Sansone: Sansone, Andrè, Aiace, Morgante, Ruggero, Alcione, Barbara, Trincia, Budicca.
+
+
+Ps iniziali: 6 + Forza
+
+Bonus: +1 Danno
+Averi: una mazza a due mani (a te ne basta una), un retaggio ingombrante e un punto debole segreto
+Avanzamento casuale (tira un avanzamento ora e altri due ogni volta che sali di Livello, se il risultato è già uscito in precedenza guadagni nuovamente il numero 1)
+
+
+Miglioria: +1 ad una Statistica a scelta.
+Macchina d'assedio: raddoppi i danni dei tuoi attacchi quando colpisci qualcosa di inanimato (oggetti, edifici, veicoli).
+Muscoli d'acciaio: +2 CA quando sei a torso nudo.
+Vi presento Norberto: hai fatto amicizia con …]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lore 24: Dala-Zala, settimana  4  - Ciò che vola nell'aria]]></title>
         <id>https://castellochimerico.blogspot.com/2024/02/lore-24-dala-zala-settimana-4-cio-che.html</id>
