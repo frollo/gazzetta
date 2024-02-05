@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-05T10:09:53.139Z</updated>
+    <updated>2024-02-05T12:14:39.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: cambiamento di paradigma]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/02/lore-24-cambiamento-di-paradigma.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/02/lore-24-cambiamento-di-paradigma.html"/>
+        <updated>2024-02-05T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Ispirato dall'ottimo Gregorio di Il Calderone del Troll, ho deciso di cambiare paradigma alla mia sfida Lore 24. I motivi sono più o meno li stessi che cita Greg, soprattutto voglio scongiurare la noia e aumentare la varietà, in modo da poter intavolare scenari diversi. 
+Per cui ho deciso che febbraio sarà l'ultimo mese in cui scriverò di Dala-Zala e da marzo passerò a altre ambientazioni, (credo che manterrò Cairn come regolamento di riferimento) una per stagione:
+Primavera : Witchlight (marzo, aprile, maggio)
+Tratta dalla campagna di D&D The Wild beyond the Witchlight, che sto terminando di giocare come DM, sarà un'ambientazione basata sulla Selva Fatata (The Feywild) e sul Witchlight Carnival, il circo e fiera di divertimenti che vaga tra i mondi, presentato nel modulo. Ci saranno tanti…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Il Sansone - Una classe per Rinascimento 2e WIP]]></title>
         <id>https://calderonedeltroll.blogspot.com/2024/02/il-sansone-una-classe-per-rinascimento.html</id>
