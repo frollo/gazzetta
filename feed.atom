@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-07T08:10:32.384Z</updated>
+    <updated>2024-02-07T10:09:21.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[L'Allevatore di Vermi - Una classe per Rinascimento 2e WIP]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/02/lallevatore-di-vermi-una-classe-per.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/02/lallevatore-di-vermi-una-classe-per.html"/>
+        <updated>2024-02-07T09:44:00.004Z</updated>
+        <summary type="html"><![CDATA[L'Allevatore di Vermi
+Una classe per Rinascimento 2e
+Tu dai loro tutto e una volta cresciuti se ne vanno senza ringraziamenti. É un mestiere duro, ma non si può resistere a quegli occhietti iniettati di sangue.
+
+
+Nomi da Allevatore di Vermi: Berolfo, Agritto, Noreste, Eragone, Ramira, Ungara, Scottata
+
+Ps iniziali: 3 + Forza
+
+
+Bonus: +1 Ps
+Averi: un campanaccio per vermi (utilizzabile come un'arma piccola), un cucciolo preferito e una schola vermitoria
+Avanzamento casuale (tira un avanzamento ora e altri due ogni volta che sali di Livello, se il risultato è già uscito in precedenza guadagni nuovamente il numero 1)
+
+
+Miglioria: +1 ad una Statistica a scelta.
+Attenti al lupo. Puoi usare le tue conoscenze in fatto di bestie e mostri per impressionare qualcuno e convincerlo a fare a modo tuo. …]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gioco di Specchi: materiale a tema per Cairn]]></title>
         <id>https://calderonedeltroll.blogspot.com/2024/02/gioco-di-specchi-un-compendio-per-cairn.html</id>
