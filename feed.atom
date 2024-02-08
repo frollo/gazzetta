@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-08T10:08:30.347Z</updated>
+    <updated>2024-02-08T12:14:23.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vendicatori & Viverne un regolamento OSR Completo e Gratuito]]></title>
+        <id>https://d20d12.blogspot.com/2024/02/vendicatori-viverne-un-regolamento-osr.html</id>
+        <link href="https://d20d12.blogspot.com/2024/02/vendicatori-viverne-un-regolamento-osr.html"/>
+        <updated>2024-02-08T10:20:00.003Z</updated>
+        <summary type="html"><![CDATA[Con questo articolo cominciamo una carrellata dei giochi OSR italiani o in italiano che siano riconducibili alle regole di Dungeons & Dragons (i cosidetti cloni, retro-cloni e neo-cloni). 
+
+La priorità sarà per i giochi completi e gratuiti ma verranno successivamente trattati anche i giochi commerciali.
+Cominciamo con un gioco eccezionale per completezza, cura, compatibilità ed innovazione.
+Vendicatori & Viverne
+Un gioco che vi offrirà infinite ore di gioco e avventura nella migliore tradizione del gioco originale.
+Tre manuali completi, il Manuale del Giocatore, la Guida del Maestro delle Viverne e il Bestiario (o Manuale dei Mostri) forniscono un gioco completo e longevo.
+Il mio consiglio è di saltare subito alla fine di questa presentazione, scaricare i manuali e leggerli direttamente.
+S…]]></summary>
+        <author>
+            <name>Castelli &amp; Chimere - Castles &amp; Chimeras</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mothership S05 - Morire, Dormire]]></title>
         <id>https://dismastersden.blogspot.com/2024/02/mothership-s05-morire-dormire.html</id>
