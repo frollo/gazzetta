@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-09T10:08:53.357Z</updated>
+    <updated>2024-02-09T12:14:44.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Il Flagellante - Una classe per Rinascimento 2e WIP]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/02/il-flagellante.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/02/il-flagellante.html"/>
+        <updated>2024-02-09T10:42:00.001Z</updated>
+        <summary type="html"><![CDATA[Il Flagellante
+Una classe per Rinascimento 2e
+Cosa mangi?! Cosa bevi?! Cosa ridi?! Ricordati che devi morire!
+
+
+
+
+
+
+Nomi da Flagellante: Iellone, Sciagura, Mortolo, Tombola, Sferzone, Dolorata 
+
+Ps iniziali: 4 + Forza
+
+
+Bonus: +1 Classe Armatura (non puoi indossare armature superiori al Cuoio)
+Averi: un flagello insanguinato, un versetto dell'Apocalisse e un presagio ricorrente
+Avanzamento casuale (tira un avanzamento ora e altri due ogni volta che sali di Livello, se il risultato è già uscito in precedenza guadagni nuovamente il numero 1)
+
+
+Miglioria: +1 ad una Statistica a scelta.
+Memento Mori. Una volta per sessione puoi azzerare la CA di una creatura.
+Tutte le strade portano a Morte. Quando ti trovi in un luogo di morte (un campo di battaglia, una catacomba labirintica, le galere dell'…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vendicatori & Viverne un regolamento OSR Completo e Gratuito]]></title>
         <id>https://d20d12.blogspot.com/2024/02/vendicatori-viverne-un-regolamento-osr.html</id>
