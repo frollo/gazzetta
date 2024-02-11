@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-11T02:17:17.139Z</updated>
+    <updated>2024-02-11T04:11:16.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1293,17 +1293,6 @@ Individual (d6): 
         <summary type="html"><![CDATA[Alcuni PNG di Electric Bastionland sono rimasti nell'immaginario dei miei gruppi a causa della loro particolarità, anche e soprattutto se si è trattato di incontri scaturiti da una tabella casuale. Le Ragazze Verme Posh (R.V.P.) sono proprio il frutto di uno di questi incontri fortuiti, e non avendo descrizioni di sorta, mi sono dovuto inventare sul momento il loro aspetto (umanoidi esilissime dalla pelle biancastra, con corpo e arti divisi in anelli, abbigliate all'ultima moda) e una caratteristica caratteriale saliente (commentano con disprezzo il modo di vestire altrui). Le R.V.P. sono apparse diverse volte durante le varie avventure e campagne, e sono state sempre fonte di divertimento con i loro modi estremamente posh. Dopo le feste sarà tempo di saldi, per cui dietro suggerimento dell'amico Zeruhur ho deciso di presentare un piccolo scenario per Electric Bastionland basato sulle nostre amiche (si fa per dire) R.V.P. e sulle svendite invernali. Giocandolo ricordate che è ambientato in un quartiere "bene" di Bastion: nel negozio-atelier di Ivo Saint Vermon ci sono molte opportunità di bottino ma se qualcuno chiama i poliziotti, quelli arriveranno prontamente!]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dolmenwood weather calculator]]></title>
-        <id>https://soronarchives.blogspot.com/2023/12/blog-post.html</id>
-        <link href="https://soronarchives.blogspot.com/2023/12/blog-post.html"/>
-        <updated>2023-12-13T15:11:00.016Z</updated>
-        <summary type="html"><![CDATA[This is an automatic weather calculator for Dolmenwood by Gavin Norman (Necrotic Gnome & Exalted Funeral) - https://necroticgnome.com/pages/about-dolmenwood
-To use the calculator, enter the required information in the blue spaces]]></summary>
-        <author>
-            <name>Soron Archives</name>
         </author>
     </entry>
 </feed>
