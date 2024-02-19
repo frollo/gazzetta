@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-19T10:09:31.192Z</updated>
+    <updated>2024-02-19T12:15:16.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1333,23 +1333,6 @@ Lair:
 Hung on the wall, is a larg…]]></summary>
         <author>
             <name>The Secret Game - Il Gioco Segreto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lo Stato di Questo Macello IV]]></title>
-        <id>https://oicn.icu/2023/Lo-Stato-di-Questo-Macello-IV/</id>
-        <link href="https://oicn.icu/2023/Lo-Stato-di-Questo-Macello-IV/"/>
-        <updated>2023-12-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Ed eccoci tornati al tradizionale post che leggo solo io ma mi fa piacere infliggere a tutto il mondo: lo stato di questo macello. Per chi avesse davvero voglia di farsi del male, si possono persino recuperare gli anni passati: <a href="/2021/Lo-stato-di-questo-macello/" title="2021">2021</a>, <a href="/2022/Lo-stato-di-questo-macello-II/" title="2022">2022</a> e <a href="/2022/Lo-stato-di-questo-macello-III/" title="2023">2023</a>.</p>
-<p>Sotto molti versi, il 2023 è stato un anno interessante e il 2024 promette ancora di meglio!</p>
-<img src="/2023/Lo-Stato-di-Questo-Macello-IV/community.gif" class="" title="Ehm...">
-
-<p>Non proprio così, ma ci siamo capiti</p>
-<span id="more"></span>
-
-<h2 id="Il-2023"><a href="#Il-2023" class="headerlink" title="Il 2023"></a>Il 2023</h2><h3 id="Piatt…]]></summary>
-        <author>
-            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
 </feed>
