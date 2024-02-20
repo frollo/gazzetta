@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-20T16:10:22.742Z</updated>
+    <updated>2024-02-20T18:12:13.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1322,42 +1322,6 @@ Per l'occasione ho pensato prima al formato di questo post che all'effettivo con
 Quindi perchè non rendere omaggio a tutto ciò con un post pieno di idee sparse e str…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monster treasure for Cairn! D-G]]></title>
-        <id>https://scrtgm.blogspot.com/2023/12/monster-treasure-for-cairn-d-g.html</id>
-        <link href="https://scrtgm.blogspot.com/2023/12/monster-treasure-for-cairn-d-g.html"/>
-        <updated>2023-12-23T05:32:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s a 1in6 chance for each individual in an encountered group to carry a piece of treasure.
-Unless indicated otherwise, each piece of treasure occupies one slot and is worth 100gp. Relics and other powerful items are invaluable.
-Roll before the encounter happens, cause some of the treasure may be useful to the NPCs. 
-
-Dervish (d4, reroll until you roll the same result twice): 
-1. Rich clothes (50 gp) and turban (50 gp)
-2. Golden bangles (1 slot, 100 gp)
-3. A sack of gold coins (100 gp)
-4. Two sacks of gold coins (200 gp)
-
-
-Doppelganger: whatever it stole from the person it is posing as
-
-
-Dragon, young 
-Lair, in a pile:
-
-700 gp
-20 gold ingots (5 per slot and 10 gp each)
-Golden scepter (200 gp)
-Golden gauntlets (300 gp) (no armor bonus)
-
-
-
-Dragon, mature
-Lair:
-Hung on the wall, is a larg…]]></summary>
-        <author>
-            <name>The Secret Game - Il Gioco Segreto</name>
         </author>
     </entry>
 </feed>
