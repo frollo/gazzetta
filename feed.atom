@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-21T00:38:00.644Z</updated>
+    <updated>2024-02-21T02:14:37.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1310,18 +1310,6 @@ Quest'anno ho preparato per voi la versione 2.0 del Broken Moon System, il motor
 Non vi voglio annoiare oltre. Buon Gioco di Ruolo, buon divertimento, e soprattutto BUON NATALE!!]]></summary>
         <author>
             <name>I CANCELLI DI HELLWINTER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weird Cabinet: cianfrusaglie per giochi di ruolo]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2023/12/weird-cabinet-cianfrusaglie-per-giochi.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2023/12/weird-cabinet-cianfrusaglie-per-giochi.html"/>
-        <updated>2023-12-23T12:45:00.002Z</updated>
-        <summary type="html"><![CDATA[Ecco il mio contributo per il Vecchio Carnevale Blogghereccio di Dicembre a tema...IL WEIRD! Ospitato da Ruling with Archangels. Se non sapete cosa sia il Vecchio Carnevale Blogghereccio potete trovare qui il bando.
-Per l'occasione ho pensato prima al formato di questo post che all'effettivo contenuto. Mi piacciono molto, infatti, le raccolte di stramberie: i cabinet of curiosities (su Netflix c'è un'omonima serie creata da Guillermo del Toro), la rivista antologica di racconti horror e fantastici Weird Tales (per la quale hanno scritto autori come Lovecraft), le collezioni di oggetti strambi e inusuali, i vari numeri di Knock! che raccolgono idee e materiali stravaganti e vari per i giochi di ruolo OSR...
-Quindi perchè non rendere omaggio a tutto ciò con un post pieno di idee sparse e str…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
