@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-25T10:08:03.461Z</updated>
+    <updated>2024-02-25T12:13:14.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Signori del Caos ritornano]]></title>
+        <id>https://d20d12.blogspot.com/2024/02/i-signori-del-caos-ritornano.html</id>
+        <link href="https://d20d12.blogspot.com/2024/02/i-signori-del-caos-ritornano.html"/>
+        <updated>2024-02-25T10:36:00.003Z</updated>
+        <summary type="html"><![CDATA[In questi giorni giunge a conclusione la campagna di Kickstarter per la nuova edizione de "I Signori del Caos" uno dei primi giochi di ruolo italiano se non il primo.
+
+
+La campagna per la precisione termina il 29 febbraio alle 23:59 ora italiana (CET) ed è già pienamente finanziata.
+
+
+Se state leggendo questo post vi posso solo dire NON PERDETE l'occasione di contribuire al ritorno de "I Signori del Caos"!
+Qui trovate il link alla campagna: https://www.kickstarter.com/projects/crimsonstudies/i-signori-del-caos-la-quarta-era
+
+Molti complimenti vanno agli autori per il rispetto estremo con cui hanno curato questa nuova edizione, un'attenzione ai dettagli del sistema di gioco originale ammodernato nel rispetto della tradizione. Un lavoro davvero eccellente.
+
+
+Mentre le meccaniche rimangono mo…]]></summary>
+        <author>
+            <name>Castelli &amp; Chimere - Castles &amp; Chimeras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Dala-Zala settimana 7 - La magia]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/02/lore-24-dala-zala-settimana-7-la-magia.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/02/lore-24-dala-zala-settimana-7-la-magia.html"/>
+        <updated>2024-02-25T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[1: Troka, la Vecchia Strega dei sogni della Giungla, di Korrepani, detto il villaggio delle streghe,  in cui non ci sono maschi ma solo Goblin dalla faccia di pipistrello (perhé? Che fine fanno i bamabini maschi? I Goblin snno i figli delle streghe? Chi sono i padri? Qual è il plurale di Goblin?). Vende statuette di legno e altri materiali che possono procurare sogni specifici a 2 PO l'una. Si mormora che pagando di più sia possibile ottenere delle figurine che causano incubi, da nascondere dove dormono i propri nemici. I suoi libri di incantesimi assumono la forma di feticci, statuette e pupazzi di stoffa e legnetti.
+
+
+ 
+
+
+
+2: Laya La Strega Bianca del Lago di Khara, giovane e bella, di solito molto gentile ma non criticate il suo abbigliamento! Ha inventato l'incantesimo Luce Bianca, che…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La Marionetta - Una Classe per Rinascimento 2e WIP]]></title>
         <id>https://calderonedeltroll.blogspot.com/2024/02/la-marionetta-una-classe-per.html</id>
@@ -1280,28 +1319,6 @@ Tipografo in Disgrazia
 Un tempo eri rinomato e famigerato per la tua audacia e la tua continua sfida ri…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re: Vecchio Carnevale Bloggereggio, Dicembre 2023. IL WEIRD!]]></title>
-        <id>https://archangelruling.blogfree.net/?t=6472915</id>
-        <link href="https://archangelruling.blogfree.net/?t=6472915"/>
-        <updated>2023-12-27T23:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Il Ritorno in grande stile del carnevale pi� bello di sempre
-di: Dismaster FraNe]]></summary>
-        <author>
-            <name>Dismaster FraNe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re: Vecchio Carnevale Bloggereggio, Dicembre 2023. IL WEIRD!]]></title>
-        <id>https://archangelruling.blogfree.net/?t=6472915#lastpost</id>
-        <link href="https://archangelruling.blogfree.net/?t=6472915#lastpost"/>
-        <updated>2023-12-27T23:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Il Ritorno in grande stile del carnevale pi� bello di sempre
-di: Dismaster FraNe]]></summary>
-        <author>
-            <name>Dismaster FraNe</name>
         </author>
     </entry>
 </feed>
