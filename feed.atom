@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-25T12:13:14.914Z</updated>
+    <updated>2024-02-25T14:07:07.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Demesne and Dominations]]></title>
+        <id>https://autarkikagdr.blogspot.com/2024/02/demesne-and-dominations.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2024/02/demesne-and-dominations.html"/>
+        <updated>2024-02-25T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Buonasera a tutti,
+il supplemento che vi presenterò tratta un argomento caro alla vecchia scuola: la gestione dei domini.
+Questa tipologia di manuale risulta essere molto rara, siccome viene utilizzata per un particolare stile di gioco correlato alle prime edizioni di dnd.
+Da parte mia ho sempre trovato la gestione dei domini affascinante e collegata alla natura stessa dei giochi di ruolo; nati proprio dai giochi di simulazione.
+Il manuale in questione (Demesnes & Domination) permette di gestire il vostro dominio, della vostra fortezza, il vostro esercito e l'aggiornamento delle vostre avventure correlandole a questa esperienza di gioco.
+tutto perfetto? no certo.
+Il manuale risulta molto confusionario, siccome la parte finale propone molte opzioni interessanti ma non collegate alla tipologia di manuale.
+Troverete nuove armi, nuove opzioni per le classi, alchimia, generatori di patroni e santi, nuove classi...... 
+Troppa roba insieme!
+Tuttavia mi sento di promuovere questo lavoro, siccome fornisce molti spunti interessanti; recuperatelo se gratis.
+alla prossima 
+@threeballs]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Signori del Caos ritornano]]></title>
         <id>https://d20d12.blogspot.com/2024/02/i-signori-del-caos-ritornano.html</id>
@@ -1287,38 +1308,6 @@ Tentacolari, rumorose, polimorfe. Piene di gente. Piene di solitudine. Grigie. V
 Esplorare le terr…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tipografo in Disgrazia // un background per Troika!]]></title>
-        <id>https://dismastersden.blogspot.com/2023/12/tipografo-in-disgrazia.html</id>
-        <link href="https://dismastersden.blogspot.com/2023/12/tipografo-in-disgrazia.html"/>
-        <updated>2023-12-28T00:44:00.004Z</updated>
-        <summary type="html"><![CDATA[Questo è il mese del Weird, almeno secondo il Vecchio Carnevale Blogghereccio!
-
-
-E io non avevo la più pallida idea di cosa fare, nonostante il tema mi piacesse assai. Pensavo alla mia solita classe tappabuchi di Troika! (e Kasta!, ovviamente), ma comunque non avevo idee. Ed ecco che il buon Gregorio mi consiglia un background assai interessante: Il Solitario di Providence.
-
-
-Un'idea! Un'idea anche figa! Alleluja!
-Però... però... c'è un problema. E il problema è che Lovecraft ha rotto il cazzo. Che fare quindi?
-
-
-Ma ecco l'illuminazione! l'eureka! l'epifania! Qual è infatti il mio gdr preferito con weird giusto nel sottotitolo?
-
-
-Ed è così che tutto, finalmente, ha fatto click.
-
-
-◈◈◈
-
-
-Tipografo in Disgrazia
-
-
-Un tempo eri rinomato e famigerato per la tua audacia e la tua continua sfida ri…]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
