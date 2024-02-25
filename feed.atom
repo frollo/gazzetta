@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-25T14:07:07.921Z</updated>
+    <updated>2024-02-25T16:09:49.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Specie & Resurrezione]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2024/02/specie-resurrezione.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2024/02/specie-resurrezione.html"/>
+        <updated>2024-02-25T15:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Durante la mia campagna casalinga a Dolmenwood, uno dei Pg è morto nel tentativo di incendiare una melma nera particolarmente resistente. In questa occasione, un altro Pg ha deciso di lanciare l’incantesimo Trasmigrazione, contenuto in Wonder & Wickedness di Paolo Greco, per cercare di riportarla in vita. Questo il testo dell’incantesimo originale (tradotto approssimativamente): “Tramite questo incantesimo, lo stregone può raccogliere in dei vasi canopi gli organi di una persona appena morta. Avendo a disposizione i vasi e tutto l’armamentario necessario, può poi eseguire un rituale che dura tre giorni e tre notti e gli permette di materializzare un nuovo corpo attorno all'anima contenuta nel cervello e nelle viscere del deceduto. Il nuovo corpo deve essere determinato in modo casuale. Le …]]></summary>
+        <author>
+            <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Demesne and Dominations]]></title>
         <id>https://autarkikagdr.blogspot.com/2024/02/demesne-and-dominations.html</id>
