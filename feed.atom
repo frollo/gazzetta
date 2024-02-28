@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-02-27T22:09:05.735Z</updated>
+    <updated>2024-02-28T00:37:03.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1288,19 +1288,6 @@ Buoni 2024 Dungeons!
 Però ho giocato una campagna breve di Electric Bastionland che è stata una delle mie preferite di sempre, con un gruppo straordinario che non ha mai mancato di divertirsi e farmi divertire come un matto. Ho…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dolmenwood travel calculator]]></title>
-        <id>https://soronarchives.blogspot.com/2023/12/dolmenwood-travel-calculator.html</id>
-        <link href="https://soronarchives.blogspot.com/2023/12/dolmenwood-travel-calculator.html"/>
-        <updated>2023-12-30T12:14:00.002Z</updated>
-        <summary type="html"><![CDATA[This is an automatic travel calculator for Dolmenwood by Gavin Norman (Necrotic Gnome & Exalted Funeral) - https://necroticgnome.com/pages/about-dolmenwood
-To use the calculator, enter the required information in the blue spaces.
-This tool does not (yet) take into account random encounter chances.
-Please send me feedback, especially if you find a bug - I expect that there are still many - to allow me to correct them, please send me a screenshot with all the parameters you inserted.]]></summary>
-        <author>
-            <name>Soron Archives</name>
         </author>
     </entry>
 </feed>
