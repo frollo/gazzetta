@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-01T10:09:02.490Z</updated>
+    <updated>2024-03-01T12:14:40.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Dala-Zala mappa brutta e ultimi pezzi.]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/03/lore-24-dala-zala-mappa-brutta-e-ultimi.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/03/lore-24-dala-zala-mappa-brutta-e-ultimi.html"/>
+        <updated>2024-03-01T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Marzo è arrivato, e sarebbe ora di passare a Witchligth, (inizierò Domenica) però ho lasciato indietro alcuni elementi di Dala-Zala che avevo già accennato in precedenza e che dettaglierò un po' di più qui, fornendo i punteggi di alcune creature, delle tabelle di incontri casuali e soprattutto la mappa brutta del territorio, come mia tradizione. 
+
+
+I Bhu-Yak sono grosse e pelosissime persone-Yak, la versione locale del Minotauro, ma senza la capacità di orientarsi nei labirinti. Periodicamente scendono dalle Alte Montagne per razziare. 
+9 PF, 15 FOR, 9 VOL, mazza chiodata (D10) o giavellotto (D8) o carica (D12, se ha spazio)
+Immune al freddo.
+I Naga dell'Acqua: i grandi serpenti elementali dell'Acqua, possono essere terrificanti nemici o potenti alleati, anche se raramente escono da laghi …]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mothership S08 - Gli Alloggi]]></title>
         <id>https://dismastersden.blogspot.com/2024/02/mothership-s08-gli-alloggi.html</id>
