@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-03T20:08:40.380Z</updated>
+    <updated>2024-03-03T22:06:59.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hack n Slash: una bella sorpresa!]]></title>
+        <id>https://autarkikagdr.blogspot.com/2024/03/hack-n-slash-una-bella-sorpresa.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2024/03/hack-n-slash-una-bella-sorpresa.html"/>
+        <updated>2024-03-03T21:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Buongiorno a tutti,
+per puro caso mi sono imbattuto in un progetto collegato ai giochi minimali: Hack n Slash
+Questa volta il gioco è stato tradotto da Davide Bellami e mi ha colpito molto, siccome sto scrivendo un regolamento molto simile nelle meccaniche.
+Vi consiglio di leggerlo e provarlo se amate i regolamenti minimali, un ottimo esempio di questo stile di gioco.
+Inoltre troverete anche: The Crypt of the Greythorne.....purtroppo non in Italiano!
+restate collegati...sto spulciando altro materiale simile!
+@threeballs]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lore 24: Witchlight - settimana 1: Introduzione e pacchetti di avventura]]></title>
         <id>https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-1.html</id>
