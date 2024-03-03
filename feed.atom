@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-03T04:11:14.775Z</updated>
+    <updated>2024-03-03T06:10:53.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1298,19 +1298,6 @@ Nella casa da tè di Manoj è anche possibile reclutare mercenari e portatori: d
 6 Fante pesante 5 PF, 12 FOR, Arm. 2 (armatura di maglia) d8 (ascia a 2 mani). Paga: 3 mo al giorno + 1/2 quota tesoro]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EREMOS Lore24.1]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2024/01/eremos-lore241.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2024/01/eremos-lore241.html"/>
-        <updated>2024-01-03T17:42:00.399Z</updated>
-        <summary type="html"><![CDATA[Perchè la Dungeon23 non mi ha insegnato niente. Tutto dovrebbe essere partito da questo post su Spriggan's Den, in breve: un pezzo di lore (qualcosa che esiste nel mondo di gioco, nell'ambientazione) al giorno per i prossimi 366 giorni. Non sono sicuro di farcela, ma voglio almeno provare a scrivere un frammento di lore al giorno per questo mese di Gennaio. Poi vedrò se andare avanti.
-L'idea di EREMOS (nome provvisorio) mi è venuta in mente scrivendo l'annuncio per la COSMO (Convention Old-School Mensile Online) di Gennaio. Ho proposto Adventure World Chassis di Sam Doebler con un setting che è un minestrone di roba:
-
-Vivete in una terra desolata e senza legge, un viavai di aggressivi regni feudali che tirano avanti grazie a compagnie mercenarie. Le rovine dell'Impero umano punteggiano l'o…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
