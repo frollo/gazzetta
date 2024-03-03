@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-03T10:10:27.204Z</updated>
+    <updated>2024-03-03T12:13:45.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Witchlight - settimana 1: Introduzione e pacchetti di avventura]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-1.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-1.html"/>
+        <updated>2024-03-03T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Con marzo si cambia setting! Da Dala-Zala passiamo a Witchlight, che come ho già spiegato qui, sarà un'ambientazione basata sulla Selva Fatata (The Feywild) e sul Witchlight Carnival, il circo e fiera di divertimenti che vaga tra i mondi, presentato in The Wild Beyond the Witchlight, modulo che mi è piaciuto molto e ho deciso di espandere per future avventure. Ci saranno tanti esseri fatati, streghe, Baba Yaga, i  complessi rapporti tra le Signore e i Signori Arcifatati, boschi, foreste, incredibili paesaggi naturali, funghi multicolori, scherzi maligni, tè e pasticcini, ma anche la natura mutevole della Selva e dei suoi abitanti, che da fiabesca e leggera, può farsi di colpo decisamente inquietante e ben poco benevola. 
+Le avventure si dovrebbero svolgere in gran parte nella Selva Fatata,…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marzo - Fate & Streghe]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/690761/marzo-fate-streghe</id>
