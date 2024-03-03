@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-03T02:16:32.850Z</updated>
+    <updated>2024-03-03T04:11:14.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1311,20 +1311,6 @@ L'idea di EREMOS (nome provvisorio) mi è venuta in mente scrivendo l'annuncio p
 Vivete in una terra desolata e senza legge, un viavai di aggressivi regni feudali che tirano avanti grazie a compagnie mercenarie. Le rovine dell'Impero umano punteggiano l'o…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lore 24: Dala-Zala 3 - I Rakshasa]]></title>
-        <id>https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-3-i-rakshasa.html</id>
-        <link href="https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-3-i-rakshasa.html"/>
-        <updated>2024-01-03T15:42:00.000Z</updated>
-        <summary type="html"><![CDATA[I Rakshasa sono creature demoniache provenienti dall'Inframondo, un'altra dimensione di pura malvagità. Assomigliano a umanoidi dal fisico atletico, molto forti fisicamente. Alcuni sono dotati di testa d'animale (tigre, coccodrillo, bufalo) altri hanno semplicemente tratti mostruosi come grosse zanne, pelle di colore innaturale e occhi fiammeggianti. Tutti sono capaci di cambiare forma per fingersi un essere umano (o umanoide) o addirittura un animale non più grande di un bovino, ma anche in questo caso le loro mani o le, loro zampe avranno sempre una caratteristica innaturalmente evidente (spesso il palmo della mano al posto del dorso) che rivela la loro vera natura. 
-Dietro a molte macchinazioni delle terre di Dala-Zala ci sono proprio loro, che spesso risiedono in rovine o caverne in montagna ricche di tesori per attirare gli incauti avventurieri, che uccidono e a cui strappano l'anima, per poi divorarla o usarla come merce di scambio in baratti con esseri ancora peggiori di loro. A volte invece abitano negli insediamenti umani, fingendosi filantropi che aiutano i più poveri e i malati per poi rubare le donazioni e fare scempio dei malcapitati.
-
-
-Rakshasa 8 PF, 14 FOR, 12 DES, 15 VOL, Arm. 1, D8+D8 (spada o armi naturali). Critico: la vittima deve eseguire un ordine non autolesionista del Rakshasa o perdere 1d6 VOL. A 0 VOL diventa un Pret sotto il controllo del mostro. Mutaforma (vedi sopra). Vulnerabile alle armi da punta benedette: tali armi gli infliggono 1D12 danni, ignorando l'Armatura, e se il Rakshasa è trattenuto, addormentato o paralizzato, un'arma simile può ucciderlo con un solo colpo.]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
