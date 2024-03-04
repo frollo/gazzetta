@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-04T20:08:39.258Z</updated>
+    <updated>2024-03-04T22:07:29.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pregenerati per Crescent B/X (liberamente ispirati a Drifting Dragons)]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/02/pregenerati-per-crescent-bx-drifting.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/02/pregenerati-per-crescent-bx-drifting.html"/>
+        <updated>2024-03-04T20:35:00.001Z</updated>
+        <summary type="html"><![CDATA[Sei personaggi pregenerati per Crescent B/X, i ritratti sono presi dall'anime Drifting Dragons.]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Un castello con fate e streghe per il Vecchio Carnevale Blogghereccio]]></title>
         <id>https://castellochimerico.blogspot.com/2024/03/un-castello-con-fate-e-streghe-per-il.html</id>
