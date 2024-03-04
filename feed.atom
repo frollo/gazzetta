@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-04T06:56:15.631Z</updated>
+    <updated>2024-03-04T09:29:23.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gli Specchi - Raccolta di Febbraio]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/692214/gli-specchi-raccolta-di-febbraio</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/692214/gli-specchi-raccolta-di-febbraio"/>
+        <updated>2024-03-04T08:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Febbraio è finito e siamo tutti riusciti ad uscire dallo specchio. Forse. Vi eviteremo il pericoloso viaggio con questa raccolta di bizzarrie riflettenti e miraggi speculari che vi permetteranno di p...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hack n Slash: una bella sorpresa!]]></title>
         <id>https://autarkikagdr.blogspot.com/2024/03/hack-n-slash-una-bella-sorpresa.html</id>
