@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-04T02:55:51.669Z</updated>
+    <updated>2024-03-04T04:37:30.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1306,25 +1306,6 @@ Rosa D’Amelia, Ingegnera Mineraria di Ypsilon 14, si avvicina al gruppo offren
 La Grasshopper sta riattraccando secondo la procedura…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lore 24: Dala-Zala 4 - La Casa da tè di Manoj]]></title>
-        <id>https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-4-la-casa-di-te-di.html</id>
-        <link href="https://castellochimerico.blogspot.com/2024/01/lore-24-dala-zala-4-la-casa-di-te-di.html"/>
-        <updated>2024-01-04T14:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Questa casa da tè di Bakhta, sul Lago di Khara, a prima vista non sembrerebbe avere niente  di strano. Vi si può bere del tè speziato con latte e mangiare qualche semplice piatto come riso e lenticchie, ravioli montani di patate o tsampa (farinata d'orzo). Lo strano è che il proprietario e gestore è Manoj, un simpatico Cane Intermittente, che viene aiutato da diversi ragazze e ragazze che lavorano come cuoche e camerieri.
-Nella casa da tè di Manoj è anche possibile reclutare mercenari e portatori: d6
-
-
-1: Portatorcia: 4 PF, acciarino e esca, 2 torce. Paga. 1 mo al giorno
-2: Portatore: 4 PF 12 For, zaino o cesta, due sacchi, 5 slot inventario. Paga: 2 mo al giorno
-3: Fante leggero 4 PF, 12 FOR, Arm. 1, (corazza imbottita) d6 (ascia, 2 giavellotti). Paga: 2 mo al giorno + 1/2 quota tesoro
-4 Arciere 4 PF, 12 For, d6 (arco e frecce, spada corta). Paga: 2 mo al giorno + 1/2 quota tesoro
-5 Archibugiere 4 PF, 12 For, d6 (spada corta) o 1d10 (archibugio a miccia si ricarica  in 1 round ma bisogna avere vicino una fiamma per riaccendere la miccia) Paga: 2 mo al giorno + 1/2 quota tesoro
-6 Fante pesante 5 PF, 12 FOR, Arm. 2 (armatura di maglia) d8 (ascia a 2 mani). Paga: 3 mo al giorno + 1/2 quota tesoro]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
