@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-06T18:10:59.992Z</updated>
+    <updated>2024-03-06T20:07:32.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bastardi a Dolmenwood, Sessione XIII]]></title>
+        <id>https://arcipelagoceleste.blogspot.com/2024/03/bastardi-dolmenwood-sessione-xiii.html</id>
+        <link href="https://arcipelagoceleste.blogspot.com/2024/03/bastardi-dolmenwood-sessione-xiii.html"/>
+        <updated>2024-03-06T18:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Le grotte incandescenti, II
+
+Pg presenti: Uga, Marius, Rama, Gisello, Grouch, Nigel, Pavar
+
+Indice delle Sessioni 
+Moot, 11 di Iggwyld - Sesto mese dell’anno 1532 - Primavera calante
+
+Fa molto freddo, il cielo è sereno e tira un vento leggero. È sera, i bastardi si accampano e Rama che è di guardia nota uno spettro blu pallido e ben vestito aggirarsi nel bosco. Passa oltre e non nota i Pg.
+
+Frisk, 12 di Iggwyld - Sesto mese dell’anno 1532 - Primavera calante
+
+Nubi sparse e clima temperato. I bastardi attraversano la foresta e arrivano al Lago Nebbioso. Sulla riva del lago notano un uomo intento a cucinare una strana fanghiglia in un pentolone. Dalle grotte poco distanti giungono delle voci: sono dei turisti di città venuti a visitare le grotte. L'uomo che cucina sulla riva li scaccia via i…]]></summary>
+        <author>
+            <name>ARCIPELAGO CELESTE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disinfestatore di Fate // un background e una creatura per Troika!]]></title>
         <id>https://dismastersden.blogspot.com/2024/03/disinfestatore-di-fate-un-background-e.html</id>
