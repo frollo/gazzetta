@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-09T10:09:27.338Z</updated>
+    <updated>2024-03-09T12:12:59.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Altro passo verso i minimali: Chrypt]]></title>
+        <id>https://autarkikagdr.blogspot.com/2024/03/altro-passo-verso-i-minimali-chrypt.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2024/03/altro-passo-verso-i-minimali-chrypt.html"/>
+        <updated>2024-03-09T11:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Buongiorno a tutti,
+continuiamo la carrellata di giochi minimali con un altro prodotto interessante: Chrypt.
+il gioco è scritto da Fedmar che ha creato un gioco prendendo come esempio Cairn e Hack and Slash.
+le influenze non sono velate, anzi vengono espresse apertamente dall'autore.
+Il gioco presenta molte tabelle create per generare sia i personaggi e sia la cripta da esplorare, inoltre vengono inseriti alcuni suggerimenti su come gestire le avventure.
+come sempre vi consiglio di scaricarlo e di supportare l'autore.
+a presto
+@threeballs]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bastardi a Dolmenwood, Sessione XIV]]></title>
         <id>https://arcipelagoceleste.blogspot.com/2024/03/bastardi-dolmenwood-sessione-xiv.html</id>
