@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-09T22:07:48.210Z</updated>
+    <updated>2024-03-10T00:40:44.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1322,28 +1322,6 @@ Sicurezza: di finire la sfida. Cambiare spesso ambientazione dovrebbe ridurre la
 P…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mothership S04 - La Heracles]]></title>
-        <id>https://dismastersden.blogspot.com/2024/01/mothership-s04-la-heracles.html</id>
-        <link href="https://dismastersden.blogspot.com/2024/01/mothership-s04-la-heracles.html"/>
-        <updated>2024-01-10T10:32:00.004Z</updated>
-        <summary type="html"><![CDATA[Continua la campagna di Mothership. La sessione precedente sta qui, mentre qui c'è l'inizio della campagna.
-
-
-
-
-Mothership S04 - La Heracles
-
-
-Personaggi Presenti: BoB (Androide), Kerry (Teamster), Komin (Teamster), Rosa D'Amelia (Marine), John (Scienziato)
-
-
-
-La tessera di controllo di Sonia è nel suo alloggio, e per poter sbloccare gli airlock ed eventualmente distruggere l’asteroide è necessaria, così come le password che vista la situazione comunica a tutto il gruppo. Un terminale è nell’area lavoro vicino alle zone sensibili dell’operazione, così da poter fare tutto senza allontanarsi troppo gli uni dagli altri. Rosa suggerisce che non è opportuno al momento tagliare l’airlock e che è meglio recuperare la tessera, quindi tutto il gruppo si dirige verso la mensa controllando con i viso…]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
