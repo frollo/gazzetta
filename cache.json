@@ -264,7 +264,18 @@
       "title": "I CANCELLI DI HELLWINTER",
       "feedUrl": "https://hellwinter.blogspot.com/feeds/posts/default",
       "siteUrl": "https://hellwinter.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://hellwinter.blogspot.com/2024/03/in-north-of-every-mans-heart.html",
+          "author": null,
+          "description": "Talking about RPGs, I was always fond of tiny, simple stories! Short adventures, small worlds, few lines of background. They are my favourites.\nWhy? Well, partly because I am a lazy player and a lazier DM. Give me too many details, too many things to remember or to take into account, a world too wide to stage my stories in, and I feel thin like butter scraped over too much bread. But also because I love filling in the blanks to make the gaming world mine. I love going in depth rather than in width.\nI am not talking about width in a geographical sense; I like adventures presenting several changes in scenery. Adventures that let you travel from deserts to mountains, from plains to seas, from ancient crypts to forlorn battlefields. But I want them to be nothing more than sceneries; I want the…",
+          "link": "https://hellwinter.blogspot.com/2024/03/in-north-of-every-mans-heart.html",
+          "publishedOn": "2024-03-11T08:56:00.000Z",
+          "wordCount": 3387,
+          "title": "In the North of every Man's Heart",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx15nY0FRDRWRbIbWhDilTMV8lECc6Jh6JDkhcR8KDDSvlpe6hUCK8GlFvve7WyCc9nee6FazVL0a1q-GLpolUs6mOWnjqKDDDf7tKqPTITgQAbRDcKJ6qAzAtbEkw1kWvE7m0tg2JYqBdk21HWfA_mQs6jbVLJL_Pi1ksx4vL6LUh0xhTsiv20ckPWoex/w1200-h630-p-k-no-nu/Screenshot%202024-02-21%20alle%2008.47.11.png"
+        }
+      ]
     },
     {
       "title": "Say Friends and Play",

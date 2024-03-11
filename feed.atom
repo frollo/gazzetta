@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-11T08:11:33.192Z</updated>
+    <updated>2024-03-11T10:10:41.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In the North of every Man's Heart]]></title>
+        <id>https://hellwinter.blogspot.com/2024/03/in-north-of-every-mans-heart.html</id>
+        <link href="https://hellwinter.blogspot.com/2024/03/in-north-of-every-mans-heart.html"/>
+        <updated>2024-03-11T08:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Talking about RPGs, I was always fond of tiny, simple stories! Short adventures, small worlds, few lines of background. They are my favourites.
+Why? Well, partly because I am a lazy player and a lazier DM. Give me too many details, too many things to remember or to take into account, a world too wide to stage my stories in, and I feel thin like butter scraped over too much bread. But also because I love filling in the blanks to make the gaming world mine. I love going in depth rather than in width.
+I am not talking about width in a geographical sense; I like adventures presenting several changes in scenery. Adventures that let you travel from deserts to mountains, from plains to seas, from ancient crypts to forlorn battlefields. But I want them to be nothing more than sceneries; I want the…]]></summary>
+        <author>
+            <name>I CANCELLI DI HELLWINTER</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Altro passo verso i minimali: Chrypt]]></title>
         <id>https://autarkikagdr.blogspot.com/2024/03/altro-passo-verso-i-minimali-chrypt.html</id>
