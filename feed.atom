@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-12T22:07:47.385Z</updated>
+    <updated>2024-03-13T00:38:07.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1271,42 +1271,6 @@ Dopo la Caduta degli Dei la grande Capitale Imperiale cadde in rovina. É ormai 
 Se devi avventurarti ne…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy birthday, Mr. Clark Ashton Smith]]></title>
-        <id>https://castellochimerico.blogspot.com/2024/01/happy-birthday-mr-clark-ashton-smith.html</id>
-        <link href="https://castellochimerico.blogspot.com/2024/01/happy-birthday-mr-clark-ashton-smith.html"/>
-        <updated>2024-01-13T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[He who has trod the shadows of Zothique
-And looked upon the coal-red sun oblique,
-Henceforth returns to no anterior land,
-But haunts a later coast
-Where cities crumble in the black sea-sand
-And dead gods drink the brine.
-
-
-He who has known the gardens of Zothique
-Were bleed the fruits torn by the simorgh's beak,
-Savors no fruit of greener hemispheres:
-In arbors uttermost,
-In sunset cycles of the sombering years,
-He sips an amaranth wine.
-
-
-He who has loved the wild girls of Zothique
-Shall not come back a gentler love to seek,
-Nor know the vampire's from the lover's kiss:
-For him the scarlet ghost
-Of Lilith from time's last necropolis
-Rears amorous and malign.
-
-
-He who has sailed in galleys of Zothique
-And seen the looming of strange spire and peak,
-Must face again the sorcerer-sent typhoon…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
