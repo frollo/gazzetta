@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-16T16:08:41.924Z</updated>
+    <updated>2024-03-16T18:10:03.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1186,47 +1186,6 @@ Ma per provare almeno un minimo a dare un po' di contesto, la mia tesi è, in bu
 Problema: se ognuno si inventa e usa la sua definizion…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monster treasure for Cairn! R-T]]></title>
-        <id>https://scrtgm.blogspot.com/2024/01/rat-giant-lair-600-gp-something-from.html</id>
-        <link href="https://scrtgm.blogspot.com/2024/01/rat-giant-lair-600-gp-something-from.html"/>
-        <updated>2024-01-17T04:22:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s a 1in6 chance for each individual in an encountered group to carry a piece of treasure.
-Unless indicated otherwise, each piece of treasure occupies one slot. Relics and other powerful items are invaluable.
-Roll before the encounter happens, cause some of the treasure may be useful to the NPCs. 
-
-Rat, giant
-Lair:
-
-
-600 gp
-Something from the gnome treasure table
-Broken drum (1 gp)
-A chewed-on book about rodents, illegible (1 gp)
-A chewed leather coat (1 gp)
-
-
-
-Rhagodessa
-Lair:
-
-
-Rhagodessa web: extremely fine but sturdy, can be sold as decoration (100 gp)
-A flea-infested waggy-tailed friend who was about to become dinner
-Diamond of excellent quality (30k gp)
-
-
-
-Roc
-Nest: Roc Egg, bejeweled (6 slots. 1.5k gp)
-
-
-Rock Baboon
-Whipping around some Devil’s Tongue, a kind of plant: the stem…]]></summary>
-        <author>
-            <name>The Secret Game - Il Gioco Segreto</name>
         </author>
     </entry>
 </feed>
