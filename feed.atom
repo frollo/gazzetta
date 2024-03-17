@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-17T14:06:46.156Z</updated>
+    <updated>2024-03-17T16:08:58.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Witchlight - settimana 3]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-3.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-3.html"/>
+        <updated>2024-03-17T15:47:00.000Z</updated>
+        <summary type="html"><![CDATA[4: Chi è l'incantatrice o incantatore più potente di queste parti?
+Esclusi i re e le regine delle Corti Stagionali, sicuramente Zybilna, la signora arcifatata di Prismeer. Zybilna, fata madrina e protettrice dei bambini e di chi soffre a causa delle maledizioni, possiede formidabili poteri magici, che ad esempio le consentono di esaudire dei desideri, trasformare e trasformarsi. C'è chi dice che in origine fosse una grande incantatrice mortale, e che sia tutt'ora in possesso di capacità di natura tenebrosa che mal si accordano con la sua attuale posizione. 
+Spunto di avventura: alcune Lamie si aggirano per Prismeer o addirittura nei pressi del Castello del Desiderio Recondito. Cosa vorranno?
+5: Chi è la (o il) combattente più forte di queste parti? 
+Esclusi i Sovrani e le Sovrane delle Cor…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mothership S09 - Secondo me dovremmo sparargli...]]></title>
         <id>https://dismastersden.blogspot.com/2024/03/mothership-s09-secondo-me-dovremmo.html</id>
