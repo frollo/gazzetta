@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-21T10:08:54.468Z</updated>
+    <updated>2024-03-21T12:14:16.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1151,24 +1151,6 @@ To the brave one who brings Chyde's ring to me.
 I'm not a native speaker. If you can improve the rhymes or the metrics, please leave a comment. Every contribution is welcome :)]]></summary>
         <author>
             <name>Soron Archives</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La letteratura e i multiclasse di dnd]]></title>
-        <id>https://autarkikagdr.blogspot.com/2024/01/la-letteratura-e-i-multiclasse-di-dnd.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2024/01/la-letteratura-e-i-multiclasse-di-dnd.html"/>
-        <updated>2024-01-21T23:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Immagine realizzata con Bing.
-
-Buongiorno a tutti,
-
-vorrei rendervi partecipi delle mie riflessioni riguardo all'introduzione dei personaggi multiclasse o biclasse nei primi giochi di ruolo, in particolare dnd.
-Da qualche tempo stavo ragionando riguardo ai collegamenti tra la letteratura e gioco di ruolo, casualmente stavo discutendo scherzosamente sulla figura letteraria di Conan il barbaro nel mondo dei miti di chtulhu.
-Proprio il personaggio di Conan il Cimmero mi ha ispirato a scrivere questo piccolo articolo riguardanti i personaggi multiclasse in dnd .
-Iniziamo col dire, che le prime edizioni del gioco erano ispirate principalmente al genere letterario dello Sword and Sorcery in voga all'inizio del ventesimo secolo.
-La componente "tolkieniana" non era preponderante e si trovavano var…]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
