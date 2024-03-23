@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-23T16:09:00.241Z</updated>
+    <updated>2024-03-23T18:09:24.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1088,69 +1088,6 @@ SPECIALE
 Appena ti metti comodo arriva sempre qualche turista interdimensionale a rompere.. le Sfere! Sarai vittima di una maledizione?]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Symbiotic flesh garden]]></title>
-        <id>https://soronarchives.blogspot.com/2024/01/symbiotic-flesh-garden.html</id>
-        <link href="https://soronarchives.blogspot.com/2024/01/symbiotic-flesh-garden.html"/>
-        <updated>2024-01-24T05:57:00.004Z</updated>
-        <summary type="html"><![CDATA[This is a resource for Dolmenwood by Gavin Norman (Necrotic Gnome & Exalted Funeral) - https://necroticgnome.com/pages/about-dolmenwood 
-
-One of my Mossling players is a biologist by trade. She is trying to exploit Symbiotic flesh to grow useful mushrooms on her character's shins. This is a short ark, therefore I am not too worried about long-term imbalances. This was my ruling.
-
-To start you need to experiment. I require 3 successful wisdom checks to attempt to implant mushrooms in your flesh. Every attempt cost a portion of fresh mushrooms and 2 hours of work.
-
-
-
-Once passed the experimental phase, you can implant any kind of mushroom in your shins. This required a portion of the desired kind of mushroom and one hour of uninterrupted work. 
-
-You will consume double rations for the day and need to attempt a wisdom check. 
-
-A natural 1 means that you inflict yourself 1d4 damage
-
-A successful roll allows you to collect 1d4 portion of the implated mushroom on the following day.
-
-Any idea how to improve it?]]></summary>
-        <author>
-            <name>Soron Archives</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snowfall-at-dusk's lamentation]]></title>
-        <id>https://soronarchives.blogspot.com/2024/01/snowfall-at-dusks-lamentation.html</id>
-        <link href="https://soronarchives.blogspot.com/2024/01/snowfall-at-dusks-lamentation.html"/>
-        <updated>2024-01-24T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a resource for Dolmenwood and Winter's Daughter by Gavin Norman (Necrotic Gnome & Exalted Funeral) - https://necroticgnome.com/pages/about-dolmenwood
-
-I like to use Winter's Daughter for short arks and as an introductory quest to Dolmenwood. I used a magician (Mostlemyre Drouge - Prigwort, HEX 1106) as a quest giver - he wants the enchanted ring and offers a significant amount of GP for it, enough to allow the group to level up.
-
-
-Given this incentive to take the ring to him, I need to communicate to the players that there is someone else who wants that ring very badly and is ready to pay well. When a fay is involved visions and prophetic dreams are automatically called for and a short poem could be the right medium to communicate Snowfall-at-dusk's plea.
-
-
-In Frigia's embrace, I lonely stand, 
-Snowfall-at-dusk, princess of this land. 
-Sir Chyde, my love, yet to arrive, 
-In the dance of frost, our destinies strive. 
-
-
-Nine centuries weave a tapestry of sighs, 
-Silent longing beneath frozen skies. 
-Chyde's ring, a promise, our fate's true key, 
-A pledge unfulfilled, in waiting, I plea.  
-
-
-Through realms unknown, my heart unfolds, 
-For a true seeker, in tales yet untold. 
-Riches and dreams, I offer with glee, 
-To the brave one who brings Chyde's ring to me.
-
-
-
-I'm not a native speaker. If you can improve the rhymes or the metrics, please leave a comment. Every contribution is welcome :)]]></summary>
-        <author>
-            <name>Soron Archives</name>
         </author>
     </entry>
 </feed>
