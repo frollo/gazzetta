@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-24T12:14:23.326Z</updated>
+    <updated>2024-03-24T14:06:59.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aprile - I Cadaveri]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/703037/aprile-i-cadaveri</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/703037/aprile-i-cadaveri"/>
+        <updated>2024-03-24T13:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Che voi vogliate usare la mossa "Weekend con il morto" nelle profondità del dungeon, capire come estrarre la ghiandola del fuoco dal corpo di un drago o diventare potenti necromanti, il Vecchio Carne...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Una fata-strega e una strega-fata per il vecchio carnevale blogghereccio]]></title>
         <id>https://castellochimerico.blogspot.com/2024/03/una-fata-strega-e-una-strega-fata-per.html</id>
