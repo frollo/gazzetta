@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-26T10:10:03.039Z</updated>
+    <updated>2024-03-26T12:15:25.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Witchlight - settimana 4]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-4.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-4.html"/>
+        <updated>2024-03-26T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[10 Dove posso trovare un'alchimista, un saggio o un'altra PNG esperta in qualche campo specifico? 
+La strega Skabata Scuranotte (alias Nonna Nottescura) era nota per la sua perizia nell'alchimia e nella creazione di pozioni, ma ora è stata trasformata in un secchio. Zybilna stessa è sicuramente dotata di grande sapienza in molti campi dello scibile, ma se non si vuole disturbare lei, ci sono il suo bibliotecario Shon (un umano di mezz'età sempre in compagnia del ragno lupo gigante chiamato Gray) e il suo segretario e biografo, il Nano Kalimanzaros, quest'ultimo proveniente da un mondo non meglio specificato in cui la sua specie si occupa abbastanza spesso di magia. La Druida Tsu Harabax (vedi domanda 13) è molto esperta di funghi, piante e animali.
+11 Dove posso reclutare dei mercenari? 
+I…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fate dinamitarde e Streghe col revolver: fuorilegge per Terror Target Gemini + Avventura per TTG]]></title>
         <id>https://calderonedeltroll.blogspot.com/2024/03/fate-dinamitarde-e-streghe-col-revolver.html</id>
