@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-29T10:09:28.055Z</updated>
+    <updated>2024-03-29T12:15:35.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Witchlight settimana 5 (in anticipo)]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-5-in.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-5-in.html"/>
+        <updated>2024-03-29T10:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Siccome domenica è festa e sarò via, anticipo a oggi il post settimanale della Lore 24!
+14 Ci sono mostri che terrorizzano i dintorni? Se riesco a ucciderli posso diventare famosa?
+Il mostro più pericoloso di queste parti è Dubhorghail la Fomora, una gigantessa malvagia esule dal Buio Fatato sotterraneo che si era installata nel Castello dei Desideri Reconditi e aveva divorato tutti i contenuti della dispensa. Dopo il ritorno di Zybilna è fuggita e ora è latitante, stranamente non si riesce a trovare (sarà aiutata da qualcuno?Magari dalla Regina Maev?). Ogni tanto compare e frega un sacco di cibo in giro (a volte mangia anche qualcuno). Chi la sconfiggesse avrebbe la gratitudine di Zybilna e degli abitanti di Prismeer
+15 Ci sono guerre in procinto di scoppiare o già scoppiate in cui posso …]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lore 24: Witchlight - settimana 4]]></title>
         <id>https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-4.html</id>
