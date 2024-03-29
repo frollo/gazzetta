@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-03-29T04:11:05.134Z</updated>
+    <updated>2024-03-29T06:11:07.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -1018,16 +1018,6 @@ Biolinfa, Signore della Guerra Korn, La Triarchia, Il Pozzo è Libero?, La Perdu
 Data la scarsità di nuclei ad alta energia, che compromette la sopravvivenza di molti artefatti tecnologici dell'età imperiale, i Savi di Tol Mara hanno cercato per lungo tempo una fonte energetica sostitutiva, trovandola alla fine nella materia organica vivente. Concentrando in grandi vasche le creature oceaniche invisibili ad occhio nudo e le alghe sono riusciti a produrre una sostanza dall'alto potenziale, chiamata biolinfa. L'aiuto dell'Arcanum, che ha propost…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Febbraio - Gli Specchi]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/673402/febbraio-gli-specchi</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/673402/febbraio-gli-specchi"/>
-        <updated>2024-01-29T16:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Dopo le Metropoli è giunto il tempo di perdersi in qualcosa di più strano e improbabile...uno specchio. Se avete intravisto strani mondi oltre quel sottile strato di vetro o se state studiando nei m...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
