@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-04-06T20:09:42.634Z</updated>
+    <updated>2024-04-06T22:07:16.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -859,32 +859,6 @@ Komin nel frattempo sta ancora piangendo, soffre un fortissimo disagio e vorrebb
 Tutti vogliono sopravvivere e vorrebbero partire subito, mentre Ko…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L'Allevatore di Vermi - Una classe per Rinascimento 2e WIP]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2024/02/lallevatore-di-vermi-una-classe-per.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2024/02/lallevatore-di-vermi-una-classe-per.html"/>
-        <updated>2024-02-07T09:44:00.004Z</updated>
-        <summary type="html"><![CDATA[L'Allevatore di Vermi
-Una classe per Rinascimento 2e
-Tu dai loro tutto e una volta cresciuti se ne vanno senza ringraziamenti. É un mestiere duro, ma non si può resistere a quegli occhietti iniettati di sangue.
-
-
-Nomi da Allevatore di Vermi: Berolfo, Agritto, Noreste, Eragone, Ramira, Ungara, Scottata
-
-Ps iniziali: 3 + Forza
-
-
-Bonus: +1 Ps
-Averi: un campanaccio per vermi (utilizzabile come un'arma piccola), un cucciolo preferito e una schola vermitoria
-Avanzamento casuale (tira un avanzamento ora e altri due ogni volta che sali di Livello, se il risultato è già uscito in precedenza guadagni nuovamente il numero 1)
-
-
-Miglioria: +1 ad una Statistica a scelta.
-Attenti al lupo. Puoi usare le tue conoscenze in fatto di bestie e mostri per impressionare qualcuno e convincerlo a fare a modo tuo. …]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
