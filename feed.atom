@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-04-09T10:09:49.050Z</updated>
+    <updated>2024-04-09T12:15:16.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lore 24: Witchlight - settimana 6]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/04/lore-24-witchlight-settimana-6.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/04/lore-24-witchlight-settimana-6.html"/>
+        <updated>2024-04-09T10:19:00.000Z</updated>
+        <summary type="html"><![CDATA[17: Esistono società segrete con piani sinistri che posso combattere o a cui mi posso unire?
+Skylla la fattucchiera è una nota criminale, truffatrice e maestra dei travestimenti, ex componente della Lega della malvagità. Questa donna machiavellica è stata risparmiata da Zybilna per il suo legame con Baba Yaga e l'abbandono della sua congrega. Ora si aggira per la palude del Giudiquà insieme al fantasma del Mezzorco assassino Zargash, pubblicizzando la "Lega per la Libertà" che sostiene la natura tirannica del governo di Zybilna. Il loro obiettivo è quello di rovesciare nuovamente Zybilna, e il loro piano principale riguarda ritrasformare le tre streghe della Congrega della Clessidra, che avevano imprigionato la loro sorella adottiva in stasi temporale.Finora hanno fatto pochi proseliti, in…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lore 24: Witchlight settimana 5 (in anticipo)]]></title>
         <id>https://castellochimerico.blogspot.com/2024/03/lore-24-witchlight-settimana-5-in.html</id>
