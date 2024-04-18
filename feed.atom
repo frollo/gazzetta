@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-04-17T22:08:12.361Z</updated>
+    <updated>2024-04-18T00:38:13.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -709,16 +709,6 @@ BoB controlla il bioscanner che mostra due forme di vita molto probabilmente all
 Bob …]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lore 24: Dala-Zala settimana 6 - Le divinità]]></title>
-        <id>https://castellochimerico.blogspot.com/2024/02/lore-24-dala-zala-settimana-6-le.html</id>
-        <link href="https://castellochimerico.blogspot.com/2024/02/lore-24-dala-zala-settimana-6-le.html"/>
-        <updated>2024-02-18T10:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Centinaia di anni fa le antiche divinità di Dala-Zala si affrontarono in una guerra che minacciò di squarciare i cieli, le acque e la terra con il fuoco e le folgori divine. I vecchi numi si distrussero l'uno con l'altro in questa lotta titanica e forse ciò fu un bene per le popolazioni della Terra d'Acqua e Pietra, poiché erano gelosi e pretendevano sacrifici di sangue. Alla morte degli dei il mondo si trovò in uno stato di caos in cui il sole alcune mattine sorgeva a Ovest o non sorgeva affatto, spettri e creature mostruose si aggiravano in pieno giorno e accadeva ogni tipo di fatto pericolosa e sgradevole, così un pungo di eroi si imbarcò in una ricerca disperata per trovare gli Inni dell'Ascesa, che racchiudono il potere di trascendere la propria immortalità, a prezzo di rinunciare all…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
