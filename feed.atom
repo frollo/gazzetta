@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-04-21T10:08:01.654Z</updated>
+    <updated>2024-04-21T12:14:43.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -661,29 +661,6 @@ Il Gatto e la Volpe. Conosci gente pessima ma capace alla quale puoi chiedere ai
 Mascherata. Una volta per sessione puoi impiegare un Quarto per modificare il tuo aspetto. Ciò ti permette di cambiare sesso, età e qualsiasi caratteristica corporea, ma non puoi assumere l'aspetto di…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le ombre del Castello di Shostim]]></title>
-        <id>https://perticadatremetri.blogspot.com/2024/02/le-ombre-del-castello-di-shostim.html</id>
-        <link href="https://perticadatremetri.blogspot.com/2024/02/le-ombre-del-castello-di-shostim.html"/>
-        <updated>2024-02-21T22:57:00.003Z</updated>
-        <summary type="html"><![CDATA[Informazioni di Base
-
-
-Pubblicato da Fumble GDR
-Gratuito in pdf, nessuna edizione fisica
-Per Fleaux! di Nigredo Press
-Scritto da Chiara Listo e Giuseppe Vitale
-Illustrazioni di Giangioff e mappe di Luca Furettodungeon
-Rilasciato (forse) con licenza CC BY-NC-SA (4.0?)
-Per 3-4 giocatori di livello 1+
-
-Presentazione e Descrizione
-
-Il Castello di Shostim è la residenza del Re del Rethem. Siamo sul finire dell’estate, nel mese di Kelen dell’anno 720. Tutti i personaggi, legati alla Corona da un filo indissolubile, vengono chiamati al Castello dal Conestabile Sir Erych Kasta che, preoccupato, li assolda per una missione pericolosa e fondamentale. Dovranno scoprire perché il castello è invaso da spiriti, capire cosa ha causato questa infestazione e trovare il Cappellano del Re, Malgai di Tergas, …]]></summary>
-        <author>
-            <name>perticadatremetri</name>
         </author>
     </entry>
 </feed>
