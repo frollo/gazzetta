@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-04-24T04:10:28.585Z</updated>
+    <updated>2024-04-24T06:12:46.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -682,35 +682,6 @@ Mentre le meccaniche rimangono mo…]]></summary>
 2: Laya La Strega Bianca del Lago di Khara, giovane e bella, di solito molto gentile ma non criticate il suo abbigliamento! Ha inventato l'incantesimo Luce Bianca, che…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Marionetta - Una Classe per Rinascimento 2e WIP]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2024/02/la-marionetta-una-classe-per.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2024/02/la-marionetta-una-classe-per.html"/>
-        <updated>2024-02-24T17:12:00.000Z</updated>
-        <summary type="html"><![CDATA[La Marionetta
-Una classe per Rinascimento 2e
-Sono una persona vera, io. Te l'assicuro. Ma ora allontana quel fiammifero.
-
-
-
-Ps iniziali: 1+ Forza
-
-
-Bonus: +1 Destrezza
-
-
-Averi: un manganello di legno, un angelo custode e un difetto di produzione
-
-
-Avanzamento casuale (tira un avanzamento ora e altri due ogni volta che sali di Livello, se il risultato è già uscito in precedenza guadagni nuovamente il numero 1)
-
-Miglioria: +1 ad una Statistica a scelta.
-Il Gatto e la Volpe. Conosci gente pessima ma capace alla quale puoi chiedere aiuto. Con 2-su-6 vieni orribilmente (e prevedibilmente) tradito.
-Mascherata. Una volta per sessione puoi impiegare un Quarto per modificare il tuo aspetto. Ciò ti permette di cambiare sesso, età e qualsiasi caratteristica corporea, ma non puoi assumere l'aspetto di…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
