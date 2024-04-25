@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-04-25T00:41:32.201Z</updated>
+    <updated>2024-04-25T02:20:31.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -636,27 +636,6 @@ Le situazioni sono molto aperte e possono essere risolte quasi sempre in vari mo
         <summary type="html"><![CDATA[Durante la mia campagna casalinga a Dolmenwood, uno dei Pg è morto nel tentativo di incendiare una melma nera particolarmente resistente. In questa occasione, un altro Pg ha deciso di lanciare l’incantesimo Trasmigrazione, contenuto in Wonder & Wickedness di Paolo Greco, per cercare di riportarla in vita. Questo il testo dell’incantesimo originale (tradotto approssimativamente): “Tramite questo incantesimo, lo stregone può raccogliere in dei vasi canopi gli organi di una persona appena morta. Avendo a disposizione i vasi e tutto l’armamentario necessario, può poi eseguire un rituale che dura tre giorni e tre notti e gli permette di materializzare un nuovo corpo attorno all'anima contenuta nel cervello e nelle viscere del deceduto. Il nuovo corpo deve essere determinato in modo casuale. Le …]]></summary>
         <author>
             <name>ARCIPELAGO CELESTE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demesne and Dominations]]></title>
-        <id>https://autarkikagdr.blogspot.com/2024/02/demesne-and-dominations.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2024/02/demesne-and-dominations.html"/>
-        <updated>2024-02-25T13:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Buonasera a tutti,
-il supplemento che vi presenterò tratta un argomento caro alla vecchia scuola: la gestione dei domini.
-Questa tipologia di manuale risulta essere molto rara, siccome viene utilizzata per un particolare stile di gioco correlato alle prime edizioni di dnd.
-Da parte mia ho sempre trovato la gestione dei domini affascinante e collegata alla natura stessa dei giochi di ruolo; nati proprio dai giochi di simulazione.
-Il manuale in questione (Demesnes & Domination) permette di gestire il vostro dominio, della vostra fortezza, il vostro esercito e l'aggiornamento delle vostre avventure correlandole a questa esperienza di gioco.
-tutto perfetto? no certo.
-Il manuale risulta molto confusionario, siccome la parte finale propone molte opzioni interessanti ma non collegate alla tipologia di manuale.
-Troverete nuove armi, nuove opzioni per le classi, alchimia, generatori di patroni e santi, nuove classi...... 
-Troppa roba insieme!
-Tuttavia mi sento di promuovere questo lavoro, siccome fornisce molti spunti interessanti; recuperatelo se gratis.
-alla prossima 
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
