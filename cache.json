@@ -486,6 +486,53 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi78QPGWh_McscgjFXtH9JqXzR2T6XM9r8Z990O0kzTe6mHEPIEmI5TCu4DBUVbQTAeopG0SbnG2gHA6OQYihyH58Tj9n7hgX3q9RM1KaihErSty9XB9piTQptZaCSm4144EVK6NWkhvBhqhoZ75ukWjswXv9U1izhSBiwNyhBkGswJOCwEHbuXRNVgGX4/w1200-h630-p-k-no-nu/art-drifting-dragons-kuutei-dragons-recommending-this-v0-j1y6oxecywu81.jpg"
         }
       ]
+    },
+    {
+      "title": "Dungeon Keys",
+      "feedUrl": "https://dungeon-keys.github.io/feed.xml",
+      "siteUrl": "https://dungeon-keys.github.io/",
+      "articles": [
+        {
+          "id": "https://dungeon-keys.github.io/posts/muffa_capra_verme/",
+          "author": null,
+          "description": "Ecco, ho fatto una cazzata. Ho chiuso il post precedente con un’anticipazione. Lo so, non è questo l’argomento del post, ma se non lo dico subito poi mi rimane sul gozzo quindi pazientate ancora un secondo. Allora, dovete sapere che il mio gut feeling non si attiva mai quando sto per fare qualcosa di catastrofico o di incredibilmente stupido. Il Signore mi scampi dall’avere un sesto sen...",
+          "link": "https://dungeon-keys.github.io/posts/muffa_capra_verme/",
+          "publishedOn": "2024-04-23T19:30:00.000Z",
+          "wordCount": 1212,
+          "title": "La Muffa la Capra il Verme",
+          "imageUrl": "https://dungeon-keys.github.io/assets/img/MCVheader.png"
+        },
+        {
+          "id": "https://dungeon-keys.github.io/posts/spark_soot_thanks/",
+          "author": null,
+          "description": "My friends, come senz’altro sapete sono di ritorno dall’edizione 2024 di Libera Ludum. Ora, io sono un tipo abbastanza abitudinario, uno che trova la propria stabilità anche imponendosi piccoli divieti. E questo, nel ridente ambito gidierristico, significa che solitamente… Non vado alle convention, e se ci vado… Non gioco alle convention, ma soprattutto… Non partecipo assolutamente ai co...",
+          "link": "https://dungeon-keys.github.io/posts/spark_soot_thanks/",
+          "publishedOn": "2024-03-18T13:00:00.000Z",
+          "wordCount": 968,
+          "title": "Sparks & Soot (and thanks)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dungeon-keys.github.io/posts/libera_ludum_2024/",
+          "author": null,
+          "description": "Un annuncio veloce veloce: sabato 16 marzo (e forse pure domenica 17) sarò a Sesto Fiorentino per Libera Ludum, l’evento annuale di quei lestofanti maledetti del Kraken. Il piano è semplice salutare un po’ di malandrini allungare la lista dei nemici giocare a Cairn dar mostra del mio lato peggiore in qualche gioco da tavolo (Root, Root, Root!) fare due birre a fine serata Ho anc...",
+          "link": "https://dungeon-keys.github.io/posts/libera_ludum_2024/",
+          "publishedOn": "2024-03-12T18:00:00.000Z",
+          "wordCount": 726,
+          "title": "Libera Ludum 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dungeon-keys.github.io/posts/gli_affamati_di_dhorme/",
+          "author": null,
+          "description": "Con questo post, ultima traduzione dal vecchio blog1, inauguriamo anche la categoria Adventure Seeds. Non avventure fatte e finite, ma spunti giocabili da espandere, alterare, saccheggiare. Un crocevia un po’ improvvisato tra adventure design e suggestioni varie. C’è un luogo, tra le Vette Pallide, dove le cime rocciose sembrano assediate da una vasta macchia di cedri secolari. Una torre d...",
+          "link": "https://dungeon-keys.github.io/posts/gli_affamati_di_dhorme/",
+          "publishedOn": "2024-03-05T19:00:00.000Z",
+          "wordCount": 2455,
+          "title": "Gli Affamati di Dhorme",
+          "imageUrl": "https://dungeon-keys.github.io/assets/img/adventure-header.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
