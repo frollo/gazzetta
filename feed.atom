@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-04-29T12:16:16.919Z</updated>
+    <updated>2024-04-29T14:09:36.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dungeon Keys: Guida Pratica]]></title>
+        <id>https://dungeon-keys.github.io/posts/istruzioni_per_uso/</id>
+        <link href="https://dungeon-keys.github.io/posts/istruzioni_per_uso/"/>
+        <updated>2024-04-29T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Questo è un post di servizio, di quelli che vengono linkati più volte e magari aggiornati di tanto in tanto. Al momento attuale Dungeon Keys conta la bellezza di sette post e, diciamoci la verità, non è che se ne senta il bisogno più di tanto. Però mi pare una buona idea, e se non lo faccio poi finisco per dimenticarmene. Guida Pratica alla lettura di Dungeon Keys 1. Categorie Sto cercando d...]]></summary>
+        <author>
+            <name>Dungeon Keys</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lore 24: Witchlight - settimana 8 - Gli Gnoles]]></title>
         <id>https://castellochimerico.blogspot.com/2024/04/lore-24-witchlight-settimana-8-gli.html</id>
