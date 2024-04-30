@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-04-30T08:11:29.259Z</updated>
+    <updated>2024-04-30T10:10:00.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maggio - I Bambini]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/723257/maggio-i-bambini</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/723257/maggio-i-bambini"/>
+        <updated>2024-04-30T08:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Rieccoci! L'Antro dello Shamano torna ad ospitare il Vecchio Carnevale Blogghereccio questo mese di Maggio proponendo come tema I Bambini Ospitato da L'Antro dello Shamano Il tema ci ricorda che il gi...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dungeon Keys: Guida Pratica]]></title>
         <id>https://dungeon-keys.github.io/posts/istruzioni_per_uso/</id>
