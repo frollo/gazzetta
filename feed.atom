@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-02T08:11:36.310Z</updated>
+    <updated>2024-05-02T10:10:06.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -547,22 +547,6 @@ In un castello fatto di cristallo azzurro, situato nella Selva fatata è nascost
         <summary type="html"><![CDATA[Febbraio è finito e siamo tutti riusciti ad uscire dallo specchio. Forse. Vi eviteremo il pericoloso viaggio con questa raccolta di bizzarrie riflettenti e miraggi speculari che vi permetteranno di p...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hack n Slash: una bella sorpresa!]]></title>
-        <id>https://autarkikagdr.blogspot.com/2024/03/hack-n-slash-una-bella-sorpresa.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2024/03/hack-n-slash-una-bella-sorpresa.html"/>
-        <updated>2024-03-03T21:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Buongiorno a tutti,
-per puro caso mi sono imbattuto in un progetto collegato ai giochi minimali: Hack n Slash
-Questa volta il gioco è stato tradotto da Davide Bellami e mi ha colpito molto, siccome sto scrivendo un regolamento molto simile nelle meccaniche.
-Vi consiglio di leggerlo e provarlo se amate i regolamenti minimali, un ottimo esempio di questo stile di gioco.
-Inoltre troverete anche: The Crypt of the Greythorne.....purtroppo non in Italiano!
-restate collegati...sto spulciando altro materiale simile!
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
