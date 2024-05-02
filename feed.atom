@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-02T20:09:51.607Z</updated>
+    <updated>2024-05-02T22:08:51.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -537,16 +537,6 @@ Come non sapete cosa è il Carnevale? Ma cliccate subito sul link per capire di 
 In un castello fatto di cristallo azzurro, situato nella Selva fatata è nascosta una copia particolare del Demonicus, il grimorio della strega Tasha, che contiene incantesimi e informazion…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gli Specchi - Raccolta di Febbraio]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/692214/gli-specchi-raccolta-di-febbraio</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/692214/gli-specchi-raccolta-di-febbraio"/>
-        <updated>2024-03-04T08:44:57.000Z</updated>
-        <summary type="html"><![CDATA[Febbraio è finito e siamo tutti riusciti ad uscire dallo specchio. Forse. Vi eviteremo il pericoloso viaggio con questa raccolta di bizzarrie riflettenti e miraggi speculari che vi permetteranno di p...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
