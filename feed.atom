@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-03T08:11:00.229Z</updated>
+    <updated>2024-05-03T10:09:31.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -514,16 +514,6 @@ Questo è il mio contributo per il Vecchio Carnevale Blogghereccio di Marzo 2024
 Come non sapete cosa è il Carnevale? Ma cliccate subito sul link per capire di che si tratta e poi correte a scrivere anche voi un contributo per la community italiana di giochi di ruolo!]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pregenerati per Crescent B/X (liberamente ispirati a Drifting Dragons)]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2024/02/pregenerati-per-crescent-bx-drifting.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2024/02/pregenerati-per-crescent-bx-drifting.html"/>
-        <updated>2024-03-04T20:35:00.001Z</updated>
-        <summary type="html"><![CDATA[Sei personaggi pregenerati per Crescent B/X, i ritratti sono presi dall'anime Drifting Dragons.]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
