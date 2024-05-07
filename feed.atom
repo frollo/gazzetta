@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-06T22:08:51.802Z</updated>
+    <updated>2024-05-07T00:39:49.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -347,27 +347,6 @@ a presto
 @threeballs]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bastardi a Dolmenwood, Sessione XIV]]></title>
-        <id>https://arcipelagoceleste.blogspot.com/2024/03/bastardi-dolmenwood-sessione-xiv.html</id>
-        <link href="https://arcipelagoceleste.blogspot.com/2024/03/bastardi-dolmenwood-sessione-xiv.html"/>
-        <updated>2024-03-08T11:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Le grotte incandescenti, III
-
-Pg presenti: Uga, Rama, Grouch, Nigel
-
-Indice delle Sessioni 
-
-
-Frisk, 12 di Iggwyld - Sesto mese dell’anno 1532 - Primavera calante
-
-Nella tarda mattinata i bastardi proseguono l'esplorazione delle grotte. Illuminando l'ingresso di quello che sembra essere un antico tempio scoprono 5 porte in pietra sui lati del corridoio. Sulle porte ci sono delle targhe d'ottone con scritto: “Signore della Melma”, “Signore della Dissoluzione”, “Signore della Fanghiglia”, "Sig... del... Gel...”. Una delle porte è senza targa.
-
-Esplorano la stanza del Signore della melma e la trovano piena di gelatina trasparente. Scavando con attenzione riescono a recuperare alcuni oggetti, tra cui un cofanetto che contiene una pergamena di Charme su melme e fanghiglie. Mentre sono impegnati…]]></summary>
-        <author>
-            <name>ARCIPELAGO CELESTE</name>
         </author>
     </entry>
 </feed>
