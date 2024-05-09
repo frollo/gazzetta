@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-09T16:10:38.250Z</updated>
+    <updated>2024-05-09T18:09:19.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recensione: The Old Chapel of the Candle Lich]]></title>
+        <id>https://oicn.icu/2024/Recensione-The-Old-Chapel-of-the-Candle-Lich/</id>
+        <link href="https://oicn.icu/2024/Recensione-The-Old-Chapel-of-the-Candle-Lich/"/>
+        <updated>2024-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Sto scrivendo molto poco sul blog, che è un po’ un peccato, e sto giocando un sacco di roba senza recensirla davvero, che è un altro peccato perché le recensioni sono un ottimo modo di scoprire cose interessanti da giocare. Quindi, ho deciso di iniziare a pubblicarle più spesso. Tanto ho un bel backlog di cose di cui parlare.</p>
+<p>Oggi si parte con un dungeon breve e molto estetico, che mi ha divertito un macello portare qualche mese fa a <a href="https://salsoludix.it/">Salso Ludix</a> (t’è ci mettiamo anche la pubblicità a un bell’evento): <a href="https://hairic.itch.io/the-old-chapel-of-the-candle-lich">The Old Chapel of the Candle Lich</a>, di <a href="https://hairic.itch.io/">Hairic Lilred</a>.</p>
+<span id="more"></span>
+
+<p>The Old Chapel è un dungeon piuttosto semplice, basat…]]></summary>
+        <author>
+            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Progess Clock o Orologi di Progressione, una meccanica interessante.]]></title>
         <id>https://autarkikagdr.blogspot.com/2024/05/progess-clock-o-orologi-di-progressione.html</id>
