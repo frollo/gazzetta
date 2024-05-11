@@ -73,9 +73,9 @@
       "articles": []
     },
     {
-      "title": null,
+      "title": "Ruling With Archangels",
       "feedUrl": "https://archangelruling.blogfree.net/rss.php?f=1158479",
-      "siteUrl": null,
+      "siteUrl": "https://archangelruling.blogfree.net/?f=1158479",
       "articles": []
     },
     {
@@ -409,16 +409,6 @@
           "publishedOn": "2024-03-18T13:00:00.000Z",
           "wordCount": 968,
           "title": "Sparks & Soot (and thanks)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dungeon-keys.github.io/posts/libera_ludum_2024/",
-          "author": null,
-          "description": "Un annuncio veloce veloce: sabato 16 marzo (e forse pure domenica 17) sarò a Sesto Fiorentino per Libera Ludum, l’evento annuale di quei lestofanti maledetti del Kraken. Il piano è semplice salutare un po’ di malandrini allungare la lista dei nemici giocare a Cairn dar mostra del mio lato peggiore in qualche gioco da tavolo (Root, Root, Root!) fare due birre a fine serata Ho anc...",
-          "link": "https://dungeon-keys.github.io/posts/libera_ludum_2024/",
-          "publishedOn": "2024-03-12T18:00:00.000Z",
-          "wordCount": 726,
-          "title": "Libera Ludum 2024",
           "imageUrl": null
         }
       ]

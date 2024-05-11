@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-11T04:10:07.252Z</updated>
+    <updated>2024-05-11T06:10:45.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -322,16 +322,6 @@ PhD (Scienziato)
 Il gruppo decide di controllare l’ultima porta (il portellone della camera stagna a NO) rimasta prima di cercare dei mezzi di trasporto per raggiungere il localizzatore di Hinton. I due marine di scorta, assieme a Anny e Rosa, si posizionano in formazione di tiro di fronte alla porta prima di aprirla. Anny ha paura (Tiro di Paura: 99 → fallito di brutto, ma Panico evitato) e Kerry apre la porta, mentre l’ultimo marine di scorta rimane in chiusura per chiudere…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libera Ludum 2024]]></title>
-        <id>https://dungeon-keys.github.io/posts/libera_ludum_2024/</id>
-        <link href="https://dungeon-keys.github.io/posts/libera_ludum_2024/"/>
-        <updated>2024-03-12T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Un annuncio veloce veloce: sabato 16 marzo (e forse pure domenica 17) sarò a Sesto Fiorentino per Libera Ludum, l’evento annuale di quei lestofanti maledetti del Kraken. Il piano è semplice salutare un po’ di malandrini allungare la lista dei nemici giocare a Cairn dar mostra del mio lato peggiore in qualche gioco da tavolo (Root, Root, Root!) fare due birre a fine serata Ho anc...]]></summary>
-        <author>
-            <name>Dungeon Keys</name>
         </author>
     </entry>
 </feed>
