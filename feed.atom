@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-16T20:09:01.479Z</updated>
+    <updated>2024-05-16T22:09:10.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -323,22 +323,6 @@ Si dice che, quando Myra fece esplodere la fortezza Konigreich di Jernborg, tutt
         <summary type="html"><![CDATA[My friends, come senz’altro sapete sono di ritorno dall’edizione 2024 di Libera Ludum. Ora, io sono un tipo abbastanza abitudinario, uno che trova la propria stabilità anche imponendosi piccoli divieti. E questo, nel ridente ambito gidierristico, significa che solitamente… Non vado alle convention, e se ci vado… Non gioco alle convention, ma soprattutto… Non partecipo assolutamente ai co...]]></summary>
         <author>
             <name>Dungeon Keys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Una fata-strega e una strega-fata per il vecchio carnevale blogghereccio]]></title>
-        <id>https://castellochimerico.blogspot.com/2024/03/una-fata-strega-e-una-strega-fata-per.html</id>
-        <link href="https://castellochimerico.blogspot.com/2024/03/una-fata-strega-e-una-strega-fata-per.html"/>
-        <updated>2024-03-18T09:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Eccovi il mio secondo contributo per il Vecchio carnevale blogghereccio del mese di marzo, a tema Fate & Streghe: due background per Cairn, con un po' di roba in più stile second edition. Per quanto le parole strega e fata in Italiano siano di genere femminile,  tali personaggi possono essere di qualsiasi genere. Basti pensare al Witch King of Angmar di tolkieniana memoria o all'antica parola francese "fé" per indicare il maschile di fée, cioè "fata" esistente in tempi più recenti anche nella forma "homme fée" (uomo-fata).
-
-
-
-
-Falsa Fata
-Alcune streghe maligne e altri incantatori legati alle tenebre a volte hanno una crisi di coscienza, o semplicemente si stufano di essere odiati e temuti ovunque vadano. Tali personaggi si recano presso il Dominio di una Signora Arcifatata della Corte Cont…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
