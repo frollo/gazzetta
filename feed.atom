@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-17T00:40:46.617Z</updated>
+    <updated>2024-05-17T02:22:17.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -313,16 +313,6 @@ Si dice che, quando Myra fece esplodere la fortezza Konigreich di Jernborg, tutt
         <summary type="html"><![CDATA[Che voi vogliate usare la mossa "Weekend con il morto" nelle profondità del dungeon, capire come estrarre la ghiandola del fuoco dal corpo di un drago o diventare potenti necromanti, il Vecchio Carne...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparks & Soot (and thanks)]]></title>
-        <id>https://dungeon-keys.github.io/posts/spark_soot_thanks/</id>
-        <link href="https://dungeon-keys.github.io/posts/spark_soot_thanks/"/>
-        <updated>2024-03-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My friends, come senz’altro sapete sono di ritorno dall’edizione 2024 di Libera Ludum. Ora, io sono un tipo abbastanza abitudinario, uno che trova la propria stabilità anche imponendosi piccoli divieti. E questo, nel ridente ambito gidierristico, significa che solitamente… Non vado alle convention, e se ci vado… Non gioco alle convention, ma soprattutto… Non partecipo assolutamente ai co...]]></summary>
-        <author>
-            <name>Dungeon Keys</name>
         </author>
     </entry>
 </feed>
