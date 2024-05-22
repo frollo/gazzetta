@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-22T06:12:42.646Z</updated>
+    <updated>2024-05-22T08:12:35.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1d8 Tesori draconici alternativi]]></title>
+        <id>https://archangelruling.blogfree.net/?t=6507370#lastpost</id>
+        <link href="https://archangelruling.blogfree.net/?t=6507370#lastpost"/>
+        <updated>2024-05-22T07:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Un preludio a Hic Sunt Draconem
+di: Barakiel]]></summary>
+        <author>
+            <name>Barakiel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recensione: Prison of the Hated Pretender]]></title>
         <id>https://oicn.icu/2024/Recensione-Prison-of-the-Hated-Pretender/</id>
