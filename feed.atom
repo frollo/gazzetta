@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-23T06:13:16.802Z</updated>
+    <updated>2024-05-23T08:11:58.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Le Strade]]></title>
+        <id>https://oicn.icu/2024/Vecchio-Carnevale-Blogghereccio-Le-Strade/</id>
+        <link href="https://oicn.icu/2024/Vecchio-Carnevale-Blogghereccio-Le-Strade/"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ed eccoci al nuovo <a href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio">Carnevale</a>! Siamo ormai al quarto anno consecutivo dell’iniziativa e alla mia quarta ospitata. Raccolgo il testimone da L’Antro dello Shamano che a Maggio ci ha ospitati <a href="https://antrodelloshamano.blogspot.com/2024/04/il-gioco-di-ruolo-e-i-bambini.html">parlando di bambini</a>, e rilancio con un nuovo tema: Le Strade!</p>
+<img src="/2024/Vecchio-Carnevale-Blogghereccio-Le-Strade/carnevale_blogghereccio.png" class="">
+<span id="more"></span>
+<h2 id="le-strade">Le Strade<a class="header-anchor" href="#le-strade">¶</a></h2>
+<p>Le strade sono uno di quegli elementi onnipresenti nella narrativa a cui si ispira gran parte dei GdR<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>. …]]></summary>
+        <author>
+            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CARTA CONTRO CARTA]]></title>
         <id>https://calderonedeltroll.blogspot.com/2024/05/carta-contro-carta.html</id>
