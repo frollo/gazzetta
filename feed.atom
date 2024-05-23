@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-23T02:23:14.913Z</updated>
+    <updated>2024-05-23T04:11:09.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -318,25 +318,6 @@ La strega Skabata Scuranotte (alias Nonna Nottescura) era nota per la sua perizi
 I…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fate dinamitarde e Streghe col revolver: fuorilegge per Terror Target Gemini + Avventura per TTG]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2024/03/fate-dinamitarde-e-streghe-col-revolver.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2024/03/fate-dinamitarde-e-streghe-col-revolver.html"/>
-        <updated>2024-03-24T15:02:00.001Z</updated>
-        <summary type="html"><![CDATA[Ecco il mio contributo per il Vecchio Carnevale Blogghereccio a tema...FATE & STREGHE! Ospitato da Il Castello Chimerico. Se non sapete cosa sia il Vecchio Carnevale Blogghereccio potete trovare qui il bando.
-
-
-
-
-
-Un gioco "fantasy western iperviolento e coloratissimo" come Terror Target Gemini ha bisogno di criminali all'altezza, e gli annali western conservano memoria di fuorilegge e pistolere come Annie Oakley o Belle Starr.
-
-Myra Maybelle Shirley "Red Star"
-Si dice che, quando Myra fece esplodere la fortezza Konigreich di Jernborg, tutto ciò che rimaste di quell'immane fortificazione fu un grande cratere incandescente a forma di stella. Secondo molti si tratterebbe di una sparata bella e buona, ma si astengono dal dire cose del genere quando Myra "Red Star" o uno dei suoi si trova nell…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
