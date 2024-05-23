@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-23T14:08:36.195Z</updated>
+    <updated>2024-05-23T16:11:41.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fate & Streghe - Raccolta di Febbraio (+ aggiornamenti)]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/736534/fate-streghe-raccolta-di-febbraio-aggiornamenti</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/736534/fate-streghe-raccolta-di-febbraio-aggiornamenti"/>
+        <updated>2024-05-23T14:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Se volete avventurarvi nelle oscure foreste o nei pantani infestati di nebbia (o tra le botteghe arcane della città di fronte a voi) vi servirà una guida. Il meglio che possiamo fare per voi e rende...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fate & Streghe: riepilogo del Vecchio Carnevale Blogghereccio 2024]]></title>
         <id>https://castellochimerico.blogspot.com/2024/05/fate-streghe-riepilogo-del-vecchio.html</id>
