@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-05-23T12:16:32.008Z</updated>
+    <updated>2024-05-23T14:08:36.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fate & Streghe: riepilogo del Vecchio Carnevale Blogghereccio 2024]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/05/fate-streghe-riepilogo-del-vecchio.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/05/fate-streghe-riepilogo-del-vecchio.html"/>
+        <updated>2024-05-23T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Eccoci giunti al riepilogo del Vecchio carnevale Bloghereccio del febbraio 2024, a tema Fate & Streghe
+Il Blog bellicoso ci parla delle streghe nel suo mondo di Eos. 
+La Fumeria dei Pensieri Incompiuti di Dismaster Frane ci presenta non uno ben due contributi, sotto forma di background per Troika!
+Dietro lo schermo ci spiega come rendere in D&D 5 la famosa Fata Turchina, nel caso volessimo ispirarci a lei per un personaggio
+Gregorio getta nel Calderone del Troll una coppia di fate / streghe armate e pericolose
+Invece nerdcoledì ci parla del finale della gradevolissima serie animata Owl House (attenzione agli spoiler)
+
+
+Ci sono poi i miei due contributi, qui sul Castello Chimerico:
+Un'avventura per Cairn basata su un castello fatato e un tomo stregonesco
+Due pacchetti di avventura per Cairn, ovviamente una fata e una strega... più o meno.
+
+
+Infine un po' di musica a tema: Cruel Sister nell'interpretazione dei Pentangle.
+Buona lettura!]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Le Strade]]></title>
         <id>https://oicn.icu/2024/Vecchio-Carnevale-Blogghereccio-Le-Strade/</id>
