@@ -402,7 +402,18 @@
       "title": "Gli gnoll hanno massacrato la mia famiglia",
       "feedUrl": "https://gnollmassacrofamiglia.blogspot.com/feeds/posts/default",
       "siteUrl": "https://gnollmassacrofamiglia.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://gnollmassacrofamiglia.blogspot.com/2024/06/in-cui-un-manipolo-di-gentiltizi-si.html",
+          "author": null,
+          "description": "In cui un manipolo di gentiltizi si ritrova in situazioni perniciose per fama e vil denaro. Basato (!) su DOGS IN THE VINEYARD.\nGDR per arbitro e 2+ giocatori. \nOgni giocatore si crea un gentiltizio dandogli un nome pomposo e scrivendo 3 tratti personali (possono essere tratti caratteriali, background lavorativi, caratteristiche fisiche/estetiche, abbigliamento, eventi significativi, oggetti che porta con se ecc, l'importante è che comunichino qualcosa del personaggio e che siano vagamente \"vintage\").\nEsempio: pugilista, camice da chirurgo, ho imparato a pilotare un biplano prima che a scrivere, veicolo monoposto motorizzato a vapore, frenologo.\n(un modo semplice è andare di Background lavorativo/evento significativo, abilità personale/tratto fisico e oggetto). Gli oggetti che un personagg…",
+          "link": "https://gnollmassacrofamiglia.blogspot.com/2024/06/in-cui-un-manipolo-di-gentiltizi-si.html",
+          "publishedOn": "2024-06-06T08:20:00.000Z",
+          "wordCount": 5540,
+          "title": "Untitled",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh7ebDNb_k1cMb2gO9bx2uUrfXGAwNIPYWLOKugKVSFs5fqyyCfLWOknoNS7fFzgcdcekQv1EJCLx47eKBQB0jkFg2iQb1QzIYU2XW5jBcrNNoYlVHG2xau_6Iq1Jh8YhwCuDMFKtiuoqrP0Ongq1xKpZkSCIfOmDpXGj3MD2Q4OXRNVvktzXUMjtNFxag=w1200-h630-p-k-no-nu"
+        }
+      ]
     },
     {
       "title": "Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io",

@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-06-06T08:12:12.655Z</updated>
+    <updated>2024-06-06T10:09:58.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://gnollmassacrofamiglia.blogspot.com/2024/06/in-cui-un-manipolo-di-gentiltizi-si.html</id>
+        <link href="https://gnollmassacrofamiglia.blogspot.com/2024/06/in-cui-un-manipolo-di-gentiltizi-si.html"/>
+        <updated>2024-06-06T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[In cui un manipolo di gentiltizi si ritrova in situazioni perniciose per fama e vil denaro. Basato (!) su DOGS IN THE VINEYARD.
+GDR per arbitro e 2+ giocatori. 
+Ogni giocatore si crea un gentiltizio dandogli un nome pomposo e scrivendo 3 tratti personali (possono essere tratti caratteriali, background lavorativi, caratteristiche fisiche/estetiche, abbigliamento, eventi significativi, oggetti che porta con se ecc, l'importante è che comunichino qualcosa del personaggio e che siano vagamente "vintage").
+Esempio: pugilista, camice da chirurgo, ho imparato a pilotare un biplano prima che a scrivere, veicolo monoposto motorizzato a vapore, frenologo.
+(un modo semplice è andare di Background lavorativo/evento significativo, abilità personale/tratto fisico e oggetto). Gli oggetti che un personagg…]]></summary>
+        <author>
+            <name>Gli gnoll hanno massacrato la mia famiglia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La mia campagna di Household e ciò che ho imparato giocandola.]]></title>
         <id>https://castellochimerico.blogspot.com/2024/06/la-mia-campagna-di-household-e-cio-che.html</id>
