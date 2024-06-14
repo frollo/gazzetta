@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-06-14T14:10:13.546Z</updated>
+    <updated>2024-06-14T16:10:51.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Bambini - Raccolta di Maggio]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/748923/i-bambini-raccolta-di-maggio</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/748923/i-bambini-raccolta-di-maggio"/>
+        <updated>2024-06-14T15:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Ecco la raccolta del Vecchio Carnevale Blogghereccio di Maggio, a tema I Bambini Ulteriori pensieri sul gioco di ruolo e l'infanzia, ma anche tante avventure. Date un'occhiata! E già che partite all'...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Cadaveri - Raccolta di Aprile]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/748917/i-cadaveri-raccolta-di-aprile</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/748917/i-cadaveri-raccolta-di-aprile"/>
+        <updated>2024-06-14T15:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Sotto terra potete trovare, bella fredda, la raccolta dei contributi di Marzo. Prendete la vanga ed esplorate i post a tema... I Cadaveri...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mothership S14 - Il Tuono Prima della Tempesta]]></title>
         <id>https://dismastersden.blogspot.com/2024/06/mothership-s14-la-tempesta-prima-della.html</id>
