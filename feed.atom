@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-06-20T04:10:59.708Z</updated>
+    <updated>2024-06-20T06:13:11.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -540,20 +540,6 @@ Il gruppo decide di scendere nel laboratorio per cercare Hinton e il team che lo
 Nell’hangar ci sono armi e munizioni, ma Valdez non ha intenzione di dare niente dic…]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lore 24: Witchlight - settimana 7]]></title>
-        <id>https://castellochimerico.blogspot.com/2024/04/lore-24-witchlight-settimana-7.html</id>
-        <link href="https://castellochimerico.blogspot.com/2024/04/lore-24-witchlight-settimana-7.html"/>
-        <updated>2024-04-21T16:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Continuano le 20 domande di Witchlight
-19: Ci sono tesori leggendari e perduti che posso andare a cercare?
-Sì:
-1 Il Trono nero di Klarkash-Ton è un artefatto inamovibile che si trova da qualche parte a Prismeer, tra le montagne del Sudilà. Creato dal grande stregone omonimo, si presenta come uno scranno intagliato nel fianco di una montagna di onice nero e ha la particolarità di non poter essere trovato da chi lo cerca attivamente. Chi si siede sul trono sperimenta sempre qualche visione relativa al suo passato o a un suo possibile futuro, Tutte le visioni sono potenzialmente utili e informative.
-2 La maschera della Luce stellare, che permette a chi la indossa di essere sempre l'anima di ogni festa, in cui tutti si divertiranno un mondo. Realizzata in filigrana di mithral, questa mezza mas…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
