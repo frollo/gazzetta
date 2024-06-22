@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-06-22T06:12:41.999Z</updated>
+    <updated>2024-06-22T08:11:59.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -494,16 +494,6 @@ Gli Gnoll a forma di iene umanoidi non mi sono mai piaciuti granché, in quanto 
 Questo post è una via di mezzo tra uno scenario e un actual play, perchè la preparazione che condivido con voi è stata scritta per una sessione online sul server Discord La Necropoli Sotterranea, in occasione di un evento dedicato al genere investigativo. Ciascun master doveva preparare uno scenario con un incipit rimandante ad un famoso libro Giallo. Io ho scelto, potrete facilmente intuire, Assassinio sull'Orient Express di Agatha Christie (uno dei casi del mitico Hercule Poirot). Guarda caso nel setting di Eberron (una delle ambientazioni ufficiali di Dungeons & Dragons, creata da …]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Muffa la Capra il Verme]]></title>
-        <id>https://dungeon-keys.github.io/posts/muffa_capra_verme/</id>
-        <link href="https://dungeon-keys.github.io/posts/muffa_capra_verme/"/>
-        <updated>2024-04-23T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ecco, ho fatto una cazzata. Ho chiuso il post precedente con un’anticipazione. Lo so, non è questo l’argomento del post, ma se non lo dico subito poi mi rimane sul gozzo quindi pazientate ancora un secondo. Allora, dovete sapere che il mio gut feeling non si attiva mai quando sto per fare qualcosa di catastrofico o di incredibilmente stupido. Il Signore mi scampi dall’avere un sesto sen...]]></summary>
-        <author>
-            <name>Dungeon Keys</name>
         </author>
     </entry>
 </feed>
