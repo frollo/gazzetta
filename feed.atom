@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-06-26T20:11:43.458Z</updated>
+    <updated>2024-06-26T22:09:14.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -482,20 +482,6 @@ un saluto
         <summary type="html"><![CDATA[Questo è un post di servizio, di quelli che vengono linkati più volte e magari aggiornati di tanto in tanto. Al momento attuale Dungeon Keys conta la bellezza di sette post e, diciamoci la verità, non è che se ne senta il bisogno più di tanto. Però mi pare una buona idea, e se non lo faccio poi finisco per dimenticarmene. Guida Pratica alla lettura di Dungeon Keys 1. Categorie Sto cercando d...]]></summary>
         <author>
             <name>Dungeon Keys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lore 24: Witchlight - settimana 8 - Gli Gnoles]]></title>
-        <id>https://castellochimerico.blogspot.com/2024/04/lore-24-witchlight-settimana-8-gli.html</id>
-        <link href="https://castellochimerico.blogspot.com/2024/04/lore-24-witchlight-settimana-8-gli.html"/>
-        <updated>2024-04-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gli Gnoles
-
-
-
-Gli Gnoll a forma di iene umanoidi non mi sono mai piaciuti granché, in quanto trovo il concetto di animale umanizzato malvagio poco attraente e vagamente problematico, specie quando non ha chiare radici folkloriche o mitologiche. Infatti gli Gnoles (sic) appaiono per la prima volta in How Nuth would have practised his art upon the gnoles, racconto di The Book of Wonder (1912), raccolta dell'autore Irlandese Lord Dunsany, in cui un ladro si introduce nella casa di questi esseri per rubare gli smeraldi di cui fanno collezione. Qui però gli Gnoles non vengono descritti, nè è chiaro da dove derivi il loro nome. Un'illustrazione che accompagna il testo però, li mostra come umanoidi pelosi e vagamente scimmieschi, per cui in origine le iene  non erano associate con questi esseri. …]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
