@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-06-26T12:18:23.028Z</updated>
+    <updated>2024-06-26T14:08:39.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Pellegrinaggi di Fratello Marzio: due itinerari per Rinascimento]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/06/i-pellegrinaggi-di-fratello-marzio-due.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/06/i-pellegrinaggi-di-fratello-marzio-due.html"/>
+        <updated>2024-06-26T13:26:00.001Z</updated>
+        <summary type="html"><![CDATA[Ecco il mio contributo per il Vecchio Carnevale Blogghereccio di Aprile, a tema...LE STRADE! Ospitato da Omnia Incommoda, Certitudo Nulla. Se non sapete cosa sia il Vecchio Carnevale Blogghereccio potete trovare qui il bando.
+
+
+Per l'occasione ecco una guida per pellegrini, poveri diavoli e gaglioffi scritta per Rinascimento. Molti elementi sono stati generati con le tabelle della Guida del Master in programma per la nuova edizione del gioco (in fase di scrittura).
+
+
+L'idea per questo post viene dalle procedure per la frequentazione delle locande in Ultraviolet Grasslands di Luka Rejec (ne avevo parlato qui, agli albori del blog): scegliere una strada piuttosto che un'altra non è per niente una scelta banale, e i personaggi cambieranno in base alle vie percorse. Per i riferimenti ai mostri…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Bambini - Raccolta di Maggio]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/748923/i-bambini-raccolta-di-maggio</id>
