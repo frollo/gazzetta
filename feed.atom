@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-06-30T02:31:21.452Z</updated>
+    <updated>2024-06-30T04:11:02.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -535,26 +535,6 @@ Arrivati su, non appena usciti dall’ascensor…]]></summary>
 <p>The Old Chapel è un dungeon piuttosto semplice, basat…]]></summary>
         <author>
             <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progess Clock o Orologi di Progressione, una meccanica interessante.]]></title>
-        <id>https://autarkikagdr.blogspot.com/2024/05/progess-clock-o-orologi-di-progressione.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2024/05/progess-clock-o-orologi-di-progressione.html"/>
-        <updated>2024-05-01T15:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Immagine creata con AI Bing
-
-Buongiorno a tutti,
-negli scorsi mesi mi sono interessato a diversi meccanismi inseriti nei regolamenti di molti nuovi regolamenti.
-La meccanica che mi ha più affascinato è quella basata sui segnalini "orologio" per indicare il passare del tempo.
-la risorsa più accessibile ed economica è "RPG progress clock"
-Generalmente questa meccanica si basa sul colorare dei cerchi suddivisi in spicchi, quando il cerchio è completamente annerito si innescherà un evento nel gioco.
-Questa meccanica permette di tenere traccia del tempo che passa al fine di attivare determinati eventi decisi in precedenza dal master, oppure generare attraverso tabelle casuali situazioni impreviste.
-Le applicazioni sono molteplici e vorrei utilizzare questa risorsa in qualche avventura, magari investigativa.
-un saluto
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
