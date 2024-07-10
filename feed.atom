@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-07-10T12:17:45.689Z</updated>
+    <updated>2024-07-10T14:09:32.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mothership S15 - La Diga]]></title>
+        <id>https://dismastersden.blogspot.com/2024/07/mothership-s15-la-diga.html</id>
+        <link href="https://dismastersden.blogspot.com/2024/07/mothership-s15-la-diga.html"/>
+        <updated>2024-07-10T13:02:00.004Z</updated>
+        <summary type="html"><![CDATA[Continua la campagna di Mothership! La sessione precedente sta qui, mentre qui c'è l'inizio della campagna. L'elenco completo di tutte le sessioni si trovano su questa pagina.
+
+
+
+
+Mothership S15 - La Diga
+
+Personaggi Presenti:
+
+Sanchez (Marine)
+Sonya (Teamster)
+
+sostituisce Rosa [press F to pay respects]
+
+Daigo (Androide)
+Gena (Marine)
+
+Il gruppo decide di investire un po’ di tempo per preparare munizioni sufficienti a raggiungere la torre di comunicazione, perché i carcinidi sono sicuramente troppi ma non saranno tutti sulla diga, quindi si va al laboratorio.
+
+
+Valdez è scettica sul separarsi nuovamente, e a Gena non piace questo piano perché recherebbe danni ai suoi amici carcinidi, perciò insiste di andare direttamente alla torre. Sonya però gli chiede come fare a arrivare sani e salvi …]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Luglio - Le Ossa]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/758309/luglio-le-ossa</id>
