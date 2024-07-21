@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-07-21T08:11:23.098Z</updated>
+    <updated>2024-07-21T10:09:13.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OSSIARCA: una classe per Cairn 2e]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/07/ossiarca-una-classe-per-cairn-2e.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/07/ossiarca-una-classe-per-cairn-2e.html"/>
+        <updated>2024-07-21T10:08:00.003Z</updated>
+        <summary type="html"><![CDATA[Ecco il mio contributo per il Vecchio Carnevale Blogghereccio di Luglio, a tema...LE OSSA! Ospitato da La Fumeria dei Pensieri Incompiuti. Se non sapete cosa sia il Vecchio Carnevale Blogghereccio potete trovare qui il bando.
+
+
+Dopo Gioco di Specchi oggi torno a creare materiale per Cairn. In particolare si tratta di un nuovo background sul modello della seconda edizione del gioco di Yochai Gal, ecco a voi...
+L'Ossiarca
+Sei un collezionista di ossa, in grado di distillare potere dal midollo e dai misteriosi cerchi e simboli nascosti nella (non sempre) bianca matrice. Una sciamana delle terre selvagge, una lettrice di astragali, un necromante depredatore di ossari.
+Nomi: 
+Ylmarrow, Bonny, Karsta, Soyra, Iwi, Bein, Kaiwi, Cnaihm, Ithambo, Xu'ong, Tyolana
+
+Equipaggiamento iniziale
+
+
+Spada d'o…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mothership S15 - La Diga]]></title>
         <id>https://dismastersden.blogspot.com/2024/07/mothership-s15-la-diga.html</id>
