@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-07-25T12:17:31.547Z</updated>
+    <updated>2024-07-25T14:08:55.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Perché ho lasciato perdere la Lore 24 e cosa dovrebbe essere un'ambientazione in ogni caso?]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/07/perche-ho-lasciato-perdere-la-lore-24-e.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/07/perche-ho-lasciato-perdere-la-lore-24-e.html"/>
+        <updated>2024-07-25T12:36:00.000Z</updated>
+        <summary type="html"><![CDATA[All'inizio di quest'anno ho intrapreso con  entusiasmo l'avventura della Lore24, ma col tempo il mio interesse a continuare è progressivamente diminuito. Purtroppo sono in buona compagnia da questo punto di vista, credo che tutte le persone che conosco che avevano iniziato la sfida abbiano lasciato a questo punto. 
+Ultimamente mi è sembrato di scrivere materiale in gran parte poco utile, anche perché questa stessa sfida mi ha fatto riflettere sul valore e l'uso che per me hanno le ambientazioni per giochi di ruolo.
+Credo che avrei dovuto tenere presente la lezione di Electric Bastionland, che (almeno per come la vedo io) ripensa il concetto di ambientazione, presentandolo strettamente in termini di materiale utilizzabile al tavolo per creare l'ambientazione stessa, anche sul momento, sotto forma di princìpi di gioco, tabelle varie (ispirazione, incontri casuali, caratteristiche dei quartieri, elementi da mischiare tra di loro, creature, carriere fallite) e non ultimo per importanza, spazio per inserire il proprio materiale (nel caso specifico con il principio che a Bastionland si può trovare potenzialmente tutto) in tal modo riducendo fortemente la differenza tra avventura e ambientazione, e allo stesso tempo tagliando il tempo per la preparazione. È lo stesso metodo che più in piccolo adotta anche Maze Rats, in cui l'ambientazione è una serie di tabelle casuali con cui è possibile creare un piccolo territorio e i suoi luoghi di avventura. 
+Secondo me la chiave sta proprio qui: mi trovo sempre più in difficoltà a concepire setting e avventura separati fra di loro e se in futuro recupererò la voglia di scrivere, penso che andrò in questa direzione.]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OSSIARCA: una classe per Cairn 2e]]></title>
         <id>https://calderonedeltroll.blogspot.com/2024/07/ossiarca-una-classe-per-cairn-2e.html</id>
