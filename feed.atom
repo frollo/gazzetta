@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-07-26T20:12:34.417Z</updated>
+    <updated>2024-07-26T22:09:56.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -403,34 +403,6 @@ Abilità
         <summary type="html"><![CDATA[Ho fatto partire ‘sta cosa su Ruling the Game il 16 Aprile scorso. Pensa un po’ te quanto so’ deficiente.]]></summary>
         <author>
             <name>Dungeon Keys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mothership S13 - Panico Paura]]></title>
-        <id>https://dismastersden.blogspot.com/2024/05/mothership-s13-panico-paura.html</id>
-        <link href="https://dismastersden.blogspot.com/2024/05/mothership-s13-panico-paura.html"/>
-        <updated>2024-05-28T09:07:00.001Z</updated>
-        <summary type="html"><![CDATA[Continua la campagna di Mothership! La sessione precedente sta qui, mentre qui c'è l'inizio della campagna. L'elenco completo di tutte le sessioni si trovano su questa pagina.
-
-
-
-
-Mothership S13 - Panico Paura
-
-Personaggi Presenti:
-
-BoB (Androide)
-Rosa (Marine)
-Daigo (Androide)
-Gena (Marine)
-Anny (Marine)
-
-BoB controlla il bioscanner per controllare se i due soldati dicono il vero riguardo i carcinidi nell’acqua, e effettivamente vede un puntino rosso che si dirige verso di loro: con molta probabilità proprio un carcinide che in pochi secondi li raggiungerà.
-
-
-Il Vice Caporale Franco inizia a gridare preso dal terrore avendo visto il bioscanner, con il Soldato Scelto Weaver ancora attaccato alla sua gamba e in chiaro stato catatonico. I membri del gruppo si preparano con le armi, mentre Da…]]></summary>
-        <author>
-            <name>La Fumeria dei Pensieri Incompiuti</name>
         </author>
     </entry>
 </feed>
