@@ -369,18 +369,7 @@
       "title": "Dungeon Keys",
       "feedUrl": "https://dungeon-keys.github.io/feed.xml",
       "siteUrl": "https://dungeon-keys.github.io/",
-      "articles": [
-        {
-          "id": "https://dungeon-keys.github.io/posts/1d100_cappelli_goblin/",
-          "author": null,
-          "description": "Ho fatto partire ‘sta cosa su Ruling the Game il 16 Aprile scorso. Pensa un po’ te quanto so’ deficiente.",
-          "link": "https://dungeon-keys.github.io/posts/1d100_cappelli_goblin/",
-          "publishedOn": "2024-05-28T18:30:00.000Z",
-          "wordCount": 716,
-          "title": "1d100 cose che un goblin può indossare come cappello",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
