@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-07-31T18:13:12.238Z</updated>
+    <updated>2024-07-31T20:10:18.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -285,16 +285,6 @@ Mi sono divertito molto, le ragazze e i ragazzi del gruppo da ciò che mi hanno 
 Avevo già arbitrato e giocato abbondantemente la prima …]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giugno - Le Strade]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/742039/giugno-le-strade</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/742039/giugno-le-strade"/>
-        <updated>2024-06-02T07:13:19.000Z</updated>
-        <summary type="html"><![CDATA[É Giugno, tempo di una nuova tappa del Vecchio Carnevale Blogghereccio. "Tappa" è un termine particolarmente azzeccato, perchè il tema di questo mese è Le Strade Ospitato da Omnia Incommoda, Certi...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
