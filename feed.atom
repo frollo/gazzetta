@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-08-03T06:13:33.214Z</updated>
+    <updated>2024-08-03T08:12:21.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -272,19 +272,6 @@ Esempio: pugilista, camice da chirurgo, ho imparato a pilotare un biplano prima 
 (un modo semplice è andare di Background lavorativo/evento significativo, abilità personale/tratto fisico e oggetto). Gli oggetti che un personagg…]]></summary>
         <author>
             <name>Gli gnoll hanno massacrato la mia famiglia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La mia campagna di Household e ciò che ho imparato giocandola.]]></title>
-        <id>https://castellochimerico.blogspot.com/2024/06/la-mia-campagna-di-household-e-cio-che.html</id>
-        <link href="https://castellochimerico.blogspot.com/2024/06/la-mia-campagna-di-household-e-cio-che.html"/>
-        <updated>2024-06-04T18:29:00.000Z</updated>
-        <summary type="html"><![CDATA[E così siamo giunti alla fine di un'altra saga, questa volta con la seconda edizione e terminata in Cantina, dopo aver sventato un complotto ideato dal malvagio dottore e avvelenatore Serge Voronov. 
-Il gruppo (solo Sluagh e Fate stavolta) ha esplorato il Deserto di Segatura, recuperato un tesoro nelle Intercapedini, sciato sulle piste del Monte Frigo, partecipato a un ballo ad Altaluce e visitato la Doll House e combattuto i Tristellati. È persino sopravvissuto a un incontro col Visconte Protopopolov!
-Mi sono divertito molto, le ragazze e i ragazzi del gruppo da ciò che mi hanno detto anche, e come al solito lil termine di una campagna per me è un momento di soddisfazione, con però un pizzico di malinconia per la fine di un viaggio. 
-Avevo già arbitrato e giocato abbondantemente la prima …]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
