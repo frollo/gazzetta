@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-08-13T02:33:44.037Z</updated>
+    <updated>2024-08-13T04:11:59.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -269,26 +269,6 @@ Per l'occasione ecco una guida per pellegrini, poveri diavoli e gaglioffi scritt
 L'idea per questo post viene dalle procedure per la frequentazione delle locande in Ultraviolet Grasslands di Luka Rejec (ne avevo parlato qui, agli albori del blog): scegliere una strada piuttosto che un'altra non è per niente una scelta banale, e i personaggi cambieranno in base alle vie percorse. Per i riferimenti ai mostri…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Bambini - Raccolta di Maggio]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/748923/i-bambini-raccolta-di-maggio</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/748923/i-bambini-raccolta-di-maggio"/>
-        <updated>2024-06-14T15:21:30.000Z</updated>
-        <summary type="html"><![CDATA[Ecco la raccolta del Vecchio Carnevale Blogghereccio di Maggio, a tema I Bambini Ulteriori pensieri sul gioco di ruolo e l'infanzia, ma anche tante avventure. Date un'occhiata! E già che partite all'...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Cadaveri - Raccolta di Aprile]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/748917/i-cadaveri-raccolta-di-aprile</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/748917/i-cadaveri-raccolta-di-aprile"/>
-        <updated>2024-06-14T15:14:22.000Z</updated>
-        <summary type="html"><![CDATA[Sotto terra potete trovare, bella fredda, la raccolta dei contributi di Marzo. Prendete la vanga ed esplorate i post a tema... I Cadaveri...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
