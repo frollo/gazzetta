@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-08-20T16:11:26.156Z</updated>
+    <updated>2024-08-20T18:13:06.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Le campagne lunghe sono davvero le migliori?]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/08/le-campagne-lunghe-sono-davvero-le.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/08/le-campagne-lunghe-sono-davvero-le.html"/>
+        <updated>2024-08-20T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Recentemente mi sono imbattuto in alcuni post di un paio di blog OSR storici che esaltavano le campagne lunghe. Con "lunghe" si intende della durata di anni.
+
+Questa è una posizione che sento spesso sostenere anche da diverse persone appassionate,  soprattutto della mia età, ma mi domando se l'idea della campagna molto lunga non sia qualcosa di un po' troppo sopravvalutato. 
+Nel senso che... una campagna deve per forza durare più di un anno, per essere significativa?
+Secondo me, no. Le mie campagne più lunghe degli ultimi anni sono durate una media di otto mesi, poco più di un anno al massimo, giocando solitamente una volta ogni due settimane. 
+In questo tempo c'è stata sicuramente una buona possibilità di sviluppo dei personaggi. Sono state presenti anche delle forme di avanzamento nel mo…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mothership S16 - Tra la Tempesta e l'Inondazione]]></title>
         <id>https://dismastersden.blogspot.com/2024/08/mothership-s16-tra-la-tempesta-e.html</id>
