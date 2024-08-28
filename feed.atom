@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-08-28T12:19:24.609Z</updated>
+    <updated>2024-08-28T14:09:28.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[18 pre-made character sheets for Dolmenwood]]></title>
+        <id>https://soronarchives.blogspot.com/2024/08/18-pre-made-character-sheets-for.html</id>
+        <link href="https://soronarchives.blogspot.com/2024/08/18-pre-made-character-sheets-for.html"/>
+        <updated>2024-08-28T12:54:00.004Z</updated>
+        <summary type="html"><![CDATA[Hey folks,
+Let me share these pre-made character sheets with you. They can be useful if you, like me, need to organise a one-shot but they can be handy as well if one of your characters dies and the player does not have a secondary sheet ready to go.
+
+
+There are 8 humans, 3 Breggles, 3 Mosslings, 2 Woodgues, 1 Elf and 1 Grimalkin for a total of 18 sheets, 2 for each class.
+
+
+A couple of notes: 
+
+
+The distances are expressed in Goblin Grasps (Symbol: *), my native Dolmenwood measurement unit; 1 Goblin Grasp is 1.5 meters or 5 feet, aka 1  square in most dungeon grids.
+
+
+The sets of attributes have been randomly rolled, but I picked for each class a set with a +1 or +2 bonus in their specific prime abilities and I made sure to use sets with a cumulative bonus of +1 or +2.
+
+
+The characters are going to be used for a Winter's Daughter One shot, therefore abilities that are not likely to enter into play (like the knight Horsemanship) are not listed.
+
+
+Human Bard
+Woodgrue Bard (to be finished)
+Human Fighter
+Mossling Fighter
+Human Friar
+Mossling Friar
+Human Cleric
+Breggle Cleric
+Elf Enchanter (to be finished)
+Grimalkin Enchanter (to be finished)
+Human Hunter
+Mossling Hunter
+Human Knight
+Breggle Knight
+Human Magician
+Breggle Magician
+Human Thief
+Woodgrue Thief (to be finished)
+
+
+Ability scores rolled on this page.]]></summary>
+        <author>
+            <name>Soron Archives</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ducks an OSR racial class and advanced race]]></title>
         <id>https://d20d12.blogspot.com/2024/08/ducks-osr-racial-class-and-advanced-race.html</id>

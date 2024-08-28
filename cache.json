@@ -194,7 +194,18 @@
       "title": "Soron Archives",
       "feedUrl": "https://soronarchives.blogspot.com/feeds/posts/default",
       "siteUrl": "https://soronarchives.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://soronarchives.blogspot.com/2024/08/18-pre-made-character-sheets-for.html",
+          "author": null,
+          "description": "Hey folks,\nLet me share these pre-made character sheets with you. They can be useful if you, like me, need to organise a one-shot but they can be handy as well if one of your characters dies and the player does not have a secondary sheet ready to go.\n\n\nThere are 8 humans, 3 Breggles, 3 Mosslings, 2 Woodgues, 1 Elf and 1 Grimalkin for a total of 18 sheets, 2 for each class.\n\n\nA couple of notes: \n\n\nThe distances are expressed in Goblin Grasps (Symbol: *), my native Dolmenwood measurement unit; 1 Goblin Grasp is 1.5 meters or 5 feet, aka 1  square in most dungeon grids.\n\n\nThe sets of attributes have been randomly rolled, but I picked for each class a set with a +1 or +2 bonus in their specific prime abilities and I made sure to use sets with a cumulative bonus of +1 or +2.\n\n\nThe characters are going to be used for a Winter's Daughter One shot, therefore abilities that are not likely to enter into play (like the knight Horsemanship) are not listed.\n\n\nHuman Bard\nWoodgrue Bard (to be finished)\nHuman Fighter\nMossling Fighter\nHuman Friar\nMossling Friar\nHuman Cleric\nBreggle Cleric\nElf Enchanter (to be finished)\nGrimalkin Enchanter (to be finished)\nHuman Hunter\nMossling Hunter\nHuman Knight\nBreggle Knight\nHuman Magician\nBreggle Magician\nHuman Thief\nWoodgrue Thief (to be finished)\n\n\nAbility scores rolled on this page.",
+          "link": "https://soronarchives.blogspot.com/2024/08/18-pre-made-character-sheets-for.html",
+          "publishedOn": "2024-08-28T12:54:00.004Z",
+          "wordCount": 2068,
+          "title": "18 pre-made character sheets for Dolmenwood",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Italian Translation Alliance",
