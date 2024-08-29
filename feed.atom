@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-08-29T08:13:57.097Z</updated>
+    <updated>2024-08-29T10:10:50.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SKRAPBONES]]></title>
+        <id>https://dismastersden.blogspot.com/2024/08/skrapbones.html</id>
+        <link href="https://dismastersden.blogspot.com/2024/08/skrapbones.html"/>
+        <updated>2024-08-29T09:49:00.002Z</updated>
+        <summary type="html"><![CDATA[Sei uno scheletro, sei un non-morto bastardo, vivi in un vecchio dungeon polveroso con della roba, il tuo scopo nella vita è proteggere tutta questa roba dagli avventurieri infami.
+
+
+Il tuo nome non ha più senso e l'hai dimenticato: datti un soprannome da scheletro tipo Clavicola, Muffa o Bob.
+
+
+Tira 1d6 per la tua Fragilità. Ogni volta che provi a fare qualcosa che possa spezzarti le ossa sottrai la Fragilità al risultato del tiro (hai paura di romperti e non ci metti tutto te stesso).
+Sono anche i tuoi Punti Morte (più sei fragile più stai attento a non farti male).
+
+
+Scegli un oggetto: femore di qualcun altro (lo rivuole), spada magica malvagia +1 (chiacchierona ma noiosa), portasfortuna (non ha effetto su di te), ragno o pipistrello gigante velenoso, granata, archibugio arrugginito.
+
+
+…]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L'Ossario dell'Acquasola - idee per una rovina per Rinascimento 2e]]></title>
         <id>https://dismastersden.blogspot.com/2024/08/lossario-dellacquasola-idee-per-una.html</id>
