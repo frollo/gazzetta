@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-08-30T04:13:05.246Z</updated>
+    <updated>2024-08-30T06:14:22.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -272,16 +272,6 @@ Il gruppo decide di investire un po’ di tempo per preparare munizioni sufficie
 Valdez è scettica sul separarsi nuovamente, e a Gena non piace questo piano perché recherebbe danni ai suoi amici carcinidi, perciò insiste di andare direttamente alla torre. Sonya però gli chiede come fare a arrivare sani e salvi …]]></summary>
         <author>
             <name>La Fumeria dei Pensieri Incompiuti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luglio - Le Ossa]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/758309/luglio-le-ossa</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/758309/luglio-le-ossa"/>
-        <updated>2024-07-01T18:11:46.000Z</updated>
-        <summary type="html"><![CDATA[Era solo questione di tempo dopo I Cadaveri . A quanto pare di quei poveri corpi sono rimaste solo più Le Ossa Ospitato da La Fumeria dei Pensieri Incompiuti Sconfiggete la calura estiva e scrivete q...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
