@@ -362,7 +362,18 @@
       "title": "Dungeon Keys",
       "feedUrl": "https://dungeon-keys.github.io/feed.xml",
       "siteUrl": "https://dungeon-keys.github.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://dungeon-keys.github.io/posts/la_turba/",
+          "author": null,
+          "description": "Il Dormiente si sveglia. Dovevo scrivere ‘na rovina… Va bene, gentaccia. Quest’estate ho scritto (e illustrato/impaginato) un dungeon, o per meglio dire una rovina, o per meglio dire un’altra cosa ancora, per la jam Un mondo in rovina del pregiatissimo GdR Rinascimento.1 Eccola qui, in tutta la sua gloria low-res: Se volete scaricarla in un formato decente, e ancora di più se volete s...",
+          "link": "https://dungeon-keys.github.io/posts/la_turba/",
+          "publishedOn": "2024-09-05T18:00:00.000Z",
+          "wordCount": 891,
+          "title": "La Turba!",
+          "imageUrl": "https://dungeon-keys.github.io/assets/img/turba_header.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
