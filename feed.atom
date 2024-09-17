@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-09-17T10:11:09.092Z</updated>
+    <updated>2024-09-17T12:19:07.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mothership S18 - Morte alle Porte]]></title>
+        <id>https://dismastersden.blogspot.com/2024/09/mothership-s18-morte-alle-porte.html</id>
+        <link href="https://dismastersden.blogspot.com/2024/09/mothership-s18-morte-alle-porte.html"/>
+        <updated>2024-09-17T10:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Continua la campagna di Mothership! La sessione precedente sta qui, mentre qui c'è l'inizio della campagna. L'elenco completo di tutte le sessioni si trovano su questa pagina.
+Anche stavolta il buon Alessio era assente, pertanto l'onere e l'onore di scrivere il riassunto se l'è preso Giacomo!
+
+
+
+
+
+
+Mothership S18 - Morte alle Porte
+
+Personaggi Presenti:
+
+Sanchez (Marine)
+Daigo (Androide)
+Dr. Kawaguchi (Scienziato) - al posto di Anny
+
+La situazione è critica, sentiamo i rumori sia dall’interno che dall’esterno della torre, i carcinidi si muovono in massa verso di noi scalando l'edificio e in una manciata di secondi saranno dentro… intanto sul tetto qualcuno sta sparando all’impazzata.
+E c'è un'enorme carcinide collegato forzatamente ai controlli radio della torre.
+
+
+Cerchiamo disperatamente…]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mothership S17 - La Torre di Comunicazione]]></title>
         <id>https://dismastersden.blogspot.com/2024/09/mothership-s17-la-torre-di-comunicazione.html</id>
