@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-09-24T10:11:16.023Z</updated>
+    <updated>2024-09-24T12:20:05.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -354,19 +354,6 @@ saluti e alla prossima
         <summary type="html"><![CDATA[Un piccolo aggiornamento: il tema di Luglio è stato prolungato per tutto il mese di Agosto! Non avete nessuna scusa per non partecipare scrivendo un contributo debitamente ossuto. Le Ossa Ospitato da...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: le Strade - Recap]]></title>
-        <id>https://oicn.icu/2024/Vecchio-Carnevale-Bloggereccio-le-Strade-Recap/</id>
-        <link href="https://oicn.icu/2024/Vecchio-Carnevale-Bloggereccio-le-Strade-Recap/"/>
-        <updated>2024-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>A inizio mese è terminato <a href="/2024/Vecchio-Carnevale-Blogghereccio-Le-Strade/" title="Vecchio Carnevale Blogghereccio: Le Strade">Carnevale di giugno</a> e ho passato il testimone a <a href="https://dismastersden.blogspot.com/2024/06/vecchio-carnevale-blogghereccio-le-ossa.html">Dismaster FraNe</a> prendendomi il dovere di dedicarmi all’amato recap. Recap con disonore perché io non ho partecipato alla mia stessa iniziativa<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>.</p>
-<img src="/2024/Vecchio-Carnevale-Bloggereccio-le-Strade-Recap/carnevale_blogghereccio.png" class="">
-<span id="more"></span>
-<p>Di solito divido i contributi per genere, ma le Strade hanno evidentemente puntato praticamente tutti nella stessa direzione, quindi farò una menzione d’onore a Fra…]]></summary>
-        <author>
-            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
 </feed>
