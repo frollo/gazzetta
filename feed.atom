@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-09-27T10:11:44.359Z</updated>
+    <updated>2024-09-27T12:20:20.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mothership S19 - Dormire, Forse Sognare]]></title>
+        <id>https://dismastersden.blogspot.com/2024/09/mothership-s19-dormire-forse-sognare.html</id>
+        <link href="https://dismastersden.blogspot.com/2024/09/mothership-s19-dormire-forse-sognare.html"/>
+        <updated>2024-09-27T10:14:00.004Z</updated>
+        <summary type="html"><![CDATA[Finisce con questa sessione la campagna di Mothership! La sessione precedente sta qui, mentre qui c'è l'inizio della campagna. L'elenco completo di tutte le sessioni si trovano su questa pagina.
+
+
+
+
+Mothership S19 - Dormire, Forse Sognare
+
+Personaggi Presenti:
+
+Sanchez (Marine)
+Daigo (Androide)
+Sonya (Teamster)
+Gena (Marine)
+
+Mentre tornano alla Metamorfosi sulla nave da sbarco, il gruppo si accorge che Sonya inizia a muovere nervosamente le mani ed è in stato catatonico: sta sognando una specie di formicaio a più livelli, solo che è popolato da carcinidi e non da formiche, e li vede scavare e conquistare il pianeta, sentendosi come una di loro e che vorrebbe raggiungerli per aiutarli. Gena la guarda e la percepisce quasi come una sorella, capisce cosa stia sognando. Le si avvicina per abb…]]></summary>
+        <author>
+            <name>La Fumeria dei Pensieri Incompiuti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Le Ossa - Raccolta di Luglio/Agosto]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/804874/le-ossa-raccolta-di-luglioagosto</id>
