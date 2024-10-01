@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-10-01T08:14:52.009Z</updated>
+    <updated>2024-10-01T10:11:38.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio (Ottobre): INSETTI]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/10/vecchio-carnevale-blogghereccio-ottobre.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/10/vecchio-carnevale-blogghereccio-ottobre.html"/>
+        <updated>2024-10-01T09:10:00.001Z</updated>
+        <summary type="html"><![CDATA[Ho il piacere di ospitare nuovamente il Vecchio Carnevale Blogghereccio! Forse perché ieri stavo rimestando nell'orto e ho trovato un asilo nido di grosse larve di cervo volante, o forse perché ultimamente passo ore a guardare la sezione Artropodi su vecchie enciclopedie, ho deciso che il tema del Vecchio Carnevale Blogghereccio di Ottobre sarà...
+ INSETTI
+
+
+Mi ricordo ancora un documentario sugli insetti che parlava del loro "micromondo", con bizzarri bruchi dotati di facce da clown (Cerura vinula) e formiche che coltivavano funghi nel sottosuolo. Spesso ci dimentichiamo della loro esistenza, o ci ricordiamo solo di quelli che ci recano danno (la folta schiera di zanzare, punteruoli rossi, cimici e processionarie chiaramente al servizio di Morgoth), ma il mondo degli insetti è vasto e pie…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mothership S19 - Dormire, Forse Sognare]]></title>
         <id>https://dismastersden.blogspot.com/2024/09/mothership-s19-dormire-forse-sognare.html</id>
