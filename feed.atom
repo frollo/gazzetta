@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-10-02T06:15:11.660Z</updated>
+    <updated>2024-10-02T08:14:17.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ottobre - Insetti]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/808688/ottobre-insetti</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/808688/ottobre-insetti"/>
+        <updated>2024-10-02T08:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Il Vecchio Carnevale Blogghereccio di Ottobre porta con sé un fruscio di chitina e una cacofonia di ronzii e versi ancora più strani. Armatevi di lente di ingrandimento, retino per farfalle e taccui...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio (Ottobre): INSETTI]]></title>
         <id>https://calderonedeltroll.blogspot.com/2024/10/vecchio-carnevale-blogghereccio-ottobre.html</id>
