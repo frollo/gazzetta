@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-10-18T08:14:01.371Z</updated>
+    <updated>2024-10-18T10:12:37.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fey Forgotten Realms & Pulp Greyhawk]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/10/fey-forgotten-realms-pulp-greyhawk.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/10/fey-forgotten-realms-pulp-greyhawk.html"/>
+        <updated>2024-10-18T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[L'ultima campagna di D&d che ho giocato da arbitro, la valida The Wild Beyond the Witchlight (L'oscurità oltre Stregolumen) mi ha fatto capire un fatto: più passa il tempo meno apprezzo D&D, però continuo a essere affezionato ad alcune sue ambientazioni storiche. Parlo soprattutto di Forgotten Realms e delle Flanaess di Greyhawk. 
+
+
+
+
+Mi piace giocare i Forgotten Realms in una versione forse un po' più simile a quella originale di Ed Greenwood, rispetto a come viene presentato il setting oggi, e sinceramente senza prenderlo troppo sul serio. Descrivo la mia idea di Faerun come se le avventure che vi si svolgono fossero state scritte da Jack Vance con un cappello da giullare in testa e una pinta di birra in mano, simile come atmosfera a una Lyonesse tardo quattrocentesca o inizio cinquecent…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ottobre - Insetti]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/808688/ottobre-insetti</id>
