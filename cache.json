@@ -80,16 +80,6 @@
           "wordCount": 6593,
           "title": "Mothership S17 - La Torre di Comunicazione",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj-L_UEE9GfpeugrBqEDSZ6W7m0aXMcfEVyX3XhiUFGhnyy_vTNkLoabm-l2FF5MY3q5lfoSC2L0nxBhp91Qgwald4YVl_jcH2EzRYKT2XaxrbFCUp2zQjteYseCw2dFNpfW0_Qhoc1FhyaVQT3p6y2mxaVVVAbtqEoXYWNgCmxXRZ0oAb7D9i49rGWMi7w=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://dismastersden.blogspot.com/2024/08/skrapbones.html",
-          "author": null,
-          "description": "Sei uno scheletro, sei un non-morto bastardo, vivi in un vecchio dungeon polveroso con della roba, il tuo scopo nella vita è proteggere tutta questa roba dagli avventurieri infami.\n\n\nIl tuo nome non ha più senso e l'hai dimenticato: datti un soprannome da scheletro tipo Clavicola, Muffa o Bob.\n\n\nTira 1d6 per la tua Fragilità. Ogni volta che provi a fare qualcosa che possa spezzarti le ossa sottrai la Fragilità al risultato del tiro (hai paura di romperti e non ci metti tutto te stesso).\nSono anche i tuoi Punti Morte (più sei fragile più stai attento a non farti male).\n\n\nScegli un oggetto: femore di qualcun altro (lo rivuole), spada magica malvagia +1 (chiacchierona ma noiosa), portasfortuna (non ha effetto su di te), ragno o pipistrello gigante velenoso, granata, archibugio arrugginito.\n\n\n…",
-          "link": "https://dismastersden.blogspot.com/2024/08/skrapbones.html",
-          "publishedOn": "2024-08-29T09:49:00.002Z",
-          "wordCount": 5887,
-          "title": "SKRAPBONES",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEitE5zxPJBpG-hj10aY-P0DQ1nh7Y7I6T63Dk2iz-1Nc4E0PbMc9rLTQqtPOnyx3uSK-2JfXwqZmJQtLDYHC3jF2i_WnPXD20OkFrd3RM-9Fx2hHp_DUmVGCSQRx3epSrQcE7TDME_Z9isuKXyVZ5-OHyh4aPh6uFr1BeqB8Cbdi3-yBxm-scNA0vxPdgxx=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -199,7 +189,18 @@
       "title": "The Secret Game - Il Gioco Segreto",
       "feedUrl": "https://scrtgm.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scrtgm.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://scrtgm.blogspot.com/2024/10/foreground-growth-for-cairn-part-1.html",
+          "author": null,
+          "description": "These orders allow PCs to gain additional abilities and resources in a classless and levelless system like Cairn. As a general rule, an order shares their secrets with a donation of 1000gp, or if they believe you align with their cause.\n\n\nBerserkers\nCause: unleash your warrior instinct\n\n\nIf they deem you a worthy friend of their tribe, the Berserkers can teach you how to access your primal Rage.\n\n\nWhile Raging:\n\nYour melee attacks get +d8\nYou have an Edge on your STR Saves: reduced failures, enhanced or automatic successes\nYou shrug off Critical Damage\n\nYour Rage lasts as long as you deal or take damage. When it ends, you are Deprived until you have a night of sleep. If you Rage while Deprived, you gain a Fatigue.\n\n\nAfter you’ve learned Rage, you gain additional abilities depending on how many worthy opponents you bested in combat. Berserkers etch their skin to commemorate their fallen adversaries.\n\n\nAfter 3 kills, learn Reckless\nGain +d8 to a melee attack, then roll another d8 and take the result as damage, but don't Save vs Critical Damage.\n\n\nAfter 7 kills, learn Cleave\nIf your attack has one or more bonuses, instead of applying them you can make a Blast attack.\n\n\nAfter 10 kills, go back to the tribe to choose a Totem Animal. In addition to the abilities granted by your Totem, you can speak with animals.\n\nBear: reroll your STR on 3d6 and take the new result if higher, your inventory slots equal your STR score if it's higher than 10\nEagle: you can see tiny details at a great distance and you can fly for a few seconds\nWolf: you have an Edge when trying to avoid detection and your allies get +d8 when attacking the same target as you\n\nOnce you have your Totem, you become a tribe member and gain the right to challenge the chief in a duel. If you win, you become the chief of a Tribe of Berserkers (9 hp, 16 STR, 6 DEX, d8 axe, rage, reckless, detachment)",
+          "link": "https://scrtgm.blogspot.com/2024/10/foreground-growth-for-cairn-part-1.html",
+          "publishedOn": "2024-10-27T21:19:00.000Z",
+          "wordCount": 2426,
+          "title": "Foreground Growth for Cairn, part 1: Berserkers",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Il Castello Chimerico",
