@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-10-27T22:10:37.045Z</updated>
+    <updated>2024-10-28T00:54:19.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Player-facing map for Peacock Point]]></title>
+        <id>https://soronarchives.blogspot.com/2024/10/player-facing-map-for-peacock-point.html</id>
+        <link href="https://soronarchives.blogspot.com/2024/10/player-facing-map-for-peacock-point.html"/>
+        <updated>2024-10-27T22:54:00.003Z</updated>
+        <summary type="html"><![CDATA[A player-facing version of the map for Peacock Point by Rob Matthews from the adventure "The Sinister Secret of Peacock Point" by Sam Mameli from the collection "Wyvern Song" by Brad Kerr.
+
+
+
+Buy the book here! It is amazing.
+Review of the adventure here.
+All rights are reserved to their respective owners.]]></summary>
+        <author>
+            <name>Soron Archives</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foreground Growth for Cairn, part 1: Berserkers]]></title>
         <id>https://scrtgm.blogspot.com/2024/10/foreground-growth-for-cairn-part-1.html</id>

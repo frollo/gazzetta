@@ -243,7 +243,18 @@
       "title": "Soron Archives",
       "feedUrl": "https://soronarchives.blogspot.com/feeds/posts/default",
       "siteUrl": "https://soronarchives.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://soronarchives.blogspot.com/2024/10/player-facing-map-for-peacock-point.html",
+          "author": null,
+          "description": "A player-facing version of the map for Peacock Point by Rob Matthews from the adventure \"The Sinister Secret of Peacock Point\" by Sam Mameli from the collection \"Wyvern Song\" by Brad Kerr.\n\n\n\nBuy the book here! It is amazing.\nReview of the adventure here.\nAll rights are reserved to their respective owners.",
+          "link": "https://soronarchives.blogspot.com/2024/10/player-facing-map-for-peacock-point.html",
+          "publishedOn": "2024-10-27T22:54:00.003Z",
+          "wordCount": 1915,
+          "title": "Player-facing map for Peacock Point",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB024KJmuvlmfjyuG8YuEvJqMRNtbqzzn4GSZC_VDajA-cFsjnMQjhxhArumOeIvXMrSqcMEfAKsPhbPPDIK4mMVVUF0y86Nkb3MSEfW3Nnp0TK8aqZhBvjdP-8MAyVbtzTrGe8Qo5g770Aej1rcyQvwK0ANUppS3xR-Kcp_W6etCoIWdujqXcbKekfVA/w1200-h630-p-k-no-nu/Peacock%20point%20player%20facing%20-%20Copy%20(2).png"
+        }
+      ]
     },
     {
       "title": "Italian Translation Alliance",
