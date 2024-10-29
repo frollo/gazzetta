@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-10-29T08:14:47.292Z</updated>
+    <updated>2024-10-29T10:11:50.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Foreground Growth for Cairn, part 2: Master Musicians and Celestial Scholars]]></title>
+        <id>https://scrtgm.blogspot.com/2024/10/foreground-growth-options-for-carin.html</id>
+        <link href="https://scrtgm.blogspot.com/2024/10/foreground-growth-options-for-carin.html"/>
+        <updated>2024-10-29T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[These orders allow PCs to gain additional abilities and resources in a class-less and level-less system like Cairn. As a general rule, an order shares their secrets with a donation of 1000gp, or if they believe you align with their cause.
+
+
+
+
+Horned flutebag masters
+Cause: discover the melodies that reverberate through the soul
+
+Digging through loot you found a horned flutebag, a magical instrument that can produce both sweet and terrible sounds (bulky, worth 150 gp). You need to use your mouth and both hands to play it, and sometimes one foot. Only 3 people in the world are known to play the flutebag, and each one can teach you a different song:
+
+
+MASTER KARIN can teach you the Song of Rest:
+Sang around a fire at night, each listener removes 1 Fatigue or restores d4 total points in the Ab…]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Player-facing map for Peacock Point]]></title>
         <id>https://soronarchives.blogspot.com/2024/10/player-facing-map-for-peacock-point.html</id>
