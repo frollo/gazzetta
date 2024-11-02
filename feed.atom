@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-11-02T20:11:49.409Z</updated>
+    <updated>2024-11-02T22:10:32.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Novembre - I Fiori]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/827287/novembre-i-fiori</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/827287/novembre-i-fiori"/>
+        <updated>2024-11-02T22:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Dopo gli Insetti sembrava doveroso. Abbiamo deciso di portare un po' di primavera in questo Novembre, ecco perché il tema del Vecchio Carnevale Blogghereccio di questo mese è I Fiori Ospitato da Gil...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foreground Growth for Cairn, part 2: Master Musicians and Celestial Scholars]]></title>
         <id>https://scrtgm.blogspot.com/2024/10/foreground-growth-options-for-carin.html</id>
