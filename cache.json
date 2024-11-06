@@ -400,18 +400,7 @@
       "title": "Dungeon Keys",
       "feedUrl": "https://dungeon-keys.github.io/feed.xml",
       "siteUrl": "https://dungeon-keys.github.io/",
-      "articles": [
-        {
-          "id": "https://dungeon-keys.github.io/posts/OMISSIS/",
-          "author": null,
-          "description": "Di recente mi è capitato di leggere distrattamente un’avventura breve breve (anzi, neanche un’avventura, diciamo una mezza avventura) per un gdr molto noto e che non ha bisogno di presentazioni.1 E sfogliando quelle pagine distrattamente ho pensato: “oh, ma dai, ma che idea figa.” Poi l’ho letta un poco meglio e… niente, siamo onesti, era un po’ ‘na cafonata. Con una bella idea di fondo, ma co...",
-          "link": "https://dungeon-keys.github.io/posts/OMISSIS/",
-          "publishedOn": "2024-09-07T13:20:00.000Z",
-          "wordCount": 887,
-          "title": "[OMISSIS]",
-          "imageUrl": "https://dungeon-keys.github.io/assets/img/ReCollina_header.jpg"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
