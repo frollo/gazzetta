@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-11-10T20:10:38.662Z</updated>
+    <updated>2024-11-10T22:09:27.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dark & Dangerous gdr osr italiano]]></title>
+        <id>https://d20d12.blogspot.com/2024/11/dark-dangerous-gdr-osr-italiano.html</id>
+        <link href="https://d20d12.blogspot.com/2024/11/dark-dangerous-gdr-osr-italiano.html"/>
+        <updated>2024-11-10T20:52:00.003Z</updated>
+        <summary type="html"><![CDATA[Dark & Dangerous gdr
+Retroclone italiano, a pagamento, basato su Labyrinth Lord con alcune modifiche ispirate a DCC (il sistema magico riprende parzialmente quello di DCC pur lasciando tutti gli incantesimi presenti in LL, c'è il metodo di generazione PULP del personaggio che è uguale al funnel di DCC), le classi avanzano fino al 20' livello.
+Esistono 3 versioni una in pdf, una con copertina rigida ed una versione master sempre con copertina rigida che ha 330 pagine (ma l'indice in anteprima è uguale alle altre edizioni, presumibilmente ci sono anche i mostri). 
+
+Se qualcuno conosce l'autore Antonino Amato sarebbe bello contattarlo.
+
+
+Elenco delle differenze (basate su lettura rapida del pdf da 5 euro + iva!!!):
+
+Considerazioni iniziali su alcune idee dell'autore (simpatiche :))
+Metodo pul…]]></summary>
+        <author>
+            <name>Castelli &amp; Chimere - Castles &amp; Chimeras</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entomologia: raccolta dei contributi del Vecchio Carnevale Blogghereccio di Ottobre]]></title>
         <id>https://calderonedeltroll.blogspot.com/2024/11/entomologia-raccolta-dei-contributi-del.html</id>
