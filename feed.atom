@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-11-30T18:13:33.005Z</updated>
+    <updated>2024-11-30T20:11:19.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -248,16 +248,6 @@ Grazie a Luigi e alla sua affascinante storia per l'ispirazione!]]></summary>
 Mi piace giocare i Forgotten Realms in una versione forse un po' più simile a quella originale di Ed Greenwood, rispetto a come viene presentato il setting oggi, e sinceramente senza prenderlo troppo sul serio. Descrivo la mia idea di Faerun come se le avventure che vi si svolgono fossero state scritte da Jack Vance con un cappello da giullare in testa e una pinta di birra in mano, simile come atmosfera a una Lyonesse tardo quattrocentesca o inizio cinquecent…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ottobre - Insetti]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/808688/ottobre-insetti</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/808688/ottobre-insetti"/>
-        <updated>2024-10-02T08:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Il Vecchio Carnevale Blogghereccio di Ottobre porta con sé un fruscio di chitina e una cacofonia di ronzii e versi ancora più strani. Armatevi di lente di ingrandimento, retino per farfalle e taccui...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
