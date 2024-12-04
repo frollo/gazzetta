@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-12-04T10:12:42.407Z</updated>
+    <updated>2024-12-04T12:21:59.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Come condurre una sessione a Electric Bastionland]]></title>
+        <id>https://castellochimerico.blogspot.com/2024/12/come-condurre-una-sessione-electric.html</id>
+        <link href="https://castellochimerico.blogspot.com/2024/12/come-condurre-una-sessione-electric.html"/>
+        <updated>2024-12-04T11:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Ringrazio Roberto Bisceglie alias Zeruhur di Zotiquest Games che ha dato forma coerente alla mia chiacchierata sulla conduzione di Electric Bastionland.
+
+
+Electric Bastionland è un gioco di ruolo che brilla per la sua struttura sandbox e la capacità di generare storie emergenti basate sulle scelte dei giocatori. Con il suo stile minimalista e il focus su improvvisazione e libertà, il manuale offre una guida chiara, ma lascia ampio margine alla creatività del conduttore. In questo articolo, esploreremo un metodo pratico per preparare e gestire una sessione, con un focus sulla creazione di luoghi, eventi e dinamiche di gioco.
+1. Creazione di luoghi di avventura
+Indipendentemente dal fatto che si tratti di una campagna o di una one-shot, una buona sessione di Electric Bastionland parte da tre…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Player-facing maps for Ave Nox]]></title>
         <id>https://soronarchives.blogspot.com/2024/11/player-facing-maps-for-ave-nox.html</id>
