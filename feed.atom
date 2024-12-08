@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-12-08T08:14:03.171Z</updated>
+    <updated>2024-12-08T10:11:03.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dicembre - Le Mappe (+ Addenda)]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/847095/dicembre-le-mappe-addenda</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/847095/dicembre-le-mappe-addenda"/>
+        <updated>2024-12-08T09:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Ultimo mese del Vecchio Carnevale Blogghereccio 2024! Anche quest'anno i temi e i contributi non si sono sprecati. Ma bando alle ciance, ecco il tema di Dicembre per chiudere in bellezza: Le Mappe Osp...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Un aggiornamento (e mi sono dimenticato del compleanno del blog, quindi tra noi due c'è maretta)]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/12/un-aggiornamento-e-mi-sono-dimenticato.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/12/un-aggiornamento-e-mi-sono-dimenticato.html"/>
+        <updated>2024-12-08T09:28:00.003Z</updated>
+        <summary type="html"><![CDATA[Titolo alquanto esplicativo. L'ultimo aggiornamento sullo stato del blog risale al 12 Febbraio di quest'anno e devo dire che, rispetto al 2023 e ai primi mesi del 2024, il mio ritmo di scrittura sul Calderone si è drasticamente abbassato.
+Non devo fatturarci, ma secondo me vale la pena guardare le cifre:
+
+
+Post scritti nel 2023: 37
+Post scritti nel 2024: 22 (MA solo 6 tra Aprile e Dicembre, vale la pena segnalare che la maggior parte dei post riguardano i primi due mesi del 2024...sono quasi una conclusione del grande entusiasmo che ha pervaso il 2023)
+
+Il 2024 era partito molto bene grazie alla mia partecipazione alla Lore24 e alle varie jam di Rinascimento, ma poi si nota una Grande Desolazione interrotta mensilmente dal tradizionale appuntamento con il Vecchio Carnevale Blogghereccio (m…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Vecchio Carnevale Blogghereccio] Dicembre 2024 - Le Mappe]]></title>
         <id>https://archangelruling.blogfree.net/?t=6547268#lastpost</id>
