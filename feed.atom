@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2024-12-23T14:10:20.304Z</updated>
+    <updated>2024-12-23T16:13:05.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qualche background per Troika!  PARTE 1]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2024/12/qualche-background-per-troika-parte-1.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2024/12/qualche-background-per-troika-parte-1.html"/>
+        <updated>2024-12-23T14:56:00.001Z</updated>
+        <summary type="html"><![CDATA[Triceratops Suit Girl
+Abilità
+
+Paleontologia 4
+Scavare 2
+Combattimento Stile del Triceratopo 2
+Mimetismo 1
+
+Inventario
+Costume da triceratopo (Armatura leggera, le corna fanno danno come una Lancia), enciclopedia dei dinosauri (danno come un Martello), pupazzetto di un brachiosauro che fa i versi se strizzato, vecchio osso polveroso. 
+
+
+Mocap Man
+Abilità speciale. Motion Capture: spendi 1d6 Stamina per riprodurre un movimento che hai visto. Alcuni esempi: il salto di un canguro, il volo di un drago, la derapata di una moto, il lancio di un giavellotto. 
+
+
+Abilità
+
+Cinematografia 3
+Mimo 3
+Ipnotizzare 2
+Contorsionismo 2
+
+Inventario
+
+Tuta per mocap con lucine psichedeliche (prova di Fortuna per disorientare un bersaglio e fargli perdere la prossima carta iniziativa), oggetti di scena dell'ult…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lo Stato di Questo Macello V: Il Ritorno della Vendetta]]></title>
         <id>https://oicn.icu/2024/Lo-Stato-di-Questo-Macello-V-Il-Ritorno-della-Vendetta/</id>
