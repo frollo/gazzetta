@@ -123,7 +123,18 @@
       "title": "I CANCELLI DI HELLWINTER",
       "feedUrl": "https://hellwinter.blogspot.com/feeds/posts/default",
       "siteUrl": "https://hellwinter.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://hellwinter.blogspot.com/2024/12/natale-mordor.html",
+          "author": null,
+          "description": "Scusatemi, non ho resistito alla tentazione della facile battuta a tema cinepanettone!\nNatale 2024 è giunto, e come di consueto Hellwinter fa alla community ludica italiana un regalo.\nQuest'anno ho preparato per voi una galleria di schede per GDR B/X - BECMI dedicata ai personaggi de Il Signore degli Anelli, più un'altra sorpresa! Come spiego nella breve prefazione che troverete nel documento, il mio intento non è stato quello di replicare le statistiche dei membri della Compagnia così come appaiono nei romanzi, ma quello di farne dei personaggi giocabili al vostro tavolo, qualora vi andasse un'avventura old-school di sapore tolkeniano.\n\nNon mi resta che augurarvi di passare un buon Natale e un felice nuovo anno!\nDAJE!",
+          "link": "https://hellwinter.blogspot.com/2024/12/natale-mordor.html",
+          "publishedOn": "2024-12-24T09:00:00.038Z",
+          "wordCount": 3091,
+          "title": "Natale a Mordor",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5l1PC61Dz2HwSiAAzdVQvvRcB4Z5AWSYN6y8UMx2ouiiQSvrUwm-8aUPRReQQAcnzU4TQvV1Dktv5QVCFMpGsrIRIhqlb1uJax3bt6GfX6L0h1cUSaFVAoyX9KTngbamsl7_5bfSDB-h0CDMnjWjHu62RWqcUqDDUm_CTIHnRhNOwecaHkdc9Sx7nJZE4/w1200-h630-p-k-no-nu/ISDA-Companion.jpeg"
+        }
+      ]
     },
     {
       "title": "Say Friends and Play",
