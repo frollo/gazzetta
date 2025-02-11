@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-02-11T00:51:56.865Z</updated>
+    <updated>2025-02-11T02:42:56.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -209,6 +209,17 @@ Mappa esagonale (Hexkit) creata per una oneshot a Runecairn. 
 Ho deciso di scrivere qualcosa sulla creazione di mappe per giocare di ruolo. In realtà non è una guida, perché non si tratta di una rassegna esaustiva di strumenti e consigli, ma piu…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re: [Vecchio Carnevale Blogghereccio] Dicembre 2024 - Le Mappe]]></title>
+        <id>https://archangelruling.blogfree.net/?t=6547268#lastpost</id>
+        <link href="https://archangelruling.blogfree.net/?t=6547268#lastpost"/>
+        <updated>2024-12-31T06:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Ospitiamo nuovamente il Vecchio Carnevale Blogghereccio!
+di: Arkan Shamano]]></summary>
+        <author>
+            <name>Arkan Shamano</name>
         </author>
     </entry>
     <entry>
