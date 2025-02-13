@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-02-13T10:11:52.782Z</updated>
+    <updated>2025-02-13T12:20:47.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La mia cronaca di Changeling the Dreaming: Acqua e Fuoco]]></title>
+        <id>https://castellochimerico.blogspot.com/2025/02/la-mia-cronaca-di-changeling-dreaming.html</id>
+        <link href="https://castellochimerico.blogspot.com/2025/02/la-mia-cronaca-di-changeling-dreaming.html"/>
+        <updated>2025-02-13T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Ho terminato da poco una cronaca di Changeling the Dreaming,uno dei miei giochi preferiti. Come tutte le mie cronache finora è stata ambientata a Genova, e le leggende e particolarità della città sono state centrali per il suo svolgimento. Una figura importante è stata quella di Arnaldo da Villanova, mago medievale e consigliere di papi, che ho reinterpretato come uno Sidhe di Casa Liam, che si dice sia raffigurato nella statua "dell'Arrotino" (in realtà un uomo che regge una meridiana) posta sulla facciata della cattedrale di Genova.  Mi ha colpito molto favorevolmente come il gruppo si sia evoluto, partendo da una collezione di individui molto diversi (si tratta pur sempre dell'incarnazione di leggende!) e diventando quasi una famiglia, attraverso  difficoltà e incomprensioni, (tra i per…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I libri di Babele, recensione senza spoiler]]></title>
         <id>https://castellochimerico.blogspot.com/2025/02/i-libri-di-babele.html</id>
@@ -284,19 +294,6 @@ Inventario
 Tuta per mocap con lucine psichedeliche (prova di Fortuna per disorientare un bersaglio e fargli perdere la prossima carta iniziativa), oggetti di scena dell'ult…]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lo Stato di Questo Macello V: Il Ritorno della Vendetta]]></title>
-        <id>https://oicn.icu/2024/Lo-Stato-di-Questo-Macello-V-Il-Ritorno-della-Vendetta/</id>
-        <link href="https://oicn.icu/2024/Lo-Stato-di-Questo-Macello-V-Il-Ritorno-della-Vendetta/"/>
-        <updated>2024-12-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Siamo a Dicembre, Natale incombe e il Tempo Lento si avvicina. È quindi tempo di recapponi. Come sempre, se vi piace la retrospettiva, trovate gli altri post <a href="/2021/Lo-stato-di-questo-macello/" title="Lo stato di questo macello">2020</a>, <a href="/2022/Lo-stato-di-questo-macello-II/" title="Lo stato di questo macello II">2021</a> e <a href="/2022/Lo-stato-di-questo-macello-III/" title="Lo stato di questo macello III">2022</a> <a href="/2023/Lo-Stato-di-Questo-Macello-IV/" title="Lo Stato di Questo Macello IV">2023</a>. Il 2024 si avvicina alla sua naturale conclusione, grazie al cielo, mi sento di aggiungere, ed è tempo di bilanci e piani per il futuro.</p>
-<span id="more"></span>
-<h1>L’anno passato</h1>
-<p>Il 2024 è iniziato con uno sbrocco e un burnout ed è finito sui gomiti …]]></summary>
-        <author>
-            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
         </author>
     </entry>
 </feed>
