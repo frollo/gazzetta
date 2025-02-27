@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-02-27T20:12:27.385Z</updated>
+    <updated>2025-02-27T22:10:45.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -252,20 +252,6 @@ di: Arkan Shamano]]></summary>
 di: Arkan Shamano]]></summary>
         <author>
             <name>Arkan Shamano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tutti insieme mortalmente - Uno scenario a polveriera per Terror Target Gemini]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2024/12/tutti-insieme-mortalmente-uno-scenario.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2024/12/tutti-insieme-mortalmente-uno-scenario.html"/>
-        <updated>2024-12-30T09:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Per una delle ultime giocate dell'anno ho scritto questo scenario ispirato al film The Hateful Eight di Quentin Tarantino. Le atmosfere del film mi sembrano perfette per Terror Target Gemini e avevo voglia di cimentarmi nuovamente con un tipo di scenario secondo me divertentissimo da giocare. Avevo già parlato degli scenari a polveriera in questo post, quindi non mi dilungherò al riguardo. Voglio solo segnalare la pagina itch.io dove scaricare il pdf di questo nuovo scenario:
-Tutti insieme Mortalmente
-Uno Scenario per Terror Target Gemini
-L'inverno nel Maju miete più vittime dei Roc o dei parassiti intestinali. Vi stavate recando a Blue Rock per intercettare un misterioso baule quando siete stati raggiunti da una violenta tempesta di neve, costretti a riparare presso l'Emporio di Roxie prima di morire assiderati. Per giunta è la notte di Goblinale, la notte in cui Padre Zig-Zarag, il Goblin Rosso, si reca presso i bivacchi e i camini a recapitare doni e punizioni. Ma l'Emporio è stranamente affollato...vorrà dire che passerete il Goblinale in gran compagnia!
-Uno scenario per TTG ispirato a The Hateful Eight di Quentin Tarantino.]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
