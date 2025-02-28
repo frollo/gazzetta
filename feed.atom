@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-02-28T20:12:13.762Z</updated>
+    <updated>2025-02-28T22:10:30.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -209,27 +209,6 @@ Due Pokèmon in cerca di autore di Gilda dei Ruolatori.]]></summary>
 Ho anche giocato (seppure poco) a Wander…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giocare con le Mappe: una breve guida visiva Parte I]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2024/12/giocare-con-le-mappe-una-breve-guida.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2024/12/giocare-con-le-mappe-una-breve-guida.html"/>
-        <updated>2024-12-31T09:16:00.001Z</updated>
-        <summary type="html"><![CDATA[Ecco il mio contributo per il Vecchio Carnevale Blogghereccio di Luglio, a tema... LE MAPPE! Ospitato da Ruling with Archangels. Se non sapete cosa sia il Vecchio Carnevale Blogghereccio potete trovare qui il bando.
-
-
-Le mappe sono belle. Sono piene di agganci e carburante per continuare a giocare, e se fatte in un certo modo aiutano a giocare meglio. Servono a viaggiare, a visualizzare la geografia del mondo di gioco, a programmare viaggi e intrighi politici, ad aggiornare la moltitudine di relazione tra personaggi e personaggi non giocanti.
-
-
-
-
-Mappa esagonale (Hexkit) creata per una oneshot a Runecairn. 
-
-
-Ho deciso di scrivere qualcosa sulla creazione di mappe per giocare di ruolo. In realtà non è una guida, perché non si tratta di una rassegna esaustiva di strumenti e consigli, ma piu…]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
