@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-03-01T06:15:02.051Z</updated>
+    <updated>2025-03-01T08:13:36.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -197,18 +197,6 @@ Due Pokèmon in cerca di autore di Gilda dei Ruolatori.]]></summary>
         <summary type="html"><![CDATA[Il Vecchio Carnevale Blogghereccio ha raggiunta il suo quinto anno! Il 2024 ha visto tanti bei contributi, ma qui non ci fermiamo. Ecco il tema inaugurale del 2025, un vecchio classico Le Taverne Ospi...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Il 2024 in gioco]]></title>
-        <id>https://castellochimerico.blogspot.com/2024/12/il-2024-in-gioco.html</id>
-        <link href="https://castellochimerico.blogspot.com/2024/12/il-2024-in-gioco.html"/>
-        <updated>2024-12-31T18:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Il 2024 per me è stato un anno di luci e di ombre. Però durante quest'anno il gioco è stato molto importante e significativo, anche e soprattutto a livello umano. È stato un anno di ponti tagliati, ma anche costruiti e ricostruiti. Soprattutto, è stato un anno in cui ho potuto giocare con persone con cui vado d'accordo, ai giochi che mi piacciono: Changeling the Dreaming, sia come master sia come giocatore; Household, come master; Electric Bastionland,  come guida. Sono giochi che mi hanno dato e continuano a darmi grandi soddisfazioni, che continuo ad apprezzare, direi sempre di più, perché riesco a trovarvi ogni volta qualcosa di nuovo. Secondo me, hanno tantissimo da dare, sono quelli che sento più adatti a me e a cui sono anche più affezionato.
-
-Ho anche giocato (seppure poco) a Wander…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
         </author>
     </entry>
 </feed>
