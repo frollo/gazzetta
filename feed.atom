@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-03-03T00:55:31.548Z</updated>
+    <updated>2025-03-03T02:50:42.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -187,16 +187,6 @@ Il TErrasque – Impossibile da sconfiggere – D&D 5e di Nerdcoledì.
 Due Pokèmon in cerca di autore di Gilda dei Ruolatori.]]></summary>
         <author>
             <name>Il Calderone del Troll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gennaio - Le Taverne]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/861294/gennaio-le-taverne</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/861294/gennaio-le-taverne"/>
-        <updated>2025-01-02T14:49:54.000Z</updated>
-        <summary type="html"><![CDATA[Il Vecchio Carnevale Blogghereccio ha raggiunta il suo quinto anno! Il 2024 ha visto tanti bei contributi, ma qui non ci fermiamo. Ecco il tema inaugurale del 2025, un vecchio classico Le Taverne Ospi...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
 </feed>
