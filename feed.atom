@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-03-03T22:10:54.003Z</updated>
+    <updated>2025-03-04T00:54:26.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -141,23 +141,6 @@ Presto tante novità!
 @threeballs]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Zombie Waitress: Qualche background per Troika! PARTE II]]></title>
-        <id>https://calderonedeltroll.blogspot.com/2025/01/la-zombie-waitress-qualche-background.html</id>
-        <link href="https://calderonedeltroll.blogspot.com/2025/01/la-zombie-waitress-qualche-background.html"/>
-        <updated>2025-01-03T11:47:00.008Z</updated>
-        <summary type="html"><![CDATA[Prosegue la carrellata di background per Troika ispirati a questi Lego, qui la prima parte.
-Ma questo è anche un contributo per il Vecchio Carnevale Blogghereccio di Gennaio, a tema...                               LE TAVERNE!                                                                                                                                                                          Se non sapete cosa sia il Vecchio Carnevale Blogghereccio andate subito a leggere il bando, mi raccomando. 
-Un classico senza tempo, per il quale vorrei scrivere un contributo più corposo nel corso di Gennaio. Ma per ora mi concentrerò sull'amichevole barista zombie di quartiere, nell'ultima riga a destra.
-
-
-Zombie Waitress
-
-Figura emblematica delle tavole calde di Città d'Ossa, la sfera empirea dove …]]></summary>
-        <author>
-            <name>Il Calderone del Troll</name>
         </author>
     </entry>
 </feed>
