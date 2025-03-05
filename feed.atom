@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-03-05T16:19:10.662Z</updated>
+    <updated>2025-03-05T18:16:01.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marzo - La Collina]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/899852/marzo-la-collina</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/899852/marzo-la-collina"/>
+        <updated>2025-03-05T17:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Cosa sta dietro la collina? A questa domanda ha già risposto De Gregori, ma oltre alla notte crucca e assassina probabilmente ci stanno anche goblin, dungeon e altre rogne. Ma questo mese possiamo an...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La mia cronaca di Changeling the Dreaming: Acqua e Fuoco]]></title>
         <id>https://castellochimerico.blogspot.com/2025/02/la-mia-cronaca-di-changeling-dreaming.html</id>
