@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-03-08T04:11:04.296Z</updated>
+    <updated>2025-03-08T06:12:34.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -135,22 +135,6 @@ In this article we will present some magic objects that will allow to experiment
 If you want to make the changes more structural, the objects can be transformed into objects that every wizard can create with a certain ease, in this case it is suggested to transform each object presented into an object magically "linked" to the wizard and that can be created by learning a specific first …]]></summary>
         <author>
             <name>Castelli &amp; Chimere - Castles &amp; Chimeras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riassuntazzo 2024? forse no!]]></title>
-        <id>https://autarkikagdr.blogspot.com/2025/01/riassuntazzo-2024-forse-no.html</id>
-        <link href="https://autarkikagdr.blogspot.com/2025/01/riassuntazzo-2024-forse-no.html"/>
-        <updated>2025-01-07T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Ciao a tutti,
-Buon 2025! Scrivo queste righe dopo parecchio tempo, devo ammettere di aver accantonato momentaneamente questo blog.
-Dovete scusarmi, ma quest'anno sono stato parecchio impegnato nella produzione e pubblicazione di diverso materiale, tra cui: "I signori del Caos", "Rascals of the Universe" e la nuova edizione di Brave Dungeoneer.
-Vi prometto che rimetterò in sesto questo blog, ho nel cassetto alcuni articoli interessanti.  
-Per quanto riguarda il Riassuntazzo, ho deciso di scriverlo il prossimo anno.
-Presto tante novità!
-@threeballs]]></summary>
-        <author>
-            <name>AUTARKIKAGDR</name>
         </author>
     </entry>
 </feed>
