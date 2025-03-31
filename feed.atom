@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-03-17T22:11:20.762Z</updated>
+    <updated>2025-03-31T03:01:13.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Una strana collina: tre siti d'avventura in salita (o discesa)]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2025/03/una-strana-collina-tre-siti-davventura.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2025/03/una-strana-collina-tre-siti-davventura.html"/>
+        <updated>2025-03-30T16:06:00.005Z</updated>
+        <summary type="html"><![CDATA[Ecco il mio contributo per il Vecchio Carnevale Blogghereccio di Marzo, a tema... LA COLLINA!
+Se non sapete cosa sia il Vecchio Carnevale Blogghereccio andate subito a leggere il bando, mi raccomando. 
+
+
+
+Le colline, almeno per me, sono il "né carne né pesce" degli hexcrawl. Ci sono le foreste con streghe e mostruosi spiriti silvani, le montagne con giganti e draghi bellicosi, i deserti e le pianure con clan nomadi e carovane esotiche...ma le colline sono sempre un qualcosa di anonimo e a cavallo tra le altre tipologie di terreno. Quindi, perché non aggiungere un po' di spezie? Ecco 1d4 colline particolari da inserire qua e là, gibbose e visibili dalla distanza, in un sandbox fantasy. Le regole sono per Cairn di Yochai Gal. 
+
+1. Tumulo delle Viole
+Da lontano vedete una collina solitaria, i…]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://gnollmassacrofamiglia.blogspot.com/2025/03/gestire-un-assedio-in-dnd-lho-fatto.html</id>
+        <link href="https://gnollmassacrofamiglia.blogspot.com/2025/03/gestire-un-assedio-in-dnd-lho-fatto.html"/>
+        <updated>2025-03-28T16:42:00.000Z</updated>
+        <summary type="html"><![CDATA[COME GESTIRE UN ASSEDIO IN DND
+l'ho fatto settimana scorsa e ho usato ste regole.
+-si agisce in turni come sempre.
+-squadre di soldati contano come un'unità singola che ha tanti pv quanti sono i dv di chi la compone.
+-quando una squadra attacca un'altra squadra non tira per colpire, fa automaticamente 1d6 danni.
+-quando una squadra che sta perdendo viene dimezzata fa un tiro di morale per non scomporsi e fuggire.
+-i pg e i png degni di nota devono tirare per colpire, se riescono infliggono 1 danno (ammazzano un tizio).
+- se un si trova in una squadra mentre ci si mena riceverà sempre massimo un attacco contro di lui dal nemico.
+-palle di fuoco e armi esplosive fanno 1d6 danni o più
+Fine. Funziona, non richiede impegno, è veloce. Condividi una mappa, fai dei rettangoloni per ogni squadra e sei bello e pronto.]]></summary>
+        <author>
+            <name>Gli gnoll hanno massacrato la mia famiglia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I miei dubbi sull'OSR........(continua forse)]]></title>
+        <id>https://autarkikagdr.blogspot.com/2025/03/i-miei-dubbi-sullosrcontinua-forse.html</id>
+        <link href="https://autarkikagdr.blogspot.com/2025/03/i-miei-dubbi-sullosrcontinua-forse.html"/>
+        <updated>2025-03-22T07:54:00.000Z</updated>
+        <summary type="html"><![CDATA[immagine creata con Bing
+Da diverso tempo sto ragionando su concetti di design abbastanza importanti, ma che nell'ambiente OSR sembrano non importare.
+Ho deciso di esporre le mie idee su cosa mi lascia sempre l'amaro in bocca e sulle motivazioni che potrebbero aver portato alcuni autori a formulare tali idee.
+Devo premettere che alcuni miei dubbi derivano dal fatto di essere stato un assidui giocatore di Adnd, Martelli da Guerra e Stormbringer; giochi dove erano presenti molte abilità e un sistema di avanzamento molto complesso e che varrà poi utilizzato nei giochi successivi dello stile tradizionale (TRAD)
+vie spingo le mie perplessità:
+1- la mancanza di abilità specifiche o talenti.
+in molti giochi osr non vengono utilizzate abilità di sorta o talenti, questo fatto mi ha sempre lasciato …]]></summary>
+        <author>
+            <name>AUTARKIKAGDR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marzo - La Collina]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/899852/marzo-la-collina</id>
