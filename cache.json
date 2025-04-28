@@ -22,7 +22,18 @@
       "title": "Omnia Incommoda, Certitudo Nulla • Posts by \"italiano\" tag",
       "feedUrl": "https://oicn.icu/tag/italiano/rss.xml",
       "siteUrl": "https://oicn.icu",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://oicn.icu/2025/Vecchio-Carnevale-Blogghereccio-Le-Spade/",
+          "author": null,
+          "description": "<p>Ed eccomi, con scarso preavviso, ad ospitare il <a href=\"https://carnevale.itch.io/vecchio-carnevale-blogghereccio\">Vecchio Carnevale Blogghereccio</a>. Il carnevale è entrato nel suo quinto anno di vita ed io, per la quinta volta, gli do uno spazio. Avevo un paio di temi che mi ronzavano in testa, ma ho raccolto il mantello solo ieri sera all’ultimo, quindi ho ripiegato sulla prima cosa che mi è venuta in mente (che non era, ovviamente, nessuno degli argomenti che avevo in mente fino ad allora): le spade.</p>\n<img src=\"/2025/Vecchio-Carnevale-Blogghereccio-Le-Spade/carnevale_blogghereccio.jpg\" class=\"\">\n<span id=\"more\"></span>\n<p>Le spade sono un argomento interessante ma spesso abusato in maniera superficiale nel gioco di ruolo, quindi mi sento di dilungarmi più del solito<sup class=\"…",
+          "link": "https://oicn.icu/2025/Vecchio-Carnevale-Blogghereccio-Le-Spade/",
+          "publishedOn": "2025-03-31T00:00:00.000Z",
+          "wordCount": 655,
+          "title": "Vecchio Carnevale Blogghereccio: Le Spade",
+          "imageUrl": "https://oicn.icu/2025/Vecchio-Carnevale-Blogghereccio-Le-Spade/carnevale_blogghereccio.jpg"
+        }
+      ]
     },
     {
       "title": "Pensieri di Gdr",
@@ -135,28 +146,7 @@
       "title": "Il Castello Chimerico",
       "feedUrl": "https://castellochimerico.blogspot.com/feeds/posts/default",
       "siteUrl": "https://castellochimerico.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://castellochimerico.blogspot.com/2025/02/la-mia-cronaca-di-changeling-dreaming.html",
-          "author": null,
-          "description": "Ho terminato da poco una cronaca di Changeling the Dreaming,uno dei miei giochi preferiti. Come tutte le mie cronache finora è stata ambientata a Genova, e le leggende e particolarità della città sono state centrali per il suo svolgimento. Una figura importante è stata quella di Arnaldo da Villanova, mago medievale e consigliere di papi, che ho reinterpretato come uno Sidhe di Casa Liam, che si dice sia raffigurato nella statua \"dell'Arrotino\" (in realtà un uomo che regge una meridiana) posta sulla facciata della cattedrale di Genova.  Mi ha colpito molto favorevolmente come il gruppo si sia evoluto, partendo da una collezione di individui molto diversi (si tratta pur sempre dell'incarnazione di leggende!) e diventando quasi una famiglia, attraverso  difficoltà e incomprensioni, (tra i per…",
-          "link": "https://castellochimerico.blogspot.com/2025/02/la-mia-cronaca-di-changeling-dreaming.html",
-          "publishedOn": "2025-02-13T11:25:00.000Z",
-          "wordCount": 6634,
-          "title": "La mia cronaca di Changeling the Dreaming: Acqua e Fuoco",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvzezeFxJXbVf7J7ohE3ZALeN3WS1ZQE2UxWNWksIjDCzwRO9XAgmUKenhFA_jl9Lby7jGmZn4zLXVUWj_pJxd-9pVlw0ARljM-lXSZZ7ZEXv9evKc4Mnqvr-mlS9VxwFpWAUzNg0Fk0pvoNV_maQIMXrPTjmrtd8set1NdvZriiqNShrAmTNdaLkRC63t/w1200-h630-p-k-no-nu/Changeling_2nd._Ed.png"
-        },
-        {
-          "id": "https://castellochimerico.blogspot.com/2025/02/i-libri-di-babele.html",
-          "author": null,
-          "description": "Ho finito da poco questa serie di quattro romanzi fantastici, che consiglio vivamente, in quanto la ritengo una delle migliori opere degli ultimi anni. Come molte delle opere che mi piacciono, anche questa sfida le convenzioni di genere, può essere definita tanto di genere weird fantasy quanto retro science fiction.\nL'autore è lo statunitense Josiah Bancroft, che l'ha iniziata come un esperimento di self publishing, per poi guadagnare una certa fama nel mondo di lingua Inglese. Il primo romanzo, L'ascesa di Senlin (Senlin ascends) inizia a raccontare la vicenda di Tom Senlin, preside della scuola di un villaggio costiero,  uomo rigido e un po' bacchettone, che parte per la luna di miele insieme alla moglie Marya, più giovane, più carina e più disinvolta di lui. Nonostante questo assortimen…",
-          "link": "https://castellochimerico.blogspot.com/2025/02/i-libri-di-babele.html",
-          "publishedOn": "2025-02-02T20:54:00.000Z",
-          "wordCount": 6549,
-          "title": "I libri di Babele, recensione senza spoiler",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyc9XwzLSSZK3caMS-TVx_p2i_THJ3sA5uy0H4j3kNZnhPL7nxg_pQ8Eeiooji_dmG5B9efJnp7IYR1lFnaluYYHuBvI56zSPtaQTdcDMIk38N_HeMr1iIJ-9OAL1ncMXi55giaRLIrJTeF_GS8d3DMpREFIzMSRNZBYfMU0VmW4CWtZDPqXNIDE_-lczL/w1200-h630-p-k-no-nu/814xNR+CGTL._SL1417_.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Soron Archives",
@@ -247,6 +237,16 @@
       "siteUrl": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio",
       "articles": [
         {
+          "id": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/918061/aprile-le-spade",
+          "author": null,
+          "description": "Eccoci ad aprile, il Vecchio Carnevale Blogghereccio torna e, come tema, ha un grande classico del gioco di ruolo. Non ce ne vogliano gli appassionati di asce e martelli, ma questo mese il tema è...",
+          "link": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/918061/aprile-le-spade",
+          "publishedOn": "2025-04-03T10:07:33.000Z",
+          "wordCount": null,
+          "title": "Aprile - Le Spade",
+          "imageUrl": null
+        },
+        {
           "id": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/899852/marzo-la-collina",
           "author": null,
           "description": "Cosa sta dietro la collina? A questa domanda ha già risposto De Gregori, ma oltre alla notte crucca e assassina probabilmente ci stanno anche goblin, dungeon e altre rogne. Ma questo mese possiamo an...",
@@ -254,26 +254,6 @@
           "publishedOn": "2025-03-05T17:31:25.000Z",
           "wordCount": null,
           "title": "Marzo - La Collina",
-          "imageUrl": null
-        },
-        {
-          "id": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/878946/fiori-e-mappe-raccolte-di-novembre-e-dicembre",
-          "author": null,
-          "description": "Sono state appena aggiunte al bando le raccolte del Carnevale di Novembre a tema I Fiori (ospitato da La Gilda dei Ruolatori) e di Dicembre a tema Le Mappe (ospitato da Ruling with Archangels). I Fior...",
-          "link": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/878946/fiori-e-mappe-raccolte-di-novembre-e-dicembre",
-          "publishedOn": "2025-02-01T09:23:12.000Z",
-          "wordCount": null,
-          "title": "Fiori e Mappe - Raccolte di Novembre e Dicembre",
-          "imageUrl": null
-        },
-        {
-          "id": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/878945/febbraio-il-pane",
-          "author": null,
-          "description": "Il mese di Gennaio si è appena concluso e l'abbiamo passato interamente in taverna a ripararci dal tempo inclemente e dalle guardie del re. Inizia quindi Febbraio, ma mi pare che si rimanga in tavern...",
-          "link": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/878945/febbraio-il-pane",
-          "publishedOn": "2025-02-01T09:15:02.000Z",
-          "wordCount": null,
-          "title": "Febbraio - Il Pane",
           "imageUrl": null
         }
       ]

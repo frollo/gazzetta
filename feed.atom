@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-03-31T03:01:13.101Z</updated>
+    <updated>2025-04-28T08:36:51.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aprile - Le Spade]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/918061/aprile-le-spade</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/918061/aprile-le-spade"/>
+        <updated>2025-04-03T10:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Eccoci ad aprile, il Vecchio Carnevale Blogghereccio torna e, come tema, ha un grande classico del gioco di ruolo. Non ce ne vogliano gli appassionati di asce e martelli, ma questo mese il tema è...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: Le Spade]]></title>
+        <id>https://oicn.icu/2025/Vecchio-Carnevale-Blogghereccio-Le-Spade/</id>
+        <link href="https://oicn.icu/2025/Vecchio-Carnevale-Blogghereccio-Le-Spade/"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Ed eccomi, con scarso preavviso, ad ospitare il <a href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio">Vecchio Carnevale Blogghereccio</a>. Il carnevale è entrato nel suo quinto anno di vita ed io, per la quinta volta, gli do uno spazio. Avevo un paio di temi che mi ronzavano in testa, ma ho raccolto il mantello solo ieri sera all’ultimo, quindi ho ripiegato sulla prima cosa che mi è venuta in mente (che non era, ovviamente, nessuno degli argomenti che avevo in mente fino ad allora): le spade.</p>
+<img src="/2025/Vecchio-Carnevale-Blogghereccio-Le-Spade/carnevale_blogghereccio.jpg" class="">
+<span id="more"></span>
+<p>Le spade sono un argomento interessante ma spesso abusato in maniera superficiale nel gioco di ruolo, quindi mi sento di dilungarmi più del solito<sup class="…]]></summary>
+        <author>
+            <name>Omnia Incommoda, Certitudo Nulla • Posts by "italiano" tag</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Una strana collina: tre siti d'avventura in salita (o discesa)]]></title>
         <id>https://calderonedeltroll.blogspot.com/2025/03/una-strana-collina-tre-siti-davventura.html</id>
@@ -65,47 +88,6 @@ in molti giochi osr non vengono utilizzate abilità di sorta o talenti, questo f
         <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/899852/marzo-la-collina"/>
         <updated>2025-03-05T17:31:25.000Z</updated>
         <summary type="html"><![CDATA[Cosa sta dietro la collina? A questa domanda ha già risposto De Gregori, ma oltre alla notte crucca e assassina probabilmente ci stanno anche goblin, dungeon e altre rogne. Ma questo mese possiamo an...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La mia cronaca di Changeling the Dreaming: Acqua e Fuoco]]></title>
-        <id>https://castellochimerico.blogspot.com/2025/02/la-mia-cronaca-di-changeling-dreaming.html</id>
-        <link href="https://castellochimerico.blogspot.com/2025/02/la-mia-cronaca-di-changeling-dreaming.html"/>
-        <updated>2025-02-13T11:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Ho terminato da poco una cronaca di Changeling the Dreaming,uno dei miei giochi preferiti. Come tutte le mie cronache finora è stata ambientata a Genova, e le leggende e particolarità della città sono state centrali per il suo svolgimento. Una figura importante è stata quella di Arnaldo da Villanova, mago medievale e consigliere di papi, che ho reinterpretato come uno Sidhe di Casa Liam, che si dice sia raffigurato nella statua "dell'Arrotino" (in realtà un uomo che regge una meridiana) posta sulla facciata della cattedrale di Genova.  Mi ha colpito molto favorevolmente come il gruppo si sia evoluto, partendo da una collezione di individui molto diversi (si tratta pur sempre dell'incarnazione di leggende!) e diventando quasi una famiglia, attraverso  difficoltà e incomprensioni, (tra i per…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I libri di Babele, recensione senza spoiler]]></title>
-        <id>https://castellochimerico.blogspot.com/2025/02/i-libri-di-babele.html</id>
-        <link href="https://castellochimerico.blogspot.com/2025/02/i-libri-di-babele.html"/>
-        <updated>2025-02-02T20:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Ho finito da poco questa serie di quattro romanzi fantastici, che consiglio vivamente, in quanto la ritengo una delle migliori opere degli ultimi anni. Come molte delle opere che mi piacciono, anche questa sfida le convenzioni di genere, può essere definita tanto di genere weird fantasy quanto retro science fiction.
-L'autore è lo statunitense Josiah Bancroft, che l'ha iniziata come un esperimento di self publishing, per poi guadagnare una certa fama nel mondo di lingua Inglese. Il primo romanzo, L'ascesa di Senlin (Senlin ascends) inizia a raccontare la vicenda di Tom Senlin, preside della scuola di un villaggio costiero,  uomo rigido e un po' bacchettone, che parte per la luna di miele insieme alla moglie Marya, più giovane, più carina e più disinvolta di lui. Nonostante questo assortimen…]]></summary>
-        <author>
-            <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fiori e Mappe - Raccolte di Novembre e Dicembre]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/878946/fiori-e-mappe-raccolte-di-novembre-e-dicembre</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/878946/fiori-e-mappe-raccolte-di-novembre-e-dicembre"/>
-        <updated>2025-02-01T09:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Sono state appena aggiunte al bando le raccolte del Carnevale di Novembre a tema I Fiori (ospitato da La Gilda dei Ruolatori) e di Dicembre a tema Le Mappe (ospitato da Ruling with Archangels). I Fior...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Febbraio - Il Pane]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/878945/febbraio-il-pane</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/878945/febbraio-il-pane"/>
-        <updated>2025-02-01T09:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Il mese di Gennaio si è appena concluso e l'abbiamo passato interamente in taverna a ripararci dal tempo inclemente e dalle guardie del re. Inizia quindi Febbraio, ma mi pare che si rimanga in tavern...]]></summary>
         <author>
             <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
