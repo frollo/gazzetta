@@ -146,7 +146,18 @@
       "title": "Il Castello Chimerico",
       "feedUrl": "https://castellochimerico.blogspot.com/feeds/posts/default",
       "siteUrl": "https://castellochimerico.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://castellochimerico.blogspot.com/2025/04/armi-da-duello.html",
+          "author": null,
+          "description": "Il fatto che io adori Household e che il Duellante sia la mia professione preferita non è un segreto. Per cui ho pensato di modificare leggermente le armi da duello, dando a ognuna due Proprietà, creandone anche di nuove ad hoc. \nArmi da duello:\nSpillo: arma Da Duello Appuntita e Eroica (aiuta a farsi percepire come una figura eroica)\nLancetta: arma Da Duello Pesante (per tutte le storie associate, più che per il peso fisico) e Minacciosa (aiuta a farsi percepire come un pericolo)\nAgo: arma Da Duello Appuntita e Da Lancio\nMezza Forbicina, arma Da Duello Affilata e da Sella (aiuta a combattere in sella)\nCogpesh: arma Da Duello Larga e Uncinante (aiuta ad agganciare e tirare)",
+          "link": "https://castellochimerico.blogspot.com/2025/04/armi-da-duello.html",
+          "publishedOn": "2025-04-29T07:02:00.000Z",
+          "wordCount": 5952,
+          "title": "Armi da duello",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xIjJgc2od17LAGb1GDVW3s1EHiLu2QtUN_9hOxjA0unmdpqqVLeDHclgE6COAGGMmHtJ_KLanLqb_JbJG8yUn1E2TwxxY0-sJxUDmU74oyEG8eiznh_rnOAlf2PIWq1d2Fd77tpDC97oRV3ZsbPJU0rMoZKGHotsUYEctK-Imh84QxBtrlj3khtzGM18/w1200-h630-p-k-no-nu/a065bb4b6652f24c1dbafc0bf7ed9025.jpg"
+        }
+      ]
     },
     {
       "title": "Soron Archives",

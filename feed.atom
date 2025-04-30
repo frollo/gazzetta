@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-04-29T04:13:56.947Z</updated>
+    <updated>2025-04-30T04:14:23.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Armi da duello]]></title>
+        <id>https://castellochimerico.blogspot.com/2025/04/armi-da-duello.html</id>
+        <link href="https://castellochimerico.blogspot.com/2025/04/armi-da-duello.html"/>
+        <updated>2025-04-29T07:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Il fatto che io adori Household e che il Duellante sia la mia professione preferita non è un segreto. Per cui ho pensato di modificare leggermente le armi da duello, dando a ognuna due Proprietà, creandone anche di nuove ad hoc. 
+Armi da duello:
+Spillo: arma Da Duello Appuntita e Eroica (aiuta a farsi percepire come una figura eroica)
+Lancetta: arma Da Duello Pesante (per tutte le storie associate, più che per il peso fisico) e Minacciosa (aiuta a farsi percepire come un pericolo)
+Ago: arma Da Duello Appuntita e Da Lancio
+Mezza Forbicina, arma Da Duello Affilata e da Sella (aiuta a combattere in sella)
+Cogpesh: arma Da Duello Larga e Uncinante (aiuta ad agganciare e tirare)]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aprile - Le Spade]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/918061/aprile-le-spade</id>
