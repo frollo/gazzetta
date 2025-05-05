@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-04-30T14:12:09.146Z</updated>
+    <updated>2025-05-05T10:13:41.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maggio - Alieno (+ raccolta mese di Aprile)]]></title>
+        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/937005/maggio-alieno-raccolta-mese-di-aprile</id>
+        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/937005/maggio-alieno-raccolta-mese-di-aprile"/>
+        <updated>2025-05-02T19:16:27.000Z</updated>
+        <summary type="html"><![CDATA[Uno degli aspetti migliori del Vecchio Carnevale Blogghereccio è quello di far uscire i partecipanti dalla propria zona di comfort, dovendo scrivere un contributo su un tema scelto dagli altri. Quest...]]></summary>
+        <author>
+            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio (Maggio): Alieno]]></title>
+        <id>https://calderonedeltroll.blogspot.com/2025/05/vecchio-carnevale-blogghereccio-maggio.html</id>
+        <link href="https://calderonedeltroll.blogspot.com/2025/05/vecchio-carnevale-blogghereccio-maggio.html"/>
+        <updated>2025-05-02T19:02:00.002Z</updated>
+        <summary type="html"><![CDATA[Ho il piacere di ospitare nuovamente il Vecchio Carnevale Blogghereccio! Uno degli aspetti migliori del Vecchio Carnevale Blogghereccio è quello di far uscire i partecipanti dalla propria zona di comfort, dovendo scrivere un contributo su un tema scelto dagli altri. Voglio dedicare il Carnevale di Maggio proprio a questo, ecco perché il tema sarà... 
+ALIENO
+
+
+
+
+Mi affascina quando, in una situazione all'apparenza ordinaria, irrompe all'improvviso un elemento del tutto fuori posto. Come accade ne La città incantata di Miyazaki, quando sul far della sera un parco divertimenti abbandonato si trasforma in una città brulicante di ombre. O come in Expedition to the Barrier Peaks (storico modulo di D&D targato S3), dove i giocatori, abituati a draghi e cripte infestate da scheletri, si ritrovano …]]></summary>
+        <author>
+            <name>Il Calderone del Troll</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Armi da duello]]></title>
         <id>https://castellochimerico.blogspot.com/2025/04/armi-da-duello.html</id>
@@ -96,16 +122,6 @@ vie spingo le mie perplessità:
 in molti giochi osr non vengono utilizzate abilità di sorta o talenti, questo fatto mi ha sempre lasciato …]]></summary>
         <author>
             <name>AUTARKIKAGDR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marzo - La Collina]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/899852/marzo-la-collina</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/899852/marzo-la-collina"/>
-        <updated>2025-03-05T17:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Cosa sta dietro la collina? A questa domanda ha già risposto De Gregori, ma oltre alla notte crucca e assassina probabilmente ci stanno anche goblin, dungeon e altre rogne. Ma questo mese possiamo an...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
         </author>
     </entry>
     <entry>
