@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-05-09T20:13:39.668Z</updated>
+    <updated>2025-05-14T18:15:17.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BOG BACKGROUNDS PER TROIKA (dal manuale di gioco)]]></title>
+        <id>https://gnollmassacrofamiglia.blogspot.com/2025/05/bog-backgrounds-per-troika-dal-manuale.html</id>
+        <link href="https://gnollmassacrofamiglia.blogspot.com/2025/05/bog-backgrounds-per-troika-dal-manuale.html"/>
+        <updated>2025-05-14T08:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Una lista dei background meno pazzerelle dal manuale di TROIKA. Scegli o tira 2d6 (uno per il macrogruppo, uno per lo specifico). Il valore riportato di fianco al background indica il suo numero sul manuale. I background sottolineati sono i più standard, puoi usare direttamente quelli. Lo so che si perde la magia del gioco così però oh mica ti obbligo a usarla sta lista. 
+
+
+1/2 - LADRO
+1/2/3/4 - Burglar (13)
+5 - Journeyman of the guild of sharp corners (assassin) (32)
+6 - Monkey monger (36)
+
+
+3/4 - GUERRIERO
+1/2/3 - Lansquenet (33)
+4 - Wizard hunter (64)
+5 - Templar of Telaak (55)
+6 - Vengeful child (62) 
+
+
+5 - MAGO 
+1 - Accademico (63)
+2 - Taumaturgo (56)
+3 - Fellowship of knidos (matematologo) (25)
+4 - Necromante (41)
+5 - Sorcerer of doors (52)
+6 - College of friends (53)
+
+
+6 - CHIERICO
+1/2 - Chaos champion (con esorcismo se scelto come chierico standard) (15)
+3/4 - Demon stalker (21)
+5 - Red priest (25)
+6 - Befouler of ponds (12)]]></summary>
+        <author>
+            <name>Gli gnoll hanno massacrato la mia famiglia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maggio - Alieno (+ raccolta mese di Aprile)]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/937005/maggio-alieno-raccolta-mese-di-aprile</id>
