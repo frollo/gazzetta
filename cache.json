@@ -34,7 +34,18 @@
       "title": "Ruling With Archangels",
       "feedUrl": "https://archangelruling.blogfree.net/rss.php?f=1158479",
       "siteUrl": "https://archangelruling.blogfree.net/?f=1158479",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://archangelruling.blogfree.net/?t=6589443#lastpost",
+          "author": "Barakiel",
+          "description": "Strumenti per rifornire al volo i negozi dei tuoi centri abitati\ndi: Barakiel",
+          "link": "https://archangelruling.blogfree.net/?t=6589443#lastpost",
+          "publishedOn": "2025-08-01T14:47:36.000Z",
+          "wordCount": null,
+          "title": "Il Pratico Generatore di Negozi",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Qilong",
@@ -207,18 +218,7 @@
       "title": "Gli gnoll hanno massacrato la mia famiglia",
       "feedUrl": "https://gnollmassacrofamiglia.blogspot.com/feeds/posts/default",
       "siteUrl": "https://gnollmassacrofamiglia.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://gnollmassacrofamiglia.blogspot.com/2025/05/porcodio.html",
-          "author": null,
-          "description": "IL GIOCO: siete preti, esiste il diavolo e ci dovete avere a che fare.\n\n\n\n\n\n\nCREA UN PRETE: tira 3 tratti. Scegline uno.\nI TRATTI: 1d44 tratti da prete.\n11. Erbologista\n12. Sa la bibbia (e altri 33 libri) a memoria\n13. Inventore involontario degli occhiali\n14. Torturatore professionista\n21. Campanaro nerboruto\n22. Cuoco della diocesi\n23. Il papa conosce il suo nome\n24. Passato turbolento\n31. Figlio di nobili\n32. Poteri psichici nascosti\n33. Segretamente posseduto dal demonio\n34. Sa tutto della magia, tranne praticarla\n41. Parla con le bestie ed é strano\n42. Magro, alto, brutto, grigio, emana vibrazioni negative cosí potenti che hanno ripercussioni fisiche intorno a lui\n43. Fa 5 backflip di fila\n44. Che te lo dico a fa' (inventa)\nIL GIOCO: tira 1d4, +1 se usi tratti, -1 se ci sono rotture d…",
-          "link": "https://gnollmassacrofamiglia.blogspot.com/2025/05/porcodio.html",
-          "publishedOn": "2025-05-30T17:36:00.000Z",
-          "wordCount": 5113,
-          "title": "PORCODIO",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1lHYVlF31bvC-0tg7puz-i_7235raCZGRieoqhQsRcCRXCOCva1mGURNHWu9Rya-zkqvUkaVA6wVhbDSVukKggZKw5f73xVfNOu1Nu7S_Kmy274Ut5CVjJQVtnHmiyt9D6b0zKayVSS9ahT7z_OdzyuMjpivzvE75JKBq1iRGspSbum9DMggs2QJt3js/w1200-h630-p-k-no-nu/1000069074.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io",
@@ -243,16 +243,6 @@
           "publishedOn": "2025-07-10T11:05:30.000Z",
           "wordCount": null,
           "title": "Raccolte: Maggio e Giugno",
-          "imageUrl": null
-        },
-        {
-          "id": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/962265/giugno-paradosso",
-          "author": null,
-          "description": "Scriviamo la metà dei post solo a metà, e nutriamo per meno della metà dei post, metà dell'affetto che meritano. Ci avete capito qualcosa? No? E allora tirate dritti e andate a spulciare il tema d...",
-          "link": "https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/962265/giugno-paradosso",
-          "publishedOn": "2025-06-08T09:46:32.000Z",
-          "wordCount": null,
-          "title": "Giugno - Paradosso",
           "imageUrl": null
         }
       ]

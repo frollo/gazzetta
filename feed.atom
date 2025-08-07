@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-07-27T14:11:57.022Z</updated>
+    <updated>2025-08-07T14:17:31.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Il Pratico Generatore di Negozi]]></title>
+        <id>https://archangelruling.blogfree.net/?t=6589443#lastpost</id>
+        <link href="https://archangelruling.blogfree.net/?t=6589443#lastpost"/>
+        <updated>2025-08-01T14:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Strumenti per rifornire al volo i negozi dei tuoi centri abitati
+di: Barakiel]]></summary>
+        <author>
+            <name>Barakiel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Luglio - Gli Acquisti]]></title>
         <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/983502/luglio-gli-acquisti</id>
@@ -56,51 +67,6 @@ Perché proprio Open Table?
 La scelta di usare un formato *Open Table* — cioè una campagna con un gruppo di gioco non sempre fisso a ogni sessione — si è rivelata particolarmente adatta al tipo di racconto che Household permette di costruire. C’è una crescita dei personaggi, certo, ma anche un cambiamento meno prevedibile, che può comprendere elementi negativi come le …]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giugno - Paradosso]]></title>
-        <id>https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/962265/giugno-paradosso</id>
-        <link href="https://carnevale.itch.io/vecchio-carnevale-blogghereccio/devlog/962265/giugno-paradosso"/>
-        <updated>2025-06-08T09:46:32.000Z</updated>
-        <summary type="html"><![CDATA[Scriviamo la metà dei post solo a metà, e nutriamo per meno della metà dei post, metà dell'affetto che meritano. Ci avete capito qualcosa? No? E allora tirate dritti e andate a spulciare il tema d...]]></summary>
-        <author>
-            <name>Vecchio Carnevale Blogghereccio (Bando) Devlog - itch.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PORCODIO]]></title>
-        <id>https://gnollmassacrofamiglia.blogspot.com/2025/05/porcodio.html</id>
-        <link href="https://gnollmassacrofamiglia.blogspot.com/2025/05/porcodio.html"/>
-        <updated>2025-05-30T17:36:00.000Z</updated>
-        <summary type="html"><![CDATA[IL GIOCO: siete preti, esiste il diavolo e ci dovete avere a che fare.
-
-
-
-
-
-
-CREA UN PRETE: tira 3 tratti. Scegline uno.
-I TRATTI: 1d44 tratti da prete.
-11. Erbologista
-12. Sa la bibbia (e altri 33 libri) a memoria
-13. Inventore involontario degli occhiali
-14. Torturatore professionista
-21. Campanaro nerboruto
-22. Cuoco della diocesi
-23. Il papa conosce il suo nome
-24. Passato turbolento
-31. Figlio di nobili
-32. Poteri psichici nascosti
-33. Segretamente posseduto dal demonio
-34. Sa tutto della magia, tranne praticarla
-41. Parla con le bestie ed é strano
-42. Magro, alto, brutto, grigio, emana vibrazioni negative cosí potenti che hanno ripercussioni fisiche intorno a lui
-43. Fa 5 backflip di fila
-44. Che te lo dico a fa' (inventa)
-IL GIOCO: tira 1d4, +1 se usi tratti, -1 se ci sono rotture d…]]></summary>
-        <author>
-            <name>Gli gnoll hanno massacrato la mia famiglia</name>
         </author>
     </entry>
     <entry>
