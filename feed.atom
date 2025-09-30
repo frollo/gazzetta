@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-09-30T02:52:47.218Z</updated>
+    <updated>2025-09-30T04:14:31.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Re: Il Pratico Generatore di Negozi]]></title>
+        <id>https://archangelruling.blogfree.net/?t=6589443#lastpost</id>
+        <link href="https://archangelruling.blogfree.net/?t=6589443#lastpost"/>
+        <updated>2025-09-27T09:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Strumenti per rifornire al volo i negozi dei tuoi centri abitati
+di: Nerdcoled�]]></summary>
+        <author>
+            <name>Nerdcoled�</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Un'Adunanza di Spade]]></title>
         <id>https://dungeon-keys.github.io/posts/adunanza_di_spade/</id>
