@@ -129,7 +129,18 @@
       "title": "The Secret Game - Il Gioco Segreto",
       "feedUrl": "https://scrtgm.blogspot.com/feeds/posts/default",
       "siteUrl": "https://scrtgm.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://scrtgm.blogspot.com/2025/10/foreground-growth-for-cairn-part-3.html",
+          "author": null,
+          "description": "Seven legendary paladins rest in the earth, seven oaths etched on their tombstones. As soon as someone recites an oath in full, the text vanishes. The oath takes up an inventory slot until fulfilled, as it burdens your soul.\n\nTomb of Roma the Legion - Oath of Conquest \nYou pledge to become a ruler through force.\nAfter fulfilling it, while fighting a detachment, you count as an army yourself.\nTomb of Agnus the Light - Oath of Mercy\nYou pledge to defeat a foe who is tormenting the weak, but show them mercy.\nAfter fulfilling it, a light encases you. It grants you +1 armor. Allies close by also enjoy this protection.\nTomb of Harpar the Hero - Oath of Glory\nYou pledge to make your quest echo through the voice of the bards.\nAfter fulfilling it, you gain a winged steed who'll answer your call for…",
+          "link": "https://scrtgm.blogspot.com/2025/10/foreground-growth-for-cairn-part-3.html",
+          "publishedOn": "2025-10-11T11:57:00.000Z",
+          "wordCount": 2506,
+          "title": "Foreground growth for Cairn, part 3: Paladins",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Il Castello Chimerico",
