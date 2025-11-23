@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-11-16T08:15:12.088Z</updated>
+    <updated>2025-11-23T03:21:34.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Household Vol 2, Cap VI - Primavera: Sessione 3]]></title>
+        <id>https://castellochimerico.blogspot.com/2025/11/household-vol-2-cap-vi-primavera.html</id>
+        <link href="https://castellochimerico.blogspot.com/2025/11/household-vol-2-cap-vi-primavera.html"/>
+        <updated>2025-11-20T12:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Dal diario di Nadèje — 1 marzo, Koi nel Canneto
+Non so cosa mi aspettassi da Koi, ma certo non questo silenzio.
+La città sorge sull’acqua, sospesa su pontili e grandi ninfee galleggianti dai fiori pallidi, che cominciano ora a sbocciare, e ogni suono — perfino i passi — suona attutito, come se tutto il Giardino avesse messo il dito sulle labbra.
+Le lanterne ondeggiano nella nebbia, le rive sono colorate d’oro e di violetto dai bucaneve,  tra i canneti si muovono ombre di rane, e pesci dalle squame ramate scivolano sotto il pelo dell’acqua.
+ È un luogo di pace, ma anche di distanze.
+Nessuno ci capisce.
+Quasi tutti qui parlano solo lo Shigo, la lingua degli Shinigami.
+Le parole di Gwen, per quanto cerchi di farsi intendere, si perdono come sassi lanciati nell’acqua: fanno un piccolo cerchio …]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Come faccio a distinguere un guerriero dall'altro?]]></title>
         <id>https://dismastersden.blogspot.com/2025/11/come-faccio-distinguere-un-guerriero.html</id>
