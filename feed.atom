@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-12-08T18:20:05.169Z</updated>
+    <updated>2025-12-12T06:21:28.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -735,26 +735,6 @@ Nadèje si ricorda allora di certe voci: dicono che nei dintorni del castello di
         <summary type="html"><![CDATA[e di segnalare a Dada Dan Akiko, che questo mese ospita il Carnevale, o nel gruppo, i post che pubblicate in modo che possano venire raccolti....]]></summary>
         <author>
             <name>Dada Dan Akiko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foreground growth for Cairn, part 3: Paladins]]></title>
-        <id>https://scrtgm.blogspot.com/2025/10/foreground-growth-for-cairn-part-3.html</id>
-        <link href="https://scrtgm.blogspot.com/2025/10/foreground-growth-for-cairn-part-3.html"/>
-        <updated>2025-10-11T11:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Seven legendary paladins rest in the earth, seven oaths etched on their tombstones. As soon as someone recites an oath in full, the text vanishes. The oath takes up an inventory slot until fulfilled, as it burdens your soul.
-
-Tomb of Roma the Legion - Oath of Conquest 
-You pledge to become a ruler through force.
-After fulfilling it, while fighting a detachment, you count as an army yourself.
-Tomb of Agnus the Light - Oath of Mercy
-You pledge to defeat a foe who is tormenting the weak, but show them mercy.
-After fulfilling it, a light encases you. It grants you +1 armor. Allies close by also enjoy this protection.
-Tomb of Harpar the Hero - Oath of Glory
-You pledge to make your quest echo through the voice of the bards.
-After fulfilling it, you gain a winged steed who'll answer your call for…]]></summary>
-        <author>
-            <name>The Secret Game - Il Gioco Segreto</name>
         </author>
     </entry>
     <entry>
