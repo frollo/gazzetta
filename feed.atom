@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2025-12-31T16:16:49.187Z</updated>
+    <updated>2025-12-31T18:19:24.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Il 2025 in gioco]]></title>
+        <id>https://castellochimerico.blogspot.com/2025/12/il-2025-in-gioco.html</id>
+        <link href="https://castellochimerico.blogspot.com/2025/12/il-2025-in-gioco.html"/>
+        <updated>2025-12-31T17:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Il mio 2025 ludico è stato piuttosto ricco. Ho incominciato la campagna di Household Volume 1, a cui è seguita dopo poco un'altra saga di Household Volume 2, che probabilmente si concluderà verso l'inizio del 2026.
+Sono state entrambe campagne open table, che hanno permesso di mantenere una costanza nelle sessioni, ovviamente con il limite (o la  caratteristica, vediamola in questo modo) di dover terminare l'avventura, con successo o meno, durante la singola sessione. 
+Sto poi giocando una campagna in solitaria di Loner con l'ambientazione di Household, I cui resoconti sono riportati QUI sul blog sotto l'etichetta Loner Household. Gli avvenimenti di questa saga si svolgono nel medesimo tempo della mia campagna in gruppo e a volte si influenzano vicendevolmente se le sessioni risultano in c…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loner Household Vol 2 Cap VII -  Estate, sessione 12]]></title>
         <id>https://castellochimerico.blogspot.com/2025/12/loner-household-vol-2-cap-vii-estate.html</id>
