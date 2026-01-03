@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-01-03T10:13:05.146Z</updated>
+    <updated>2026-01-03T12:24:25.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La prima sessione dell'anno: Electric Bastionland - La Villa Alchemica]]></title>
+        <id>https://castellochimerico.blogspot.com/2026/01/la-prima-sessione-dellanno-electric.html</id>
+        <link href="https://castellochimerico.blogspot.com/2026/01/la-prima-sessione-dellanno-electric.html"/>
+        <updated>2026-01-03T11:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Illustrazione di Batair's Calibor Dirty Doodles
+
+
+La mia prima sessione dell’anno è stata dedicata a Electric Bastionland. Ho ricoperto il ruolo di guida e la partita si è svolta con un gruppo ridotto, ma particolarmente affiatato, attento e reattivo. Si trattava della seconda parte di un’avventura inizialmente concepita come una one shot, che però si era protratta oltre il previsto e che è stata quindi conclusa solo dopo il periodo natalizio, nel corso della serata precedente.
+
+
+Illustrazione di Batair's Calibor Dirty Doodles
+
+
+
+Il gruppo ha intrapreso un viaggio su una corriera elettrica, guidata dal simpatico alieno Bruno, verso la città fallita di Amberville. Arrivato sul posto, dopo un piatto di minestra e qualche mano di poker in un alberghetto locale, il gruppo ha esplorato il parco…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angeli & Demoni: Vecchio Carnevale Blogghereccio (Gennaio 2026)]]></title>
         <id>https://calderonedeltroll.blogspot.com/2026/01/angeli-demoni-vecchio-carnevale.html</id>
