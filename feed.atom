@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-02-02T12:38:39.443Z</updated>
+    <updated>2026-02-02T14:36:29.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["I'm not bad, I'm just drawn that way" è la scusa più antica del mondo...]]></title>
+        <id>https://write.as/jonnie/im-not-bad-im-just-drawn-that-way-e-la-scusa-piu-antica-del-mondo</id>
+        <link href="https://write.as/jonnie/im-not-bad-im-just-drawn-that-way-e-la-scusa-piu-antica-del-mondo?pk_campaign=rss-feed"/>
+        <updated>2026-02-02T11:41:20.000Z</updated>
+        <summary type="html"><![CDATA[amo con Nerdoledì di Shalafi: https://www.nerdcoledi.it/2025/10/15/quando-il-cattivo-non-e-malvagio-vecchio-carnevale-blogghereccio/ In questo post il problema della bontà o meno del "cattivo" di turno viene impostato bene, raccogliendo spunti molto vari e fornendo una buona cornice per il resto del discorso.  Un lavore molto simile qui https://dietroschermo.wordpress.com/2025/11/03/buoni-o-cattivi-e-la-fine/ lo fa anche Bille, addentrandosi anche nei menadri filosofici della definizione di male (con particolare riferimento al sistema di allineamento, -non perdetevi i suoi contributi anche su questo tema, sono preziosissimi).  Filippo nel sul Blog Bellicoso sceglie una via opposta, ma non per questo meno interessante. In questo post: https://ilblogbelli...]]></summary>
+        <author>
+            <name>Dada Dan Akiko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Carbon Observatory adventure log - Session 15]]></title>
         <id>https://soronarchives.blogspot.com/2026/01/session-15-sunday-7th-from-to-18.html</id>
