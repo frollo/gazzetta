@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-02-06T22:15:19.506Z</updated>
+    <updated>2026-02-07T01:15:37.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deep Carbon Observatory adventure log - Session 16]]></title>
+        <id>https://soronarchives.blogspot.com/2026/02/deep-carbon-observatory-adventure-log.html</id>
+        <link href="https://soronarchives.blogspot.com/2026/02/deep-carbon-observatory-adventure-log.html"/>
+        <updated>2026-02-07T00:29:00.004Z</updated>
+        <summary type="html"><![CDATA[What happened in Session 16 
+Thursday the 11th 
+Player Characters present at the beginning of the session: 
+
+Ash - Xiavorin, Level 1 Grimalkin
+D. - Oobl, Level 5 Mossling
+Freddy - Trunchkin, Level 5 Friar
+Marcus - Controlling the Undead army
+Peter - Controlling the Undead army
+
+
+
+In the fiction, the Magpies had just passed the Dam. Between them and the entrance to the Deep Carbon Observatory stretched the profundal zone: the dried basin of Reed Lake, where the Kapeks and the Reed People were beginning a war.
+
+The kapeks army
+
+The Magpies were steadfast allies with the Kapeks and committed themselves to the conflict. To determine the outcome, we resolved the battle using a one-off wargame. The result would decide who controlled Reed Lake—and, crucially, whether the territory immediately out…]]></summary>
+        <author>
+            <name>Soron Archives</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["I'm not bad, I'm just drawn that way" è la scusa più antica del mondo...]]></title>
         <id>https://write.as/jonnie/im-not-bad-im-just-drawn-that-way-e-la-scusa-piu-antica-del-mondo</id>
