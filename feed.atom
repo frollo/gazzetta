@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-02-17T12:42:16.356Z</updated>
+    <updated>2026-02-17T16:47:13.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
@@ -329,16 +329,6 @@ C’è una pausa. Fuori, da qualche parte, un uccello prova una nota sola e poi 
 «Fa sempre quella cos…]]></summary>
         <author>
             <name>Il Castello Chimerico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone is Roddy]]></title>
-        <id>https://soronarchives.blogspot.com/2025/12/everyone-is-roddy.html</id>
-        <link href="https://soronarchives.blogspot.com/2025/12/everyone-is-roddy.html"/>
-        <updated>2025-12-20T03:18:00.002Z</updated>
-        <summary type="html"><![CDATA[I made this for Roddy's birthday - his human ask all her friend to bring a present and a poem for Roddy, but I do not write poems... A one page TTRPG seems like a suitable substitution.]]></summary>
-        <author>
-            <name>Soron Archives</name>
         </author>
     </entry>
     <entry>
