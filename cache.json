@@ -54,6 +54,16 @@
       "siteUrl": "https://write.as/jonnie/",
       "articles": [
         {
+          "id": "https://write.as/jonnie/materiali-preliminari-per-una-teoria-del-gardencrawl",
+          "author": null,
+          "description": "Intro Ho scoperto D&D a otto anni, nelle vacanze tra la seconda e la terza elementare, sul terrazzo di un alberghetto fiorito in Liguria. A quel tempo vivevo in una vecchia casa cadente c...",
+          "link": "https://write.as/jonnie/materiali-preliminari-per-una-teoria-del-gardencrawl?pk_campaign=rss-feed",
+          "publishedOn": "2026-03-31T14:26:34.000Z",
+          "wordCount": 2806,
+          "title": "Materiali preliminari per una teoria del gardencrawl",
+          "imageUrl": "https://cdn.writeas.net/img/w-sq-light.png"
+        },
+        {
           "id": "https://write.as/jonnie/vecchio-carnevale-blogghereccio-marzo-i-giardini",
           "author": null,
           "description": "Questa era facile vero? strano che nessuno ci avesse ancora pensato. I giardini di marzo si vestono di nuovi colori, diceva uno. Aprile è il più crudele dei mesi, diceva un altro, perch...",
@@ -61,16 +71,6 @@
           "publishedOn": "2026-03-03T09:39:31.000Z",
           "wordCount": 1104,
           "title": "Vecchio Carnevale Blogghereccio: Marzo, i Giardini",
-          "imageUrl": "https://cdn.writeas.net/img/w-sq-light.png"
-        },
-        {
-          "id": "https://write.as/jonnie/im-not-bad-im-just-drawn-that-way-e-la-scusa-piu-antica-del-mondo",
-          "author": null,
-          "description": "amo con Nerdoledì di Shalafi: https://www.nerdcoledi.it/2025/10/15/quando-il-cattivo-non-e-malvagio-vecchio-carnevale-blogghereccio/ In questo post il problema della bontà o meno del \"cattivo\" di turno viene impostato bene, raccogliendo spunti molto vari e fornendo una buona cornice per il resto del discorso.  Un lavore molto simile qui https://dietroschermo.wordpress.com/2025/11/03/buoni-o-cattivi-e-la-fine/ lo fa anche Bille, addentrandosi anche nei menadri filosofici della definizione di male (con particolare riferimento al sistema di allineamento, -non perdetevi i suoi contributi anche su questo tema, sono preziosissimi).  Filippo nel sul Blog Bellicoso sceglie una via opposta, ma non per questo meno interessante. In questo post: https://ilblogbelli...",
-          "link": "https://write.as/jonnie/im-not-bad-im-just-drawn-that-way-e-la-scusa-piu-antica-del-mondo?pk_campaign=rss-feed",
-          "publishedOn": "2026-02-02T11:41:20.000Z",
-          "wordCount": 781,
-          "title": "\"I'm not bad, I'm just drawn that way\" è la scusa più antica del mondo...",
           "imageUrl": "https://cdn.writeas.net/img/w-sq-light.png"
         }
       ]
@@ -103,12 +103,6 @@
       "title": "Bizarre Tales RPG",
       "feedUrl": "https://bizarretalesrpg.blogspot.com/feeds/posts/default",
       "siteUrl": "https://bizarretalesrpg.blogspot.com/",
-      "articles": []
-    },
-    {
-      "title": "Syrinx",
-      "feedUrl": "https://zeruhur.space/syrinx/feed.xml",
-      "siteUrl": "https://syrinx.zeruhur.space/",
       "articles": []
     },
     {
@@ -163,6 +157,16 @@
       "feedUrl": "https://soronarchives.blogspot.com/feeds/posts/default",
       "siteUrl": "https://soronarchives.blogspot.com/",
       "articles": [
+        {
+          "id": "https://soronarchives.blogspot.com/2026/04/session23dco.html",
+          "author": null,
+          "description": "Characters and Retainers at the start of the session: \n\n\nMarcus — Olledg, Level 2 Bregle\nPeter — Chadwick, Level 5 Mage\nAsh — Xiaverine, Level 5 Grimalkin\nFreddy — Trunchkin, Level 5 Friar\n\n\n\n\nOut of the Darkness, Laden with Spoils \n\nSession 23 took place on the afternoon of Friday the 13th. \n\n\n\nIt began with Chadwick, flying invisibly through the Fulgarium after the Calcite guards massacred several of Laputa’s sailors, including their lieutenant, Lilith. \n\n\nWhile investigating the snake door and discovering it had no interest in corpses, he noticed two more mariners arriving from the Mirror Cell to check on their companions. Using again the intentionally wrong passwords, he reactivated the guardians and managed to grapple one of them. After a tense mid-air struggle, he smashed the sailor …",
+          "link": "https://soronarchives.blogspot.com/2026/04/session23dco.html",
+          "publishedOn": "2026-04-04T22:40:00.002Z",
+          "wordCount": 5389,
+          "title": "Deep Carbon Observatory adventure log - Session 23",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFpvttsi63NrZJveE-whC5hGaBAy7p0uZhH2MUUDNmCX7uqiQVHc9kdghDzRJwiKgAaXg2gVzPSJnHmmfI5OYBLXEh0aNrgbCxrj9-UknN6oVoC361TWIxz24aPdV60ibLM7vPOVLxdKMR6UG4sH3F_ieOhd6hQuciSTyCDQpIcLTYgHZBvVLSWCTpfTw/w1200-h630-p-k-no-nu/Kyriarchs%20Throne.png"
+        },
         {
           "id": "https://soronarchives.blogspot.com/2026/03/session22dco.html",
           "author": null,
@@ -222,16 +226,6 @@
           "wordCount": 3196,
           "title": "Deep Carbon Observatory adventure log - Session 17",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuFiYN23O5_HsDH9YPc8YaHRoGHMhCe73sgwZcyMVrwSjdc7nQQDMSr7AqdVPPLufeIcAte6FY5jR4zho6vs6RXXxBGiejOk5GIhzR3gW14Y4qK7N-G3BIEO4GXh-NChlgC5OB1CbrZPkNtHCpfTx3dNPZsdb0AC_Ydm1BoVxnUxvKhcmK6RuClUrVBAs/w1200-h630-p-k-no-nu/Isometric%20map.png"
-        },
-        {
-          "id": "https://soronarchives.blogspot.com/2026/02/deep-carbon-observatory-adventure-log.html",
-          "author": null,
-          "description": "What happened in Session 16 \nThursday the 11th \nPlayer Characters present at the beginning of the session: \n\nAsh - Xiavorin, Level 1 Grimalkin\nD. - Oobl, Level 5 Mossling\nFreddy - Trunchkin, Level 5 Friar\nMarcus - Controlling the Undead army\nPeter - Controlling the Undead army\n\n\n\nIn the fiction, the Magpies had just passed the Dam. Between them and the entrance to the Deep Carbon Observatory stretched the profundal zone: the dried basin of Reed Lake, where the Kapeks and the Reed People were beginning a war.\n\nThe kapeks army\n\nThe Magpies were steadfast allies with the Kapeks and committed themselves to the conflict. To determine the outcome, we resolved the battle using a one-off wargame. The result would decide who controlled Reed Lake—and, crucially, whether the territory immediately out…",
-          "link": "https://soronarchives.blogspot.com/2026/02/deep-carbon-observatory-adventure-log.html",
-          "publishedOn": "2026-02-07T00:29:00.004Z",
-          "wordCount": 2687,
-          "title": "Deep Carbon Observatory adventure log - Session 16",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo4-K93qwaORSrD2Zh7Zv1ONWgjrMqqEpGSB5MGvJx0cIzQcWD_31osy7BLac_5jrnVLL2kN3S0-KSNjTk-0at8xfxZxmtLSvP-xl6PyupeYutFYxcs29CR2gIpPTgZxiRQ7-LOiTG2dFFMhS5MKQyd5_w5umdtC6aCbQB4QJcX3dWRZhO2OJY1wtZ6oE/w1200-h630-p-k-no-nu/Monster_Kapeks.jpg"
         }
       ]
     },
