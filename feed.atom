@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-04-08T16:15:20.950Z</updated>
+    <updated>2026-04-08T16:16:14.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Le più belle rane del mondo]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19340</id>
+        <link href="https://dietroschermo.wordpress.com/2026/04/06/le-piu-belle-rane-del-mondo/"/>
+        <updated>2026-04-06T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Come vi avevo accennato, ho partecipato alla FroggyCon IV (la vera FroggyCon, quella originale: diffidate delle imitazioni!). Ho finalmente trovato il tempo di raccontarvi com’è andata, se vi interessa. (Approfitto per augurarvi buona Pasqua e per ricordarvi che i – pochi – resoconti di mie giocate che pubblico sul blog sono tutti raccolti nella sezione … Continua a leggere Le più belle rane del mondo]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Carbon Observatory adventure log - Session 23]]></title>
         <id>https://soronarchives.blogspot.com/2026/04/session23dco.html</id>
@@ -37,6 +47,16 @@ While investigating the snake door and discovering it had no interest in corpses
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: le Uova]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19326</id>
+        <link href="https://dietroschermo.wordpress.com/2026/04/01/vecchio-carnevale-blogghereccio-le-uova/"/>
+        <updated>2026-04-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[È già la sesta volta che ospito il Vecchio Carnevale Blogghereccio, una delle iniziative di creatività condivisa più durature e fertili della storia del GdR in Italia. Dato che tira aria pasquale, il tema che ho scelto è: le uova Come al solito, mi limiterò a introdurlo, poi lascerò la parola a voi autori. Ricordatevi … Continua a leggere Vecchio Carnevale Blogghereccio: le Uova]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Materiali preliminari per una teoria del gardencrawl]]></title>
         <id>https://write.as/jonnie/materiali-preliminari-per-una-teoria-del-gardencrawl</id>
         <link href="https://write.as/jonnie/materiali-preliminari-per-una-teoria-del-gardencrawl?pk_campaign=rss-feed"/>
@@ -44,6 +64,16 @@ While investigating the snake door and discovering it had no interest in corpses
         <summary type="html"><![CDATA[Intro Ho scoperto D&D a otto anni, nelle vacanze tra la seconda e la terza elementare, sul terrazzo di un alberghetto fiorito in Liguria. A quel tempo vivevo in una vecchia casa cadente c...]]></summary>
         <author>
             <name>Dada Dan Akiko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Una storia a Colonia Tre, parte 2.5]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19223</id>
+        <link href="https://dietroschermo.wordpress.com/2026/03/30/una-storia-a-colonia-tre-parte-2-5/"/>
+        <updated>2026-03-30T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Come potete ricordare, la parte 2 del riassuntino della mia pluriennale campagna open table si è dovuta interrompere perché troppo lunga, malgrado i miei sforzi di abbreviarla. La completo qui, se avete voglia di leggere ancora. Qui sopra vediamo un PNG e un mostro che abbiamo già incontrato in questo riassunto e che riappariranno oggi. … Continua a leggere Una storia a Colonia Tre, parte 2.5]]></summary>
+        <author>
+            <name>Bille Boo</name>
         </author>
     </entry>
     <entry>
@@ -138,6 +168,36 @@ The calcite guardians responded immediately, leaping down from their positions a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Il mostro oltre la siepe]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19257</id>
+        <link href="https://dietroschermo.wordpress.com/2026/03/23/il-mostro-oltre-la-siepe/"/>
+        <updated>2026-03-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Per il mese di marzo, il Vecchio Carnevale Blogghereccio ha un bellissimo tema: i giardini. Tra i manuali dei mostri della buona vecchia terza edizione, il Manuale dei Mostri III era il mio preferito, sia per la versatilità e profondità delle creature, sia (soprattutto) per la bellezza delle illustrazioni. Tra l’altro, se la mia labile … Continua a leggere Il mostro oltre la siepe]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arte a caso: quattro canaglie per 5&5]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19274</id>
+        <link href="https://dietroschermo.wordpress.com/2026/03/12/arte-a-caso-quattro-canaglie-per-55/"/>
+        <updated>2026-03-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Continuo a pubblicare i disegni per la futura espansione di Cinque & Cinque, con le razze e classi tipiche di D&D, anche loro semplificate con umorismo toscano. Questi sono di Gianluca Cardiago (@doc._kalos): i classici guerriero, ladro, mago e chierico, ma in un’interpretazione originalissima che di classico non ha nulla. Sono indeciso se usarle in … Continua a leggere Arte a caso: quattro canaglie per 5&5]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualche cosuccia su Dragons’ Lair]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19249</id>
+        <link href="https://dietroschermo.wordpress.com/2026/03/09/qualche-cosuccia-su-dragons-lair/"/>
+        <updated>2026-03-09T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Niente articolo vero e proprio questa settimana, perché tutte le mie energie sono dedicate a prepararmi alla FroggyCon! Però potete gustarvi questo pezzo di Periapt Games che ho tradotto per il forum Dragons’ Lair (vedi collaborazioni): https://www.dragonslair.it/index.html/articles/un-semplice-sistema-a-tabelle-per-i-tesori-r3105 Se vi piace tenere nascosto ai giocatori il valore preciso dei tesori, finché i PG non arrivano effettivamente … Continua a leggere Qualche cosuccia su Dragons’ Lair]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deep Carbon Observatory adventure log - Session 19]]></title>
         <id>https://soronarchives.blogspot.com/2026/03/session19dco.html</id>
         <link href="https://soronarchives.blogspot.com/2026/03/session19dco.html"/>
@@ -210,6 +270,16 @@ Albert passed through the chamber of t…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Una storia a Colonia Tre, parte 2]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19076</id>
+        <link href="https://dietroschermo.wordpress.com/2026/03/02/una-storia-a-colonia-tre-parte-2/"/>
+        <updated>2026-03-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Qualche settimana fa ho iniziato a raccontarvi, in questa mini-serie, le vicissitudini principali della mia campagna open table che va avanti da più di tre anni. Ecco la seconda parte, in cui le cose si fanno sempre più intriganti. (Ma per capirci qualcosa vi conviene recuperare la prima, se vi manca!) Tra magia e intemperie … Continua a leggere Una storia a Colonia Tre, parte 2]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Armature ed elmi per Electric Bastionland]]></title>
         <id>https://scrtgm.blogspot.com/2026/02/armature-ed-elmi-per-electric.html</id>
         <link href="https://scrtgm.blogspot.com/2026/02/armature-ed-elmi-per-electric.html"/>
@@ -232,6 +302,16 @@ Elmo occultante, a1 contro avversari di cui conosci un segreto.
 Elmo attorcigliato, a1 ma fallisci sempre i tiri salvezza contro l'essere catturato, afferrato, ecc.]]></summary>
         <author>
             <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tante o poche armature?]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19085</id>
+        <link href="https://dietroschermo.wordpress.com/2026/02/23/tante-o-poche-armature/"/>
+        <updated>2026-02-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Il tema delle armature, che caratterizza questo febbraio del Vecchio Carnevale Blogghereccio, è amplissimo e gli ho già dedicato un articolo breve. Eccone un altro. Vi parlo brevemente delle armature nei miei regolamenti personalizzati, e vi offro un po’ di link interessanti di altri autori. Armature in Cinque & Cinque Nella mia versione ultraleggera e … Continua a leggere Tante o poche armature?]]></summary>
+        <author>
+            <name>Bille Boo</name>
         </author>
     </entry>
     <entry>
@@ -270,6 +350,26 @@ The explored section of the Observatory
 The session opened with the aftermath of the previous day’s bloody struggle in the profundal zone. The immediate danger had passed, but the consequences were already unfolding. Zaratusa’s sailors are making their way toward the dried lake bed, and the k…]]></summary>
         <author>
             <name>Soron Archives</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arte a caso: nano guerriero per 5&5]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19080</id>
+        <link href="https://dietroschermo.wordpress.com/2026/02/20/arte-a-caso-nano-guerriero-per-55/"/>
+        <updated>2026-02-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inizio a postare qui i disegni che scelgo, man mano, per la futura espansione di Cinque & Cinque che è in arrivo (con molta calma). Questo è di Samuele Bani, è stato il primo ad arrivare; ritrae un nano guerriero ed è tostissimo! L’espansione conterrà le razze e classi tipiche di D&D, anche loro rivisitate … Continua a leggere Arte a caso: nano guerriero per 5&5]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Una storia a Colonia Tre, parte 1]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19015</id>
+        <link href="https://dietroschermo.wordpress.com/2026/02/16/una-storia-a-colonia-tre-parte-1/"/>
+        <updated>2026-02-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Si può riassumere una campagna pluriennale in pochi articoli di blog? Ho deciso di provarci con questa mini-serie. Quando ho lanciato la mia idea di open table stile west marches, ormai tre anni fa (vedi: Marciamo a ovest?), diverse persone hanno manifestato curiosità su se e come potesse funzionare. Io stesso avevo dei dubbi sulla … Continua a leggere Una storia a Colonia Tre, parte 1]]></summary>
+        <author>
+            <name>Bille Boo</name>
         </author>
     </entry>
     <entry>
