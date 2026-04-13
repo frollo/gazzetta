@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-04-13T04:52:39.626Z</updated>
+    <updated>2026-04-13T07:49:40.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Il Cucuroc – di Lee]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19374</id>
+        <link href="https://dietroschermo.wordpress.com/2026/04/13/il-cucuroc-di-lee/"/>
+        <updated>2026-04-13T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Come sapete, il Vecchio Carnevale Blogghereccio di questo mese lo ospito io con il tema delle uova. È con grande piacere che ospito qui il contributo di un mio amico, giocatore e Diemme, nonché “collega” di associazione! Egli è da sempre un grande estimatore di Terror Target Gemini e lo dimostra anche stavolta. Ha pure … Continua a leggere Il Cucuroc – di Lee]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arte a caso: personaggi stupendi per 5&5]]></title>
         <id>http://dietroschermo.wordpress.com/?p=19355</id>
