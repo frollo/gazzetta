@@ -150,7 +150,18 @@
       "title": "Il Castello Chimerico",
       "feedUrl": "https://castellochimerico.blogspot.com/feeds/posts/default",
       "siteUrl": "https://castellochimerico.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://castellochimerico.blogspot.com/2026/04/cairn-dolmenwood-sessione-1.html",
+          "author": null,
+          "description": "Pochi giorni fa abbiamo giocato la prima sessione della nuova campagna open table di Cairn ambientata a Dolmenwood.\nIl gruppo, composto di personaggi poveri in canna che hanno deciso di darsi all'avventura per raccattare qualche soldo:\nGuntram, Spaventaboschi suonatore di ocarina, ex artista circense acrobata \n\n\n\nGryra, Breggola, ex mercantessa specializzata in olii vegetali e pece\n\n\n\nSybil, Grimalchina ex apprendista alchimista \n\n\n\nRuadh, Grimalchino ex borsaiolo \n\n\n\nÈ il 25 del mese di Symswald, una bella mattina di primavera; il gruppo si ritrova al mercato di Lankhshorn, cittadina circondata dal Bosco e abitata da Umani e Breggoli. Lì tutti hanno modo di sentire diverse voci di popolo e di incontrare la Breggola Eglantine, legata a un ordine religioso informale della chiesa pluritina. …",
+          "link": "https://castellochimerico.blogspot.com/2026/04/cairn-dolmenwood-sessione-1.html",
+          "publishedOn": "2026-04-25T12:07:00.000Z",
+          "wordCount": 6276,
+          "title": "Cairn Dolmenwood: Sessione 1",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxo2kbSwGjm8vdtwuZNLUPqCtBFbpxqxDUVwc3bwfP1AzEoDhOyqJ6uws10VhtycevgGKhHZuqjFOs71DyOXduSiKs7zWpnv0gmhP71PXLvUDmtLuPENdGLyuTB9R7gxm4HM_6Nk_rCkYuBC9y-UvhIenn0UlO7JL9vZ094u3rhG5WbkssZ0XSw_VWQtOc/w1200-h630-p-k-no-nu/61d77117-7425-4cd1-96b5-25dbc959006e.png"
+        }
+      ]
     },
     {
       "title": "Soron Archives",

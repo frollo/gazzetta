@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-04-25T10:35:55.348Z</updated>
+    <updated>2026-04-25T12:43:06.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cairn Dolmenwood: Sessione 1]]></title>
+        <id>https://castellochimerico.blogspot.com/2026/04/cairn-dolmenwood-sessione-1.html</id>
+        <link href="https://castellochimerico.blogspot.com/2026/04/cairn-dolmenwood-sessione-1.html"/>
+        <updated>2026-04-25T12:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Pochi giorni fa abbiamo giocato la prima sessione della nuova campagna open table di Cairn ambientata a Dolmenwood.
+Il gruppo, composto di personaggi poveri in canna che hanno deciso di darsi all'avventura per raccattare qualche soldo:
+Guntram, Spaventaboschi suonatore di ocarina, ex artista circense acrobata 
+
+
+
+Gryra, Breggola, ex mercantessa specializzata in olii vegetali e pece
+
+
+
+Sybil, Grimalchina ex apprendista alchimista 
+
+
+
+Ruadh, Grimalchino ex borsaiolo 
+
+
+
+È il 25 del mese di Symswald, una bella mattina di primavera; il gruppo si ritrova al mercato di Lankhshorn, cittadina circondata dal Bosco e abitata da Umani e Breggoli. Lì tutti hanno modo di sentire diverse voci di popolo e di incontrare la Breggola Eglantine, legata a un ordine religioso informale della chiesa pluritina. …]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pillola: ogni promessa è dado]]></title>
         <id>http://dietroschermo.wordpress.com/?p=19494</id>
