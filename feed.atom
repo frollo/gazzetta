@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-04-30T02:07:56.852Z</updated>
+    <updated>2026-04-30T06:21:55.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Incantevoli incidenti, ma leggeri]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19523</id>
+        <link href="https://dietroschermo.wordpress.com/2026/04/30/incantevoli-incidenti-ma-leggeri/"/>
+        <updated>2026-04-30T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In Incantevoli incidenti ho mostrato due tabelle di effetti bizzarri dovuti a magia “selvaggia” o fuori controllo (e ne ho linkate parecchie altre). Nei commenti, però, alcuni lettori mi hanno fatto notare che avrebbero preferito degli effetti meno bislacchi, meno devastanti, e più strettamente legati alla magia di partenza. È un’osservazione più che lecita. Vi … Continua a leggere Incantevoli incidenti, ma leggeri]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pillola: sulle uova di drago]]></title>
         <id>http://dietroschermo.wordpress.com/?p=19385</id>
