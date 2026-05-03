@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-03T06:21:13.467Z</updated>
+    <updated>2026-05-03T09:14:32.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cairn Dolmenwood Sessione 2]]></title>
+        <id>https://castellochimerico.blogspot.com/2026/05/alla-locanda-del-corno-inclinato-il.html</id>
+        <link href="https://castellochimerico.blogspot.com/2026/05/alla-locanda-del-corno-inclinato-il.html"/>
+        <updated>2026-05-03T09:07:00.000Z</updated>
+        <summary type="html"><![CDATA[• Alla locanda del Corno Inclinato il gruppo si arricchisce di un nuovo elemento, ovvero Laildo, un Umano ex macellaio che sembra volersi lasciare il passato alle spalle. Sybil invece resta a dormire in locanda. Dopo la partenza fiutano un odore strano provenire da nord ovest ma lo ignorano, viaggiando tutto il giorno. Verso il tramonto arrivano a un crocevia dotato di palo con cartelli di segnalazione (Nord pantano della Megera, Sud locanda La Casa della Strega, Est Dreg e traghetto, Ovest Lankhshorn e rovine di Lankston). Decidono di proseguire verso Dreg a marcia forzata tutta la notte senza pause, facendosi luce con le torce.
+• Lungo la strada di notte incontrano un vermone uscito dal terreno; cercano di distrarlo lanciandogli delle provviste e l'espediente sembra funzionare, ma esitan…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Incantevoli incidenti, ma leggeri]]></title>
         <id>http://dietroschermo.wordpress.com/?p=19523</id>
