@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-04T02:03:21.087Z</updated>
+    <updated>2026-05-04T06:37:03.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Le mie uova nel paniere]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19389</id>
+        <link href="https://dietroschermo.wordpress.com/2026/05/04/le-mie-uova-nel-paniere/"/>
+        <updated>2026-05-04T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Si è concluso il mese delle uova del Vecchio Carnevale Blogghereccio (a proposito, sapete che “EGG” erano le iniziali di Gary Gygax?), e visto che ho ospitato io procedo al consueto recap dei contributi. Intanto il Carnevale continua, con il nuovo tema: Rambo! The Egg of Coot Il Calderone del Troll ci porta a riscoprire … Continua a leggere Le mie uova nel paniere]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio Maggio 2026 - RAMBO]]></title>
         <id>https://write.as/jonnie/vecchio-carnevale-blogghereccio-maggio-2026-rambo</id>
@@ -304,33 +314,6 @@ The calcite guardians responded immediately, leaping down from their positions a
         <summary type="html"><![CDATA[Niente articolo vero e proprio questa settimana, perché tutte le mie energie sono dedicate a prepararmi alla FroggyCon! Però potete gustarvi questo pezzo di Periapt Games che ho tradotto per il forum Dragons’ Lair (vedi collaborazioni): https://www.dragonslair.it/index.html/articles/un-semplice-sistema-a-tabelle-per-i-tesori-r3105 Se vi piace tenere nascosto ai giocatori il valore preciso dei tesori, finché i PG non arrivano effettivamente … Continua a leggere Qualche cosuccia su Dragons’ Lair]]></summary>
         <author>
             <name>Bille Boo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Carbon Observatory adventure log - Session 19]]></title>
-        <id>https://soronarchives.blogspot.com/2026/03/session19dco.html</id>
-        <link href="https://soronarchives.blogspot.com/2026/03/session19dco.html"/>
-        <updated>2026-03-05T14:38:00.005Z</updated>
-        <summary type="html"><![CDATA[Characters and Retainers at the start of the session: 
-
-Ash - Xiaverine, Level 2 Grimalkin
-James - Tomkin, Level 4 Hunter
-Marcus - Melysee, Level 5 Knight
-Peter - Chadwick, level 1 Mage
-Ythan - Clement, Level 5 Enchanter
-Max (Hunter, level 2) follows Clement.
-Petra (Thief, level 2) follows Clement.
-Ella (Bard, level 2) follows Clement.
-
-
-The Giant is Death, Death to the Giant!
-
-The session opened with the party scattered across the Observatory. Clement and Tomkin stood at the base of the Weighing Station. Xiaverine lingered below with the Salt Dryads. The rest—Melysee, Chadwick, and their companions—remained in the Mirror Cell, still carrying the unease of what they had glimpsed there.
-
-
-Those in the Mirror Cell chose caution and began retracing their steps toward the Nightingale Hall. Hea…]]></summary>
-        <author>
-            <name>Soron Archives</name>
         </author>
     </entry>
     <entry>
