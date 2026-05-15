@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-15T06:50:22.663Z</updated>
+    <updated>2026-05-15T10:12:58.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[trust goes both ways]]></title>
+        <id>https://scrtgm.blogspot.com/2026/05/trust-goes-both-ways.html</id>
+        <link href="https://scrtgm.blogspot.com/2026/05/trust-goes-both-ways.html"/>
+        <updated>2026-05-15T09:15:33.323Z</updated>
+        <summary type="html"><![CDATA[Maybe don't trust him
+
+
+
+
+One of the main tenets of the FKR style of play, or maybe its core, is “high-trust gameplay”.
+
+
+When discussing this, major emphasis is put on the trust that the players should give to the GM and their rulings.
+
+
+I want to argue that, in addition, giving more trust to the players can free up a lot of design space, and possibly create a more enjoyable experience.
+
+
+There is a portion of fantasy tropes that designers and GMs struggle to translate mechanically in order to achieve the experience that they want. Stuff like mental control, love filters, side-effects of wounds, hunger, heat, poisons, drugs and alcohol, etc.
+
+
+Stop it. Just describe the situation to the players and trust them to portray their character accordingly.
+
+
+If they were wounded, make sure to describe the wound and trust them to bring it up when it matters.
+
+
+If they ate the fruits of the fae and cannot enjoy the flavor of anything else, trust them to play their character as growing sad and frustrated with human food.
+
+
+If two of the PCs are siblings, lovers, etc. Don't give them a +1 if they fight together or something like that. Just let them roleplay it.
+
+
+I started implementing this principle in my games and adventures, and I want to experiment more with it in the future. If it resonates with you, or if you disagree, please tell me your experiences and maybe share it around!]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digressione: sul termine “razza”]]></title>
         <id>http://dietroschermo.wordpress.com/?p=19542</id>
