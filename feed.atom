@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-16T06:15:40.966Z</updated>
+    <updated>2026-05-16T09:22:30.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cairn Dolmenwood Sessione 4]]></title>
+        <id>https://castellochimerico.blogspot.com/2026/05/cairn-dolmenwood-sessione-4.html</id>
+        <link href="https://castellochimerico.blogspot.com/2026/05/cairn-dolmenwood-sessione-4.html"/>
+        <updated>2026-05-16T08:35:34.004Z</updated>
+        <summary type="html"><![CDATA[• Dopo una notte al castello, dove si possono anche affittare ottime camere, i nostri tornano a Dreg in barca; recuperano Églantine e il borgomastro li ricompensa prestando un carretto, comprando provviste e una spada per Sibyl.
+
+• Una bella mattina, già piuttosto calda,  partono per il luogo più vicino a Dreg e dopo un giorno di viaggio trovano un sentiero che attraversa una zona con piante completamente prive di colore. Avvertono anche un ronzio pulsante; si spaventano e cambiano direzione, inoltrandosinei boschi verso nord-ovest.
+
+• Il giorno seguente raggiungono delle alture rocciose su cui crescono alberi anneriti, luogo che era stato descritto da Madame Shantywood per identificare la zona. La vegetazione a una prima occhiata sembra danneggiatadak fuoco,ma si accorgono che invece si t…]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[trust goes both ways]]></title>
         <id>https://scrtgm.blogspot.com/2026/05/trust-goes-both-ways.html</id>
