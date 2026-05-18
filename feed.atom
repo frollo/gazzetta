@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-18T02:33:32.766Z</updated>
+    <updated>2026-05-18T07:54:51.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Una storia a Colonia Tre, parte 3]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19578</id>
+        <link href="https://dietroschermo.wordpress.com/2026/05/18/una-storia-a-colonia-tre-parte-3/"/>
+        <updated>2026-05-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Non disdegno una one shot ogni tanto, ma ho sempre avuto un debole per le campagne di gioco belle lunghe, in cui, con pazienza, si assiste alla nascita di mondi immaginari di complessità e profondità incredibili. La mia open table online ambientata a Colonia Tre va avanti da circa tre anni e mezzo, ormai. E … Continua a leggere Una storia a Colonia Tre, parte 3]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cairn Dolmenwood Sessione 4]]></title>
         <id>https://castellochimerico.blogspot.com/2026/05/cairn-dolmenwood-sessione-4.html</id>
