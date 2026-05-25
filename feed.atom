@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-25T02:39:11.733Z</updated>
+    <updated>2026-05-25T08:12:02.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Il Rambo – una classe per due giochi]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19684</id>
+        <link href="https://dietroschermo.wordpress.com/2026/05/25/il-rambo-una-classe-per-due-giochi/"/>
+        <updated>2026-05-25T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Il mese di maggio 2026 potrebbe essere una piccola svolta nella storia del Vecchio Carnevale Blogghereccio: la proposta di Dada, che lo ospita, è passare da temi basati su argomenti a temi basati su opere d’arte, che sono un connubio di tanti argomenti diversi. E per cominciare ha proposto: Rambo, spiegando in modo molto brillante … Continua a leggere Il Rambo – una classe per due giochi]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nightmare over Ragged Hollow adventure log - Session 02]]></title>
         <id>https://soronarchives.blogspot.com/2026/05/sessio02norh.html</id>
