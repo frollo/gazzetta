@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-27T07:56:04.532Z</updated>
+    <updated>2026-05-27T11:31:16.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://castellochimerico.blogspot.com/2026/05/ieri-sera-ho-terminato-la-mia-campagna.html</id>
+        <link href="https://castellochimerico.blogspot.com/2026/05/ieri-sera-ho-terminato-la-mia-campagna.html"/>
+        <updated>2026-05-27T10:24:02.025Z</updated>
+        <summary type="html"><![CDATA[Ieri sera ho terminato la mia campagna breve di Wanderhome.
+Nonostante sia un GDR che non rientra pienamente nella mia comfort zone (e persino rifiutato e malignato "perché si interpretano gli animaletti, è solo un artbook, non ci sono i dadi, come si fa a fare le cose") è stata davvero una bella esperienza. Il gruppo, dopo una prima sessione di adattamento, comunque divertente, si è decisamente affiatato ed è andato alla grande, entrando nell'ordine di idee del gioco, con il suo  spendere e guadagnare token e il fare entrare in gioco i motivi per cui i personaggi si trovavano in viaggio. 
+Iltutto, fortunatamente, senza prendersi troppo sul serio.
+Prisca la cerva esule, Aytin la volpe apolide, Tindor la pantera reduce e Spiccio la gazza ambulante hanno ritrovato fanciulle, convinto gente a smetterla con le dipendenze, truffato un paio di persone a carte, fatto ritrovare l'ispirazione a un artista, convinto un salmone leggendario a concedere loro un desiderio, volato in mongolfiera, conosciuto fantasmi e piccole divinità dimenticate, suonato strumenti leggendari, convinto un drago a venire a patti con la propria mortalità e infine, trovato una nuova casa. Ho scelto di giocare nella modalità con guida (ovvero con master) perché avendo un numero limitato di sessioni temevo di andare troppo per le lunghe, ma in futuro ni piacerebbe provare la modalità "masterfull".
+È stato molto interessante giocare a un GDR che si allontana decisamente dai wargame, il fatto di avere un mondo senza violenza e un regolamento che non si basa sul "tira i dadi per fare le cose" è stato molto rinfrescante. Non il mio gioco preferito ma sicuramente un titolo da provare senza pregiudizi, in quanto credo abbia molto da dare e da insegnare.]]></summary>
+        <author>
+            <name>Il Castello Chimerico</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Il Rambo – una classe per due giochi]]></title>
         <id>http://dietroschermo.wordpress.com/?p=19684</id>
