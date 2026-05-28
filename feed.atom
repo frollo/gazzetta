@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-28T07:48:49.321Z</updated>
+    <updated>2026-05-28T11:30:02.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Foreground growth for Cairn, part 4: the Mountain River School of fighting]]></title>
+        <id>https://scrtgm.blogspot.com/2026/05/foreground-growth-for-cairn-part-4.html</id>
+        <link href="https://scrtgm.blogspot.com/2026/05/foreground-growth-for-cairn-part-4.html"/>
+        <updated>2026-05-28T08:27:42.357Z</updated>
+        <summary type="html"><![CDATA[These orders allow PCs to gain additional abilities and resources in a class-less and level-less system like Cairn. As a general rule, an order shares their secrets with a donation of 1000gp, or if they believe you align with their cause.
+The Mountain River School Dojo
+Carry no possession besides your robes. Partake of no luxury or desire. Proudly shout the names of your techniques before using them.
+
+
+Mountain Crushing Fist: Carry weights on your arms and legs at all times for an entire expedition. You are Slowed: in a combat round, you can either move or attack. After you remove them, you have 1 Armor point if you're not wearing any other piece of armor, your unarmed attacks deal d8 damage, and you get a +d6 bonus when using an improvised weapon.
+Sonic Fists (2d6 Blast): to master this technique, challenge the dojo and take out at least 3 other fellow students in combat. Trickery is allowed, but it should be clear you are the main responsible for their defeat.
+Exploding Heart-Release (d6): To master this technique, defeat and kill your teacher in a duel. It ignores Armor and it always results in Critical Damage when it deals STR Damage.
+Soul Cleanse: Seek the Spirit Waterfall and meditate on your past actions for a day, without moving, under its raging waters. You become immune to poison, sickness, and mental charms.]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://castellochimerico.blogspot.com/2026/05/ieri-sera-ho-terminato-la-mia-campagna.html</id>
