@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-29T02:29:59.785Z</updated>
+    <updated>2026-05-29T07:46:57.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[È Bille, non Billy]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19756</id>
+        <link href="https://dietroschermo.wordpress.com/2026/05/29/e-bille-non-billy/"/>
+        <updated>2026-05-29T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Non so perché tutti continuano a sbagliare, ma il mio nickname è Bille, non Billie come Billie Eilish. Fa rima con “mille” e con “scintille”. Non si pronuncia “Billy”.]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foreground growth for Cairn, part 4: the Mountain River School of fighting]]></title>
         <id>https://scrtgm.blogspot.com/2026/05/foreground-growth-for-cairn-part-4.html</id>
