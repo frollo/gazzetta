@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-29T14:42:53.089Z</updated>
+    <updated>2026-05-29T18:26:25.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Session 03 - Cookies, Curses, and Corpses]]></title>
+        <id>https://soronarchives.blogspot.com/2026/05/sessio03norh.html</id>
+        <link href="https://soronarchives.blogspot.com/2026/05/sessio03norh.html"/>
+        <updated>2026-05-29T16:53:29.333Z</updated>
+        <summary type="html"><![CDATA[Adventure log of Session 03 
+of Nightmare over Ragged Hollow 
+using the Dolmenwood System
+
+Tuesday, the 26th of May 2026
+Players, characters and retainers:
+
+Kyle was playing Julius, a level 1 Knight
+Marcus was playing Lament-of-Broken-Bones, a level 1 Elf
+Nick was playing Rodger, a level 1 Thief
+Callum was playing Adder, a level 1 Mage
+Ythan was playing Sigurd, a level 1 Fighter
+Ash was playing Kristi, a level 1 Mage
+Moss, a level 1 Cleric, works for Lament-of-Broken-Bones
+
+Read here if you missed the previous session report, or here if you missed the introduction to this campaign.
+
+
+Session report
+We opened the session by narrating how, on their way back to the Lost Ox Inn, Julius, Lament, Adder, and Kristi noticed Rodger’s brother drinking at the bar with a trio of strangers. Rodger, who…]]></summary>
+        <author>
+            <name>Soron Archives</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[È Bille, non Billy]]></title>
         <id>http://dietroschermo.wordpress.com/?p=19756</id>
