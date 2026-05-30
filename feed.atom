@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-05-30T16:52:38.097Z</updated>
+    <updated>2026-05-30T19:00:18.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ingombro e Mostri Erranti: due house rule per Four Against Darkness]]></title>
+        <id>https://surelynotamaster.blogspot.com/2026/05/ingombro-e-mostri-erranti-due-house.html</id>
+        <link href="https://surelynotamaster.blogspot.com/2026/05/ingombro-e-mostri-erranti-due-house.html"/>
+        <updated>2026-05-30T17:10:35.630Z</updated>
+        <summary type="html"><![CDATA[Dopo l'uscita di Four Against Darkness – Expanded Edition all'ultima Play, ho deciso di recuperare il manuale e tornare a esplorare i dungeon. Alla fiera ho avuto anche l'occasione di farmi autografare il volume da Andrea Sfiligoi e Fabio Porfidia e di scambiare qualche parola con l'autore, che mi ha raccontato l'origine della curiosa classe del Necrofenittero.
+Rileggendo il regolamento e tornando a giocare, però, mi sono accorto che alcune meccaniche non mi convincevano del tutto. Così ho deciso di introdurre un paio di house rule che nelle mie partite stanno funzionando piuttosto bene.
+
+La prima riguarda quella dell'ordine di marcia legata alla meccanica dei mostri erranti quando si ripercorrono corridoi già esplorati.
+Da manuale l'ordine di marcia dei PG é numerato da 1 a 4 dove, nei co…]]></summary>
+        <author>
+            <name>Surely not a Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Session 03 - Cookies, Curses, and Corpses]]></title>
         <id>https://soronarchives.blogspot.com/2026/05/sessio03norh.html</id>
@@ -418,16 +432,6 @@ It began with Chadwick, flying invisibly through the Fulgarium after the Calcite
 While investigating the snake door and discovering it had no interest in corpses, he noticed two more mariners arriving from the Mirror Cell to check on their companions. Using again the intentionally wrong passwords, he reactivated the guardians and managed to grapple one of them. After a tense mid-air struggle, he smashed the sailor …]]></summary>
         <author>
             <name>Soron Archives</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vecchio Carnevale Blogghereccio: le Uova]]></title>
-        <id>http://dietroschermo.wordpress.com/?p=19326</id>
-        <link href="https://dietroschermo.wordpress.com/2026/04/01/vecchio-carnevale-blogghereccio-le-uova/"/>
-        <updated>2026-04-01T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[È già la sesta volta che ospito il Vecchio Carnevale Blogghereccio, una delle iniziative di creatività condivisa più durature e fertili della storia del GdR in Italia. Dato che tira aria pasquale, il tema che ho scelto è: le uova Come al solito, mi limiterò a introdurlo, poi lascerò la parola a voi autori. Ricordatevi … Continua a leggere Vecchio Carnevale Blogghereccio: le Uova]]></summary>
-        <author>
-            <name>Bille Boo</name>
         </author>
     </entry>
     <entry>
