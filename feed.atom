@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-06-09T02:14:13.064Z</updated>
+    <updated>2026-06-09T07:38:14.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quella sporca dozzina (di classi)]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19849</id>
+        <link href="https://dietroschermo.wordpress.com/2026/06/09/quella-sporca-dozzina-di-classi/"/>
+        <updated>2026-06-09T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Il Tegame di Tascia, la prima, mitica espansione di Cinque & Cinque, è finalmente tra noi! Al centro c’è la mia reinterpretazione delle 12 classi (oltre che delle razze) del D&D “ufficiale” della quinta edizione. Ma ci sono anche 8 appendici con tante altre cosine (compatibili, volendo, con altri regolamenti; a cominciare dal bellissimo sistema … Continua a leggere Quella sporca dozzina (di classi)]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hanno ammazzato Pedro (avventure investigative, episodio 10)]]></title>
         <id>http://dietroschermo.wordpress.com/?p=19760</id>
