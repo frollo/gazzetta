@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-06-15T02:52:45.631Z</updated>
+    <updated>2026-06-15T09:52:20.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nella multitavolo che vorrei]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=18273</id>
+        <link href="https://dietroschermo.wordpress.com/2026/06/15/nella-multitavolo-che-vorrei/"/>
+        <updated>2026-06-15T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Viene chiamata multitavolo una sessione di GdR a cui prendono parte più gruppi (che in genere sono fisicamente a tavoli diversi, per l’appunto). Ovviamente non basta che siano nella stessa stanza, ognuno con la sua giocata indipendente: bisogna che interagiscano tra loro, andando a costituire una macro-giocata unica. Non è raro trovare delle multitavolo in … Continua a leggere Nella multitavolo che vorrei]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quella sporca dozzina (di classi)]]></title>
         <id>http://dietroschermo.wordpress.com/?p=19849</id>
