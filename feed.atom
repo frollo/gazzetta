@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-06-19T03:31:08.115Z</updated>
+    <updated>2026-06-19T08:59:08.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Mythic Bastionland's Landmarks to fill your setting, and more Landmark types]]></title>
+        <id>https://scrtgm.blogspot.com/2026/06/using-mythic-bastionlands-landmarks-to.html</id>
+        <link href="https://scrtgm.blogspot.com/2026/06/using-mythic-bastionlands-landmarks-to.html"/>
+        <updated>2026-06-19T08:19:31.434Z</updated>
+        <summary type="html"><![CDATA[Mythic Bastioland achieves a super-fast setting creation by providing ready-made content in Myths, and repeated content in Landmarks.
+How can we apply Landmarks to a classic OSR DnD-ish setting?
+In a way, Dungeons, Lairs, and Strongholds are already a kind of Landmark. But what can we add to that?
+1. Waypoints. Especially useful in an open table / West Marches type of game because it allows players to skip parts of the map and go back to a safe heaven by the end of the session
+A similar concept to Waypoints is Rainbow Bridges. Two hexes connected by a rainbow bridge that appears after storms.
+2. Shrines dedicated to different deities
+3. Giant beanstalks that can lead to Sky Islands
+4. Magical painted Caves that ward off all monsters, or a specific type of monster
+5. Meteor craters. Touching them could confer abilities, or the star-metal can be harvested to create special weapons
+6. Paladins' tombs
+7. Hermit's dwellings. Maybe a Master Musician lives there
+Instead of having one lair per monster type, you could also repeat them. Like having multiple Graveyards around the map where undead monsters appear at night, multiple Giant Ants' nests, etc. The players are going to learn what to expect after a few encounters]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nella multitavolo che vorrei]]></title>
         <id>http://dietroschermo.wordpress.com/?p=18273</id>
