@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-06-29T02:40:49.440Z</updated>
+    <updated>2026-06-29T08:50:32.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[La Pecora Noir]]></title>
+        <id>http://dietroschermo.wordpress.com/?p=19950</id>
+        <link href="https://dietroschermo.wordpress.com/2026/06/29/la-pecora-noir/"/>
+        <updated>2026-06-29T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ieri notte, una pecora è affogata a Nuova Roccia. Qualcuno sa perché. Laggiù… qualcuno lo sa. Il tema di giugno del Vecchio Carnevale Blogghereccio era il Noir, e ci ho messo un po’ a tirar fuori un contributo: è un tema intrigante, ma non facile. Ho approfittato dell’occasione per recuperare una vecchia ambientazione di cui … Continua a leggere La Pecora Noir]]></summary>
+        <author>
+            <name>Bille Boo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dolmenwood sessione 5]]></title>
         <id>https://castellochimerico.blogspot.com/2026/06/dolmenwood-sessione-5.html</id>
