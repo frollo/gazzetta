@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gazzetta.oicn.icu/index.html</id>
     <title>La Gazzetta dell'OSR</title>
-    <updated>2026-07-01T08:04:04.973Z</updated>
+    <updated>2026-07-01T12:27:17.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://gazzetta.oicn.icu/index.html"/>
     <link rel="self" href="https://gazzetta.oicn.icu/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[d10 Bastion diseases]]></title>
+        <id>https://scrtgm.blogspot.com/2026/07/d10-bastion-diseases.html</id>
+        <link href="https://scrtgm.blogspot.com/2026/07/d10-bastion-diseases.html"/>
+        <updated>2026-07-01T08:46:45.727Z</updated>
+        <summary type="html"><![CDATA[1. Councilor's Mouth — deprived, but you can vomit acid once per day, d6 damage, ruin 1 held/worn item of target on a 5+
+
+2. Bolton's Disease — deprived, in your junctures appear nuts and bolts that can be unscrewed and screwed back on, allowing you to detach your limbs without harm
+3. El Muerto — deprived, your appearance can make you pass as a corpse
+4. Tickle Ticks — pass a CHA Save to not laugh at inappropriate moments
+5. Eel Skin — deprived,  your body produces a slippery substance
+6. Saint Trembol's Dance — shaky hands cause ranged attacks and delicate tasks to be impaired
+7. Gardener's Disease — deprived, a flowery grass field grows on your body
+8. Trench Mouth — deprived, but you can perfectly imitate the sound of artillery
+9. Jazz Lungs — your breath is as loud as a trombone, making hiding impossible
+10. Polar Pox — deprived, but immune to cold damage]]></summary>
+        <author>
+            <name>The Secret Game - Il Gioco Segreto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La Pecora Noir]]></title>
         <id>http://dietroschermo.wordpress.com/?p=19950</id>
